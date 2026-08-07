@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>QQQM / SOXX / SPYM 일봉 차트</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>QQQM · SOXX · SPYM 일봉 차트</h1>
+    <p class="subtitle">최근 1개월 · 매일 자동 갱신 (GitHub Actions)</p>
+  </header>
+
+  <main id="charts">
+    <section class="chart-card" data-ticker="QQQM">
+      <div class="chart-card-header">
+        <h2>QQQM</h2>
+        <span class="updated-at" data-role="updated-at">-</span>
+      </div>
+      <div class="chart-container" data-role="chart"></div>
+    </section>
+
+    <section class="chart-card" data-ticker="SOXX">
+      <div class="chart-card-header">
+        <h2>SOXX</h2>
+        <span class="updated-at" data-role="updated-at">-</span>
+      </div>
+      <div class="chart-container" data-role="chart"></div>
+    </section>
+
+    <section class="chart-card" data-ticker="SPYM">
+      <div class="chart-card-header">
+        <h2>SPYM</h2>
+        <span class="updated-at" data-role="updated-at">-</span>
+      </div>
+      <div class="chart-container" data-role="chart"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>데이터: Yahoo Finance · 자동 갱신: GitHub Actions (평일 1일 1회)</p>
+  </footer>
+
+  <script src="https://unpkg.com/lightweight-charts@4.1.3/dist/lightweight-charts.standalone.production.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
