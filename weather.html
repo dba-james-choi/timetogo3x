@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Victoria, BC 날씨</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="page-header">
+    <div>
+      <h1>Victoria, BC, Canada 날씨</h1>
+      <p class="subtitle">하루 2회 자동 갱신 (GitHub Actions)</p>
+    </div>
+    <a class="nav-button" href="index.html">← 차트 홈</a>
+  </header>
+
+  <section class="current-conditions" id="current">
+    <p class="loading-text">불러오는 중...</p>
+  </section>
+
+  <section class="weather-section">
+    <h2 class="section-title">24시간 날씨</h2>
+    <div class="hourly-scroll" id="hourly"></div>
+  </section>
+
+  <section class="weather-section">
+    <h2 class="section-title">주간 날씨 (7일)</h2>
+    <div class="daily-grid" id="daily"></div>
+  </section>
+
+  <div class="updated-at" id="weather-updated-at" style="text-align:center; margin-top: 16px;">-</div>
+
+  <footer>
+    <p>데이터: Open-Meteo · 자동 갱신: GitHub Actions (하루 2회)</p>
+  </footer>
+
+  <script src="weather.js"></script>
+</body>
+</html>

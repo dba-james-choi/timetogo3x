@@ -45,6 +45,22 @@ RSI가 비어버리니 주의.
 없고, 응답 형식이 예고 없이 바뀌거나 일시적으로 막힐 수 있다. 문제가 생기면 워크플로우
 실행이 실패로 표시되므로 Actions 탭에서 바로 확인 가능.
 
+## 날씨 페이지 (weather.html)
+
+- 데이터: [Open-Meteo](https://open-meteo.com) 무료 API, API 키 불필요. 예보(`api.open-meteo.com`)와
+  대기질(`air-quality-api.open-meteo.com`)이 **별도 엔드포인트**라 `scripts/fetch_weather.py`가
+  둘 다 호출해서 시간(`time`) 문자열 기준으로 병합한다.
+- 위치: Victoria, BC, Canada 좌표를 `LATITUDE`/`LONGITUDE` 상수로 고정해뒀다 (`fetch_weather.py`
+  상단). 다른 도시로 바꾸려면 이 두 값과 `LOCATION_NAME`만 바꾸면 됨.
+- 갱신 스케줄: `.github/workflows/update-weather.yml`이 매일 UTC 00:00, 12:00 두 번 실행.
+  주식 워크플로우처럼 "마감 직후" 같은 정확한 기준 시각이 없어서 DST 이중 스케줄 같은 복잡한
+  처리 없이 단순히 12시간 간격으로만 걸어둠 — 계절에 따라 Victoria 현지 시각이 1시간 정도
+  앞뒤로 흔들리는 건 날씨 데이터 특성상 문제 없음.
+- 대기질 API는 예보 API보다 지원 기간이 짧을 수 있어서, 24시간/7일 구간 중 뒷부분은
+  `pm10`/`pm2_5`가 `null`로 나올 수 있다. 프론트(`weather.js`)는 `null`이면 "-"로 표시.
+
+## 이 환경(Claude Code 원격 세션)에서의 제약
+
 ## 이 환경(Claude Code 원격 세션)에서의 제약
 
 - 이 세션의 네트워크는 화이트리스트된 도메인만 통과하는 프록시를 거치므로, `query1.finance.yahoo.com`이나

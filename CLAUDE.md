@@ -4,12 +4,17 @@ QQQM/SOXX/SPYM/BTC-USD 일봉(몽테인 차트)을 보여주는 정적 웹페이
 Yahoo Finance에서 데이터를 받아 `data/*.json`을 갱신하고, GitHub Pages로 배포된다.
 BTC-USD는 주말에도 거래되므로 다른 종목보다 캔들 수가 더 많다.
 
+홈 페이지 상단 "🌤 날씨" 버튼으로 `weather.html`(Victoria, BC, Canada 24시간/주간 날씨,
+Open-Meteo)로 이동 가능. 두 페이지는 `style.css`를 공유한다.
+
 ## 구성
 
-- `index.html` / `style.css` / `app.js` — 프론트엔드 (lightweight-charts, 몽테인/에어리어 차트 + 거래량 바)
-- `data/*.json` — 종목별 일봉 데이터
-- `scripts/fetch_data.py` — 데이터 수집 스크립트
-- `.github/workflows/update-data.yml` — 자동 갱신 워크플로우 (하루 두 번, DST 대응)
+- `index.html` / `style.css` / `app.js` — 홈(차트) 페이지 (lightweight-charts, 몽테인/에어리어 차트 + 거래량 바)
+- `weather.html` / `weather.js` — 날씨 페이지 (24시간 + 7일, 강수확률/미세먼지/초미세먼지/바람)
+- `data/*.json` — 종목별 일봉 데이터, `data/weather.json` — 날씨 데이터
+- `scripts/fetch_data.py` / `fetch_weather.py` — 데이터 수집 스크립트
+- `.github/workflows/update-data.yml` — 종목 자동 갱신 (하루 두 번, DST 대응)
+- `.github/workflows/update-weather.yml` — 날씨 자동 갱신 (하루 두 번, UTC 00:00/12:00 고정)
 
 ## 작업 전 참고
 
