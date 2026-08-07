@@ -49,22 +49,80 @@ header h1 {
 .chart-card-header {
   display: flex;
   justify-content: space-between;
-  align-items: baseline;
-  margin-bottom: 8px;
+  align-items: flex-start;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 6px;
 }
 
-.chart-card-header h2 {
+.ticker-title {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.ticker-title h2 {
   margin: 0;
   font-size: 1.1rem;
 }
 
+.last-price {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.badges {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+}
+
+.badge {
+  padding: 2px 10px;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.badge-muted {
+  padding: 0;
+  font-weight: 500;
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+
+.range-tabs {
+  display: flex;
+  gap: 6px;
+  margin: 8px 0 12px;
+}
+
+.range-tab {
+  font-size: 0.72rem;
+  padding: 3px 8px;
+  border-radius: 6px;
+  color: var(--muted);
+  opacity: 0.35;
+}
+
+.range-tab-active {
+  background: rgba(59, 130, 246, 0.18);
+  color: #60a5fa;
+  font-weight: 600;
+  opacity: 1;
+}
+
 .updated-at {
   color: var(--muted);
-  font-size: 0.8rem;
+  font-size: 0.75rem;
+  margin-top: 6px;
 }
 
 .chart-container {
-  height: 320px;
+  height: 280px;
   width: 100%;
   color: var(--muted);
   font-size: 0.85rem;

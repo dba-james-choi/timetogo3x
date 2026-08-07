@@ -1,14 +1,37 @@
 const TICKERS = ["QQQM", "SOXX", "SPYM"];
 
+const UP_COLOR = "#22c55e";
+const DOWN_COLOR = "#ef4444";
+
 function formatUpdatedAt(iso) {
   if (!iso) return "데이터 없음";
   const d = new Date(iso);
   return `업데이트: ${d.toLocaleString("ko-KR", { timeZone: "UTC" })} UTC`;
 }
 
+function formatPct(pct) {
+  const sign = pct >= 0 ? "+" : "";
+  return `${sign}${pct.toFixed(2)}%`;
+}
+
+function formatMonthDay(dateStr) {
+  const [, m, d] = dateStr.split("-");
+  return `${Number(m)}/${Number(d)}`;
+}
+
+function hexToRgba(hex, alpha) {
+  const r = parseInt(hex.slice(1, 3), 16);
+  const g = parseInt(hex.slice(3, 5), 16);
+  const b = parseInt(hex.slice(5, 7), 16);
+  return `rgba(${r}, ${g}, ${b}, ${alpha})`;
+}
+
 async function loadTicker(ticker) {
   const card = document.querySelector(`.chart-card[data-ticker="${ticker}"]`);
   const chartEl = card.querySelector('[data-role="chart"]');
+  const priceEl = card.querySelector('[data-role="last-price"]');
+  const periodBadge = card.querySelector('[data-role="period-badge"]');
+  const peakBadge = card.querySelector('[data-role="peak-badge"]');
   const updatedEl = card.querySelector('[data-role="updated-at"]');
 
   let data;
@@ -24,41 +47,70 @@ async function loadTicker(ticker) {
 
   updatedEl.textContent = formatUpdatedAt(data.updated_at);
 
-  if (!data.candles || data.candles.length === 0) {
+  const candles = data.candles || [];
+  if (candles.length === 0) {
     chartEl.textContent = "표시할 데이터가 없습니다. 첫 GitHub Actions 실행을 기다려 주세요.";
     return;
   }
 
+  const first = candles[0];
+  const last = candles[candles.length - 1];
+  const peak = candles.reduce((max, c) => (c.close > max.close ? c : max), candles[0]);
+
+  const periodPct = ((last.close - first.close) / first.close) * 100;
+  const peakPct = ((last.close - peak.close) / peak.close) * 100;
+  const trendColor = periodPct >= 0 ? UP_COLOR : DOWN_COLOR;
+  const peakColor = peakPct >= 0 ? UP_COLOR : DOWN_COLOR;
+
+  priceEl.textContent = `$${last.close.toFixed(2)}`;
+
+  periodBadge.textContent = `${formatPct(periodPct)} (1M)`;
+  periodBadge.style.background = hexToRgba(trendColor, 0.18);
+  periodBadge.style.color = trendColor;
+
+  peakBadge.textContent = `고점(${formatMonthDay(peak.date)}) 대비 ${formatPct(peakPct)}`;
+  peakBadge.style.color = peakColor;
+
   const chart = LightweightCharts.createChart(chartEl, {
     layout: {
       background: { color: "transparent" },
-      textColor: "#d1d5db",
+      textColor: "#9ca3af",
     },
     grid: {
-      vertLines: { color: "rgba(255,255,255,0.06)" },
+      vertLines: { color: "rgba(255,255,255,0.04)" },
       horzLines: { color: "rgba(255,255,255,0.06)" },
     },
-    timeScale: { borderColor: "rgba(255,255,255,0.15)" },
-    rightPriceScale: { borderColor: "rgba(255,255,255,0.15)" },
+    timeScale: { borderColor: "rgba(255,255,255,0.12)" },
+    rightPriceScale: { borderColor: "rgba(255,255,255,0.12)" },
     autoSize: true,
   });
 
-  const series = chart.addCandlestickSeries({
-    upColor: "#26a69a",
-    downColor: "#ef5350",
-    borderVisible: false,
-    wickUpColor: "#26a69a",
-    wickDownColor: "#ef5350",
+  const areaSeries = chart.addAreaSeries({
+    lineColor: trendColor,
+    lineWidth: 2,
+    topColor: hexToRgba(trendColor, 0.35),
+    bottomColor: hexToRgba(trendColor, 0.02),
+    priceLineVisible: false,
+  });
+  areaSeries.priceScale().applyOptions({ scaleMargins: { top: 0.1, bottom: 0.32 } });
+  areaSeries.setData(candles.map((c) => ({ time: c.date, value: c.close })));
+
+  areaSeries.createPriceLine({
+    price: first.close,
+    color: "rgba(156,163,175,0.7)",
+    lineWidth: 1,
+    lineStyle: LightweightCharts.LineStyle.Dashed,
+    axisLabelVisible: true,
   });
 
-  series.setData(
-    data.candles.map((c) => ({
-      time: c.date,
-      open: c.open,
-      high: c.high,
-      low: c.low,
-      close: c.close,
-    }))
+  const volumeSeries = chart.addHistogramSeries({
+    priceFormat: { type: "volume" },
+    priceScaleId: "volume",
+    color: "rgba(148,163,184,0.35)",
+  });
+  volumeSeries.priceScale().applyOptions({ scaleMargins: { top: 0.78, bottom: 0 } });
+  volumeSeries.setData(
+    candles.map((c) => ({ time: c.date, value: c.volume || 0, color: "rgba(148,163,184,0.35)" }))
   );
 
   chart.timeScale().fitContent();
