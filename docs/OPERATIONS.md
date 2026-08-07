@@ -29,6 +29,15 @@ GitHub은 저장소에 60일간 활동(push)이 없으면 예약된(cron) 워크
 - 현재 사용 가능한 GitHub MCP 도구 중에는 이걸 대신 눌러줄 수 있는 기능이 없음 — 이 경우엔
   사용자가 직접 클릭해야 한다
 
+## RSI 계산
+
+`scripts/fetch_data.py`의 `calculate_rsi()`가 Wilder's smoothing 방식으로 RSI(14)를
+계산해서 각 캔들에 `rsi` 필드로 저장한다 (14개 미만 워밍업 구간은 `null`). 화면에는
+1개월(`KEEP_DAYS=35`)만 잘라서 보여주지만, RSI는 그보다 훨씬 긴 원본 3개월(`RANGE`)
+데이터로 먼저 계산한 뒤에 잘라내므로, 화면에 보이는 첫날부터 RSI 값이 이미 채워져 있다
+(워밍업 구간이 화면 밖에서 소비됨). 이 순서를 바꾸면(트림 후 RSI 계산) 화면 앞부분
+RSI가 비어버리니 주의.
+
 ## 데이터 소스
 
 `scripts/fetch_data.py`는 Yahoo Finance의 **비공식** chart API

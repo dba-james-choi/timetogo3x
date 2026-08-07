@@ -139,6 +139,22 @@ header h1 {
   font-size: 0.85rem;
 }
 
+.rsi-label {
+  margin-top: 6px;
+  font-size: 0.7rem;
+  color: var(--muted);
+}
+
+.rsi-label span {
+  font-weight: 600;
+  color: var(--text);
+}
+
+.rsi-container {
+  height: 70px;
+  width: 100%;
+}
+
 footer {
   margin-top: 24px;
   color: var(--muted);

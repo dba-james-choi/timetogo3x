@@ -33,6 +33,8 @@ async function loadTicker(ticker) {
   const periodBadge = card.querySelector('[data-role="period-badge"]');
   const peakBadge = card.querySelector('[data-role="peak-badge"]');
   const lowestBadge = card.querySelector('[data-role="lowest-badge"]');
+  const rsiChartEl = card.querySelector('[data-role="rsi-chart"]');
+  const rsiValueEl = card.querySelector('[data-role="rsi-value"]');
   const updatedEl = card.querySelector('[data-role="updated-at"]');
 
   let data;
@@ -126,6 +128,65 @@ async function loadTicker(ticker) {
   );
 
   chart.timeScale().fitContent();
+
+  const rsiPoints = candles
+    .filter((c) => c.rsi !== null && c.rsi !== undefined)
+    .map((c) => ({ time: c.date, value: c.rsi }));
+
+  if (rsiPoints.length > 0) {
+    const lastRsi = rsiPoints[rsiPoints.length - 1].value;
+    const rsiColor = lastRsi >= 70 ? DOWN_COLOR : lastRsi <= 30 ? UP_COLOR : "#60a5fa";
+    rsiValueEl.textContent = lastRsi.toFixed(1);
+    rsiValueEl.style.color = rsiColor;
+
+    const rsiChart = LightweightCharts.createChart(rsiChartEl, {
+      layout: {
+        background: { color: "transparent" },
+        textColor: "#9ca3af",
+        fontSize: 10,
+      },
+      grid: {
+        vertLines: { visible: false },
+        horzLines: { visible: false },
+      },
+      timeScale: { visible: false },
+      rightPriceScale: {
+        borderColor: "rgba(255,255,255,0.12)",
+        scaleMargins: { top: 0.15, bottom: 0.15 },
+      },
+      handleScroll: false,
+      handleScale: false,
+      autoSize: true,
+    });
+
+    const rsiSeries = rsiChart.addLineSeries({
+      color: rsiColor,
+      lineWidth: 2,
+      priceLineVisible: false,
+      lastValueVisible: false,
+    });
+    rsiSeries.setData(rsiPoints);
+
+    rsiSeries.createPriceLine({
+      price: 70,
+      color: "rgba(239,68,68,0.5)",
+      lineWidth: 1,
+      lineStyle: LightweightCharts.LineStyle.Dashed,
+      axisLabelVisible: true,
+    });
+    rsiSeries.createPriceLine({
+      price: 30,
+      color: "rgba(34,197,94,0.5)",
+      lineWidth: 1,
+      lineStyle: LightweightCharts.LineStyle.Dashed,
+      axisLabelVisible: true,
+    });
+
+    rsiChart.timeScale().fitContent();
+  } else {
+    rsiValueEl.textContent = "데이터 부족";
+    rsiChartEl.textContent = "";
+  }
 }
 
 TICKERS.forEach(loadTicker);

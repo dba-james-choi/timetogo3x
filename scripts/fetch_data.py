@@ -11,6 +11,7 @@ TICKERS = ["QQQM", "SOXX", "SPYM", "BTC-USD"]
 RANGE = "3mo"
 INTERVAL = "1d"
 KEEP_DAYS = 35  # buffer beyond 1 calendar month to survive weekends/holidays
+RSI_PERIOD = 14
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 HEADERS = {
@@ -19,6 +20,34 @@ HEADERS = {
         "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
     )
 }
+
+
+def calculate_rsi(closes: list, period: int = RSI_PERIOD) -> list:
+    """Wilder's smoothed RSI. Returns a list the same length as closes,
+    with None for indices before the first full period is available."""
+    rsi = [None] * len(closes)
+    if len(closes) <= period:
+        return rsi
+
+    gains = []
+    losses = []
+    for i in range(1, period + 1):
+        change = closes[i] - closes[i - 1]
+        gains.append(max(change, 0))
+        losses.append(max(-change, 0))
+    avg_gain = sum(gains) / period
+    avg_loss = sum(losses) / period
+    rsi[period] = 100.0 if avg_loss == 0 else 100 - (100 / (1 + avg_gain / avg_loss))
+
+    for i in range(period + 1, len(closes)):
+        change = closes[i] - closes[i - 1]
+        gain = max(change, 0)
+        loss = max(-change, 0)
+        avg_gain = (avg_gain * (period - 1) + gain) / period
+        avg_loss = (avg_loss * (period - 1) + loss) / period
+        rsi[i] = 100.0 if avg_loss == 0 else 100 - (100 / (1 + avg_gain / avg_loss))
+
+    return rsi
 
 
 def fetch_chart(ticker: str) -> dict:
@@ -45,18 +74,16 @@ def fetch_chart(ticker: str) -> dict:
     closes = quote.get("close") or []
     volumes = quote.get("volume") or []
 
-    cutoff = datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)
-    candles = []
+    # Build the full (untrimmed) candle list first so RSI has enough lookback
+    # before we cut down to the display window below.
+    full_candles = []
     for i, ts in enumerate(timestamps):
-        day = datetime.fromtimestamp(ts, tz=timezone.utc)
-        if day < cutoff:
-            continue
         o, h, l, c = opens[i], highs[i], lows[i], closes[i]
         if None in (o, h, l, c):
             continue
-        candles.append(
+        full_candles.append(
             {
-                "date": day.strftime("%Y-%m-%d"),
+                "date": datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%Y-%m-%d"),
                 "open": round(o, 4),
                 "high": round(h, 4),
                 "low": round(l, 4),
@@ -64,6 +91,13 @@ def fetch_chart(ticker: str) -> dict:
                 "volume": volumes[i] if i < len(volumes) else None,
             }
         )
+
+    rsi_values = calculate_rsi([c["close"] for c in full_candles])
+    for candle, rsi in zip(full_candles, rsi_values):
+        candle["rsi"] = round(rsi, 2) if rsi is not None else None
+
+    cutoff = datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)
+    candles = [c for c in full_candles if datetime.strptime(c["date"], "%Y-%m-%d").replace(tzinfo=timezone.utc) >= cutoff]
 
     return {
         "ticker": ticker,
