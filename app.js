@@ -32,6 +32,7 @@ async function loadTicker(ticker) {
   const priceEl = card.querySelector('[data-role="last-price"]');
   const periodBadge = card.querySelector('[data-role="period-badge"]');
   const peakBadge = card.querySelector('[data-role="peak-badge"]');
+  const lowestBadge = card.querySelector('[data-role="lowest-badge"]');
   const updatedEl = card.querySelector('[data-role="updated-at"]');
 
   let data;
@@ -56,6 +57,7 @@ async function loadTicker(ticker) {
   const first = candles[0];
   const last = candles[candles.length - 1];
   const peak = candles.reduce((max, c) => (c.close > max.close ? c : max), candles[0]);
+  const trough = candles.reduce((min, c) => (c.close < min.close ? c : min), candles[0]);
 
   const periodPct = ((last.close - first.close) / first.close) * 100;
   const peakPct = ((last.close - peak.close) / peak.close) * 100;
@@ -70,6 +72,13 @@ async function loadTicker(ticker) {
 
   peakBadge.textContent = `고점(${formatMonthDay(peak.date)}) 대비 ${formatPct(peakPct)}`;
   peakBadge.style.color = peakColor;
+
+  if (trough.date === last.date) {
+    lowestBadge.textContent = "⚠ 최근 1개월 최저치";
+    lowestBadge.hidden = false;
+  } else {
+    lowestBadge.hidden = true;
+  }
 
   const chart = LightweightCharts.createChart(chartEl, {
     layout: {
