@@ -1,6 +1,6 @@
 # timetogo3x
 
-QQQM, SOXX, SPYM 최근 1개월 일봉(몽테인 차트) 차트를 보여주는 정적 웹페이지입니다.
+QQQM, SOXX, SPYM, BTC-USD 최근 1개월 일봉(몽테인 차트) 차트를 보여주는 정적 웹페이지입니다.
 GitHub Actions가 매일(평일) 자동으로 데이터를 갱신합니다.
 
 운영 관련 세부사항(cron 스케줄, GitHub Actions 제약 등)은 [`docs/OPERATIONS.md`](docs/OPERATIONS.md) 참고.

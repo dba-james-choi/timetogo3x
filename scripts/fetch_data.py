@@ -7,7 +7,7 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-TICKERS = ["QQQM", "SOXX", "SPYM"]
+TICKERS = ["QQQM", "SOXX", "SPYM", "BTC-USD"]
 RANGE = "3mo"
 INTERVAL = "1d"
 KEEP_DAYS = 35  # buffer beyond 1 calendar month to survive weekends/holidays

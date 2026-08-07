@@ -1,4 +1,4 @@
-const TICKERS = ["QQQM", "SOXX", "SPYM"];
+const TICKERS = ["QQQM", "SOXX", "SPYM", "BTC-USD"];
 
 const UP_COLOR = "#22c55e";
 const DOWN_COLOR = "#ef4444";
@@ -64,7 +64,10 @@ async function loadTicker(ticker) {
   const trendColor = periodPct >= 0 ? UP_COLOR : DOWN_COLOR;
   const peakColor = peakPct >= 0 ? UP_COLOR : DOWN_COLOR;
 
-  priceEl.textContent = `$${last.close.toFixed(2)}`;
+  priceEl.textContent = `$${last.close.toLocaleString("en-US", {
+    minimumFractionDigits: 2,
+    maximumFractionDigits: 2,
+  })}`;
 
   periodBadge.textContent = `${formatPct(periodPct)} (1M)`;
   periodBadge.style.background = hexToRgba(trendColor, 0.18);

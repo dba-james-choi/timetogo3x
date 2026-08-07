@@ -1,7 +1,8 @@
 # timetogo3x
 
-QQQM/SOXX/SPYM 일봉(몽테인 차트)을 보여주는 정적 웹페이지. GitHub Actions가 평일마다
+QQQM/SOXX/SPYM/BTC-USD 일봉(몽테인 차트)을 보여주는 정적 웹페이지. GitHub Actions가 평일마다
 Yahoo Finance에서 데이터를 받아 `data/*.json`을 갱신하고, GitHub Pages로 배포된다.
+BTC-USD는 주말에도 거래되므로 다른 종목보다 캔들 수가 더 많다.
 
 ## 구성
 
