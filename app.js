@@ -26,12 +26,19 @@ function hexToRgba(hex, alpha) {
   return `rgba(${r}, ${g}, ${b}, ${alpha})`;
 }
 
+function rsiColorFor(rsi) {
+  if (rsi >= 70) return DOWN_COLOR;
+  if (rsi <= 30) return UP_COLOR;
+  return "#60a5fa";
+}
+
 async function loadTicker(ticker) {
   const card = document.querySelector(`.chart-card[data-ticker="${ticker}"]`);
   const chartEl = card.querySelector('[data-role="chart"]');
   const priceEl = card.querySelector('[data-role="last-price"]');
   const periodBadge = card.querySelector('[data-role="period-badge"]');
   const peakBadge = card.querySelector('[data-role="peak-badge"]');
+  const rsiBadge = card.querySelector('[data-role="rsi-badge"]');
   const lowestBadge = card.querySelector('[data-role="lowest-badge"]');
   const rsiChartEl = card.querySelector('[data-role="rsi-chart"]');
   const rsiValueEl = card.querySelector('[data-role="rsi-value"]');
@@ -77,6 +84,13 @@ async function loadTicker(ticker) {
 
   peakBadge.textContent = `고점(${formatMonthDay(peak.date)}) 대비 ${formatPct(peakPct)}`;
   peakBadge.style.color = peakColor;
+
+  if (last.rsi !== null && last.rsi !== undefined) {
+    rsiBadge.textContent = `오늘 RSI(14) ${last.rsi.toFixed(1)}`;
+    rsiBadge.style.color = rsiColorFor(last.rsi);
+  } else {
+    rsiBadge.textContent = "RSI(14) 데이터 부족";
+  }
 
   if (trough.date === last.date) {
     lowestBadge.textContent = "⚠ 최근 1개월 최저치";
@@ -135,7 +149,7 @@ async function loadTicker(ticker) {
 
   if (rsiPoints.length > 0) {
     const lastRsi = rsiPoints[rsiPoints.length - 1].value;
-    const rsiColor = lastRsi >= 70 ? DOWN_COLOR : lastRsi <= 30 ? UP_COLOR : "#60a5fa";
+    const rsiColor = rsiColorFor(lastRsi);
     rsiValueEl.textContent = lastRsi.toFixed(1);
     rsiValueEl.style.color = rsiColor;
 
