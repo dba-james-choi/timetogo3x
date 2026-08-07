@@ -2,7 +2,10 @@ name: Update ETF Daily Data
 
 on:
   schedule:
-    - cron: "30 21 * * 1-5"
+    # US market close is 20:00 UTC (EDT, roughly Mar-Nov) or 21:00 UTC (EST, roughly Nov-Mar).
+    # Firing 15 min after both covers the close year-round regardless of DST.
+    - cron: "15 20 * * 1-5"
+    - cron: "15 21 * * 1-5"
   workflow_dispatch: {}
 
 permissions:
