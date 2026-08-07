@@ -99,6 +99,12 @@ async function loadTicker(ticker) {
     lowestBadge.hidden = true;
   }
 
+  if (typeof LightweightCharts === "undefined") {
+    chartEl.textContent = "차트 라이브러리를 불러오지 못했습니다. 새로고침해 주세요.";
+    rsiValueEl.textContent = "-";
+    return;
+  }
+
   const chart = LightweightCharts.createChart(chartEl, {
     layout: {
       background: { color: "transparent" },
