@@ -39,6 +39,12 @@ header h1 {
   gap: 20px;
 }
 
+@media (min-width: 720px) {
+  #charts {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 .chart-card {
   background: var(--card-bg);
   border: 1px solid var(--border);
@@ -122,7 +128,7 @@ header h1 {
 }
 
 .chart-container {
-  height: 280px;
+  height: 200px;
   width: 100%;
   color: var(--muted);
   font-size: 0.85rem;
@@ -137,6 +143,6 @@ footer {
 
 @media (min-width: 900px) {
   .chart-container {
-    height: 360px;
+    height: 220px;
   }
 }
