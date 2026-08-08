@@ -50,8 +50,14 @@ function formatMonthDay(dateStr) {
 
 function formatUpdatedAt(iso) {
   if (!iso) return "데이터 없음";
-  const d = new Date(iso);
-  return `업데이트: ${d.toLocaleString("ko-KR", { timeZone: "America/Vancouver" })} (Victoria 현지시각)`;
+  // Open-Meteo returns naive local (Vancouver) timestamps with no UTC
+  // offset. Appending "Z" and formatting in the "UTC" timezone just echoes
+  // those literal digits back, regardless of the viewer's own browser
+  // timezone -- using America/Vancouver here would double-convert and
+  // show the wrong time for anyone not already in the Pacific timezone.
+  const d = new Date(`${iso}Z`);
+  const formatted = d.toLocaleString("ko-KR", { timeZone: "UTC", dateStyle: "medium", timeStyle: "short" });
+  return `마지막 갱신: ${formatted} (Victoria 현지시각)`;
 }
 
 function pmClass(value, isPm25) {
@@ -150,7 +156,7 @@ function renderDaily(data) {
 }
 
 async function loadWeather() {
-  const updatedEl = document.getElementById("weather-updated-at");
+  const updatedEl = document.getElementById("page-updated-at");
   let data;
   try {
     const res = await fetch(`data/weather.json?_=${Date.now()}`, { cache: "no-store" });

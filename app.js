@@ -3,10 +3,25 @@ const TICKERS = ["QQQM", "SOXX", "SPYM", "BTC-USD"];
 const UP_COLOR = "#22c55e";
 const DOWN_COLOR = "#ef4444";
 
+function formatDateTime(iso, timeZone) {
+  const d = new Date(iso);
+  return d.toLocaleString("ko-KR", { timeZone, dateStyle: "medium", timeStyle: "short" });
+}
+
 function formatUpdatedAt(iso) {
   if (!iso) return "데이터 없음";
-  const d = new Date(iso);
-  return `업데이트: ${d.toLocaleString("ko-KR", { timeZone: "UTC" })} UTC`;
+  return `업데이트: ${formatDateTime(iso, "UTC")} UTC`;
+}
+
+const latestUpdatedAt = {};
+
+function refreshPageUpdatedAt() {
+  const el = document.getElementById("page-updated-at");
+  if (!el) return;
+  const timestamps = Object.values(latestUpdatedAt).filter(Boolean);
+  if (timestamps.length === 0) return;
+  const newest = timestamps.reduce((a, b) => (new Date(a) > new Date(b) ? a : b));
+  el.textContent = `마지막 갱신: ${formatDateTime(newest, "UTC")} UTC`;
 }
 
 function formatPct(pct) {
@@ -56,6 +71,8 @@ async function loadTicker(ticker) {
   }
 
   updatedEl.textContent = formatUpdatedAt(data.updated_at);
+  latestUpdatedAt[ticker] = data.updated_at;
+  refreshPageUpdatedAt();
 
   const candles = data.candles || [];
   if (candles.length === 0) {
