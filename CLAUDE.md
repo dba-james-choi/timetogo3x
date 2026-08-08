@@ -9,7 +9,7 @@ Open-Meteo)로 이동 가능. 두 페이지는 `style.css`를 공유한다.
 
 ## 구성
 
-- `index.html` / `style.css` / `app.js` — 홈(차트) 페이지 (lightweight-charts, 몽테인/에어리어 차트 + 거래량 바)
+- `index.html` / `style.css` / `app.js` — 홈(차트) 페이지 (lightweight-charts, 몽테인/에어리어 차트 + 거래량 바 + RSI(14) + MA(200))
 - `weather.html` / `weather.js` — 날씨 페이지 (24시간 + 7일, 강수확률/미세먼지/초미세먼지/바람)
 - `data/*.json` — 종목별 일봉 데이터, `data/weather.json` — 날씨 데이터
 - `scripts/fetch_data.py` / `fetch_weather.py` — 데이터 수집 스크립트

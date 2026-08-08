@@ -8,10 +8,11 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 TICKERS = ["QQQM", "SOXX", "SPYM", "BTC-USD"]
-RANGE = "3mo"
+RANGE = "1y"  # needs 200+ trading days of lookback for SMA200, see below
 INTERVAL = "1d"
 KEEP_DAYS = 35  # buffer beyond 1 calendar month to survive weekends/holidays
 RSI_PERIOD = 14
+SMA_PERIOD = 200
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 HEADERS = {
@@ -48,6 +49,16 @@ def calculate_rsi(closes: list, period: int = RSI_PERIOD) -> list:
         rsi[i] = 100.0 if avg_loss == 0 else 100 - (100 / (1 + avg_gain / avg_loss))
 
     return rsi
+
+
+def calculate_sma(closes: list, period: int = SMA_PERIOD) -> list:
+    """Simple moving average. Returns a list the same length as closes,
+    with None for indices before the first full period is available."""
+    sma = [None] * len(closes)
+    for i in range(period - 1, len(closes)):
+        window = closes[i - period + 1 : i + 1]
+        sma[i] = sum(window) / period
+    return sma
 
 
 def fetch_chart(ticker: str) -> dict:
@@ -92,9 +103,12 @@ def fetch_chart(ticker: str) -> dict:
             }
         )
 
-    rsi_values = calculate_rsi([c["close"] for c in full_candles])
-    for candle, rsi in zip(full_candles, rsi_values):
+    closes = [c["close"] for c in full_candles]
+    rsi_values = calculate_rsi(closes)
+    sma_values = calculate_sma(closes)
+    for candle, rsi, sma in zip(full_candles, rsi_values, sma_values):
         candle["rsi"] = round(rsi, 2) if rsi is not None else None
+        candle["sma200"] = round(sma, 4) if sma is not None else None
 
     cutoff = datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)
     candles = [c for c in full_candles if datetime.strptime(c["date"], "%Y-%m-%d").replace(tzinfo=timezone.utc) >= cutoff]

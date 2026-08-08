@@ -174,7 +174,7 @@ header h1 {
   font-size: 0.85rem;
 }
 
-.rsi-label {
+.mini-label {
   margin-top: 10px;
   font-size: 0.68rem;
   font-weight: 600;
@@ -183,7 +183,7 @@ header h1 {
   color: var(--muted);
 }
 
-.rsi-label span {
+.mini-label span {
   font-weight: 700;
   letter-spacing: normal;
   text-transform: none;

@@ -57,6 +57,7 @@ async function loadTicker(ticker) {
   const lowestBadge = card.querySelector('[data-role="lowest-badge"]');
   const rsiChartEl = card.querySelector('[data-role="rsi-chart"]');
   const rsiValueEl = card.querySelector('[data-role="rsi-value"]');
+  const ma200ValueEl = card.querySelector('[data-role="ma200-value"]');
   const updatedEl = card.querySelector('[data-role="updated-at"]');
 
   let data;
@@ -116,6 +117,15 @@ async function loadTicker(ticker) {
     lowestBadge.hidden = true;
   }
 
+  if (last.sma200 !== null && last.sma200 !== undefined) {
+    ma200ValueEl.textContent = `$${last.sma200.toLocaleString("en-US", {
+      minimumFractionDigits: 2,
+      maximumFractionDigits: 2,
+    })}`;
+  } else {
+    ma200ValueEl.textContent = "데이터 부족";
+  }
+
   if (typeof LightweightCharts === "undefined") {
     chartEl.textContent = "차트 라이브러리를 불러오지 못했습니다. 새로고침해 주세요.";
     rsiValueEl.textContent = "-";
@@ -153,6 +163,20 @@ async function loadTicker(ticker) {
     lineStyle: LightweightCharts.LineStyle.Dashed,
     axisLabelVisible: true,
   });
+
+  const ma200Points = candles
+    .filter((c) => c.sma200 !== null && c.sma200 !== undefined)
+    .map((c) => ({ time: c.date, value: c.sma200 }));
+
+  if (ma200Points.length > 0) {
+    const ma200Series = chart.addLineSeries({
+      color: "#a78bfa",
+      lineWidth: 2,
+      priceLineVisible: false,
+      lastValueVisible: false,
+    });
+    ma200Series.setData(ma200Points);
+  }
 
   const volumeSeries = chart.addHistogramSeries({
     priceFormat: { type: "volume" },
