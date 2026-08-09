@@ -1,23 +1,26 @@
 {
-  "updated_at": "2026-08-09T02:44:57Z",
+  "updated_at": "2026-08-09T02:59:57Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
           "title": "LETTER: Housing target should fit regional plan for North Saanich",
+          "title_ko": "편지: 주택 목표는 North Saanich의 지역 계획에 맞아야 합니다.",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelhWRFpXd2dUSjU2dDlPRzVGRDZTc1lhVnhvU1Jvc0FhTEQyMWVoOVZ0OV9DTjJnb3BOTmpIejdxY2RJVFlaUmg5YzhZbU1YdWYxMDlPZGFwNFBfTHRjdE9HNVA5MEY4X2lnU19rTUNUcHcwb0xBTWUwR3kyRjVwNVotSjBueTc2TXA0VEFhbHBvVzBQSzFjTjB3UDNjY3ItMXdzU1dyaVlId2lBS0lqaG9iQQ?oc=5",
           "source": "Vancouver Island Free Daily",
           "published": "2026-08-08T14:00:14Z"
         },
         {
           "title": "Construction to disrupt traffic patterns at Saanich Peninsula Hospital",
+          "title_ko": "Saanich Peninsula Hospital의 교통 패턴을 방해하는 공사",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1FUmFxM1I3YU9QVk5VajNNQ3BFOVRKb3RTLS01dEd6cVlPQ1I3VWZ3MkltLUo4Q2dCMmpLdTA5blVna0ZUQ2NOX05POThfcjBxcnp2cHlrcDlIeVFWVXRlVC0yTUphRmJIR20waHY5cDA4VkVVakdDazRRY0I2MldlRHhGVHZqdXVZUkR6SXJ1M3hadFN4Y0daR3ZiMGdq?oc=5",
           "source": "CHEK News",
           "published": "2026-08-06T20:35:00Z"
         },
         {
           "title": "PHOTOS: North Saanich aviation museum opens its doors to B.C.’s aviation fans",
+          "title_ko": "사진: North Saanich 항공 박물관이 BC 주 항공 팬들에게 문을 열었습니다.",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTjNrWWwtWFZsU2U1QnBsTjRZQlpYN29vRUtPbm9TWjhhSEZtN0o4MWFPM3RhS1lPcmlHbVd3T1ZFdHlyMzFHYzVTTHRSWEZ1UU55UHlmLU9sMkRXb1dPZFdEYUlybTlLaVhuT0wwYzVyM2ZwT2UwQWlpSFNmMy1sSkVLUUpBTk50NF94WG1iVXg1UlI5empfR0hrWGFHUlhrM1kydGZrcUxrTW45dGZyNg?oc=5",
           "source": "Saanich News",
           "published": "2026-08-03T00:11:51Z"
@@ -28,22 +31,25 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "David Foster Foundation raises $14.5M at star-studded final gala in Victoria",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2JWaTE0SWw2Z2JHblpOV2Z5ejFCdlFhYk9UaWVhQWpGcVQ4eVdxSm5mNW42RWNVX01uZEtMdFUxS1pJblFwaEQyVWpyUm80UDVNVVZ3MGdHc21TOTZzOXNSeWIzVWRNcDhDNXNCOUJfSlBadUt5SnpTWHBOTDZpSXN5RWs2Ujc1UXdDemZadWduZTBnNnFGWGFENXVaSWZXU3RjUUt4aw?oc=5",
-          "source": "CHEK News",
-          "published": "2026-08-08T23:01:13Z"
+          "title": "Child standing in seat and refusing a seatbelt cancels flight from Victoria, airline says",
+          "title_ko": "좌석에 서서 안전벨트 착용 거부한 어린이, 빅토리아발 항공편 취소",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX3Y1Y2tmMlVnOUp3VWVwQjl5WVlFcTc1RVFhTmZPOU82VW9ackVSY3ZZV05DZ0MxRS13R19uVFd6MFVRN1ktRG1uT3g3UDBrNHVNTDhueml1NzlzRHNCNXZTNVdra0M4cUR3T1U5MEdlNzh1S2xoWDY4WDFVLWJnZGo1RUh4Qk1JSGR2VTFsMzQ5R1BKUXBqdTRzcGNndVp6UmJxWVh0NWtXNFZ4XzA3OGlva1JSUjRRbDdfajFqNkxSclNGY0hKTGRB?oc=5",
+          "source": "CTV News",
+          "published": "2026-08-08T01:10:00Z"
         },
         {
           "title": "What you need to know about tonight's Foster and Friends show in Victoria",
+          "title_ko": "오늘 밤 빅토리아에서 열리는 Foster and Friends 쇼에 대해 알아야 할 사항",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMktoVkVZWHlfS0pUV0Z0QlVfZGJidjNTa3hjTW5neUI3a0ktakpacGNiY1hxOTExTWFjaXhqakk0RUVOMmpIQVpfczVMRnBDRGhsRHkzcExjOEtIZGh6TV9fbDN0b0RDaGhuZVRWN0xfSXVOTUtGY3F6bFlSMVVZajUtWXJOakh4anczNktxaXRTWFJmelcyR1RBdVJFT1ZyeUoxOV8yYUFLdnBSTmlwOHk2c3FCTE5uNUdHUA?oc=5",
           "source": "Times Colonist",
           "published": "2026-08-08T11:45:00Z"
         },
         {
-          "title": "David Foster & Friends Concert: What You Need to Know",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMmtoM0U3VE5QTGphZXd3Uk9tNmQ4OWZjZjk2MFNKdE5HdjVvZVFmVVN3TC1aTmlpbk5rbDVxeDU3NVZ4SzBnVjVSbjF5TGpNYjdXczZkTV94aUZCNWhRUGtVclpFQV92ekQ2SmxwbzF1ZktLZlZ3dEVRR0diVWlmRV9rd0IwWm5YS3NSVnVvRzN3V0ZvYzhN?oc=5",
-          "source": "City of Victoria",
-          "published": "2026-08-06T12:00:00Z"
+          "title": "Here’s when the Snowbirds, fighter jets will fly over Victoria for David Foster Foundation concert",
+          "title_ko": "David Foster Foundation 콘서트를 위해 Snowbirds와 전투기가 빅토리아 상공을 비행하는 시간은 다음과 같습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWZSTG8xbTJJX0h3V08xQUowNktaVWNHbDczeG44eElVSDdxb1NxdGc4Tjl1UjNab3R6eDNGS3hkQnFXdmZJc29kOTN6OURackZGUnhITllweEtvWUcwSGFBTy0xOGRpbTZOUm1zSlVMS3FLWktaNFYzMlp4T3dCSWF6aEl0ZmdzMUdYeWF0VlExR2VXRk5uZVNMR2RMTksyRklZdG5ZZGhzYmVoSnd0S0VQblYwVU9ZYVZNcXBNck0td1k?oc=5",
+          "source": "CHEK News",
+          "published": "2026-08-07T21:31:25Z"
         }
       ]
     },
@@ -52,18 +58,21 @@
       "articles": [
         {
           "title": "B.C. says it's on a 'generational path to prosperity' after latest rental data release",
+          "title_ko": "기원전 최신 임대 데이터 공개 후 '번영을 향한 세대적 경로'에 있다고 말합니다.",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fSjZxLUtvMXNiNkxtWmw4R2tQWkcyTmdaM2gzVE9QZ2VYN1JDeXA3MTRqWE9HaHg3djBMcTVPZXNHQlhyaTRscV83QUt1T202OEI3cW9XQThDQmhHUzVOOVREUGZ3aUYwR2JNa0taUFoya1l3VnRFVWZB?oc=5",
           "source": "Daily Hive",
           "published": "2026-08-07T18:36:00Z"
         },
         {
           "title": "One of the 'world's finest stadiums': BC Place named one of 20 global 'Stadium Stars'",
+          "title_ko": "'세계 최고의 경기장' 중 하나: BC 플레이스, 글로벌 '스타디움 스타' 20곳 중 하나로 선정",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0ZfU2E5U0dIRzNnVGlGaG5FR1cyZ0hfNllrZHRkdjg1ZzZKSWhZQkFjb295LVI1OEcyM0N3QUlFc1hYQmk2WGtwQlJYM29PaVpfOUVMUkpvT2ZyM2hwTUMtemJ1c1ozcjJyc0FkZjVZcWFfMks1SDc4RkhTSFZOeWlpTFQ0eVJZS1o3UjJoYzVsbFJkZFdQbFJnemVnOC1Hcmc?oc=5",
           "source": "Vancouver Is Awesome",
           "published": "2026-08-06T01:51:16Z"
         },
         {
           "title": "Police in B.C. launch wildfires arson investigations in Interior and Metro Vancouver",
+          "title_ko": "BC주의 경찰 인테리어와 메트로 밴쿠버에서 산불 방화 조사 개시",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbDVvekx6Z1VXMFBZeXdzcG5DRDEzOFNBaFNtci0ydGFYbXg4eU9wYVlOYlZ6UjhPU0swLXpHZ1Z5UjZ6dWFQNS1vQVNuX3dRRG9MTFVDYUpoNG9vUUhBM09ub2RIM0pHQXRpcXpFRjZBMVB5dUJTYXdrdEhaRWhuOGN3a0N4YVNWLXNJR0V4T2dqNWdCamtUX3A3eS1TSTljUXdMa25YdE15NFZ2NDJpSENwSGNpenVzNTdzdUtxMjQ4UVU?oc=5",
           "source": "CityNews Vancouver",
           "published": "2026-08-07T19:25:37Z"
@@ -75,21 +84,24 @@
       "articles": [
         {
           "title": "B.C. declares province-wide state of emergency amidst wildfires",
+          "title_ko": "기원전 산불로 인한 주 전체에 비상사태 선포",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb1ZpdWRyT3J1OGtZVGxRZmh5OHhGS1VBa25wVURxZmJ5S2dZcnJ1eTF4RmRzLWxxbHlIM2FLaFpzM2RQalB5VmhrdjBMTHduZ3N4REw3dlR6a3pFNHotUGh4VXk3TzhCS2I5ZWxRY2dWamdEdnZaQWtQa2xxNkwwZmJnV3dQcVNtc21qRmoyVDB6R2gwSmlxSE1LZS0xQ0k0bWg0dVExN29VUXRoSE5zaXZuTUFKbUs2TEIxbA?oc=5",
           "source": "CBC",
           "published": "2026-08-08T23:41:28Z"
         },
         {
           "title": "Toronto man wanted on Canada-wide warrant for first-degree murder in woman’s death arrested",
+          "title_ko": "여성 사망에 따른 1급 살인 혐의로 캐나다 전역에 영장 발부된 토론토 남성 체포",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZzU5U2pka0NBVjhuUGFNTjMybU81OWlmVHdSYklLZnZDcW9mQVNqbzl5ejFqVjR5RjktZWV4b05oSkFzcEJqQUtuc2lrc2otTGpUZW1RcHNVa2h6ci1IOXE0aHRXNE1wYi0zMHpfTXN0WmdxeGlzaHFHbFlRM3U1d0Nwd0FWeHI4M2sxVGlUQW9XMklJeEg1dlNPcnJSem81SEc5c3hmTEdndzNKZVNjM0poUWdJb0lqblBqR3gyZXFUVkxKWGc3cWRhWmFlSXFHSGE4?oc=5",
           "source": "CP24",
           "published": "2026-08-08T19:02:29Z"
         },
         {
-          "title": "Severe thunderstorm watch hits Toronto area with threat of damaging winds and hail",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLXhLNHI0a0F5eUk2ckFBcndabVZCZGJzSWYzN0NYSzdFMFZRZ1ROMmdxbHN5VWViQUlNc1BuaWdPd3RhWG5oLVlmcU13SkpWV1J0X0pTNEpUSzJkU0Y0V3RUc1hFaFBfZ3I3ZTJIN3FvX1QtbGhqTzBxLUQySXRCZi1nalNhRGpmeDg4R0I0bFB5bWgxdDNEY1psOGs2dWhkbHZNUkN4Q2prTjRHQmFTWi1ESG1DaDdGY2ZldlJ4OUNFT3VEeUV2c3JJb3UxNGtKVVJWUnRDYlpiZ3huTkxRYldNOGFQbUtQeDlkMUYwOG95eVZQbFpiYw?oc=5",
-          "source": "Toronto Star",
-          "published": "2026-08-08T17:11:00Z"
+          "title": "Crews making progress containing parts of the Bradley Creek wildfire",
+          "title_ko": "브래들리 크릭(Bradley Creek) 산불의 일부를 포함하고 있는 승무원들",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeFpnb0FLNzBvRk9vMnRCY1Z3Y1U2aHlLQTg3RXFJSk1Kd2gwZ3R6UXZ4WWt6bVdjQm8zMm5QczVxak92QUVwcVRXRGFkR0VhNmxDUjdaQVdzZGRyVnFIdDlCVmU2emtkOTJNbHE0TldyWkxvdGp1ZnlmRVNaTG5nZDh6U2ZvZ3l5bjhyeEhKbTJQX0JNUlJDRGxPZmR1aG1pUVlwbXNYQ2o5Ri1oeGNiSm53?oc=5",
+          "source": "Castanet",
+          "published": "2026-08-08T15:36:00Z"
         }
       ]
     }
