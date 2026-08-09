@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T13:48:16Z",
+  "updated_at": "2026-08-09T14:24:12Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -19,11 +19,11 @@
           "published": "2026-08-08T14:00:14Z"
         },
         {
-          "title": "Minister’s statement on North Saanich adviser",
-          "title_ko": "North Saanich 고문에 대한 장관의 성명",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZE1mbk93WU9PaVZPcU5JMzltbG9yR243d3J4bVB0bW1TZVdHWXVhc0htSFlJdjQyZnlsSUFtcGF4VGVKYVo5eTQ4S1p4NEJ6N1cxSTZVUzNVS05zWmtV?oc=5",
-          "source": "BC Gov News",
-          "published": "2026-06-16T21:40:14Z"
+          "title": "PHOTOS: North Saanich aviation museum opens its doors to B.C.’s aviation fans",
+          "title_ko": "사진: North Saanich 항공 박물관이 브리티시컬럼비아의 항공 팬들에게 문을 열었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTjNrWWwtWFZsU2U1QnBsTjRZQlpYN29vRUtPbm9TWjhhSEZtN0o4MWFPM3RhS1lPcmlHbVd3T1ZFdHlyMzFHYzVTTHRSWEZ1UU55UHlmLU9sMkRXb1dPZFdEYUlybTlLaVhuT0wwYzVyM2ZwT2UwQWlpSFNmMy1sSkVLUUpBTk50NF94WG1iVXg1UlI5empfR0hrWGFHUlhrM1kydGZrcUxrTW45dGZyNg?oc=5",
+          "source": "Saanich News",
+          "published": "2026-08-03T00:11:51Z"
         }
       ]
     },
@@ -83,18 +83,11 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "As massive B.C. wildfire raged, groups worked to rescue livestock, animals",
-          "title_ko": "브리티시 컬럼비아의 대규모 산불이 맹렬해지자 여러 단체가 가축과 동물을 구조하기 위해 노력했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlljdGE2WHFFUXVXZmJoVjhNRFJlaUtIRmtESVhSbFZVM2o3WDJvSDdremhMTUJyWDBUZmJvbGt1ck1aMGtHdS1fRXVjejkwbWpuNS0wZ1ZLVEpSeEpZX1F6cFZJdjN1RktKYWdQbnJMWWpRUDRTR0ZtemRGdTNYNV9pSlhFLTV6NzBmVWhObUc?oc=5",
-          "source": "Global News",
-          "published": "2026-08-09T01:07:33Z"
-        },
-        {
-          "title": "Okanagan Indian Band Fire Department member lost home while fighting the Bradley Creek wildfire",
-          "title_ko": "오카나간 인디언 밴드 소방서 회원은 브래들리 크릭 산불과 싸우던 중 집을 잃었습니다",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPemhjNEs5SDVuRUphR05QOGpsVzdRM0FTX1VzMVpIZHRaLUlOZkJqRnp2QnJMT3NUNlZtRlBXZ29IQ0pXeG96bGhsZUJEUnNzVUpvM3IyWnFkN29JU1ZoOUVMTGtpX01XWTZSblpoWkdhQTE5bnAyQWppaTY2VmxHZ0dINHJfRG9vN3hMT3k2TVBaR3RERDBJTVpMNHhYanlacTVzTER0b3RfaDduaEpRRHptanBjVUJOVkswdjZGOGNkOHRGYWdFY1V2b1hwbTVRR21MWVh3?oc=5",
-          "source": "Castanet",
-          "published": "2026-08-09T11:00:00Z"
+          "title": "What you need to know about B.C. wildfires on Aug. 9",
+          "title_ko": "8월 9일 브리티시 컬럼비아 산불에 대해 알아야 할 사항",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2ZOejhjRl9jVTlYMFdqSFJFZmk3bFZjQkNqX0d2V0hNSU5QVEJKOE5tTnhCc3A0b1VGZE1nRk5iTE5YbkZRZ2RVRzdlZmdjTUJHeDZYa185MWVTSE9UZHVnd2xXd1ZSWjhDM2UtVmttT3NObGtLSmZFNnVGMXVrY1RldE52ZjFKNkFqZGt3?oc=5",
+          "source": "CBC",
+          "published": "2026-08-09T13:00:00Z"
         },
         {
           "title": "Trump's new U.S. customs rules could upend Canadian exports",
@@ -102,6 +95,13 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaG9LWFZld1pid1dFeUFQVXQ3WlMtLXNqckNwbkxiZ1ZjM2tRWXlId1Z0azJRVXdMbG5KNVZaRkhadF9SbEdMQlVaZW5BbzAwQ1huQmgyQjQySm1KWE5zVE1vd0dIdGk0clg0OV91WlhxVHFiRFNRcFJBZEhEQVR3VUxjSkhyWEZnN05uc1FpSl8?oc=5",
           "source": "National Post",
           "published": "2026-08-09T10:03:26Z"
+        },
+        {
+          "title": "Ottawa man with cerebral palsy shocked by 'brazen' custom bike theft",
+          "title_ko": "뇌성마비 오타와 남성, '뻔뻔한' 맞춤형 자전거 절도에 충격",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbHpjdS1tTzA0Vm94UHVqVzJjdGxoVXNKTEZ5d3dsak0xYWtySl9oRm5nMFpQNHdTV29HWlFHN3prZlNEdTNZT2lBbjJuZkhKOEIwOG9VOHQzTGdnTWhuLVlLOXNDd3RqOWZQbkl4VzRRbHNwWU54ald2RjJlOHJXQU9yNnBmRlgyLVRZNUpRRGdNY0U?oc=5",
+          "source": "CBC",
+          "published": "2026-08-09T08:00:00Z"
         }
       ]
     }
