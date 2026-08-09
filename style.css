@@ -76,6 +76,12 @@ header h1 {
   background: rgba(255, 107, 122, 0.22);
 }
 
+.nav-buttons {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
 #charts {
   display: grid;
   grid-template-columns: 1fr;
@@ -379,4 +385,40 @@ footer {
 
 .pm-unhealthy {
   color: #f87171;
+}
+
+/* News page */
+
+.news-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.news-item {
+  display: block;
+  background: var(--card-bg);
+  border-radius: 16px;
+  box-shadow: var(--shadow-card);
+  padding: 16px 20px;
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.15s ease;
+}
+
+.news-item:hover {
+  background: #191a20;
+}
+
+.news-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.4;
+}
+
+.news-meta {
+  margin-top: 6px;
+  font-size: 0.75rem;
+  color: var(--muted);
 }

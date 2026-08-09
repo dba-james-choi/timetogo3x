@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Saanich / Victoria / Vancouver / Canada 뉴스</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="page-header">
+    <div>
+      <h1>Saanich · Victoria · Vancouver · Canada 뉴스</h1>
+      <p class="subtitle">하루 1회 자동 갱신 · 매일 Victoria 기준 아침 6시 (GitHub Actions)</p>
+      <p class="page-updated-at" id="page-updated-at">마지막 갱신 확인 중...</p>
+    </div>
+    <div class="nav-buttons">
+      <a class="nav-button" href="index.html">← 차트 홈</a>
+      <a class="nav-button" href="weather.html">🌤 날씨</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="weather-section">
+      <h2 class="section-title">Saanich Top 3</h2>
+      <div class="news-list" id="news-saanich"></div>
+    </section>
+
+    <section class="weather-section">
+      <h2 class="section-title">Victoria Top 3</h2>
+      <div class="news-list" id="news-victoria"></div>
+    </section>
+
+    <section class="weather-section">
+      <h2 class="section-title">Vancouver Top 3</h2>
+      <div class="news-list" id="news-vancouver"></div>
+    </section>
+
+    <section class="weather-section">
+      <h2 class="section-title">Canada Top 3</h2>
+      <div class="news-list" id="news-canada"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>데이터: Google News RSS · 자동 갱신: GitHub Actions (하루 1회)</p>
+  </footer>
+
+  <script src="news.js"></script>
+</body>
+</html>
