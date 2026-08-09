@@ -89,6 +89,16 @@ RSI와 같은 패턴. `calculate_sma()`가 단순이동평균(직전 200개 종�
   뒤 1시간 뒤 "맞는" 실행이 다시 갱신하면서 하루 2번 커밋이 생길 수 있음 — 날씨 워크플로우와
   같은 이유로 문제 삼지 않음.
 
+## 뉴스 한글 번역
+
+`translate_to_korean()`이 **비공식 Google Translate 엔드포인트**(`translate.googleapis.com/
+translate_a/single?client=gtx...`)로 각 제목을 번역해서 `title_ko` 필드에 저장한다. API 키
+불필요 — Yahoo Finance chart API, Google News RSS와 같은 "무료지만 비공식/무보장" 계열.
+개별 기사 번역이 실패해도(네트워크 오류, 응답 형식 변화 등) 그 기사의 `title_ko`만
+`null`이 되고 전체 워크플로우는 계속 진행됨 — 번역은 원문 제목 위에 얹는 보너스지 핵심
+데이터가 아니라서 실패를 워크플로우 실패로 취급하지 않음. 프론트(`news.js`)는 `title_ko`가
+있으면 `"원문 - 번역"` 한 줄로, 없으면 원문만 표시.
+
 ## 이 환경(Claude Code 원격 세션)에서의 제약
 
 - 이 세션의 네트워크는 화이트리스트된 도메인만 통과하는 프록시를 거치므로, `query1.finance.yahoo.com`이나

@@ -4,6 +4,7 @@ import re
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -69,6 +70,27 @@ def fetch_rss_with_retries(url: str) -> ET.Element:
     raise RuntimeError(f"failed to fetch {url}: {last_exc}")
 
 
+def translate_to_korean(text: str) -> str | None:
+    # Unofficial Google Translate endpoint (client=gtx) -- no API key,
+    # same "free but undocumented" tradeoff already accepted elsewhere in
+    # this project (Yahoo Finance chart API, Google News RSS). A failure
+    # here just means no translation for that headline, never a hard
+    # workflow failure, since it's a nice-to-have on top of the real title.
+    if not text:
+        return None
+    url = (
+        "https://translate.googleapis.com/translate_a/single"
+        "?client=gtx&sl=auto&tl=ko&dt=t&q=" + urllib.parse.quote(text)
+    )
+    req = urllib.request.Request(url, headers=HEADERS)
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+        return "".join(segment[0] for segment in data[0] if segment[0]).strip() or None
+    except (urllib.error.URLError, ValueError, KeyError, IndexError, TypeError):
+        return None
+
+
 def clean_title(title: str, source: str | None) -> str:
     # Google News titles are formatted as "Headline - Source" (with the
     # <source> tag almost always present too, giving the same name
@@ -104,6 +126,7 @@ def parse_articles(root: ET.Element, limit: int) -> list:
         articles.append(
             {
                 "title": title,
+                "title_ko": translate_to_korean(title),
                 "link": (item.findtext("link") or "").strip(),
                 "source": source,
                 "published": published,

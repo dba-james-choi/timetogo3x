@@ -17,6 +17,16 @@ function formatDateTime(iso) {
   return d.toLocaleString("ko-KR", { timeZone: "UTC", dateStyle: "medium", timeStyle: "short" });
 }
 
+function escapeHtml(str) {
+  return String(str).replace(/[&<>"']/g, (c) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;",
+  }[c]));
+}
+
 function renderSection(key, sectionData) {
   const el = document.getElementById(`news-${key}`);
   if (!sectionData || !sectionData.articles || sectionData.articles.length === 0) {
@@ -26,10 +36,13 @@ function renderSection(key, sectionData) {
   el.innerHTML = sectionData.articles
     .map((a) => {
       const meta = [a.source, formatRelativeTime(a.published)].filter(Boolean).join(" · ");
+      const titleLine = a.title_ko
+        ? `${escapeHtml(a.title)} - ${escapeHtml(a.title_ko)}`
+        : escapeHtml(a.title);
       return `
-    <a class="news-item" href="${a.link}" target="_blank" rel="noopener noreferrer">
-      <div class="news-title">${a.title}</div>
-      <div class="news-meta">${meta}</div>
+    <a class="news-item" href="${escapeHtml(a.link)}" target="_blank" rel="noopener noreferrer">
+      <div class="news-title">${titleLine}</div>
+      <div class="news-meta">${escapeHtml(meta)}</div>
     </a>
   `;
     })
