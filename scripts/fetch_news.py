@@ -70,6 +70,9 @@ def fetch_rss_with_retries(url: str) -> ET.Element:
     raise RuntimeError(f"failed to fetch {url}: {last_exc}")
 
 
+BC_ABBREVIATION_RE = re.compile(r"\bB\.C\.")
+
+
 def translate_to_korean(text: str) -> str | None:
     # Unofficial Google Translate endpoint (client=gtx) -- no API key,
     # same "free but undocumented" tradeoff already accepted elsewhere in
@@ -78,6 +81,12 @@ def translate_to_korean(text: str) -> str | None:
     # workflow failure, since it's a nice-to-have on top of the real title.
     if not text:
         return None
+    # Google Translate reliably misreads "B.C." (British Columbia, which is
+    # what it always means in this project's headlines) as the historical
+    # era "Before Christ", rendering it as "기원전". Expand it before
+    # sending -- unambiguous here since every source is BC/Canada news --
+    # so the translation, not just the fetch, is correct every day.
+    text = BC_ABBREVIATION_RE.sub("British Columbia", text)
     url = (
         "https://translate.googleapis.com/translate_a/single"
         "?client=gtx&sl=auto&tl=ko&dt=t&q=" + urllib.parse.quote(text)
