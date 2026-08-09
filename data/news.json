@@ -1,4 +1,97 @@
 {
-  "updated_at": null,
-  "sections": {}
+  "updated_at": "2026-08-09T02:44:57Z",
+  "sections": {
+    "saanich": {
+      "label": "Saanich",
+      "articles": [
+        {
+          "title": "LETTER: Housing target should fit regional plan for North Saanich",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelhWRFpXd2dUSjU2dDlPRzVGRDZTc1lhVnhvU1Jvc0FhTEQyMWVoOVZ0OV9DTjJnb3BOTmpIejdxY2RJVFlaUmg5YzhZbU1YdWYxMDlPZGFwNFBfTHRjdE9HNVA5MEY4X2lnU19rTUNUcHcwb0xBTWUwR3kyRjVwNVotSjBueTc2TXA0VEFhbHBvVzBQSzFjTjB3UDNjY3ItMXdzU1dyaVlId2lBS0lqaG9iQQ?oc=5",
+          "source": "Vancouver Island Free Daily",
+          "published": "2026-08-08T14:00:14Z"
+        },
+        {
+          "title": "Construction to disrupt traffic patterns at Saanich Peninsula Hospital",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1FUmFxM1I3YU9QVk5VajNNQ3BFOVRKb3RTLS01dEd6cVlPQ1I3VWZ3MkltLUo4Q2dCMmpLdTA5blVna0ZUQ2NOX05POThfcjBxcnp2cHlrcDlIeVFWVXRlVC0yTUphRmJIR20waHY5cDA4VkVVakdDazRRY0I2MldlRHhGVHZqdXVZUkR6SXJ1M3hadFN4Y0daR3ZiMGdq?oc=5",
+          "source": "CHEK News",
+          "published": "2026-08-06T20:35:00Z"
+        },
+        {
+          "title": "PHOTOS: North Saanich aviation museum opens its doors to B.C.’s aviation fans",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTjNrWWwtWFZsU2U1QnBsTjRZQlpYN29vRUtPbm9TWjhhSEZtN0o4MWFPM3RhS1lPcmlHbVd3T1ZFdHlyMzFHYzVTTHRSWEZ1UU55UHlmLU9sMkRXb1dPZFdEYUlybTlLaVhuT0wwYzVyM2ZwT2UwQWlpSFNmMy1sSkVLUUpBTk50NF94WG1iVXg1UlI5empfR0hrWGFHUlhrM1kydGZrcUxrTW45dGZyNg?oc=5",
+          "source": "Saanich News",
+          "published": "2026-08-03T00:11:51Z"
+        }
+      ]
+    },
+    "victoria": {
+      "label": "Victoria",
+      "articles": [
+        {
+          "title": "David Foster Foundation raises $14.5M at star-studded final gala in Victoria",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2JWaTE0SWw2Z2JHblpOV2Z5ejFCdlFhYk9UaWVhQWpGcVQ4eVdxSm5mNW42RWNVX01uZEtMdFUxS1pJblFwaEQyVWpyUm80UDVNVVZ3MGdHc21TOTZzOXNSeWIzVWRNcDhDNXNCOUJfSlBadUt5SnpTWHBOTDZpSXN5RWs2Ujc1UXdDemZadWduZTBnNnFGWGFENXVaSWZXU3RjUUt4aw?oc=5",
+          "source": "CHEK News",
+          "published": "2026-08-08T23:01:13Z"
+        },
+        {
+          "title": "What you need to know about tonight's Foster and Friends show in Victoria",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMktoVkVZWHlfS0pUV0Z0QlVfZGJidjNTa3hjTW5neUI3a0ktakpacGNiY1hxOTExTWFjaXhqakk0RUVOMmpIQVpfczVMRnBDRGhsRHkzcExjOEtIZGh6TV9fbDN0b0RDaGhuZVRWN0xfSXVOTUtGY3F6bFlSMVVZajUtWXJOakh4anczNktxaXRTWFJmelcyR1RBdVJFT1ZyeUoxOV8yYUFLdnBSTmlwOHk2c3FCTE5uNUdHUA?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-08-08T11:45:00Z"
+        },
+        {
+          "title": "David Foster & Friends Concert: What You Need to Know",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMmtoM0U3VE5QTGphZXd3Uk9tNmQ4OWZjZjk2MFNKdE5HdjVvZVFmVVN3TC1aTmlpbk5rbDVxeDU3NVZ4SzBnVjVSbjF5TGpNYjdXczZkTV94aUZCNWhRUGtVclpFQV92ekQ2SmxwbzF1ZktLZlZ3dEVRR0diVWlmRV9rd0IwWm5YS3NSVnVvRzN3V0ZvYzhN?oc=5",
+          "source": "City of Victoria",
+          "published": "2026-08-06T12:00:00Z"
+        }
+      ]
+    },
+    "vancouver": {
+      "label": "Vancouver",
+      "articles": [
+        {
+          "title": "B.C. says it's on a 'generational path to prosperity' after latest rental data release",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fSjZxLUtvMXNiNkxtWmw4R2tQWkcyTmdaM2gzVE9QZ2VYN1JDeXA3MTRqWE9HaHg3djBMcTVPZXNHQlhyaTRscV83QUt1T202OEI3cW9XQThDQmhHUzVOOVREUGZ3aUYwR2JNa0taUFoya1l3VnRFVWZB?oc=5",
+          "source": "Daily Hive",
+          "published": "2026-08-07T18:36:00Z"
+        },
+        {
+          "title": "One of the 'world's finest stadiums': BC Place named one of 20 global 'Stadium Stars'",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0ZfU2E5U0dIRzNnVGlGaG5FR1cyZ0hfNllrZHRkdjg1ZzZKSWhZQkFjb295LVI1OEcyM0N3QUlFc1hYQmk2WGtwQlJYM29PaVpfOUVMUkpvT2ZyM2hwTUMtemJ1c1ozcjJyc0FkZjVZcWFfMks1SDc4RkhTSFZOeWlpTFQ0eVJZS1o3UjJoYzVsbFJkZFdQbFJnemVnOC1Hcmc?oc=5",
+          "source": "Vancouver Is Awesome",
+          "published": "2026-08-06T01:51:16Z"
+        },
+        {
+          "title": "Police in B.C. launch wildfires arson investigations in Interior and Metro Vancouver",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbDVvekx6Z1VXMFBZeXdzcG5DRDEzOFNBaFNtci0ydGFYbXg4eU9wYVlOYlZ6UjhPU0swLXpHZ1Z5UjZ6dWFQNS1vQVNuX3dRRG9MTFVDYUpoNG9vUUhBM09ub2RIM0pHQXRpcXpFRjZBMVB5dUJTYXdrdEhaRWhuOGN3a0N4YVNWLXNJR0V4T2dqNWdCamtUX3A3eS1TSTljUXdMa25YdE15NFZ2NDJpSENwSGNpenVzNTdzdUtxMjQ4UVU?oc=5",
+          "source": "CityNews Vancouver",
+          "published": "2026-08-07T19:25:37Z"
+        }
+      ]
+    },
+    "canada": {
+      "label": "Canada",
+      "articles": [
+        {
+          "title": "B.C. declares province-wide state of emergency amidst wildfires",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb1ZpdWRyT3J1OGtZVGxRZmh5OHhGS1VBa25wVURxZmJ5S2dZcnJ1eTF4RmRzLWxxbHlIM2FLaFpzM2RQalB5VmhrdjBMTHduZ3N4REw3dlR6a3pFNHotUGh4VXk3TzhCS2I5ZWxRY2dWamdEdnZaQWtQa2xxNkwwZmJnV3dQcVNtc21qRmoyVDB6R2gwSmlxSE1LZS0xQ0k0bWg0dVExN29VUXRoSE5zaXZuTUFKbUs2TEIxbA?oc=5",
+          "source": "CBC",
+          "published": "2026-08-08T23:41:28Z"
+        },
+        {
+          "title": "Toronto man wanted on Canada-wide warrant for first-degree murder in woman’s death arrested",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZzU5U2pka0NBVjhuUGFNTjMybU81OWlmVHdSYklLZnZDcW9mQVNqbzl5ejFqVjR5RjktZWV4b05oSkFzcEJqQUtuc2lrc2otTGpUZW1RcHNVa2h6ci1IOXE0aHRXNE1wYi0zMHpfTXN0WmdxeGlzaHFHbFlRM3U1d0Nwd0FWeHI4M2sxVGlUQW9XMklJeEg1dlNPcnJSem81SEc5c3hmTEdndzNKZVNjM0poUWdJb0lqblBqR3gyZXFUVkxKWGc3cWRhWmFlSXFHSGE4?oc=5",
+          "source": "CP24",
+          "published": "2026-08-08T19:02:29Z"
+        },
+        {
+          "title": "Severe thunderstorm watch hits Toronto area with threat of damaging winds and hail",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLXhLNHI0a0F5eUk2ckFBcndabVZCZGJzSWYzN0NYSzdFMFZRZ1ROMmdxbHN5VWViQUlNc1BuaWdPd3RhWG5oLVlmcU13SkpWV1J0X0pTNEpUSzJkU0Y0V3RUc1hFaFBfZ3I3ZTJIN3FvX1QtbGhqTzBxLUQySXRCZi1nalNhRGpmeDg4R0I0bFB5bWgxdDNEY1psOGs2dWhkbHZNUkN4Q2prTjRHQmFTWi1ESG1DaDdGY2ZldlJ4OUNFT3VEeUV2c3JJb3UxNGtKVVJWUnRDYlpiZ3huTkxRYldNOGFQbUtQeDlkMUYwOG95eVZQbFpiYw?oc=5",
+          "source": "Toronto Star",
+          "published": "2026-08-08T17:11:00Z"
+        }
+      ]
+    }
+  }
 }
