@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T14:18:57Z",
+  "updated_at": "2026-08-11T14:50:01Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -19,17 +19,24 @@
           "published": "2026-08-08T15:09:08Z"
         },
         {
-          "title": "Saanich woman missing near Woss for two weeks found safe",
-          "title_ko": "2주 동안 워스(Woss) 근처에서 실종된 사니치(Saanich) 여성이 무사히 발견됐다",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUUtFR2p4VGVfZ3pucXpzaDEyVk5OT2QwZ09KV2RoS3BLMWZkZTRyV19GSXhSS1RoMDRZOTkzTU9ka0diM19BSFJMdVVlblhORWJLdDJQN1R4OElJUG5mLTE0NkhqZ3lUMzl0dkl0MFdkVW9jTnM0bHVENXE1T2R2QnJUTGU5OEk0SGxXclJZSnF4MlJwNWUwOXR5SDFvak1fbUlma3Uyd1lmUQ?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-08-09T23:00:00Z"
+          "title": "Pedestrian dies after collision with commercial vehicle in Saanich",
+          "title_ko": "Saanich에서 상업용 차량과 충돌 후 보행자 사망",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcE1mX2k4MzJySzVMR1pSdVdIdVZPUG1tZFZyNXB3bDJuYnctWUU2Ql82RlFGb01BWTBxSVJFQmZUY3g3MlJUWVlRMm8yUnd5RzNhZWpiaGJLTXltZDNidDhYQ0xYUlNTcUpxM3JmbENlYUhMYXEzMXk4eVdXRlhBeG9RM2JvSlRwM1BzcTdoMnlJaEVzdUR3dm11UmY5a1JkZmc?oc=5",
+          "source": "Today in BC",
+          "published": "2026-08-10T00:47:44Z"
         }
       ]
     },
     "victoria": {
       "label": "Victoria",
       "articles": [
+        {
+          "title": "Police watchdog probes alleged injury in Victoria liquor store arrest",
+          "title_ko": "경찰 감시단, 빅토리아 주류 판매점 체포 부상 혐의 조사",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0hLVEwtX2hLNlFvYTVpam0zNURaaEp5Zm5mSmNoaTNhMkZFTTdYa2RNeHVLeGFTc0c4NmlqS2ttcEVfazA3bFpSaXBCMXdOQko2dG5IWUg3NGctYWpFSC1ScVF5SmdmRWRJMy1hc2VYY1hEOUJOYnNpMWc2cjNFMTJ0R0FTWVdvYkRmYmhMbUw5MFVGMEJ6UHNJcUxBcGIyTHF1NW9BSlJxZmNMcVMwcXFmZlphRlFNMV80?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-08-10T23:30:00Z"
+        },
         {
           "title": "Hatley Castle, Victoria waterfront lands among properties proposed for First Nations treaty",
           "title_ko": "First Nations 조약을 위해 제안된 부동산 중 빅토리아 해안가의 해틀리 성(Hatley Castle)",
@@ -43,13 +50,6 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFBBLVVleGQta1RTSmFMbGVHUnBmRURoMjE1WnVyZkU4RFZDZ0JnN0JmRFpla3hXaV9RY19LMmxSRkRwVGhmRmoyc1poeGEwUkJ6amlhbkxYWkxDZTlTSEhfWFFGaE0zVnRYM3Y0Q0FJMl9JanlIQW1kS1Ywd0d1cVFIWWdaOHQ4eGZrZUcxX3pOVVpkSjdzZjNSYmlVQkRWR1ZTTjctV0lvSXdVNFZpVzQzbXY2TmdxQU9B?oc=5",
           "source": "Times Colonist",
           "published": "2026-08-09T12:00:00Z"
-        },
-        {
-          "title": "Police watchdog probes alleged injury in Victoria liquor store arrest",
-          "title_ko": "경찰 감시단, 빅토리아 주류 판매점 체포 부상 혐의 조사",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0hLVEwtX2hLNlFvYTVpam0zNURaaEp5Zm5mSmNoaTNhMkZFTTdYa2RNeHVLeGFTc0c4NmlqS2ttcEVfazA3bFpSaXBCMXdOQko2dG5IWUg3NGctYWpFSC1ScVF5SmdmRWRJMy1hc2VYY1hEOUJOYnNpMWc2cjNFMTJ0R0FTWVdvYkRmYmhMbUw5MFVGMEJ6UHNJcUxBcGIyTHF1NW9BSlJxZmNMcVMwcXFmZlphRlFNMV80?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-08-10T23:30:00Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "B.C. wildfires could bring smoke back to Vancouver this week, meteorologist says",
-          "title_ko": "브리티시 컬럼비아 산불로 인해 이번 주 밴쿠버에 연기가 다시 발생할 수 있다고 기상학자는 말했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXZzVzBueUFzOUlQYnVDM1JyRkEyMFNCbld5N01ZWWVYSmhDVTMtMnNRWWVTSlBXTTRVVk1ab21OOWxuOWN2Q2tWVHFVRllGZzE0RkNDNlk5eWJNSGNxd2tKZXptLTZWakd2TTRMVnZkVVM3REdCM2tma1VhU08tYXU2QS1DbnN1RkI5aHAyOUlhOXpE?oc=5",
-          "source": "vancouverisawesome.com",
-          "published": "2026-08-11T00:15:00Z"
-        },
-        {
-          "title": "BC NDP government's First Nations land transfer commitments span 12 Vancouvers | Daily Hive | Urbanized",
-          "title_ko": "BC NDP 정부의 원주민 토지 이전 약속은 12개 밴쿠버에 걸쳐 있습니다 | 데일리 하이브 | 도시화",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDdBeUdJdVB0c0Y2cEJJNm5LUG1LZUJrQzZWeVlaMEpiNnhFZ1JndlFuLXVZd09wSHQzeTdmUlJsOW12QUVITEMwR1owSFpHYk83YndqLXl5ZWFyRWFXNmpWQ1NlemJwRGN4Z1l5dFE1am55SzdlUERiM0VSTkVtOHM4S0dBRWt1a2c1amozNXh3NkRsOTFRZzhZTWdOU3M5LS01THhTNFI?oc=5",
-          "source": "Daily Hive",
-          "published": "2026-08-11T00:26:00Z"
-        },
-        {
           "title": "Search for B.C.'s best roadside attraction: Vancouver Island semifinals",
           "title_ko": "브리티시 컬럼비아 최고의 길가 명소 검색: 밴쿠버 섬 준결승",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjY1UTBSYXRqcXJNTEl4QTZuMHc1ZWpFSmdiLTlzZDBCN1V5b1cxbFYtaklYanlmd3BRNmR3bTlPZkdmSVBLVldhWDNqcFdlUF9vMVpSSVNsUkhRWkFURzZxeFV5SDA4UXptRTBjS3UtejFHbi15ZFk5alRuQnlFdGFoNGd1TkpyTTNWZ3ZPdV9YUGpGbGxXVmZBMEkyTnY0UzVjV21kYjg?oc=5",
-          "source": "cbc.ca",
+          "source": "CBC",
           "published": "2026-08-10T17:29:21Z"
+        },
+        {
+          "title": "B.C. wildfires could bring smoke back to Vancouver this week, meteorologist says",
+          "title_ko": "브리티시 컬럼비아 산불로 인해 이번 주 밴쿠버에 연기가 다시 발생할 수 있다고 기상학자는 말했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXZzVzBueUFzOUlQYnVDM1JyRkEyMFNCbld5N01ZWWVYSmhDVTMtMnNRWWVTSlBXTTRVVk1ab21OOWxuOWN2Q2tWVHFVRllGZzE0RkNDNlk5eWJNSGNxd2tKZXptLTZWakd2TTRMVnZkVVM3REdCM2tma1VhU08tYXU2QS1DbnN1RkI5aHAyOUlhOXpE?oc=5",
+          "source": "Vancouver Is Awesome",
+          "published": "2026-08-11T00:15:00Z"
+        },
+        {
+          "title": "Evacuees consider uncertain future after harrowing escapes from B.C. wildfire",
+          "title_ko": "브리티시컬럼비아 산불로 대피한 피난민들, 불확실한 미래를 고민하다",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOck5zODlEM3JVWEZCcmlUakUzUW00SUFaNEF5NmVYQlVmdlAySEVTNkpDZVF6TmpJb2piMkNod0VDSno5c0R6NFpiQWZ4SEJURkoydTJqRlVjakd3UWloZXBubEEteE82SnlvMDJmTXZERTg0bGxjbk1UcjNaQllxUUF6ZWoteVNzUmdBOEdYSFJac1lMS1E?oc=5",
+          "source": "Vancouver Sun",
+          "published": "2026-08-11T00:10:46Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
+          "title": "Toronto police search for missing 63-year-old woman",
+          "title_ko": "토론토 경찰, 실종된 63세 여성 수색",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRldyWHZzaGZFQUpSUVNKN3lmS0lWSUFkYVVnQTZUeXB5SVppQVZYd1F2dXJleEw1M2xHYUZ5QjR6RWUyNkkxaGJLMTBtemVvX3Z5aXoxS0c5eXFCSl9Kamd2SDV5dUJWblRrTG50cUI4blctOUxRdUo2bXdFaVhzWGZNWGdNcGxNZ2ltZG1uWkFXYUp5UDB6UjlxZkdPMVU?oc=5",
+          "source": "CP24",
+          "published": "2026-08-11T11:45:54Z"
+        },
+        {
+          "title": "Researchers looking into soot falling across Hamilton say they've uncovered what's in the grime",
+          "title_ko": "해밀턴 전역에 떨어지는 그을음을 조사하는 연구원들은 때 속에 무엇이 있는지 알아냈다고 말합니다.",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90NVVPU2NEZUNjMlR1dFZwdHp1bmpUeXNweGpfLTg0dkRPRkZyTDhpa0JrWFNuek9LakNMN0l5OFljdGlkdHBBd3hPNXZ2b09ncHN0b2lQdzNfLTR0ZDhINXBJekhjQWFCN084eGdMUGJZc0RF?oc=5",
+          "source": "CBC",
+          "published": "2026-08-11T08:00:00Z"
+        },
+        {
           "title": "Evacuees consider uncertain future after harrowing escapes from B.C. wildfire",
           "title_ko": "브리티시컬럼비아 산불로 대피한 피난민들, 불확실한 미래를 고민하다",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOck5zODlEM3JVWEZCcmlUakUzUW00SUFaNEF5NmVYQlVmdlAySEVTNkpDZVF6TmpJb2piMkNod0VDSno5c0R6NFpiQWZ4SEJURkoydTJqRlVjakd3UWloZXBubEEteE82SnlvMDJmTXZERTg0bGxjbk1UcjNaQllxUUF6ZWoteVNzUmdBOEdYSFJac1lMS1E?oc=5",
           "source": "Vancouver Sun",
           "published": "2026-08-11T00:10:46Z"
-        },
-        {
-          "title": "Man accused of sexually assaulting victim, recording attack turns himself in: Toronto police",
-          "title_ko": "피해자를 성폭행한 혐의로 기소된 남성, 폭행 장면을 녹음하고 자백: 토론토 경찰",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOXJWeHhiQlhqMV9zOXB4WlpkR3lqOWQ4RTlSbFB2QUlTcWR2bzMwMU9mRkhIdTZ4Qzh5R0FSVm9KVUpKOEZ5QlVzdnpzMEtRN0F1eHNmYXc5VTd6S2MteXUtbFoxZlVLXzFpTWs5RUFuMkowOGo5aHE5THBXaDBRanJPTVc5ZUxxa3A1NzFlNXRGajlhcDJvLWtUNGNlMklrQWNTMnNwQjF0aUJId0hwc2tCc1NVWkVhaFNQMFVaY25EQWRVeXZvOVV3?oc=5",
-          "source": "CTV News",
-          "published": "2026-08-11T10:48:46Z"
-        },
-        {
-          "title": "‘Some type of closure’ after Montreal man found guilty of murdering 9-year-old daughter",
-          "title_ko": "몬트리올 남성, 9살 딸 살해 혐의로 유죄판결 받은 후 '일종의 폐쇄'",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGIySjM4c2xwTURZSGxrTmo0anJjeGEzc0Z6UGJLNUdIcUg1LWluVFFGbkRBd2ZyeEdrNFhqc1lfbmlZVGhPWHN4cnBiZDNOZW56d0poMm12dkZ1RzdyRmE2QmR3dXFJeU56dG0xRE10cmhocVp2ZExzaE1Ga2FJQnpXbzBJR1ZpY2VJQmJxclNubFgyR0txWHBYNVF4UEdQRVE?oc=5",
-          "source": "Montreal Gazette",
-          "published": "2026-08-11T02:59:19Z"
         }
       ]
     }
