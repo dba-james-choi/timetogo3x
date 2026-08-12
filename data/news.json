@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T14:19:22Z",
+  "updated_at": "2026-08-12T14:50:49Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -8,7 +8,7 @@
           "title": "Improving traffic flow, safety with Keating Cross Road Overpass completion",
           "title_ko": "Keating Cross Road 고가도로 완공으로 교통 흐름 개선 및 안전",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yRGpiQ25XNkUzbi05OVJmX2FqVWJBeEo2VW1vOTc1UnJNNmpFRUZpWkdIRVpUbnZaRkltc2VEaHZHelI2bGZFOTk3Sl92Y09OTDl1amVRRDZqVjhxdUE?oc=5",
-          "source": "BC Gov News",
+          "source": "news.gov.bc.ca",
           "published": "2026-08-11T20:40:02Z"
         },
         {
@@ -31,13 +31,6 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Thousands join David Foster and friends for show in Victoria's Inner Harbour",
-          "title_ko": "수천 명이 데이비드 포스터(David Foster)와 친구들과 함께 빅토리아 이너 하버(Inner Harbor)에서 공연을 펼쳤습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFBBLVVleGQta1RTSmFMbGVHUnBmRURoMjE1WnVyZkU4RFZDZ0JnN0JmRFpla3hXaV9RY19LMmxSRkRwVGhmRmoyc1poeGEwUkJ6amlhbkxYWkxDZTlTSEhfWFFGaE0zVnRYM3Y0Q0FJMl9JanlIQW1kS1Ywd0d1cVFIWWdaOHQ4eGZrZUcxX3pOVVpkSjdzZjNSYmlVQkRWR1ZTTjctV0lvSXdVNFZpVzQzbXY2TmdxQU9B?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-08-09T12:00:00Z"
-        },
-        {
           "title": "Rise in B.C. drowning deaths prompts call for safety on Victoria beaches",
           "title_ko": "브리티시컬럼비아 익사 사망자 증가로 빅토리아 해변에 안전 촉구",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2xMZWtqVl9xQjFLM09WRERwRVBCb1dDVlFqa1B3ZFFfbmxjaGpPcGIya05rWU9fSGVheTFrTHNBNVRtSVlRdG9yX1k1eXJtMWd6MGJhWFBjNnc0NjVMeVkzRVczcmo1ZV9BajJ2Zzk0YmZQd0ZEenBaZmhtNVhfemJSTzlmVGVtamVwbVZkcXNHLXdHbDN5S012cERfR09mcEV3NFB4Vmt1dkE?oc=5",
@@ -50,6 +43,13 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2JWaTE0SWw2Z2JHblpOV2Z5ejFCdlFhYk9UaWVhQWpGcVQ4eVdxSm5mNW42RWNVX01uZEtMdFUxS1pJblFwaEQyVWpyUm80UDVNVVZ3MGdHc21TOTZzOXNSeWIzVWRNcDhDNXNCOUJfSlBadUt5SnpTWHBOTDZpSXN5RWs2Ujc1UXdDemZadWduZTBnNnFGWGFENXVaSWZXU3RjUUt4aw?oc=5",
           "source": "CHEK News",
           "published": "2026-08-08T23:01:13Z"
+        },
+        {
+          "title": "B.C.'s Hatley Castle, parcels of downtown Victoria among lands earmarked for transfer to First Nations",
+          "title_ko": "브리티시 컬럼비아의 해틀리 성(퍼스트 네이션스로 이전하도록 지정된 토지 중 빅토리아 시내의 구획)",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUliN3NPdjlkUFhTblYzenluRkZhUEhSMlVBVVI1cl9sZmcyXy1lX1Fsc1BWbmlfU2c0T2FWREZBVFdmUWtVOTM0bUdEOTZ5bXJWUUtnTjM2NDJkektVbkZIN2tEdUhyaS13ZE8wSzBIdWtSZk9BOHh5bURLUTJzQ3RnOGtSdG9pOTBMU3ppNmIzQ2RneUNGMTFWcmFZMTBPLTY0eUYyOGRrY3RnMGl4NmpnMVZwaEU?oc=5",
+          "source": "nationalpost.com",
+          "published": "2026-08-11T22:10:31Z"
         }
       ]
     },
@@ -93,15 +93,15 @@
           "title": "Police to provide update on fatal stabbing of man outside Hamilton pool hall",
           "title_ko": "경찰, 해밀턴 당구장 밖에서 남성 살해에 대한 최신 정보 제공",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOamRObDJfWVFpYlNVZTYzUkhKbjR6R1hmakpFa21PcHdURkZlMG9CX19PdUYzaVBjYlZpa05LRXpWMzhVMk1PYjFrV1loaXJKSTFVTG5fdGprRWxwSWtmNnZ2YlltUDAyOXFNMHh3VEF4TVc2U3lmWWYzVVBqZTlMSFRtckpCWjhISC1fY0ZDc21Ta1JLZXNsakNTd2VfY25CNDl5bUxZQXZZeWpDNm1paWtLV01Sbld5ZzVBd3VtUW0?oc=5",
-          "source": "CP24",
+          "source": "cp24.com",
           "published": "2026-08-12T10:30:28Z"
         },
         {
-          "title": "'An absolute gut punch': Dozens facing unemployment as South Keys Metro converts to Food Basics",
-          "title_ko": "'절대적인 직감': South Keys Metro가 Food Basics로 전환함에 따라 수십 명이 실업에 직면",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRHZfdXUwR1J3a2JQdkVIeGFVSG9WWEJRSkFNV2xBWGdOZFgxVVJmWVlUX0xwLWlyYWtIbnY4cWtwMlpZc2IzNk5hMWR2VFlaMG91MzNIVTZwZUxPUVYyWktZTjZCVWVKaGNWTWE4MHp0ai1PbjY3dS0xd3hQY1UyUU80amw2ZWt4S2djUGVxMllfc25aQWtHZHJZbnBUYWJrYXZuMVpUdUV1OEVQR0Y4XzFIcXJZV3A5?oc=5",
-          "source": "CBC",
-          "published": "2026-08-12T08:00:00Z"
+          "title": "Calgary owners of B.C. wineries facing uncertain futures following wildfire evacuation",
+          "title_ko": "산불 대피 이후 불확실한 미래에 직면한 브리티시 컬럼비아 와이너리의 캘거리 소유주",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdW9HMkFjM2N5Q09OVWFHa29fMWlyTndNM1FEa3d4NEU2WUlIbExLemFTeFAwLTN1cXE2SGc3bE5MYzN3bTFrVC10b2dhWlQwWXNRU3BZY2docmJfT1ZsMk9ROFNhSGtHOWFtaFNPX0laOXBHQ01McExBa0ZwanpJRldSWjNpS0VGT196bEduZ3JjRHZwM1BsUFNLZ3Ntd0Qxc1Rpakt4Nmt6WjVyVkE?oc=5",
+          "source": "Calgary Herald",
+          "published": "2026-08-11T20:37:14Z"
         }
       ]
     }
