@@ -1,14 +1,21 @@
 {
-  "updated_at": "2026-08-11T14:50:01Z",
+  "updated_at": "2026-08-12T14:19:22Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
+          "title": "Improving traffic flow, safety with Keating Cross Road Overpass completion",
+          "title_ko": "Keating Cross Road 고가도로 완공으로 교통 흐름 개선 및 안전",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yRGpiQ25XNkUzbi05OVJmX2FqVWJBeEo2VW1vOTc1UnJNNmpFRUZpWkdIRVpUbnZaRkltc2VEaHZHelI2bGZFOTk3Sl92Y09OTDl1amVRRDZqVjhxdUE?oc=5",
+          "source": "BC Gov News",
+          "published": "2026-08-11T20:40:02Z"
+        },
+        {
           "title": "Saanich Fire sends crews to help with wildfires amid provincial state of emergency",
           "title_ko": "Saanich Fire는 주 비상사태 속에서 산불 진화를 돕기 위해 인력을 파견합니다.",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlhvMVR0UVNCSVhfTnRfakczUnhHRmxsZENXVUNwY2hWcGNMUVhUcUhtT2luSFVMZjFTRWdxS2hpZlV3a05WYUJNTzdlN0FPZmVLaE92M3d2d3JxdkQwZnVnUExTV1ZzOGtRLTI3Snd4SWlwYUVRYkVtN2V6RDdiX3BVV05wMjJGbjl5bjBxOEd6MjZTMloxTk8xcjVJY0VRRlExc3Zrbk5lMmwtak9rRDlPd2pHT2p3T2JkNnJEbw?oc=5",
-          "source": "Nanaimo News Bulletin",
+          "source": "nanaimobulletin.com",
           "published": "2026-08-10T17:52:29Z"
         },
         {
@@ -17,13 +24,6 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNek45ZUhTWTdJVThRUE5NZ3h4UnRsT3lUblkyLXdwUFdBLXctN2pWMGZ3VHJBWFBKQWVNZnNhZ3M5WlBCWW5hSE9DTXVKZ25SYlRYSmpKdjh2aWZIZHVEelE1ZkJNZzB5aC1uWDMyQ3BuQzBhdU4zb0s5VlVCbThJT21Hb1U3LTdIN29zQ0lXcms2VTRobHNYTExzQlY?oc=5",
           "source": "Victoria News",
           "published": "2026-08-08T15:09:08Z"
-        },
-        {
-          "title": "Pedestrian dies after collision with commercial vehicle in Saanich",
-          "title_ko": "Saanich에서 상업용 차량과 충돌 후 보행자 사망",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcE1mX2k4MzJySzVMR1pSdVdIdVZPUG1tZFZyNXB3bDJuYnctWUU2Ql82RlFGb01BWTBxSVJFQmZUY3g3MlJUWVlRMm8yUnd5RzNhZWpiaGJLTXltZDNidDhYQ0xYUlNTcUpxM3JmbENlYUhMYXEzMXk4eVdXRlhBeG9RM2JvSlRwM1BzcTdoMnlJaEVzdUR3dm11UmY5a1JkZmc?oc=5",
-          "source": "Today in BC",
-          "published": "2026-08-10T00:47:44Z"
         }
       ]
     },
@@ -31,25 +31,25 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Police watchdog probes alleged injury in Victoria liquor store arrest",
-          "title_ko": "경찰 감시단, 빅토리아 주류 판매점 체포 부상 혐의 조사",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0hLVEwtX2hLNlFvYTVpam0zNURaaEp5Zm5mSmNoaTNhMkZFTTdYa2RNeHVLeGFTc0c4NmlqS2ttcEVfazA3bFpSaXBCMXdOQko2dG5IWUg3NGctYWpFSC1ScVF5SmdmRWRJMy1hc2VYY1hEOUJOYnNpMWc2cjNFMTJ0R0FTWVdvYkRmYmhMbUw5MFVGMEJ6UHNJcUxBcGIyTHF1NW9BSlJxZmNMcVMwcXFmZlphRlFNMV80?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-08-10T23:30:00Z"
-        },
-        {
-          "title": "Hatley Castle, Victoria waterfront lands among properties proposed for First Nations treaty",
-          "title_ko": "First Nations 조약을 위해 제안된 부동산 중 빅토리아 해안가의 해틀리 성(Hatley Castle)",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFd3X1dEcV9RbEk4NEk4T2pHNjNDR2lhNVBmZmcwUkJERTBIVTh4NHMySzh4ZjNUbWZvejUwblZzdDRWUldQMzMxWFlPWmUzd2hsUFRNcDloVmNDemhwbWpPa2F5MklpemVmWXZNX05GYUswcnR0N0tGLWNvdzRSYWU4aFNNR3NpNm8xT0EydWpBUzN3b1RUWTFqV0I3bEFGa1l3ZVhOcklBeWhMdjh1YklXTVNaUy1DX2pB?oc=5",
-          "source": "CHEK News",
-          "published": "2026-08-09T18:11:39Z"
-        },
-        {
           "title": "Thousands join David Foster and friends for show in Victoria's Inner Harbour",
           "title_ko": "수천 명이 데이비드 포스터(David Foster)와 친구들과 함께 빅토리아 이너 하버(Inner Harbor)에서 공연을 펼쳤습니다.",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFBBLVVleGQta1RTSmFMbGVHUnBmRURoMjE1WnVyZkU4RFZDZ0JnN0JmRFpla3hXaV9RY19LMmxSRkRwVGhmRmoyc1poeGEwUkJ6amlhbkxYWkxDZTlTSEhfWFFGaE0zVnRYM3Y0Q0FJMl9JanlIQW1kS1Ywd0d1cVFIWWdaOHQ4eGZrZUcxX3pOVVpkSjdzZjNSYmlVQkRWR1ZTTjctV0lvSXdVNFZpVzQzbXY2TmdxQU9B?oc=5",
           "source": "Times Colonist",
           "published": "2026-08-09T12:00:00Z"
+        },
+        {
+          "title": "Rise in B.C. drowning deaths prompts call for safety on Victoria beaches",
+          "title_ko": "브리티시컬럼비아 익사 사망자 증가로 빅토리아 해변에 안전 촉구",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2xMZWtqVl9xQjFLM09WRERwRVBCb1dDVlFqa1B3ZFFfbmxjaGpPcGIya05rWU9fSGVheTFrTHNBNVRtSVlRdG9yX1k1eXJtMWd6MGJhWFBjNnc0NjVMeVkzRVczcmo1ZV9BajJ2Zzk0YmZQd0ZEenBaZmhtNVhfemJSTzlmVGVtamVwbVZkcXNHLXdHbDN5S012cERfR09mcEV3NFB4Vmt1dkE?oc=5",
+          "source": "Saanich News",
+          "published": "2026-08-12T00:32:05Z"
+        },
+        {
+          "title": "David Foster Foundation raises $14.5M at star-studded final gala in Victoria",
+          "title_ko": "데이비드 포스터 재단(David Foster Foundation), 빅토리아에서 열린 수많은 스타들이 참석한 최종 갈라에서 1,450만 달러 모금",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2JWaTE0SWw2Z2JHblpOV2Z5ejFCdlFhYk9UaWVhQWpGcVQ4eVdxSm5mNW42RWNVX01uZEtMdFUxS1pJblFwaEQyVWpyUm80UDVNVVZ3MGdHc21TOTZzOXNSeWIzVWRNcDhDNXNCOUJfSlBadUt5SnpTWHBOTDZpSXN5RWs2Ujc1UXdDemZadWduZTBnNnFGWGFENXVaSWZXU3RjUUt4aw?oc=5",
+          "source": "CHEK News",
+          "published": "2026-08-08T23:01:13Z"
         }
       ]
     },
@@ -57,11 +57,11 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "Search for B.C.'s best roadside attraction: Vancouver Island semifinals",
-          "title_ko": "브리티시 컬럼비아 최고의 길가 명소 검색: 밴쿠버 섬 준결승",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjY1UTBSYXRqcXJNTEl4QTZuMHc1ZWpFSmdiLTlzZDBCN1V5b1cxbFYtaklYanlmd3BRNmR3bTlPZkdmSVBLVldhWDNqcFdlUF9vMVpSSVNsUkhRWkFURzZxeFV5SDA4UXptRTBjS3UtejFHbi15ZFk5alRuQnlFdGFoNGd1TkpyTTNWZ3ZPdV9YUGpGbGxXVmZBMEkyTnY0UzVjV21kYjg?oc=5",
-          "source": "CBC",
-          "published": "2026-08-10T17:29:21Z"
+          "title": "B.C. may transfer Crown land to Vancouver Island First Nations",
+          "title_ko": "브리티시 컬럼비아는 왕권을 밴쿠버 섬 원주민에게 양도할 수 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUlFWFdKaDBiNUdqS3NJWHpHaUdtZG1CTjl2MVFGR240cURrbVg3UXpORDZHMXNxaS1sNDNhZXluSHVtMFIyemJLSGJVMWVnLW1TX2xBZXEtOUN3UFoxQ1dkeGk2Z1h3NG4ta0VlN1QtSmtxOW1CU1Rja01hQjJEZ19zSUV0UjROQTN6cWlXeHl6SHVlRUZ3VnN3?oc=5",
+          "source": "Global News",
+          "published": "2026-08-12T01:22:48Z"
         },
         {
           "title": "B.C. wildfires could bring smoke back to Vancouver this week, meteorologist says",
@@ -71,11 +71,11 @@
           "published": "2026-08-11T00:15:00Z"
         },
         {
-          "title": "Evacuees consider uncertain future after harrowing escapes from B.C. wildfire",
-          "title_ko": "브리티시컬럼비아 산불로 대피한 피난민들, 불확실한 미래를 고민하다",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOck5zODlEM3JVWEZCcmlUakUzUW00SUFaNEF5NmVYQlVmdlAySEVTNkpDZVF6TmpJb2piMkNod0VDSno5c0R6NFpiQWZ4SEJURkoydTJqRlVjakd3UWloZXBubEEteE82SnlvMDJmTXZERTg0bGxjbk1UcjNaQllxUUF6ZWoteVNzUmdBOEdYSFJac1lMS1E?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-08-11T00:10:46Z"
+          "title": "Vancouver fireworks display cancelled amid wildfire concerns",
+          "title_ko": "산불 우려로 밴쿠버 불꽃놀이 취소",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFBwcVdpTXV3OENnLUp2NTlJV2ZaaTlvaUhUVlZhTW9iaWVwTURQbWNldi1KMG1wbUZIUGszSWZ2SkI1MGxNSGxFSV81ZW5HU3BRR2wzWmZNcmp1dnJPMXVYdTZIeXhWNllMbm1nTWFKa0puYzkyWmtFZTlzZ0V6dDhaelNQcUY3NXN5VFl1WG03eEtwaTRKT3N4bGE0WVpMa0Jodg?oc=5",
+          "source": "CTV News",
+          "published": "2026-08-11T20:09:25Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Toronto police search for missing 63-year-old woman",
-          "title_ko": "토론토 경찰, 실종된 63세 여성 수색",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRldyWHZzaGZFQUpSUVNKN3lmS0lWSUFkYVVnQTZUeXB5SVppQVZYd1F2dXJleEw1M2xHYUZ5QjR6RWUyNkkxaGJLMTBtemVvX3Z5aXoxS0c5eXFCSl9Kamd2SDV5dUJWblRrTG50cUI4blctOUxRdUo2bXdFaVhzWGZNWGdNcGxNZ2ltZG1uWkFXYUp5UDB6UjlxZkdPMVU?oc=5",
-          "source": "CP24",
-          "published": "2026-08-11T11:45:54Z"
-        },
-        {
-          "title": "Researchers looking into soot falling across Hamilton say they've uncovered what's in the grime",
-          "title_ko": "해밀턴 전역에 떨어지는 그을음을 조사하는 연구원들은 때 속에 무엇이 있는지 알아냈다고 말합니다.",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90NVVPU2NEZUNjMlR1dFZwdHp1bmpUeXNweGpfLTg0dkRPRkZyTDhpa0JrWFNuek9LakNMN0l5OFljdGlkdHBBd3hPNXZ2b09ncHN0b2lQdzNfLTR0ZDhINXBJekhjQWFCN084eGdMUGJZc0RF?oc=5",
+          "title": "What you need to know about B.C. wildfires on Aug. 12",
+          "title_ko": "8월 12일 브리티시 컬럼비아 산불에 대해 알아야 할 사항",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN3RFa0U2VEswYjVCU0MwanRUUGFMYnFwRDlIMEVEQzdTZzNkUElBbTVKSDc4by04X3Z0dEV2SndkNkktcUdDMkNCOHNhMHhTMGVhVHBmYUE2YWlMdFdXcGxhNDhINml6RTJsQ0ROTEFUSDlPZ1AyNDRlbzBKWXVSY3hJU3VoQzBWTjZWX1BVakE4RmhI?oc=5",
           "source": "CBC",
-          "published": "2026-08-11T08:00:00Z"
+          "published": "2026-08-12T12:00:00Z"
         },
         {
-          "title": "Evacuees consider uncertain future after harrowing escapes from B.C. wildfire",
-          "title_ko": "브리티시컬럼비아 산불로 대피한 피난민들, 불확실한 미래를 고민하다",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOck5zODlEM3JVWEZCcmlUakUzUW00SUFaNEF5NmVYQlVmdlAySEVTNkpDZVF6TmpJb2piMkNod0VDSno5c0R6NFpiQWZ4SEJURkoydTJqRlVjakd3UWloZXBubEEteE82SnlvMDJmTXZERTg0bGxjbk1UcjNaQllxUUF6ZWoteVNzUmdBOEdYSFJac1lMS1E?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-08-11T00:10:46Z"
+          "title": "Police to provide update on fatal stabbing of man outside Hamilton pool hall",
+          "title_ko": "경찰, 해밀턴 당구장 밖에서 남성 살해에 대한 최신 정보 제공",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOamRObDJfWVFpYlNVZTYzUkhKbjR6R1hmakpFa21PcHdURkZlMG9CX19PdUYzaVBjYlZpa05LRXpWMzhVMk1PYjFrV1loaXJKSTFVTG5fdGprRWxwSWtmNnZ2YlltUDAyOXFNMHh3VEF4TVc2U3lmWWYzVVBqZTlMSFRtckpCWjhISC1fY0ZDc21Ta1JLZXNsakNTd2VfY25CNDl5bUxZQXZZeWpDNm1paWtLV01Sbld5ZzVBd3VtUW0?oc=5",
+          "source": "CP24",
+          "published": "2026-08-12T10:30:28Z"
+        },
+        {
+          "title": "'An absolute gut punch': Dozens facing unemployment as South Keys Metro converts to Food Basics",
+          "title_ko": "'절대적인 직감': South Keys Metro가 Food Basics로 전환함에 따라 수십 명이 실업에 직면",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRHZfdXUwR1J3a2JQdkVIeGFVSG9WWEJRSkFNV2xBWGdOZFgxVVJmWVlUX0xwLWlyYWtIbnY4cWtwMlpZc2IzNk5hMWR2VFlaMG91MzNIVTZwZUxPUVYyWktZTjZCVWVKaGNWTWE4MHp0ai1PbjY3dS0xd3hQY1UyUU80amw2ZWt4S2djUGVxMllfc25aQWtHZHJZbnBUYWJrYXZuMVpUdUV1OEVQR0Y4XzFIcXJZV3A5?oc=5",
+          "source": "CBC",
+          "published": "2026-08-12T08:00:00Z"
         }
       ]
     }
