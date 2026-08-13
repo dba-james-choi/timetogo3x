@@ -8,9 +8,13 @@ function formatDateTime(iso, timeZone) {
   return d.toLocaleString("ko-KR", { timeZone, dateStyle: "medium", timeStyle: "short" });
 }
 
+function formatDualTime(iso) {
+  return `${formatDateTime(iso, "UTC")} UTC · ${formatDateTime(iso, "America/Vancouver")} Victoria`;
+}
+
 function formatUpdatedAt(iso) {
   if (!iso) return "데이터 없음";
-  return `업데이트: ${formatDateTime(iso, "UTC")} UTC`;
+  return `업데이트: ${formatDualTime(iso)}`;
 }
 
 const latestUpdatedAt = {};
@@ -21,7 +25,7 @@ function refreshPageUpdatedAt() {
   const timestamps = Object.values(latestUpdatedAt).filter(Boolean);
   if (timestamps.length === 0) return;
   const newest = timestamps.reduce((a, b) => (new Date(a) > new Date(b) ? a : b));
-  el.textContent = `마지막 갱신: ${formatDateTime(newest, "UTC")} UTC`;
+  el.textContent = `마지막 갱신: ${formatDualTime(newest)}`;
 }
 
 function formatPct(pct) {

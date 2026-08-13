@@ -48,16 +48,57 @@ function formatMonthDay(dateStr) {
   return `${Number(m)}/${Number(day)}`;
 }
 
+function naiveLocalToUtcDate(naiveIso, timeZone) {
+  // Converts a naive "wall clock time in `timeZone`" string (no UTC offset,
+  // e.g. Open-Meteo's Victoria-local timestamps) into a true UTC Date.
+  // Standard round-trip trick: treat the digits as if they were UTC, see
+  // what that instant displays as when formatted in `timeZone` (which
+  // reveals that zone's actual offset for this date, DST included), then
+  // shift by the difference.
+  const asIfUtc = new Date(`${naiveIso}Z`);
+  const fmt = new Intl.DateTimeFormat("en-US", {
+    timeZone,
+    hour12: false,
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    second: "2-digit",
+  });
+  const parts = Object.fromEntries(fmt.formatToParts(asIfUtc).map((p) => [p.type, p.value]));
+  const hour = parts.hour === "24" ? "00" : parts.hour;
+  const asDisplayedInZone = Date.UTC(
+    Number(parts.year),
+    Number(parts.month) - 1,
+    Number(parts.day),
+    Number(hour),
+    Number(parts.minute),
+    Number(parts.second)
+  );
+  const diff = asDisplayedInZone - asIfUtc.getTime();
+  return new Date(asIfUtc.getTime() - diff);
+}
+
 function formatUpdatedAt(iso) {
   if (!iso) return "데이터 없음";
   // Open-Meteo returns naive local (Vancouver) timestamps with no UTC
   // offset. Appending "Z" and formatting in the "UTC" timezone just echoes
-  // those literal digits back, regardless of the viewer's own browser
-  // timezone -- using America/Vancouver here would double-convert and
-  // show the wrong time for anyone not already in the Pacific timezone.
-  const d = new Date(`${iso}Z`);
-  const formatted = d.toLocaleString("ko-KR", { timeZone: "UTC", dateStyle: "medium", timeStyle: "short" });
-  return `마지막 갱신: ${formatted} (Victoria 현지시각)`;
+  // those literal digits back as the Victoria wall-clock time, regardless
+  // of the viewer's own browser timezone. The true UTC instant is derived
+  // separately via naiveLocalToUtcDate() so both can be shown together.
+  const victoria = new Date(`${iso}Z`).toLocaleString("ko-KR", {
+    timeZone: "UTC",
+    dateStyle: "medium",
+    timeStyle: "short",
+  });
+  const utcDate = naiveLocalToUtcDate(iso, "America/Vancouver");
+  const utc = utcDate.toLocaleString("ko-KR", {
+    timeZone: "UTC",
+    dateStyle: "medium",
+    timeStyle: "short",
+  });
+  return `마지막 갱신: ${utc} UTC · ${victoria} Victoria`;
 }
 
 function pmClass(value, isPm25) {

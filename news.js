@@ -12,9 +12,13 @@ function formatRelativeTime(iso) {
   return `${diffDay}일 전`;
 }
 
-function formatDateTime(iso) {
+function formatDateTime(iso, timeZone) {
   const d = new Date(iso);
-  return d.toLocaleString("ko-KR", { timeZone: "UTC", dateStyle: "medium", timeStyle: "short" });
+  return d.toLocaleString("ko-KR", { timeZone, dateStyle: "medium", timeStyle: "short" });
+}
+
+function formatDualTime(iso) {
+  return `${formatDateTime(iso, "UTC")} UTC · ${formatDateTime(iso, "America/Vancouver")} Victoria`;
 }
 
 function escapeHtml(str) {
@@ -66,7 +70,7 @@ async function loadNews() {
   }
 
   updatedEl.textContent = data.updated_at
-    ? `마지막 갱신: ${formatDateTime(data.updated_at)} UTC`
+    ? `마지막 갱신: ${formatDualTime(data.updated_at)}`
     : "데이터 없음";
 
   SECTIONS.forEach((key) => renderSection(key, data.sections && data.sections[key]));
