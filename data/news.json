@@ -1,12 +1,19 @@
 {
-  "updated_at": "2026-08-14T14:14:54Z",
+  "updated_at": "2026-08-14T14:44:14Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
+          "title": "Peninsula’s Flavour Trails to celebrate one of B.C.’s ‘most remarkable agricultural regions’",
+          "title_ko": "브리티시 컬럼비아의 '가장 주목할 만한 농업 지역' 중 하나를 기념하는 페닌슐라의 플레이버 트레일(Flavor Trails)",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFpWYU0zeXBsVVhJMnd6ZndiQjdzc1ZDSVNxV0l1VDdLMjBKS1pRekdDQk9lekQtbUZWcU9fT3dsZzBxMWVTX2xZRUhzakFPcUxuUTRDQnZKaWVyNHNlakJHQjdPRFdKV2Y1NWZvckNnNjZTV1JwVktPQThKREx2MWZRaHdQX0FwSi13R2hkN0lOU1lCVXVtZ2hLc2pNNU42aUNleW5QZ3hQUjJfU2dRZmR2VDh6eU5DWFBRamJlSXZjUQ?oc=5",
+          "source": "Saanich News",
+          "published": "2026-08-14T14:31:23Z"
+        },
+        {
           "title": "Improving traffic flow, safety with Keating Cross Road Overpass completion",
-          "title_ko": "Keating Cross Road 고가도로 완공으로 교통 흐름 개선, 안전",
+          "title_ko": "Keating Cross Road 고가도로 완공으로 교통 흐름 개선 및 안전",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yRGpiQ25XNkUzbi05OVJmX2FqVWJBeEo2VW1vOTc1UnJNNmpFRUZpWkdIRVpUbnZaRkltc2VEaHZHelI2bGZFOTk3Sl92Y09OTDl1amVRRDZqVjhxdUE?oc=5",
           "source": "BC Gov News",
           "published": "2026-08-11T20:40:02Z"
@@ -15,15 +22,8 @@
           "title": "Major Highway 17 traffic change now complete in Central Saanich",
           "title_ko": "이제 Central Saanich의 주요 17번 고속도로 교통 변경이 완료되었습니다.",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkNyN1FKWk5JUkNmNFBINzlkeVFQTDZhTDU3VTFiRVJKYWxxQ29nbXlfR0dVNmYtWGpFUnRTbGs4dmU0Mm51Z2c2VU9EN1ZNRGZWWksxcUJiRnUyVlZWMWlxVTBMRVMtcFFwYW1wRkxMdzZDc0lnc05XR3E5SFZXd0xTZkdtemFZYTNvNHhkcUUwVXMwVkREX2FsaTUzb0VXU3haQl95Y2x6akNFVlpZd1BybUNhTHNyUmpPM1ZZcw?oc=5",
-          "source": "ctvnews.ca",
+          "source": "CTV News",
           "published": "2026-08-12T23:17:29Z"
-        },
-        {
-          "title": "Saanich Fire sends crews to help with wildfires amid provincial state of emergency",
-          "title_ko": "Saanich Fire는 주 비상사태에 따라 산불 진화를 돕기 위해 인력을 파견합니다.",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlhvMVR0UVNCSVhfTnRfakczUnhHRmxsZENXVUNwY2hWcGNMUVhUcUhtT2luSFVMZjFTRWdxS2hpZlV3a05WYUJNTzdlN0FPZmVLaE92M3d2d3JxdkQwZnVnUExTV1ZzOGtRLTI3Snd4SWlwYUVRYkVtN2V6RDdiX3BVV05wMjJGbjl5bjBxOEd6MjZTMloxTk8xcjVJY0VRRlExc3Zrbk5lMmwtak9rRDlPd2pHT2p3T2JkNnJEbw?oc=5",
-          "source": "Nanaimo News Bulletin",
-          "published": "2026-08-10T17:52:29Z"
         }
       ]
     },
@@ -38,18 +38,18 @@
           "published": "2026-08-13T23:56:50Z"
         },
         {
-          "title": "Metro Vancouver, Victoria transit workers issue 72-hour strike notices",
-          "title_ko": "메트로 밴쿠버, 빅토리아 대중교통 직원, 72시간 파업 통지 발표",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcHVBUEN0MlpFSUE4b1czVVROcTZsUG10azlNZi1Iam8zS3oxc3FpUm93QjEwS3UxTEdNRDFXV0owS1kxZ2ZSZlJOclEtRVZHOS1YMEpicEhlc3JVdHpxaUxmTmNNQmdWWkI2a3gxeTJmYUhWZUZsc01ocGczVWlUX05YVE1ma0FRZURTVUgtU05aTHZZZXNINFdB?oc=5",
-          "source": "CBC",
-          "published": "2026-08-14T00:24:00Z"
+          "title": "Colwood’s Hatley Castle, Victoria properties earmarked in Te’mexw treaty talks",
+          "title_ko": "Te'mexw 조약 회담에서 배정된 빅토리아주 콜우드의 해틀리 성(Colwood's Hatley Castle) 부동산",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdEl3NmlSZm56b1pQbEsyaDd6Zl96YlB3VFZva1dxQ1ZKMFpjRWI1V2J4YTJid29HWWl6MWJzWW1VOGI3ZXFtd3d5N0RyS2lqRW1HREVQdFpXQl9ZYVV1Tzk3ZXIwRVRyZ2ZCWGlrbUlHZDMtby0wY0JFUk1PZF9RMF9wME5teS1hQ2FGZWVycUtUaUdmRlotVkIySV93LV9qYVBTZ1VpTVp0bDQ?oc=5",
+          "source": "Victoria News",
+          "published": "2026-08-13T22:15:31Z"
         },
         {
-          "title": "Victoria group collects donations for those fleeing B.C.'s wildfires",
-          "title_ko": "빅토리아 그룹은 브리티시 컬럼비아 산불을 피해 대피하는 사람들을 위해 기부금을 모았습니다.",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXN6UEVITGEycWNPUEVpOEVYcmpkeUNnOURGcUhneF9CUW0xaWF6Y1lzc2VfbGZmcFJBMURMNlRvaTdFQXBfbFNzYzFmU1FVM2dpY2paY0tPYlU3NUtzWnktX0RUbDNmOE84aF9peHhUb2QzVEJITGNpZUVueHR1NElYZThnMlRpVnh2N2JleGplTFZEdS1aaWwwQ3R5aHo5b1VqNWRSYm8wUzRqMmg5eEJpWHh2dw?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-08-13T11:45:00Z"
+          "title": "B.C.'s Hatley Castle, parcels of downtown Victoria among lands earmarked for transfer to First Nations",
+          "title_ko": "브리티시 컬럼비아의 해틀리 성(퍼스트 네이션스로 이전하도록 지정된 토지 중 빅토리아 시내의 구획)",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUliN3NPdjlkUFhTblYzenluRkZhUEhSMlVBVVI1cl9sZmcyXy1lX1Fsc1BWbmlfU2c0T2FWREZBVFdmUWtVOTM0bUdEOTZ5bXJWUUtnTjM2NDJkektVbkZIN2tEdUhyaS13ZE8wSzBIdWtSZk9BOHh5bURLUTJzQ3RnOGtSdG9pOTBMU3ppNmIzQ2RneUNGMTFWcmFZMTBPLTY0eUYyOGRrY3RnMGl4NmpnMVZwaEU?oc=5",
+          "source": "National Post",
+          "published": "2026-08-12T05:12:36Z"
         }
       ]
     },
@@ -64,11 +64,11 @@
           "published": "2026-08-12T01:22:48Z"
         },
         {
-          "title": "Terrifying near-miss for B.C. driver",
-          "title_ko": "브리티시컬럼비아 운전자에게 끔찍한 사고 발생",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaDZtYXcwNkE2Rko2MXd2SXFSMEVNTjRWYzFTUHlfay1hbUN1ajRIRGk4THhEa1pZa2g0Q2F1czFDM3o4Q2FiZ2g0NExuN1gyNThzYWxTVEhTbTFlamp3QndWN19KenptQnRESnlCVkhLVTV2U2xQRlAyLXhNTXhQQjRKTENPZjhrdVpOemZ3?oc=5",
-          "source": "ctvnews.ca",
-          "published": "2026-08-13T18:49:38Z"
+          "title": "The BC SPCA is building a new headquarters and animal hospital in Vancouver. Here's what it'll look like",
+          "title_ko": "BC SPCA는 밴쿠버에 새로운 본부와 동물병원을 짓고 있습니다. 다음과 같은 모습입니다",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGdLdjFzcDRHWmhZUDB6aktnZTBKSzlqLU1PeHZLeVo5S0VMVEhqaEROUjJzMFNxQnNsaHM3VHpWNFpKWmdMMEF4ZzVuZjdDeTRQcGF0WGhQS0JIOHcxcWZVUks5Z3BUNDl0dXgtc08wNGcta3hjNTNReEdPUVV4TmFtMnZXdUJDcGhJUXFSSUs5UHlEc3pZSDNzT3RWWWkwRzNYQThrX2dMR08zWE1wUTZUVnU?oc=5",
+          "source": "Vancouver Is Awesome",
+          "published": "2026-08-14T13:19:26Z"
         },
         {
           "title": "Metro Vancouver, Victoria transit workers issue 72-hour strike notices",
@@ -90,18 +90,18 @@
           "published": "2026-08-13T23:17:37Z"
         },
         {
-          "title": "Homicide investigators to provide more details on 2022 murder of 31-year-old father",
-          "title_ko": "살인 수사관, 2022년 31세 아버지 살해 사건에 대한 자세한 내용 제공 예정",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaFIyOEVKVElLZzZGcUx3dXFnVkN5Q184R1JGaTBhdE92bkZ5dVgzbGUxZ2UxWkZ5MkRLR1BUOXA0N1Z1cDZQOHk5SUZ4elQ0V01MVllheHBaTTVVaC14RTJaZ0lEbXM5LVBnLU9YVTAxU19OUi1UaHd2MWFXRkw2RVNvUEVNN1NFdThMZW54S052VGNKdk13U3VNVFpIUGdRdHZuZDNlMjN3czNtdVlTMzBvYzNxMVJpOWtISDI5OW9QaHFYLTl2T2Nn?oc=5",
-          "source": "CP24",
-          "published": "2026-08-14T10:46:15Z"
+          "title": "Montreal police take down high-powered surveillance camera after Radio-Canada story",
+          "title_ko": "캐나다 라디오 방송 이후 몬트리올 경찰이 고성능 감시 카메라를 철거했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNG5pbkVqNWdBcV8zS2RscUI5WjZoalVwRVhDTHVRRWJQZ2djY2hOd1NMYTVjYUxOMnlHVkN1U012NlJHYkRqWWVTUFhYS1FrMzZEbm96ZjN3X21XcmJJajktaU1PNG1VcG55X3V5THBQRWYybzJXRUlTOWVRbzNxNEdR?oc=5",
+          "source": "CBC",
+          "published": "2026-08-14T13:59:24Z"
         },
         {
-          "title": "‘It’s politics’: Doug Ford justifies party’s surveillance mission targeting political opponent",
-          "title_ko": "'그것은 정치다': 더그 포드(Doug Ford)는 정치적 반대자를 겨냥한 당의 감시 임무를 정당화합니다",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRFBjYU5SVktWNnl4bkx1WVMyOHlCQUNyYXVxT0FzWnJydkw2RWRYSkJMZ2k4SW9XaUVSazd0WG9IbTRwOXp6ZzFKYmVadElsbmMwcTZ1Vy1vYWJUOXBOTlM4N0xJLW9FdzBrUFdCNHk5aGdxVkIwTVlSb21WbFNTU2psYjZsdkNKaWRlV2NoQ0NqOEpOa2FkRGVFaW44NS1sSW03WXE2R1pGNGNkMEZibkF5NHZHS0VzMjlrWUtnT3JEMlE0WnN3WGlCem9NMF96cl9JajlXUnVOa2s?oc=5",
-          "source": "SooToday.com",
-          "published": "2026-08-14T11:19:19Z"
+          "title": "‘Watchful waiting’: Canadian firms bet Trump will buckle ahead of 50% tariff deadline",
+          "title_ko": "'주의 깊게 기다리기': 캐나다 기업들은 트럼프가 50% 관세 마감일을 앞두고 굴욕을 당할 것이라고 장담했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc3RheWFRbTVhNW02MVRhUWJxdXRIY1pLVG15cGZkNlJ5eHBXR09HODVLOWhoTDlhejg3bENPdUhEUmNMckFvYmF6OGFvVlhSNEdUaGFNM1JYSEV1RngzY0w1bGIwZzhiR1pJQzZSV1RjOEdoTm9hRFJJYThjdUtYcXFaelRzNlFBc0JaTnZNaTRTM3RYU0dheGJOZWtYQWJCb2M2aWtVZEEyYlhCOTR3anlqa1VDYXRVWUYzcFZSNkcxZ3JXUUQwMWwtUGt0YUk?oc=5",
+          "source": "CTV News",
+          "published": "2026-08-14T09:29:21Z"
         }
       ]
     }
