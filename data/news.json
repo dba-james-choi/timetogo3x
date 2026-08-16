@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-08-15T14:12:38Z",
+  "updated_at": "2026-08-16T13:29:06Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
+        {
+          "title": "Improving traffic flow, safety with Keating Cross Road Overpass completion",
+          "title_ko": "Keating Cross Road 고가도로 완공으로 교통 흐름 개선 및 안전",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yRGpiQ25XNkUzbi05OVJmX2FqVWJBeEo2VW1vOTc1UnJNNmpFRUZpWkdIRVpUbnZaRkltc2VEaHZHelI2bGZFOTk3Sl92Y09OTDl1amVRRDZqVjhxdUE?oc=5",
+          "source": "BC Gov News",
+          "published": "2026-08-11T20:40:02Z"
+        },
         {
           "title": "Central Saanich incident prompts fine from WorkSafe BC",
           "title_ko": "Central Saanich 사건으로 WorkSafe BC에서 벌금 부과",
@@ -12,31 +19,17 @@
           "published": "2026-08-14T21:00:37Z"
         },
         {
-          "title": "Kamloops Centre MLA Peter Milobar quits B.C. Conservative caucus",
-          "title_ko": "Kamloops Center MLA Peter Milobar는 브리티시 컬럼비아 보수당 간부회에서 탈퇴했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd2EyLU1Ca1JJVk5Qd214d1JpcnV6dF93bkREeFBmM0hHUjlDVllJSW9oUzhIUmJkNFRjQkRnRVNiampTekZOY0owNUV3N2Y3ZDAtMnZsNllXRnZiWDlXYS1rbGFndEtEUWlmT3BabE1xa3ZrcFgtdG16Y3YtOXYzSTd6Wlc0LTZlSGxYbGN4WV9rRjkwcjZ5Rlc1b0tmd04x?oc=5",
+          "title": "Victoria dogs howl in support of B.C. wolves",
+          "title_ko": "브리티시 컬럼비아의 늑대를 지지하며 울부짖는 빅토리아 개",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0hvNHJEZjExS2Mtcm1wNjdSVHVwVW9sSjZTQUdXcmp1Yy1tZmhpM3JjSmNzbDdqVmh4Z2FWVE5Id1luV21qcmNrSEdUb0RxTmlOMHhCemdWWXg5cXk2Ry1icS1NMF9zYXBYM0dFbE5ISEhhMlI0VmdrR21RakFZaGtJMzRmUQ?oc=5",
           "source": "Saanich News",
-          "published": "2026-08-15T00:00:55Z"
-        },
-        {
-          "title": "Flavour Trails brings scavenger hunt and festival to Saanich Peninsula this weekend",
-          "title_ko": "Flavor Trails는 이번 주말 Saanich 반도에서 청소부 사냥과 축제를 제공합니다.",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdUhkM09GbkN6Y1FoT2szQXRPOTljSjlSVENkT0hGZDl4OUNzbS0xVnRRUWhFeHQ2X0J0TDlybGd2VE5NSHlfN2UyWndISE1ISl93WFc2VHVaYm5CZGc4SXZkcjVWWlRKZ3o5cjlCSXRHOFVTLXVoNGNmTzlGLWR3MFlxUndOa2JTLU1iNlNNZzFsU2lrVW1vNC1qVzdybHBUVC11MVFJckNHblpqWUJzMW9ZVWJ2UTJ2?oc=5",
-          "source": "victoriabuzz.com",
-          "published": "2026-08-14T21:02:00Z"
+          "published": "2026-08-15T12:30:35Z"
         }
       ]
     },
     "victoria": {
       "label": "Victoria",
       "articles": [
-        {
-          "title": "Metro Vancouver, Victoria transit workers issue 72-hour strike notices",
-          "title_ko": "메트로 밴쿠버, 빅토리아 대중교통 직원, 72시간 파업 통지 발표",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcHVBUEN0MlpFSUE4b1czVVROcTZsUG10azlNZi1Iam8zS3oxc3FpUm93QjEwS3UxTEdNRDFXV0owS1kxZ2ZSZlJOclEtRVZHOS1YMEpicEhlc3JVdHpxaUxmTmNNQmdWWkI2a3gxeTJmYUhWZUZsc01ocGczVWlUX05YVE1ma0FRZURTVUgtU05aTHZZZXNINFdB?oc=5",
-          "source": "CBC",
-          "published": "2026-08-14T00:24:00Z"
-        },
         {
           "title": "Iconic castle in Greater Victoria is to be transferred under B.C. treaty",
           "title_ko": "광역 빅토리아(Greater Victoria)의 상징적인 성은 브리티시 컬럼비아 조약에 따라 이전될 예정입니다.",
@@ -50,6 +43,13 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRDZZeDAwWk9wcG5lVElkeG5lenlfc0FYVVk5dWN2U2s1NElVdnZyeThHeFhtRVBDNTVpVm93WVhEbF84NWpvR3BZek9NQWZkVDZleE1JUTd4M0N5Sndhb3hwLUR5bTdFT0t4MGJmYklEWE1uY3EyMlV5NGtDY1dTQmpWX0RSNU0tU2FEejVsSlNKekFzSmQ2MjhlcTUxMWVySE5XZl9yZUU?oc=5",
           "source": "Victoria News",
           "published": "2026-08-14T21:45:27Z"
+        },
+        {
+          "title": "Metro Vancouver, Victoria transit workers issue 72-hour strike notices",
+          "title_ko": "메트로 밴쿠버, 빅토리아 대중교통 직원, 72시간 파업 통지 발표",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcHVBUEN0MlpFSUE4b1czVVROcTZsUG10azlNZi1Iam8zS3oxc3FpUm93QjEwS3UxTEdNRDFXV0owS1kxZ2ZSZlJOclEtRVZHOS1YMEpicEhlc3JVdHpxaUxmTmNNQmdWWkI2a3gxeTJmYUhWZUZsc01ocGczVWlUX05YVE1ma0FRZURTVUgtU05aTHZZZXNINFdB?oc=5",
+          "source": "CBC",
+          "published": "2026-08-14T00:24:00Z"
         }
       ]
     },
@@ -64,18 +64,18 @@
           "published": "2026-08-14T15:30:00Z"
         },
         {
-          "title": "Power restored to over 11,000 BC Hydro customers in Vancouver",
-          "title_ko": "밴쿠버의 11,000명 이상의 BC Hydro 고객에게 전력이 복원되었습니다.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0xkWXRZNHNNVGZJcTNNbzlxTXk5ZGZ4d0lnNnBNYWdjQWRHVXhwUGpsdkhsUEIyRTlOb2tVWXRqZVJOOVZWNjRuUDRVc010R1JrVW8zbzI5TDVJRERzaXFteGprSmpnbjJDMzhCRmlJVURXSU9HNlFoN1JLZi1aU3BVd3l1dWwySWlkbk5iZmtGMDdsV3RNNld3dw?oc=5",
-          "source": "Vancouver Is Awesome",
-          "published": "2026-08-14T23:53:00Z"
-        },
-        {
           "title": "'Severe thunderstorm' rains down on parts of Metro Vancouver, South Coast",
           "title_ko": "메트로 밴쿠버 남부 해안 지역에 '심각한 뇌우' 쏟아져",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVJIR2h1blNjaVY3Q2FUamVpZlYyWFF0Qi1wM01UbDlMOGJoc09wUi1rdFFvUEFNaUpDS0NnXzFGSnZpZWZpYWFDV3NkNVVoSm9tT2FBM1Z5VnFUcWE1dW95YzFBTWQzcnVfd2RNb2x5WU5wN1lFZEsyVG42UHpkVWFlbFJqeWN1Tk50ck9UNnl6WkxtOWFvWTJjRHQ?oc=5",
           "source": "CBC",
           "published": "2026-08-14T17:05:00Z"
+        },
+        {
+          "title": "Delta man defrauded company and investors of nearly $300K, BCSC alleges",
+          "title_ko": "BCSC는 델타맨이 회사와 투자자에게 약 30만 달러를 속였다고 주장합니다.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOUFUT0R2N0VEZlM4TFNvVXdHeFBSc2tYZ3RnQXFxZ01aeUhQMVdaZExidm1SZ01DaVFpLWV1SlR6SXJHRzBjajZpYnAzLUVPMWZmaW1pemhLaEliclQyclhSb2dCR29FS3VBaDNTeDQybW5GWTd2d2pSbERyeU9GN0lvNm9PWkxmQzFkOUpldmRJTERFRHd2U1FkNFQzRHFHcXRVMWxtd0RNaXN5RjhYWQ?oc=5",
+          "source": "CTV News",
+          "published": "2026-08-15T18:41:46Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "How an open container of expired coconut milk helped investigators pinpoint the source of a deadly Listeria outbreak",
-          "title_ko": "유통기한이 지난 코코넛 밀크가 담긴 열린 용기가 조사관이 치명적인 리스테리아 발병 원인을 찾아내는 데 어떻게 도움이 되었는지",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQM3Y3OHU4MFFCVk01Ui1uV09xb0dFYThoc0VwSVdiMnJJUVFLZTFJNDJnWDZhWnZ3LWxrUnBXc0VfOHlLYnFnUFNqQVJaQ0hnX2llMkZsV05MMWNpMW5EZzVHYzdhcHNpcEN3dm1FZjdxckRBamd6THQyRUJiMjhEOHVRZWtUZjdRY1VoeFVNMDdLMlY1dXpYZ29PV0RLbmRZbHBPaExCelVNQUtCZHFVU1JNdHlMSjVVaWU1MzA2LTQyb2t5eTN4OUJDZWFSWUxXb0xyemExRmY0bHZsMGExaWxheWduQ2hjMGtBbw?oc=5",
-          "source": "CTV News",
-          "published": "2026-08-15T13:04:23Z"
+          "title": "B.C. mayor calls for gang task force support after surge in targeted shootings",
+          "title_ko": "브리티시컬럼비아 시장, 표적 총격 사건 급증 후 갱단 대책반 지원 촉구",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMUluaGZsNXg4NDlHdm95Q0tRNmpMeFBmNjI3aG9JdEdNV05DdWV3cEUwdUtNSGQ0anJWZmhLN0pUYVJ5ZHVsVmoxV25EdFNsQ2dIemhyMmV0T3F0eXQ4V2h3WEE5SGhuNTNSTzBJVzR5dEVnMHB3VEgyajh6NjYwZjJkZWppU2NpSnl4MmZPOERoX09qVWl2UjZURmVrYjhrSW9QT0R5bzk?oc=5",
+          "source": "CBC",
+          "published": "2026-08-15T18:20:00Z"
         },
         {
-          "title": "Trump’s new tariffs should be a wake-up call for Canada: Iowa senator",
-          "title_ko": "트럼프의 새로운 관세는 캐나다에 경종을 울려야 한다: 아이오와주 상원의원",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLVgydVRWVTc4OWFsZ2xudkZiRm1OSTRIRzVUeVdGM2FvdXViLW9YYjJjM2VNbnNHYjVrZGRyc2dlaXItVEo0ZktVUlM3azFBb1pYUHAwY3RiTEdtOWwyMURVSGVRWXd0Q1pWckNaVGxtaWt5QmxaOHgwMDdSNnJlQ3BlZHVqN3J1NFRWcFRVN0g2dWx2NE12UWpGSThIY25ObUtWOXZsaUhHVU50QlRkekd6NmlIaEQ1QWdNRA?oc=5",
-          "source": "CTV News",
-          "published": "2026-08-15T11:46:32Z"
+          "title": "Any Canada-U.S. trade deal must include auto sector: Brampton mayor",
+          "title_ko": "캐나다-미국 무역 협정에는 자동차 부문이 포함되어야 합니다: 브램튼 시장",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSDN1WlYteUpXc0pPMW5OeVRub0RaNzVrY3dtOUlkMHF3djdpU2pjZEdwaGhWYzJGUlBnOUZqU0gxQ0RJQkdOM24tcjBVbHNCSlZjMXZtNlQ1WHB3QjMzMERrWVNES29abkFaRkVCQnpSbC1QbktuREZkU1FGX29pUldNMmFpVDhkQ09tb0V5OA?oc=5",
+          "source": "Global News",
+          "published": "2026-08-15T19:06:29Z"
         },
         {
-          "title": "B.C. Wildfires Updates: Some Summerland residents returning home | Section of Highway 97 to reopen Saturday",
-          "title_ko": "브리티시 컬럼비아 산불 업데이트: 일부 Summerland 주민들이 집으로 돌아옴 | 97번 고속도로 구간 토요일 재개장",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX2pkZEtkZlM4VVhNWkFqZEp1QjI1cGtERVdDb2NLNkluYl9EOGtHNDlZZUtoQjRpY0ZWVWppRnBRY012UDVSdkpwZGlrVTB1QXl1OUt4eENpdkVMWVkzcHJCaHR4OEtWaE5fUHdQb2VIMHJOUmtBclBLYUVYaW13cUh5VnNMZUI5elloRkw4RmxZLWV1d04teUhwVjZ5LTRGQXZGUU9udw?oc=5",
-          "source": "vancouversun.com",
-          "published": "2026-08-15T03:59:07Z"
+          "title": "B.C. wine industry steps up to help Summerland compatriots through wildfire crisis",
+          "title_ko": "브리티시 컬럼비아 와인 업계는 산불 위기에 처한 Summerland 동포들을 돕기 위해 나섰습니다.",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNW9UT1FWa21FMnk3d0xacEppbUM2U1FOdVRXdDhwRWprQVFvaXNOYmFGRzJvY1JTU005YUdic3plQnZjQURJbDUtVlFjRXNadU5fWk5nVm1QWVZtZTQtX2ZzbnMtQkJlRzJJOWJPV1hUQ18yWVlsakVRT3B2TmlER2J6R0YwcEJCb2gxR2IyeHkzZnJ2QkJiUEltd3RXQzlVMk9Ib3pxSjkxMEp4MjBVbU1pVnA?oc=5",
+          "source": "Vancouver Sun",
+          "published": "2026-08-15T15:09:18Z"
         }
       ]
     }
