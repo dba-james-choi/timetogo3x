@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T13:37:23Z",
+  "updated_at": "2026-08-17T14:17:24Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -8,15 +8,8 @@
           "title": "Central Saanich incident prompts fine from WorkSafe BC",
           "title_ko": "Central Saanich 사건으로 WorkSafe BC에서 벌금 부과",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdW80Y2RkS2pBaFRLNVBNVUZwTF9mSGhja25GVzhRbEJWYjdTeU1XeDJpRGhQRGRTOGlobGhVcmhabE1iV3hoWHVxdG1qSlhCRU1uUG5mandTblZDNVlxMlNnOFJ4SUtDOXAzS0ZXRUMwRlJDTVRMNUNYY1dKeU5xNzRILTA1ZmNXWjQ0LWJpd0tDRVRpYm9ETlVn?oc=5",
-          "source": "Nanaimo News Bulletin",
+          "source": "nanaimobulletin.com",
           "published": "2026-08-14T21:00:37Z"
-        },
-        {
-          "title": "Improving traffic flow, safety with Keating Cross Road Overpass completion",
-          "title_ko": "Keating Cross Road 고가도로 완공으로 교통 흐름 개선 및 안전",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yRGpiQ25XNkUzbi05OVJmX2FqVWJBeEo2VW1vOTc1UnJNNmpFRUZpWkdIRVpUbnZaRkltc2VEaHZHelI2bGZFOTk3Sl92Y09OTDl1amVRRDZqVjhxdUE?oc=5",
-          "source": "BC Gov News",
-          "published": "2026-08-11T20:40:02Z"
         },
         {
           "title": "Flavour Trails brings scavenger hunt and festival to Saanich Peninsula this weekend",
@@ -24,6 +17,13 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdUhkM09GbkN6Y1FoT2szQXRPOTljSjlSVENkT0hGZDl4OUNzbS0xVnRRUWhFeHQ2X0J0TDlybGd2VE5NSHlfN2UyWndISE1ISl93WFc2VHVaYm5CZGc4SXZkcjVWWlRKZ3o5cjlCSXRHOFVTLXVoNGNmTzlGLWR3MFlxUndOa2JTLU1iNlNNZzFsU2lrVW1vNC1qVzdybHBUVC11MVFJckNHblpqWUJzMW9ZVWJ2UTJ2?oc=5",
           "source": "Victoria Buzz",
           "published": "2026-08-14T21:02:00Z"
+        },
+        {
+          "title": "Improving traffic flow, safety with Keating Cross Road Overpass completion",
+          "title_ko": "Keating Cross Road 고가도로 완공으로 교통 흐름 개선 및 안전",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yRGpiQ25XNkUzbi05OVJmX2FqVWJBeEo2VW1vOTc1UnJNNmpFRUZpWkdIRVpUbnZaRkltc2VEaHZHelI2bGZFOTk3Sl92Y09OTDl1amVRRDZqVjhxdUE?oc=5",
+          "source": "BC Gov News",
+          "published": "2026-08-11T20:40:02Z"
         }
       ]
     },
@@ -64,18 +64,18 @@
           "published": "2026-08-14T15:30:00Z"
         },
         {
+          "title": "Search for B.C.'s best roadside attraction: Vancouver Island finals",
+          "title_ko": "브리티시 컬럼비아 최고의 길가 명소 검색: 밴쿠버 아일랜드 결승전",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzhTSXh6SldaRHQ1VVRvLTQ3YUkwSG1WeG55bnpVelJyVEk3NVhTQXV5SC01czFEc2VTcE5oNjFHbHRsX1NuNE5QWHRYN0w2Ukd6Z3VIRXRaa2I5REpjM1dHVnRqZFp1Z0dnbWQ1MjBPd20wRVpUV0xscVdTY1hUeHJXVV9TdmEtRjRLejhCLXRfNm1ORVFEekphaWQ3SU5ZT1dtMUNn?oc=5",
+          "source": "CBC",
+          "published": "2026-08-17T14:00:00Z"
+        },
+        {
           "title": "Metro Vancouver lifts air quality warning as wildfire smoke reduces",
           "title_ko": "메트로 밴쿠버, 산불 연기 감소로 대기 질 경고 해제",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QZ3RFZnZ4LXlYdFUyQVAxNFp2d1pzR0JxM2Vsb1V6Uk1mMWc3djFvaGZ6cjV5WTBIRXZmYzZ5Zms1Ul9yT091RDdHdm9lQVE5eVFOWmNPTUlQNkpLZm5UbGE4SU1ob0pyc3dLNkFVQjhFUEFhemxV?oc=5",
           "source": "CityNews Vancouver",
           "published": "2026-08-16T19:38:00Z"
-        },
-        {
-          "title": "Vancouver Island park closed following black bear attack",
-          "title_ko": "밴쿠버 아일랜드 공원은 흑곰의 공격으로 폐쇄되었습니다",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTTEwczhUS0pLUC1pTjVRUVNwSVF3cjZhMklXbTFPWWZtZmRmYWZyeGo0THU3Y0VuQWlneE04TkN5OENJckJGeVNzQ2draFhWOEVOVWs4UDdsSDBLcHNscFpnT1JNSHNINmNiRWx0OHdLaEEtQnJtQkRFTWNTcXdqdVRXckhMai1rNUpZ?oc=5",
-          "source": "Global News",
-          "published": "2026-08-14T23:34:36Z"
         }
       ]
     },
@@ -97,11 +97,11 @@
           "published": "2026-08-16T15:46:49Z"
         },
         {
-          "title": "'It's eerie': Summerland residents are returning to their homes — or what's left of them",
-          "title_ko": "'으스스하다': Summerland 주민들이 집으로 돌아가고 있습니다. 또는 그들에게 남은 것은 무엇입니까?",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSVpRWkZWR0tDMUJRSXdMMkVucHExakpoa2ZDSGFidGI5bGZFeFZubzRPaFpZM2FpcWp4MTRmVV9naXIteXpyNktLZHhFMUpEcm1IZ3VqZXZkV1U4VFpaNXZ5MnZmN2h3UUxNeThtZUY5aW50WF9tVXBvbm9iYnI3TmpWcTQwaXJfbllNbnBHYnU5OXFfSXcwMw?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-08-15T20:46:08Z"
+          "title": "Local Wrestling Group Confirms Members ‘Seriously Injured’ in Crash Near Southern Harbour",
+          "title_ko": "지역 레슬링 단체, 서던 하버(Southern Harbour) 근처에서 충돌사고로 멤버들이 '심각한 부상'을 입었다고 확인",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZGtTMkwwT3VkT0RkSUNtOEQtYWU2MVRXdmh3Z0o5amZkMG51SDFhZXEyb1hlNDJveTlKRV9CRjhPbnFsbTRqMGd2b3VtZG56NF9iLWZBR1RGWmp2S2pDb09aYV9wTjNiZ2RQTXZzbzdLZ25TWXRrYnI3U3hJN01jVFFZMUU4cXVGeWxQa3ZENmh1MHlPTEI3YWRFSmhCYU40QlV0eDhHZ2Y0YnhKX3Y5VzlCdTh4X2s?oc=5",
+          "source": "VOCM",
+          "published": "2026-08-17T08:56:00Z"
         }
       ]
     }
