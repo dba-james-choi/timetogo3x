@@ -1,16 +1,9 @@
 {
-  "updated_at": "2026-08-16T14:13:10Z",
+  "updated_at": "2026-08-17T13:37:23Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
-        {
-          "title": "Improving traffic flow, safety with Keating Cross Road Overpass completion",
-          "title_ko": "Keating Cross Road 고가도로 완공으로 교통 흐름 개선 및 안전",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yRGpiQ25XNkUzbi05OVJmX2FqVWJBeEo2VW1vOTc1UnJNNmpFRUZpWkdIRVpUbnZaRkltc2VEaHZHelI2bGZFOTk3Sl92Y09OTDl1amVRRDZqVjhxdUE?oc=5",
-          "source": "BC Gov News",
-          "published": "2026-08-11T20:40:02Z"
-        },
         {
           "title": "Central Saanich incident prompts fine from WorkSafe BC",
           "title_ko": "Central Saanich 사건으로 WorkSafe BC에서 벌금 부과",
@@ -19,11 +12,18 @@
           "published": "2026-08-14T21:00:37Z"
         },
         {
-          "title": "Victoria dogs howl in support of B.C. wolves",
-          "title_ko": "브리티시 컬럼비아의 늑대를 지지하며 울부짖는 빅토리아 개",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0hvNHJEZjExS2Mtcm1wNjdSVHVwVW9sSjZTQUdXcmp1Yy1tZmhpM3JjSmNzbDdqVmh4Z2FWVE5Id1luV21qcmNrSEdUb0RxTmlOMHhCemdWWXg5cXk2Ry1icS1NMF9zYXBYM0dFbE5ISEhhMlI0VmdrR21RakFZaGtJMzRmUQ?oc=5",
-          "source": "Saanich News",
-          "published": "2026-08-15T12:30:35Z"
+          "title": "Improving traffic flow, safety with Keating Cross Road Overpass completion",
+          "title_ko": "Keating Cross Road 고가도로 완공으로 교통 흐름 개선 및 안전",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yRGpiQ25XNkUzbi05OVJmX2FqVWJBeEo2VW1vOTc1UnJNNmpFRUZpWkdIRVpUbnZaRkltc2VEaHZHelI2bGZFOTk3Sl92Y09OTDl1amVRRDZqVjhxdUE?oc=5",
+          "source": "BC Gov News",
+          "published": "2026-08-11T20:40:02Z"
+        },
+        {
+          "title": "Flavour Trails brings scavenger hunt and festival to Saanich Peninsula this weekend",
+          "title_ko": "Flavor Trails는 이번 주말 Saanich 반도에 청소부 사냥과 축제를 선사합니다.",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdUhkM09GbkN6Y1FoT2szQXRPOTljSjlSVENkT0hGZDl4OUNzbS0xVnRRUWhFeHQ2X0J0TDlybGd2VE5NSHlfN2UyWndISE1ISl93WFc2VHVaYm5CZGc4SXZkcjVWWlRKZ3o5cjlCSXRHOFVTLXVoNGNmTzlGLWR3MFlxUndOa2JTLU1iNlNNZzFsU2lrVW1vNC1qVzdybHBUVC11MVFJckNHblpqWUJzMW9ZVWJ2UTJ2?oc=5",
+          "source": "Victoria Buzz",
+          "published": "2026-08-14T21:02:00Z"
         }
       ]
     },
@@ -33,23 +33,23 @@
         {
           "title": "Iconic castle in Greater Victoria is to be transferred under B.C. treaty",
           "title_ko": "광역 빅토리아(Greater Victoria)의 상징적인 성은 브리티시 컬럼비아 조약에 따라 이전될 예정입니다.",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQWZKVllxQmlHaUYxSHhHSGY4a0ZRcDdJMTR0Q2Z5UGFpa2IyeV9fcExOYjFOUGNGY2xuSDk1dkJOQjJDdDdsT2lQQi10UEVsRzhLWDZucnNyaUhnZmpBNnZNdEFUYWFkS25RSVhTdVZJRlYwMDFiTi0tQjZMMXpsSTZNYWhpLXpwczlXLUxGWUpRdXA3YXAxYS1SUFZfdzZaRzYzS1dUX3FuNnhILWc?oc=5",
-          "source": "CTV News",
-          "published": "2026-08-14T00:58:00Z"
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUi1lTHFRSGhRY1R2Zkl6aWtWY3hPX0hMUndFbi1wNERvcmIzcDA2eXEwZmRCUHlCdUpRM0dfejZ4bkEzTjMzZzhVUUhkVWhYTXR0ZjBvTmpLOHlteHk4VWtudW5fS2M2OWZxOE56akstQkZndEU3X0w2cXgxSXNBR1JoWVlyNFlZNFFENnhIaXFMdklfQlUwZkx5NW83OElackdoT0RqOEdjSlN0X1YwZXIxSQ?oc=5",
+          "source": "CityNews Vancouver",
+          "published": "2026-08-14T00:27:58Z"
         },
         {
-          "title": "BC Ferries backlog seeps into Saturday for Victoria, Nanaimo bound drivers",
-          "title_ko": "BC Ferries의 빅토리아주 나나이모행 운전자의 적체량이 토요일까지 스며들었습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRDZZeDAwWk9wcG5lVElkeG5lenlfc0FYVVk5dWN2U2s1NElVdnZyeThHeFhtRVBDNTVpVm93WVhEbF84NWpvR3BZek9NQWZkVDZleE1JUTd4M0N5Sndhb3hwLUR5bTdFT0t4MGJmYklEWE1uY3EyMlV5NGtDY1dTQmpWX0RSNU0tU2FEejVsSlNKekFzSmQ2MjhlcTUxMWVySE5XZl9yZUU?oc=5",
-          "source": "Victoria News",
-          "published": "2026-08-14T21:45:27Z"
+          "title": "Unifor Local 333-BC serves 72-hour strike notice at BC Transit in Victoria",
+          "title_ko": "Unifor Local 333-BC는 빅토리아주 BC Transit에서 72시간 파업 통지를 전달합니다.",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZmJSWDJacGh3Ui1BNUVfNHA3R0JyTFBxUUhIR0VMRE5udzI4TDlUSnVMTkFOUmhkRkl5ZDZmWUNEbHBqaThFcktVMGFlRGxDRU1LZWQ5U0ZMWDVjMk44aElsSzFSR1dPM3l6dDhuZjgyaEpXWnJsN2Zzb2pHVnlsSlVoOFpxY1JnaUdjOF9UZWpLVkRtVTAwRkRnWTB1a0pNb0poSG92T0s?oc=5",
+          "source": "unifor.org",
+          "published": "2026-08-13T21:33:49Z"
         },
         {
-          "title": "Metro Vancouver, Victoria transit workers issue 72-hour strike notices",
-          "title_ko": "메트로 밴쿠버, 빅토리아 대중교통 직원, 72시간 파업 통지 발표",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcHVBUEN0MlpFSUE4b1czVVROcTZsUG10azlNZi1Iam8zS3oxc3FpUm93QjEwS3UxTEdNRDFXV0owS1kxZ2ZSZlJOclEtRVZHOS1YMEpicEhlc3JVdHpxaUxmTmNNQmdWWkI2a3gxeTJmYUhWZUZsc01ocGczVWlUX05YVE1ma0FRZURTVUgtU05aTHZZZXNINFdB?oc=5",
-          "source": "CBC",
-          "published": "2026-08-14T00:24:00Z"
+          "title": "Victoria transit workers set to begin job action Monday",
+          "title_ko": "빅토리아 대중교통 근로자는 월요일부터 작업 조치를 시작할 예정입니다.",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWFpIYnBYbGlEbHBaQXdaS3ZUcDRjZW44aklQMU9lWWpDdDFGSmt1cHRMOU1Ha1dHeFBvXzdTZnlxcy1YbXZrVFBuOXJWbXlXMnQ5Nk5mRFNWeTA1OWtoWTVSNUpsR0pORm1INm0tSDMtcUl0LVpkdGZJRkhJcF9RT1JCQm1nUGNWYXd0UGhGbExJRXFKbjRlOW1JZ3FQUWNnU0hyc1dVVmRuUQ?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-08-15T17:20:00Z"
         }
       ]
     },
@@ -64,18 +64,18 @@
           "published": "2026-08-14T15:30:00Z"
         },
         {
-          "title": "'Severe thunderstorm' rains down on parts of Metro Vancouver, South Coast",
-          "title_ko": "메트로 밴쿠버 남부 해안 지역에 '심각한 뇌우' 쏟아져",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVJIR2h1blNjaVY3Q2FUamVpZlYyWFF0Qi1wM01UbDlMOGJoc09wUi1rdFFvUEFNaUpDS0NnXzFGSnZpZWZpYWFDV3NkNVVoSm9tT2FBM1Z5VnFUcWE1dW95YzFBTWQzcnVfd2RNb2x5WU5wN1lFZEsyVG42UHpkVWFlbFJqeWN1Tk50ck9UNnl6WkxtOWFvWTJjRHQ?oc=5",
-          "source": "CBC",
-          "published": "2026-08-14T17:05:00Z"
+          "title": "Metro Vancouver lifts air quality warning as wildfire smoke reduces",
+          "title_ko": "메트로 밴쿠버, 산불 연기 감소로 대기 질 경고 해제",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QZ3RFZnZ4LXlYdFUyQVAxNFp2d1pzR0JxM2Vsb1V6Uk1mMWc3djFvaGZ6cjV5WTBIRXZmYzZ5Zms1Ul9yT091RDdHdm9lQVE5eVFOWmNPTUlQNkpLZm5UbGE4SU1ob0pyc3dLNkFVQjhFUEFhemxV?oc=5",
+          "source": "CityNews Vancouver",
+          "published": "2026-08-16T19:38:00Z"
         },
         {
-          "title": "Delta man defrauded company and investors of nearly $300K, BCSC alleges",
-          "title_ko": "BCSC는 델타맨이 회사와 투자자에게 약 30만 달러를 속였다고 주장합니다.",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOUFUT0R2N0VEZlM4TFNvVXdHeFBSc2tYZ3RnQXFxZ01aeUhQMVdaZExidm1SZ01DaVFpLWV1SlR6SXJHRzBjajZpYnAzLUVPMWZmaW1pemhLaEliclQyclhSb2dCR29FS3VBaDNTeDQybW5GWTd2d2pSbERyeU9GN0lvNm9PWkxmQzFkOUpldmRJTERFRHd2U1FkNFQzRHFHcXRVMWxtd0RNaXN5RjhYWQ?oc=5",
-          "source": "CTV News",
-          "published": "2026-08-15T18:41:46Z"
+          "title": "Vancouver Island park closed following black bear attack",
+          "title_ko": "밴쿠버 아일랜드 공원은 흑곰의 공격으로 폐쇄되었습니다",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTTEwczhUS0pLUC1pTjVRUVNwSVF3cjZhMklXbTFPWWZtZmRmYWZyeGo0THU3Y0VuQWlneE04TkN5OENJckJGeVNzQ2draFhWOEVOVWs4UDdsSDBLcHNscFpnT1JNSHNINmNiRWx0OHdLaEEtQnJtQkRFTWNTcXdqdVRXckhMai1rNUpZ?oc=5",
+          "source": "Global News",
+          "published": "2026-08-14T23:34:36Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Windsor needs action on copper wire theft, says frustrated home builder",
-          "title_ko": "Windsor는 구리선 도난에 대한 조치가 필요하다고 좌절한 주택 건축업자는 말합니다.",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzckdtVEVKM0RucGdsMFhoalRRLXJLRkFkR0FCWVkyc0lNaTFrSVlPaEVSODZxamZIUDlyQ0dzODhZeHN2SE9TZ2wyS1lpOVZWUkFHbDhDakhORzQ5MUYwbWQwX2JtWExXb0dxRVF3VzlFUEk2WnptTWg0Y3JFQm8?oc=5",
+          "title": "Where do Canada-U.S. trade negotiations stand? Here's a sector-by-sector breakdown",
+          "title_ko": "캐나다-미국 무역 협상은 어디에 있습니까? 부문별 분석은 다음과 같습니다.",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1FyQk5NOHBkQzdBOXpjcmtiSE9WT1JqQldYdUltRmlhajB1NGFRSlEyQlZuTUZNZDlZUF9VVHJPOEhHODQ3TzJ3aWhpMTNyTUROQnBaWU93RUZGeF92bVBSR1lZSElpTUh2ZUZIY0ZlS1R3azEzWDhXMU1tUXhZVDVWUzRHUTZtbU5yRlVKTTdpZ3Rn?oc=5",
           "source": "CBC",
-          "published": "2026-08-16T08:00:00Z"
+          "published": "2026-08-17T08:00:00Z"
         },
         {
-          "title": "Toronto police identify suspect wanted in stabbing of TTC worker",
-          "title_ko": "토론토 경찰, TTC 직원 살해 용의자 신원 확인",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRDVKUktPTFQwR3BJa0FJVnFCMDRxNHhQTC1mVUFHSlJYX2ZGbU1aTExqMDVwLUdEa2VpT3puOGJ3Nk90R1NMRGFPMFVOZkhhTlFiUzM1M0xPdkJhZERRR0gxQzFuMFRTaGJyclVIYWR4TXdadDhLWkZjNlA4TDQxUy0xR1RQMTdCMjlXWktoMkJ3NXdlUmc2VHFpT0NmUTNKS2N4U3dyWmphMExKMHR1Qw?oc=5",
-          "source": "CP24",
-          "published": "2026-08-16T00:15:00Z"
+          "title": "Winnipeg abduction victim found across the border: N.D. State Patrol",
+          "title_ko": "위니펙 납치 피해자가 국경 너머에서 발견되었습니다: N.D. 주 순찰대",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZlQ4R2Y2X2tROTBBbFdqRmNLUVBzSFVSUWFaNkt5RXllLXlWNmpaNXB5X0cxcE42ZGdTMmk1QXJqMGdnX2J0Tk5ZMk5NMG1ydEJjYmxRRzFlWVZ0d0h4Y1IxWG9oWjJWYW5QSy1DcHJaVlZMSEozb3d5WElKZnczZTUxcVk4TTRFRUs4LUUyeXBlV1Mw?oc=5",
+          "source": "CTV News",
+          "published": "2026-08-16T15:46:49Z"
         },
         {
-          "title": "Any Canada-U.S. trade deal must include auto sector: Brampton mayor",
-          "title_ko": "캐나다-미국 무역 협정에는 자동차 부문이 포함되어야 합니다: 브램튼 시장",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSDN1WlYteUpXc0pPMW5OeVRub0RaNzVrY3dtOUlkMHF3djdpU2pjZEdwaGhWYzJGUlBnOUZqU0gxQ0RJQkdOM24tcjBVbHNCSlZjMXZtNlQ1WHB3QjMzMERrWVNES29abkFaRkVCQnpSbC1QbktuREZkU1FGX29pUldNMmFpVDhkQ09tb0V5OA?oc=5",
-          "source": "Global News",
-          "published": "2026-08-15T19:06:29Z"
+          "title": "'It's eerie': Summerland residents are returning to their homes — or what's left of them",
+          "title_ko": "'으스스하다': Summerland 주민들이 집으로 돌아가고 있습니다. 또는 그들에게 남은 것은 무엇입니까?",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSVpRWkZWR0tDMUJRSXdMMkVucHExakpoa2ZDSGFidGI5bGZFeFZubzRPaFpZM2FpcWp4MTRmVV9naXIteXpyNktLZHhFMUpEcm1IZ3VqZXZkV1U4VFpaNXZ5MnZmN2h3UUxNeThtZUY5aW50WF9tVXBvbm9iYnI3TmpWcTQwaXJfbllNbnBHYnU5OXFfSXcwMw?oc=5",
+          "source": "Vancouver Sun",
+          "published": "2026-08-15T20:46:08Z"
         }
       ]
     }
