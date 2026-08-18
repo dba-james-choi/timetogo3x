@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-08-17T14:17:24Z",
+  "updated_at": "2026-08-18T13:40:07Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
+        {
+          "title": "New cataract surgery tool at Saanich Peninsula Hospital the first of its kind in western Canada",
+          "title_ko": "캐나다 서부 최초의 Saanich Peninsula Hospital에 새로운 백내장 수술 도구 출시",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdjRtN3EyWl9EXzk5dFlueHFpZXFsTUR3SUZvUHJjY0xWVDZYZURRSDhUTHVYaXZ4LUN3S1MwTno2bWFybnN1Qk1sUUhzTzRaNjM2a3dmcXVCQU1IV25ENDIxRFBlczV3QjdJTndQbFRKMkVIUHd5a0Etdnh0a1BCUjdJMDNmUTZaR05ZWXZ1NEwwSE5SRUt5TjR0MXpaOUdvMjVZZDRhbUp1VWdtRXV4dWhqakpxY0REQTBjZlNOMDY2OThNRjhZeXE3YjlKeW1xS2RNSnEwY2laWXBtLUE?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-08-18T11:00:00Z"
+        },
         {
           "title": "Central Saanich incident prompts fine from WorkSafe BC",
           "title_ko": "Central Saanich 사건으로 WorkSafe BC에서 벌금 부과",
@@ -12,18 +19,11 @@
           "published": "2026-08-14T21:00:37Z"
         },
         {
-          "title": "Flavour Trails brings scavenger hunt and festival to Saanich Peninsula this weekend",
-          "title_ko": "Flavor Trails는 이번 주말 Saanich 반도에 청소부 사냥과 축제를 선사합니다.",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdUhkM09GbkN6Y1FoT2szQXRPOTljSjlSVENkT0hGZDl4OUNzbS0xVnRRUWhFeHQ2X0J0TDlybGd2VE5NSHlfN2UyWndISE1ISl93WFc2VHVaYm5CZGc4SXZkcjVWWlRKZ3o5cjlCSXRHOFVTLXVoNGNmTzlGLWR3MFlxUndOa2JTLU1iNlNNZzFsU2lrVW1vNC1qVzdybHBUVC11MVFJckNHblpqWUJzMW9ZVWJ2UTJ2?oc=5",
-          "source": "Victoria Buzz",
-          "published": "2026-08-14T21:02:00Z"
-        },
-        {
-          "title": "Improving traffic flow, safety with Keating Cross Road Overpass completion",
-          "title_ko": "Keating Cross Road 고가도로 완공으로 교통 흐름 개선 및 안전",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yRGpiQ25XNkUzbi05OVJmX2FqVWJBeEo2VW1vOTc1UnJNNmpFRUZpWkdIRVpUbnZaRkltc2VEaHZHelI2bGZFOTk3Sl92Y09OTDl1amVRRDZqVjhxdUE?oc=5",
-          "source": "BC Gov News",
-          "published": "2026-08-11T20:40:02Z"
+          "title": "Victoria dogs howl in support of B.C. wolves",
+          "title_ko": "브리티시 컬럼비아의 늑대를 지지하며 울부짖는 빅토리아 개",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0hvNHJEZjExS2Mtcm1wNjdSVHVwVW9sSjZTQUdXcmp1Yy1tZmhpM3JjSmNzbDdqVmh4Z2FWVE5Id1luV21qcmNrSEdUb0RxTmlOMHhCemdWWXg5cXk2Ry1icS1NMF9zYXBYM0dFbE5ISEhhMlI0VmdrR21RakFZaGtJMzRmUQ?oc=5",
+          "source": "Saanich News",
+          "published": "2026-08-15T12:30:35Z"
         }
       ]
     },
@@ -31,18 +31,11 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Iconic castle in Greater Victoria is to be transferred under B.C. treaty",
-          "title_ko": "광역 빅토리아(Greater Victoria)의 상징적인 성은 브리티시 컬럼비아 조약에 따라 이전될 예정입니다.",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUi1lTHFRSGhRY1R2Zkl6aWtWY3hPX0hMUndFbi1wNERvcmIzcDA2eXEwZmRCUHlCdUpRM0dfejZ4bkEzTjMzZzhVUUhkVWhYTXR0ZjBvTmpLOHlteHk4VWtudW5fS2M2OWZxOE56akstQkZndEU3X0w2cXgxSXNBR1JoWVlyNFlZNFFENnhIaXFMdklfQlUwZkx5NW83OElackdoT0RqOEdjSlN0X1YwZXIxSQ?oc=5",
-          "source": "CityNews Vancouver",
-          "published": "2026-08-14T00:27:58Z"
-        },
-        {
-          "title": "Unifor Local 333-BC serves 72-hour strike notice at BC Transit in Victoria",
-          "title_ko": "Unifor Local 333-BC는 빅토리아주 BC Transit에서 72시간 파업 통지를 전달합니다.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZmJSWDJacGh3Ui1BNUVfNHA3R0JyTFBxUUhIR0VMRE5udzI4TDlUSnVMTkFOUmhkRkl5ZDZmWUNEbHBqaThFcktVMGFlRGxDRU1LZWQ5U0ZMWDVjMk44aElsSzFSR1dPM3l6dDhuZjgyaEpXWnJsN2Zzb2pHVnlsSlVoOFpxY1JnaUdjOF9UZWpLVkRtVTAwRkRnWTB1a0pNb0poSG92T0s?oc=5",
-          "source": "unifor.org",
-          "published": "2026-08-13T21:33:49Z"
+          "title": "Greater Victoria BC Transit workers begin job action with ‘uniform ban’",
+          "title_ko": "광역 빅토리아 BC 교통 노동자들은 '균일한 금지'로 작업 행동을 시작합니다.",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMmpUVjBhQ2JUOTRWOUlfSy1ram0xR3dseWRJZ0hWSFRSS0s3dkxIVXo4VDRjNEpkYUN2cUI4NjBWYkxmU1FtQVh3alJzeGZ0ZS1XbmhxZEtpMXlFVVlhR1BHcEszeE1uaXhrSkcxQjhpVlNMVjdvZXZvbGFscmVGclY2aEpHeHY3b19BRTJjbTZmYVNCdGF1dzdBdEFSRk0?oc=5",
+          "source": "CHEK News",
+          "published": "2026-08-18T01:18:18Z"
         },
         {
           "title": "Victoria transit workers set to begin job action Monday",
@@ -50,6 +43,13 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWFpIYnBYbGlEbHBaQXdaS3ZUcDRjZW44aklQMU9lWWpDdDFGSmt1cHRMOU1Ha1dHeFBvXzdTZnlxcy1YbXZrVFBuOXJWbXlXMnQ5Nk5mRFNWeTA1OWtoWTVSNUpsR0pORm1INm0tSDMtcUl0LVpkdGZJRkhJcF9RT1JCQm1nUGNWYXd0UGhGbExJRXFKbjRlOW1JZ3FQUWNnU0hyc1dVVmRuUQ?oc=5",
           "source": "Times Colonist",
           "published": "2026-08-15T17:20:00Z"
+        },
+        {
+          "title": "B.C.'s provincial health officer to hold news conference amid wildfire smoke warnings",
+          "title_ko": "산불 연기 경고 속에서 브리티시 컬럼비아 주 보건 담당관이 기자회견을 열 예정",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQm9YQldjb2xtWkxWakdKMkxIRXJXNEtac0wza1h4NWt1OElHbHVFdFluMU5mU3JFSmxZMUQ0dDVtZXJSbzEyZTZPLTBudXZ1cFRoWUIxMUNya2lKeThTMnN5QTUzeFZHMzNIWTgwakxSSGRYblNvcmVnamd4RmRhRjdBODE1LVlMeUd1Rlpta0FFZlNXYk1KcUNkMDBseDZOaWxMNlNpdmNpVFZmNmFHSkdkYWVxRmRRRGxXc0g1YlJpQQ?oc=5",
+          "source": "Castanet",
+          "published": "2026-08-18T12:41:00Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "The best B.C. cities to be a renter and Vancouver isn't one of them",
-          "title_ko": "세입자가 되기에 가장 좋은 브리티시 컬럼비아 도시(밴쿠버는 그중 하나가 아님)",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aV3RWdUFtR2RNMmlDZUhSYThlY1I1aGllbzMyclVUcDVRaTEzRnNqSjR1Q3NWNDlaY0VaclczM2VqTXdFUFpJNkJsMlRJWEd6ZHpDYTA4enhEcDZhTTk0S0gtdw?oc=5",
-          "source": "Daily Hive",
-          "published": "2026-08-14T15:30:00Z"
-        },
-        {
           "title": "Search for B.C.'s best roadside attraction: Vancouver Island finals",
           "title_ko": "브리티시 컬럼비아 최고의 길가 명소 검색: 밴쿠버 아일랜드 결승전",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzhTSXh6SldaRHQ1VVRvLTQ3YUkwSG1WeG55bnpVelJyVEk3NVhTQXV5SC01czFEc2VTcE5oNjFHbHRsX1NuNE5QWHRYN0w2Ukd6Z3VIRXRaa2I5REpjM1dHVnRqZFp1Z0dnbWQ1MjBPd20wRVpUV0xscVdTY1hUeHJXVV9TdmEtRjRLejhCLXRfNm1ORVFEekphaWQ3SU5ZT1dtMUNn?oc=5",
           "source": "CBC",
-          "published": "2026-08-17T14:00:00Z"
+          "published": "2026-08-17T23:04:15Z"
         },
         {
-          "title": "Metro Vancouver lifts air quality warning as wildfire smoke reduces",
-          "title_ko": "메트로 밴쿠버, 산불 연기 감소로 대기 질 경고 해제",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QZ3RFZnZ4LXlYdFUyQVAxNFp2d1pzR0JxM2Vsb1V6Uk1mMWc3djFvaGZ6cjV5WTBIRXZmYzZ5Zms1Ul9yT091RDdHdm9lQVE5eVFOWmNPTUlQNkpLZm5UbGE4SU1ob0pyc3dLNkFVQjhFUEFhemxV?oc=5",
-          "source": "CityNews Vancouver",
-          "published": "2026-08-16T19:38:00Z"
+          "title": "City delivers major sewer infrastructure upgrades across Vancouver",
+          "title_ko": "시, 밴쿠버 전역에 주요 하수 인프라 업그레이드 제공",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT1ZMbXdlMEhhcFNHSm41N0lCSFl6UzlHQ2dwQVRjS3lURkhoaE0xQ082UnBVbTU0RGc4eUZ1RERxbGR2S0p4c005QkhURW9EdG5hejNkZnBkSnlYR29BcW9uOXl6cDNZakFRektfMHlqemhTSlVNYzd6V01xVGVSQnh2c0JnSmhXckNUVmFiRW1VY2gxUTFmNWNDOVY3V1NtWkt0RXVEZUMyN2NaenNmLWplRnFLajNaRGdfczFXR0V2V2d6VFBFUVJmUUREOFk?oc=5",
+          "source": "constructconnect.com",
+          "published": "2026-08-18T10:20:04Z"
+        },
+        {
+          "title": "Opinion: Trump tariffs aren’t B.C. forestry’s biggest problem",
+          "title_ko": "의견: 트럼프 관세는 브리티시 컬럼비아 산림업의 가장 큰 문제가 아닙니다.",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWVZQVRpZnZUT0dMSE9ia2tRdWxIZHVGbTFfVndRR3ZXajNqSGVkb2prLTlkcGdLclNjcWxjVEo0cGgtYmxtUWhxdTQ4c0IzVk4wWGMtUUVTVHFOR3lsUlF5NWMweVByRjhkZ2k5c2d6dlVyWmM3Q09KTGdTZEkxS0Fvc1h1ZDVKYUdpSTlsa1R0bXBMN2pHZU5VeGNpN2F4YXVR?oc=5",
+          "source": "Business in Vancouver",
+          "published": "2026-08-18T12:00:00Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Where do Canada-U.S. trade negotiations stand? Here's a sector-by-sector breakdown",
-          "title_ko": "캐나다-미국 무역 협상은 어디에 있습니까? 부문별 분석은 다음과 같습니다.",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1FyQk5NOHBkQzdBOXpjcmtiSE9WT1JqQldYdUltRmlhajB1NGFRSlEyQlZuTUZNZDlZUF9VVHJPOEhHODQ3TzJ3aWhpMTNyTUROQnBaWU93RUZGeF92bVBSR1lZSElpTUh2ZUZIY0ZlS1R3azEzWDhXMU1tUXhZVDVWUzRHUTZtbU5yRlVKTTdpZ3Rn?oc=5",
+          "title": "Carney’s final chance to convince Trump as US-Canada trade deadline looms",
+          "title_ko": "미국-캐나다 무역 마감일이 다가옴에 따라 카니가 트럼프를 설득할 마지막 기회",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ITkJ4Ri1adkxLYk02bFhlQnhQRlE3eVJidVVYb2kycHAtMVlHdThGV1dhV3hyNHlsUUxQbF9OVDRuQXV1RkNvNFFsc1NfczA2aXo4NVpjd3FOdw?oc=5",
+          "source": "bbc.com",
+          "published": "2026-08-18T12:27:47Z"
+        },
+        {
+          "title": "No referendum with Trump around, says PQ ahead of October election",
+          "title_ko": "PQ는 10월 선거를 앞두고 트럼프와 국민투표는 없다",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUnlETWx5TUtZOWxYT1lYcFRVbm5uc21mZnFZYmhqTlo0WjBRcnNMNmhjZHAtb3o4bHd2RWp5Z09nUy1WbzZsUW9IQnYzRVRKZUo0T2JvbmpKdC1nalBLTFloUHJxSkJmbEkxYjN0bXROcXpoLXlXWVM1MnBmSlU0anpB?oc=5",
           "source": "CBC",
-          "published": "2026-08-17T08:00:00Z"
+          "published": "2026-08-18T12:48:50Z"
         },
         {
-          "title": "Winnipeg abduction victim found across the border: N.D. State Patrol",
-          "title_ko": "위니펙 납치 피해자가 국경 너머에서 발견되었습니다: N.D. 주 순찰대",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZlQ4R2Y2X2tROTBBbFdqRmNLUVBzSFVSUWFaNkt5RXllLXlWNmpaNXB5X0cxcE42ZGdTMmk1QXJqMGdnX2J0Tk5ZMk5NMG1ydEJjYmxRRzFlWVZ0d0h4Y1IxWG9oWjJWYW5QSy1DcHJaVlZMSEozb3d5WElKZnczZTUxcVk4TTRFRUs4LUUyeXBlV1Mw?oc=5",
+          "title": "‘If you have money, you can get out of jail’: Ontario’s new cash bail rules face constitutional challenge",
+          "title_ko": "'돈이 있으면 감옥에서 나올 수 있다': 온타리오의 새로운 현금 보석금 규정은 헌법적 도전에 직면해 있습니다",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNX01PMXNRVlROc0hIODNfZ0FJUkMxWHZESTFzYmV4QkpqZ3kxYWFrbW9RZHdGYmJiWkkxbEJXRmZSMVFpVHVhWk1QNEZDRHJkbW81Z1ZqVnAyRVlvam9ZZzhPRENJaFdKbnJNblF5eFlQWGgzYWNjMjUtRlZIaWNjeEVyaTlxYmJXbEpfQ1ROZlE0dFE4UkdtVDFQaWJmUVhXSWFWVFJ4TkZLWFY5RTdacHdibGhfczRKUUVKX2ZmZTJPR1RSbFZjUUkwQVpoQ0QwYmlHQ1ZXRjhYdjlSYUowblRHWXJ2VlNKM09KQjZpYWUzbWs?oc=5",
           "source": "CTV News",
-          "published": "2026-08-16T15:46:49Z"
-        },
-        {
-          "title": "Local Wrestling Group Confirms Members ‘Seriously Injured’ in Crash Near Southern Harbour",
-          "title_ko": "지역 레슬링 단체, 서던 하버(Southern Harbour) 근처에서 충돌사고로 멤버들이 '심각한 부상'을 입었다고 확인",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZGtTMkwwT3VkT0RkSUNtOEQtYWU2MVRXdmh3Z0o5amZkMG51SDFhZXEyb1hlNDJveTlKRV9CRjhPbnFsbTRqMGd2b3VtZG56NF9iLWZBR1RGWmp2S2pDb09aYV9wTjNiZ2RQTXZzbzdLZ25TWXRrYnI3U3hJN01jVFFZMUU4cXVGeWxQa3ZENmh1MHlPTEI3YWRFSmhCYU40QlV0eDhHZ2Y0YnhKX3Y5VzlCdTh4X2s?oc=5",
-          "source": "VOCM",
-          "published": "2026-08-17T08:56:00Z"
+          "published": "2026-08-17T23:14:52Z"
         }
       ]
     }
