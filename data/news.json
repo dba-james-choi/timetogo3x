@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T13:43:33Z",
+  "updated_at": "2026-08-20T14:25:42Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -57,6 +57,13 @@
       "label": "Vancouver",
       "articles": [
         {
+          "title": "'Water was never really my thing': Vancouver man pedalling across the ocean for B.C.'s sick kids",
+          "title_ko": "'물은 결코 내 것이 아니었습니다': 브리티시 컬럼비아의 아픈 아이들을 위해 바다를 건너 페달을 밟는 밴쿠버 남자",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQnN4bjZwV3p1RzhxVWE3bjNySTZVM2dBSzRucm5wcTl0N1A2c0NyLU5XOWh4YXFmMkpmQnRKWVdXdThGbVhwZUJMWG9tQ0cxMmZ4NEthdkJEa0VxbVlhUHZNbUpUbTdiVHFZS0dKVG5qMmU2VEFUUlJHbzRpN3hzWW5pbFVTbTM3djhhMllESVZST2ZNZUNMcnZlbTNhS3RfQXlPc01FOXlocEZtTVBrODF5Tkh1Q192SFozdnRraklIX0ZNdGdQRFVuVGVLcG5rZmlTdEgxdVhUcElES3c?oc=5",
+          "source": "Vancouver Is Awesome",
+          "published": "2026-08-20T13:27:05Z"
+        },
+        {
           "title": "B.C. father fined for allowing underage son to operate e-scooter",
           "title_ko": "브리티시 컬럼비아, 미성년 아들에게 전기 스쿠터 운전 허용한 아버지에게 벌금 부과",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmdKb1pIUHRucnFUc0FlaTVjWDlDa0thUTAwVjJBYkk4RE1vMU4ycFNpbURhMlhtY1RlMDdGYWhFcDFMU05iS2IxQzhHQWxRVXlEeEVmN2I4blFPdFVnaWhkd3VxTFM5TGhuaTlQWHdhT21xeFF6enprVnl0ZEpjbFROQ19RRTJiMEx4SC15RFpQZmZTYWdLNEhBZ1dpVjNZQnJJSUsySDJ0eVl3NEZFcFVKeklzR3oz?oc=5",
@@ -65,17 +72,10 @@
         },
         {
           "title": "B.C. crime news: Teen charged with threatening to burn Port Coquitlam home | Man arrested in 2025 Granville Street murder | Man in critical condition after shooting in Maple Ridge",
-          "title_ko": "브리티시 컬럼비아 범죄 뉴스: 포트 코퀴틀람의 집을 불태우겠다고 위협한 10대 기소 | 2025년 그랜빌 스트리트 살인 사건으로 체포된 남성 | 메이플 리지에서 총격을 가한 남성이 심각한 상태에 빠졌습니다.",
+          "title_ko": "브리티시 컬럼비아 범죄 뉴스: 포트 코퀴틀람의 집을 불태우겠다고 위협한 10대 기소 | 2025년 그랜빌 스트리트 살인 사건으로 체포된 남자 | 메이플 리지에서 총격을 가한 남성이 심각한 상태에 빠졌습니다.",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BRGhLTjB2NXZ3cDZQQmtFV0F0RjJJTGZOYW5LV2VnVE95RXhibDZJYUlkWk1TMDR3THZDa1BLRXNkbEcxcklYaUE2c2IyVTlLb1l3XzRlNWtraXR3Mk5wX0F0TnRZZlY5Yjhtenhna0FYZm12c1RJRjhjQlkzQQ?oc=5",
           "source": "Vancouver Sun",
           "published": "2026-08-19T22:42:50Z"
-        },
-        {
-          "title": "‘Lucky’ collapsed on Amsterdam street. Did he go missing in Vancouver in 1994?",
-          "title_ko": "암스테르담 거리에 '럭키'가 무너졌습니다. 그는 1994년에 밴쿠버에서 실종되었나요?",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQy0wREUxNHdBXzhiLXg0cFVTQmZqMzVTNDRpVGtqY1dUYkZ0MktIVXdlbEFMc0JuTzcweXlXY2JtNG9hRWs2Mm42M1ZZeldaOXdwZUlOX3hBOFlXb25jMUxIU21VVzUzU19sdjBQdWdtRlF3dEFka0xMcENpRklOLU03cmQ4aWxQekFUakUzM2pXVFhTbVBJeVozVTc2SUpianJ0THV3SUVROVNLNHpPanJFMWdXeEl5TGpBbnlHVEg4eUkyQmRoM29xUTBiZ2RqZHlqMVlqdXFfOGJubUI5RmhRUEdZOGdpaC1WZEFWZ2FqblZqVFN4QzJKT1Z4Q1ZRLXZCWWdaVXA?oc=5",
-          "source": "Toronto Star",
-          "published": "2026-08-20T01:04:44Z"
         }
       ]
     },
@@ -83,15 +83,15 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Canada, U.S. officials work to finalize trade deal after new tariffs paused",
-          "title_ko": "캐나다와 미국 관리들은 새로운 관세가 중단된 후 무역 협정을 마무리하기 위해 노력하고 있습니다.",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMXY3SU4tV01DWnNLNXlYY05IamY1RnNKMmNWd3hyNm5nRjRqREVwSXQ1bGZ5cjNEVkdSZW85cXpncHFsZ3QwRGN4dExFNEdZWWw5NWJNWWE2aVlHa1NFempEdnE3eFdLWEJxLUhGWmlHdU5JbFZUbmpVX1hZYWsyb1V5M2JCbElEMjV4dFZ3M2RSZE8wMEtaQ0JLUVB6QVVsVl9JcGwtRXRvdFBP?oc=5",
-          "source": "CBC",
-          "published": "2026-08-20T13:14:15Z"
+          "title": "PM Carney asks premiers to remove U.S. booze ban as officials try to finalize trade deal",
+          "title_ko": "카니 총리, 무역 협정 마무리 위해 미국 주류 금지 조치 철회 촉구",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVDI2WUlyVm5BMGxmUGpWaHlLTFA0Q0kwdVp1T1YycVlXU1lyRlBaMnQ3ZXM0UDBNVEVaNHRJWEVSTk5ISFBYaFItY0doVVYxZUFoa25EY0htZjh3MEZCRUN5SlIwVWEzUTNweXZWNEJEdnV5MXhmY3VFZnA4Yk52cDhnanplalFBNEl6aFgydC02X0k2S2I4NlFqdzdrdDhXVnIxbHNGNmxLMjBhQjBTdW1aeEoxOVFtdVRvZHNmWllRSkRVNlcydXVTS2pOVk9haGFzNGZR?oc=5",
+          "source": "CTV News",
+          "published": "2026-08-20T13:20:16Z"
         },
         {
-          "title": "Expecting Ontario moms are travelling hours for routine ultrasounds amid sonographer shortage",
-          "title_ko": "온타리오 주 산모들은 초음파 검사기 부족으로 정기적인 초음파 검사를 위해 몇 시간씩 이동해야 합니다.",
+          "title": "Expectant Ontario moms are travelling hours for routine ultrasounds amid sonographer shortage",
+          "title_ko": "온타리오주 예비 엄마들은 초음파 검사기 부족으로 정기적인 초음파 검사를 위해 몇 시간씩 이동하고 있습니다.",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ2NnRkhlRUFha0JrWUk4UDF5QXQ2LWpneXA1R25jVjRROU9LdHRyT1dMR2kxXzV3X1JQR0NvMzlwcm44M1d5d2JjckRkU3d0OTVnTzlKNGtwcUhaamIta3BBZjBjUGIyTTVWSjZrZmZYNXVnZzBxYkNFQjBmTTN4V0NCMm5WU3FaV2JYM094bVQ4ME9IeS1TWg?oc=5",
           "source": "CBC",
           "published": "2026-08-20T09:26:10Z"
