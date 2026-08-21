@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-08-20T14:25:42Z",
+  "updated_at": "2026-08-21T13:42:44Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
+        {
+          "title": "Saanich Peninsula group raising funds for wildfire-affected animals",
+          "title_ko": "산불 피해 동물을 위한 기금을 모금하는 사니치 반도(Saanich Peninsula) 그룹",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0RCMWJOUzhLVDlkQ3N4djE0RHBES19BNW1LcTZWRC1JTE56cGhTN29MaDVqdkJ1OGREWDZDZVBvMEdYNEZTR3dpSUJ3clhlTlhpdF9YM2RVRkpvVXQ4XzU2U19PRnp6d0NOamI5aHpJRnJzZmdLMTZZQkNuejVIbXdSb2R4aGkwakZOcXI3SThXRDZlTmozMWd5ZFI2Tks5Y2lPeGp5YXliZS1VNk9rMQ?oc=5",
+          "source": "Peninsula News Review",
+          "published": "2026-08-21T12:45:24Z"
+        },
         {
           "title": "New cataract surgery tool at Saanich Peninsula Hospital the first of its kind in western Canada",
           "title_ko": "캐나다 서부 최초의 Saanich Peninsula Hospital에 새로운 백내장 수술 도구 출시",
@@ -12,18 +19,11 @@
           "published": "2026-08-18T11:00:00Z"
         },
         {
-          "title": "Summerland Strong: B.C. looks to support wildfire evacuees",
-          "title_ko": "Summerland Strong: 브리티시 컬럼비아는 산불 대피자를 지원하려고 합니다.",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQmpJRnI0NXNtQTBOcmh5SFV6SUhDR3RoaGFpMks4bGRKY09RRUdWRUVDX0RuUEthN1ZBMnYxSHg4Q2Y1OS1NQWlhMHBtOXBmSDZqQXVzRW1CQUp3eWJ4amlwMjhtOTNVaWwxOHhyVHVEeEs3c1RVS1lsazRjaUd0YnB4czdEdEtWSmktRDd6a0w2Ym5GQjFN?oc=5",
+          "title": "Ottawa and B.C. putting up $106.5M to help recover salmon stocks",
+          "title_ko": "오타와와 브리티시 컬럼비아는 연어 자원 회복을 돕기 위해 1억 650만 달러를 투자했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXBCcHFzcXZadXpIMzc0YktlUVZXaGV1SmIxc1c5MEpvbk5oZk9YVC1CNGVVVlVwRGh6aU1MMjZrVl81X05kUUZleDNNUUJjYXV3bWZMRGRkcnFaN1VTeTd5QnhfekI5dC1Maml3QTM3RWptV1pERGVaNHNHT21kbXNpT1kxazVUeHk2MDN0SlhwSjB4bGhvazRpSzFBSE0?oc=5",
           "source": "Saanich News",
-          "published": "2026-08-18T22:56:20Z"
-        },
-        {
-          "title": "Central Saanich incident prompts fine from WorkSafe BC",
-          "title_ko": "Central Saanich 사건으로 WorkSafe BC에서 벌금 부과",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdW80Y2RkS2pBaFRLNVBNVUZwTF9mSGhja25GVzhRbEJWYjdTeU1XeDJpRGhQRGRTOGlobGhVcmhabE1iV3hoWHVxdG1qSlhCRU1uUG5mandTblZDNVlxMlNnOFJ4SUtDOXAzS0ZXRUMwRlJDTVRMNUNYY1dKeU5xNzRILTA1ZmNXWjQ0LWJpd0tDRVRpYm9ETlVn?oc=5",
-          "source": "Nanaimo News Bulletin",
-          "published": "2026-08-14T21:00:37Z"
+          "published": "2026-08-20T22:58:21Z"
         }
       ]
     },
@@ -38,18 +38,18 @@
           "published": "2026-08-18T01:18:18Z"
         },
         {
-          "title": "Patrol cracks down on Trans Canada Highway drivers in Greater Victoria",
-          "title_ko": "광역 빅토리아 지역의 캐나다 횡단 고속도로(Trans Canada Highway) 운전자를 단속하는 순찰대",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUFNkSll5dy1rVHVxVzM0NldzV1l4T0tJUlBMTVhWYlBjN0NGb21GRWdaLWlBN2tKQ2tGc1g2U1cwTXZDbWpSWkMyZHhBRFZubEZaSXJvOTQ4SzZWVjFFUm9YTUh5dURUdUljNkQ2MW1NeTF6ZGNZYWxMYW9RTjNzT1FnRWNiaTMzTFl4Vng5dW5HbVY2ZnZJT2g5WHRza25EdUtkemFaaDRxbXBvSV93WEhMUTROODlPN19XTQ?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-08-20T11:30:00Z"
+          "title": "Beavers Take Down Victoria",
+          "title_ko": "비버가 빅토리아를 무너뜨리다",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTjRRRFI3MjdKOWVmWWlNWFVVRHB0anJlNEp3Wk83SmpGWVBYNzR3NWFTMGlZT0QxeWMyWDdybkUwOVhrTjhVQmd3Z0ZCUnBhd3JOa3U4Q0I2SzhfcHg1YTdVeTBwNGZPcjVydUlJWnpmNTFlZlNUTHJSR04yelk1bVJTR2E0RE0?oc=5",
+          "source": "Oregon State University Athletics",
+          "published": "2026-08-21T03:11:37Z"
         },
         {
-          "title": "Concerns about public access to Hatley Castle raised amid treaty talks",
-          "title_ko": "조약 협상 중에 해틀리 성에 대한 대중의 접근에 대한 우려 제기",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUk1kc3ZUZ0pLejZMUVdhSGxNd05zNENrZTRydFNwOG8yZWt4b01CVVJ0WDNUSk5ueGZPQ3Y3R3FMXy1ySXJiMW9wUHpzS0NCR2psSnRJM1JuaDZZTkMtaWN6ZHdxVHpxUXhxMDhJQ24tcVF4UnYzbXhVV0xzcHY4ZURtajdTanBnenJxdUtRS1FQdXBWQ0dONk9TXzZEOVJqMXB1Yy1pVkZXVk9pNFBTVU5JaUIzQ0UycmdiQ1lXMl9UZlU2aHFv?oc=5",
-          "source": "CBC",
-          "published": "2026-08-18T14:52:04Z"
+          "title": "Comment: Why the proposed Vancouver Island sustainability fee is the wrong solution",
+          "title_ko": "의견: 제안된 밴쿠버 섬 지속 가능성 수수료가 잘못된 해결책인 이유",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSFkzZm91dzM4M3NGWlQxUk5LNmV6UDRhSHIyRmM4SmFzQXNXbDNIX0lleHNnN19MdWVySEpzeFUtOFJNNlBYaE12eGZETWs2MWRZY2hiZUQzUW5CMk1fdXhqaUY4MloyUXpJeldlYVItYnNUT2lYQVBhUlYxc3J0ZWVrQkdpY0YxbTJJUWZVeTZZUktDUF9INVJQanlqWUNuTVJlT1ExMUt1YzRTQ09wb25VM2NIWWgyOGdHRkhXM1dUUEMtZ2xCRg?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-08-21T12:30:00Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "'Water was never really my thing': Vancouver man pedalling across the ocean for B.C.'s sick kids",
-          "title_ko": "'물은 결코 내 것이 아니었습니다': 브리티시 컬럼비아의 아픈 아이들을 위해 바다를 건너 페달을 밟는 밴쿠버 남자",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQnN4bjZwV3p1RzhxVWE3bjNySTZVM2dBSzRucm5wcTl0N1A2c0NyLU5XOWh4YXFmMkpmQnRKWVdXdThGbVhwZUJMWG9tQ0cxMmZ4NEthdkJEa0VxbVlhUHZNbUpUbTdiVHFZS0dKVG5qMmU2VEFUUlJHbzRpN3hzWW5pbFVTbTM3djhhMllESVZST2ZNZUNMcnZlbTNhS3RfQXlPc01FOXlocEZtTVBrODF5Tkh1Q192SFozdnRraklIX0ZNdGdQRFVuVGVLcG5rZmlTdEgxdVhUcElES3c?oc=5",
+          "title": "42% drop in Vancouver housing starts prompts worry from development advocate",
+          "title_ko": "밴쿠버 주택착공 42% 감소, 개발 지지자들의 우려 불러일으키다",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWHpZQ0ZKb3NobXFvamN6YU1CV2htTDBzcjRkbzgxZkExQXdrSGpILVJkTHJwU1M0OEJsYlRpZGd6NF84d0xsLTJsblhPWlU2UVdITFBYS2d0SXg0TS1RSXZQR0RYQjl3Nk4zb1hhekRBVW9yOFo3MzR3dnZEMGp1bzMxcGRoNE51MWg3Y1hyU08?oc=5",
+          "source": "CBC",
+          "published": "2026-08-21T12:00:00Z"
+        },
+        {
+          "title": "Vancouver Island has one of the highest concentrations of cougars in the world",
+          "title_ko": "밴쿠버 섬은 세계에서 퓨마가 가장 많이 서식하는 곳 중 하나입니다.",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQekszSkN5eHdtX2p5OG04TzlnaXhOOW5xMXpSVmprMkpxM2RfNXBua1p5dFVydjhQNHFaZDR1Y1JyYklTTGl2UVhzaDVJcFhKSDdVVkIxcktjbFFQSnZMZFBJN09aaVNUX3JCckZSd2wtbzNhZXhsZnlrWVlUU0NhRkNVVnA2UzRXallZOFlsS3Z0a0tMdEJncXNwSk9XTlJoeTZmTUxJMnc3ekds?oc=5",
           "source": "Vancouver Is Awesome",
-          "published": "2026-08-20T13:27:05Z"
+          "published": "2026-08-21T13:08:02Z"
         },
         {
-          "title": "B.C. father fined for allowing underage son to operate e-scooter",
-          "title_ko": "브리티시 컬럼비아, 미성년 아들에게 전기 스쿠터 운전 허용한 아버지에게 벌금 부과",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmdKb1pIUHRucnFUc0FlaTVjWDlDa0thUTAwVjJBYkk4RE1vMU4ycFNpbURhMlhtY1RlMDdGYWhFcDFMU05iS2IxQzhHQWxRVXlEeEVmN2I4blFPdFVnaWhkd3VxTFM5TGhuaTlQWHdhT21xeFF6enprVnl0ZEpjbFROQ19RRTJiMEx4SC15RFpQZmZTYWdLNEhBZ1dpVjNZQnJJSUsySDJ0eVl3NEZFcFVKeklzR3oz?oc=5",
-          "source": "CTV News",
-          "published": "2026-08-19T18:28:06Z"
-        },
-        {
-          "title": "B.C. crime news: Teen charged with threatening to burn Port Coquitlam home | Man arrested in 2025 Granville Street murder | Man in critical condition after shooting in Maple Ridge",
-          "title_ko": "브리티시 컬럼비아 범죄 뉴스: 포트 코퀴틀람의 집을 불태우겠다고 위협한 10대 기소 | 2025년 그랜빌 스트리트 살인 사건으로 체포된 남자 | 메이플 리지에서 총격을 가한 남성이 심각한 상태에 빠졌습니다.",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BRGhLTjB2NXZ3cDZQQmtFV0F0RjJJTGZOYW5LV2VnVE95RXhibDZJYUlkWk1TMDR3THZDa1BLRXNkbEcxcklYaUE2c2IyVTlLb1l3XzRlNWtraXR3Mk5wX0F0TnRZZlY5Yjhtenhna0FYZm12c1RJRjhjQlkzQQ?oc=5",
+          "title": "More cuts coming to Global B.C., says industry source",
+          "title_ko": "업계 소식통에 따르면 글로벌 브리티시 컬럼비아(Global British Columbia)에 추가 삭감이 예정되어 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOckgwOTNTYzJLYWJXQXphY2tBeDRrcGtRSzNfWGpSYVZtdEJuV09rbVBoY0llRENCTW5Wc0xKSFBJaWV6S05oQkQwOGlJOWQ0OEZyTC1hRUNOel9kVy1OTXByZVFNTFZmUWdtdFp3ZmR0S1pNUU1XM2dtR2Jrc280Y014ektKWHNEc1p4MVo0bW4wUQ?oc=5",
           "source": "Vancouver Sun",
-          "published": "2026-08-19T22:42:50Z"
+          "published": "2026-08-20T01:42:03Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "PM Carney asks premiers to remove U.S. booze ban as officials try to finalize trade deal",
-          "title_ko": "카니 총리, 무역 협정 마무리 위해 미국 주류 금지 조치 철회 촉구",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVDI2WUlyVm5BMGxmUGpWaHlLTFA0Q0kwdVp1T1YycVlXU1lyRlBaMnQ3ZXM0UDBNVEVaNHRJWEVSTk5ISFBYaFItY0doVVYxZUFoa25EY0htZjh3MEZCRUN5SlIwVWEzUTNweXZWNEJEdnV5MXhmY3VFZnA4Yk52cDhnanplalFBNEl6aFgydC02X0k2S2I4NlFqdzdrdDhXVnIxbHNGNmxLMjBhQjBTdW1aeEoxOVFtdVRvZHNmWllRSkRVNlcydXVTS2pOVk9haGFzNGZR?oc=5",
-          "source": "CTV News",
-          "published": "2026-08-20T13:20:16Z"
-        },
-        {
-          "title": "Expectant Ontario moms are travelling hours for routine ultrasounds amid sonographer shortage",
-          "title_ko": "온타리오주 예비 엄마들은 초음파 검사기 부족으로 정기적인 초음파 검사를 위해 몇 시간씩 이동하고 있습니다.",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ2NnRkhlRUFha0JrWUk4UDF5QXQ2LWpneXA1R25jVjRROU9LdHRyT1dMR2kxXzV3X1JQR0NvMzlwcm44M1d5d2JjckRkU3d0OTVnTzlKNGtwcUhaamIta3BBZjBjUGIyTTVWSjZrZmZYNXVnZzBxYkNFQjBmTTN4V0NCMm5WU3FaV2JYM094bVQ4ME9IeS1TWg?oc=5",
+          "title": "As Canadian booze bans dominate tariff talks with U.S., winemakers and distillers feel caught in the middle",
+          "title_ko": "캐나다의 술 금지가 미국과의 관세 협상을 지배함에 따라 와인 제조업체와 증류업체는 중간에 갇힌 느낌을 받습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNElMZ3BaejUzQjhaRnBiZFQxWkVWVzdjbmNNS3ItVjh1VGpaOHFmTG1EaldFY3VneHE5RS1PRjl1WEtzYUp4dTRwa0cyXzFJandDT0VOb2VFUzRWUmlXZnNLX2RWcGwwaVUtQ085RnZ1OGpnSno2TmdjZkVFRmZMaG9zeEVYaHBPbWFr?oc=5",
           "source": "CBC",
-          "published": "2026-08-20T09:26:10Z"
+          "published": "2026-08-21T08:00:00Z"
         },
         {
-          "title": "UPDATE: Government Undergoes Major Cabinet Shuffle",
-          "title_ko": "업데이트: 정부, 대대적인 내각 개편을 거침",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTlQ0V2FZajlmZXdOeXNndnhTRTBORVFjbE5raDg5TnN6dE9xN1RoNXRnWmtacEd2cGNaTE9SMEJXQm55cnZ0aXpQbC1qRmozSWcwR1pWMTdCYlZSZy1TdnJxN3piVXRidUk5dlBIV2JSOG85Y1RjTmRkMnNuUnZGZ1RXa2xGUUFn?oc=5",
-          "source": "VOCM",
-          "published": "2026-08-20T10:03:00Z"
+          "title": "One dead as plane lands on road, crashes into cars in Prince George, B.C.",
+          "title_ko": "브리티시컬럼비아주 프린스조지에서 비행기가 도로에 착륙하고 차량과 충돌해 한 명이 사망했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXhMaUtPNXZnVngwTzhRYlBzdVNETzR4Vk55Vl8yTi1YWXBFX05IcEl2dE9pQmJCTUJLaG1JQ1ZLNEpjQ1Jqak1wNk9Gc2Z5X1RPdkhTOFRfRWc5TlpuMTduMlJDN1hCU19DMU1JTVJSM1RHR3BCZWlIaTJ5Q0k1cFRCRGt4aHZmR2NkdDBNdmVYbXRhUGFyYXJMdFhZWlJCQ1h6NFZB?oc=5",
+          "source": "The Globe and Mail",
+          "published": "2026-08-21T00:36:59Z"
+        },
+        {
+          "title": "Midnight deadline looms as Canada seeks deal to avoid Trump's steep new tariffs",
+          "title_ko": "캐나다가 트럼프의 가파른 새로운 관세를 피하기 위해 협상을 모색함에 따라 자정 마감일이 다가오고 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeGRTMXl2N1RscERPa3pLdEl5Z3oyZndKcTFnanZ6d1BMOFJZZEpOX3R0MFZlSk1sTHhQMlFMWk1LdzBpeDdUQmUyMUxYcDdCM2t3YU90T05GRnNfczE4SG9nWk43RktOQUItT3V4SHM1YmFQUE5Ia2hXTS1lTnVCOTVTTTdqNEVjOGgzeUIxdDQxUlA4T1A4d203VzRLSjNzYUdaa29JdFc5UQ?oc=5",
+          "source": "CBC",
+          "published": "2026-08-21T13:18:45Z"
         }
       ]
     }
