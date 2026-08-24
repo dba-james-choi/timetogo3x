@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T13:49:33Z",
+  "updated_at": "2026-08-24T14:32:03Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -64,31 +64,24 @@
           "published": "2026-08-23T19:37:37Z"
         },
         {
-          "title": "Evacuation alert issued for wildfire burning near Lions Bay, B.C.",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUVdHVnYzNmVFUl8ySkRSWmZSMHhuaFlGY3habW52ZzFzYWdZN0dYMm9HVWNVSXhDOVdGSHZUalJodU95NHEtSUxVR3FtYzI5cktYTFVXM2I1VlN6VjZzQ0xKT3k5ZDZOOEgwQkhQU1pfanhYUWZxRVBJUks4cmZ0cnQxWXFlRGNyTnk1X0N6SWx4Q1UxcU13Sw?oc=5",
-          "source": "CBC",
-          "published": "2026-08-24T13:19:14Z"
-        },
-        {
           "title": "Intense storm brings power outages, travel woes to parts of B.C.",
           "title_ko": null,
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWlFtSnItTGZhQzNXWjhiTHBhMUF3cG9ZaUUtTGNoemJ2RjgzeTdSanZYOXFUQ1VFaHh0Ukw1R1dGTi1DQVFfZ0JKMVR3ZjV1d3NFMHlFN3FpOXlodHNEOEdNbUtFdmUxNVZ3bHFDWE9rLXdnYjRrSjRkWEE2MGZ2cTFFRnhNNWJXNVhhRTEtSEtWRFo4UWZkSjZ4emstQVNpekFLQndSdw?oc=5",
           "source": "CityNews Vancouver",
           "published": "2026-08-22T07:00:00Z"
+        },
+        {
+          "title": "20 fantastic things to do in Vancouver this week: Aug. 24 to 30",
+          "title_ko": null,
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZSE8zTExRNVQtVjRRY0pFT1dFR0t5MDIxUnRVNld6c2tYYlh0TWhtYTUydXBRQmhJNy1UTTlWYzRzaUdvd0xyVXlPeF8yZ19NbWxhTWtuWWxNcXpiYUc4b2FOZU9MRjdKd3VOWkJR?oc=5",
+          "source": "Daily Hive",
+          "published": "2026-08-23T20:00:00Z"
         }
       ]
     },
     "canada": {
       "label": "Canada",
       "articles": [
-        {
-          "title": "The Ambassador Bridge's monopoly was ending. What its owner wanted from Ottawa is largely a secret",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNWZVODkxVWtyVHZxTUNaTFgzVVJhbWhCVkkxazJ6eEp3aS0yR3BYZzB3dzNNUG1OclYzM09KWjN6TkR3dE9NM2E5VGxYQVdLQV8ydGFvbm4wV2M3R0o3cmJFcVgzcUJIcEZQY2NpWUo5aE1yN3RUZFVQbmFIZDhaYUZid0hmQ0FXUndaMTd2amd1b3U4bmxtWlV5b3IyYk83X0Fn?oc=5",
-          "source": "CBC",
-          "published": "2026-08-24T08:00:00Z"
-        },
         {
           "title": "Woman flagged by ID scanner as nationwide 'public safety concern' after incident in Winnipeg bar",
           "title_ko": null,
@@ -102,6 +95,13 @@
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EekJabXFaenV0eXFYMWRIM0dxbzMyTzBRMGN4Zzd1bUNQVlBiV3VMVTlfZkcxNEs2ZU95TTg5dEJzS3kxbTg1SnBNM1RKZWl2M18zRU5Ea0ljY0k5d0p6NnpJZ3NGNWVkZmRER3VWaE9EbXA1LXBvZdIBfkFVX3lxTE5NWEtlcWFWSVFxdEdXVzN3STVEOG90UWgtT0c0UTB5aFpJWnZ0SDR0NHNWMTFTbGlENlRrQlRMMmZOYjdYWmpzSm0xQU80T2w3RlZEamZ3SFJ3MFJidzl6ZTFSa3lYSzFhY0xLeC1YSUoxa2M1UjhiVV9YRmVCZw?oc=5",
           "source": "CNBC",
           "published": "2026-08-24T12:32:09Z"
+        },
+        {
+          "title": "The Ambassador Bridge's monopoly was ending. What its owner wanted from Ottawa is largely a secret",
+          "title_ko": null,
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNWZVODkxVWtyVHZxTUNaTFgzVVJhbWhCVkkxazJ6eEp3aS0yR3BYZzB3dzNNUG1OclYzM09KWjN6TkR3dE9NM2E5VGxYQVdLQV8ydGFvbm4wV2M3R0o3cmJFcVgzcUJIcEZQY2NpWUo5aE1yN3RUZFVQbmFIZDhaYUZid0hmQ0FXUndaMTd2amd1b3U4bmxtWlV5b3IyYk83X0Fn?oc=5",
+          "source": "CBC",
+          "published": "2026-08-24T08:00:00Z"
         }
       ]
     }
