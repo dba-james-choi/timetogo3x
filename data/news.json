@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-08-26T14:34:15Z",
+  "updated_at": "2026-08-27T22:47:55Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
+          "title": "B.C.’s maximum allowable rent increase capped at 2.2% for 2027",
+          "title_ko": "브리티시 컬럼비아의 최대 허용 임대료 인상은 2027년에 2.2%로 제한됩니다.",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0VNYW9MLWNNd29XQmk5Q1ZiYzNTdlpLQ05CTHJUWnR5Z0p6aXRnZHBCZlc3X2tyZHJlNzNkQ0NtWUxsU1FGUFhDZGI2QTczRldicVRjZXlTbmtFd08xcm1jR3cxR3BQUkljaWg3LUVWcVlDOUlRUWh2SUVEWkxXZUNJdXNvX2luSTZfRVJHYVlBQlVhbFFJWU1PMzU?oc=5",
+          "source": "Saanich News",
+          "published": "2026-08-27T18:29:01Z"
+        },
+        {
           "title": "Saanich Peninsula’s Heritage Acres looking forward to fall season",
-          "title_ko": null,
+          "title_ko": "가을 시즌을 기대하는 Saanich 반도의 Heritage Acres",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlhDZF8zenkzLVlZWXJ6U2ZDNjBPZlVXbmx2NHBFM2F3NW9fcUdycFBhd2VCQzhwQmxldXR0SWRWRnk0RkhER0J2YUplLS1BMEJuREZHX3I5Y3hzbldCVGFvYkdmekRKQko0WE56R0JTLWkzVmNDUTBQbThmVXd0eUlzc3RrSEFQdV9rd2ozR0xtQTUtWXB2VzJBUnc?oc=5",
           "source": "Victoria News",
           "published": "2026-08-21T23:01:32Z"
         },
         {
-          "title": "Here’s when the wildfire smoke over Greater Victoria is expected to clear",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObjI1dUpGY3JEc1lIQU5XSFhaWVlDRFpSZXJMdThHV0tUX3R6ZGJYUWY2a1pkdUhod1drQTFPM2U5a3FqUndhYzlVc3o3S0pTQUQ3ZjZPRDgxQzJGc2NnV2tGRUd1dS1wZkMtNG9ldjBfMkNPQ3JEQ3BPbjdLcVZKSWh0aXFxeHVlUG9rbXJWR0pleDVJSm82V0d1V0tRRWhxTElPOVprYXNUUQ?oc=5",
-          "source": "Victoria Buzz",
-          "published": "2026-08-25T22:29:15Z"
-        },
-        {
           "title": "New cataract surgery tool at Saanich Peninsula Hospital the first of its kind in western Canada",
-          "title_ko": null,
+          "title_ko": "캐나다 서부 최초의 Saanich Peninsula Hospital에 새로운 백내장 수술 도구 출시",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdjRtN3EyWl9EXzk5dFlueHFpZXFsTUR3SUZvUHJjY0xWVDZYZURRSDhUTHVYaXZ4LUN3S1MwTno2bWFybnN1Qk1sUUhzTzRaNjM2a3dmcXVCQU1IV25ENDIxRFBlczV3QjdJTndQbFRKMkVIUHd5a0Etdnh0a1BCUjdJMDNmUTZaR05ZWXZ1NEwwSE5SRUt5TjR0MXpaOUdvMjVZZDRhbUp1VWdtRXV4dWhqakpxY0REQTBjZlNOMDY2OThNRjhZeXE3YjlKeW1xS2RNSnEwY2laWXBtLUE?oc=5",
           "source": "Times Colonist",
           "published": "2026-08-18T11:00:00Z"
@@ -31,25 +31,25 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "B.C. real estate agent suspended, fined $200K for buying and renting out affordable housing",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLWppcDU1QVlFc01MS0NlSHNYXzFoX1NQZmJtakJ0V3NHd2ZRZ0R2NS1kSHl6Vl9tb0s3Q2xRXzdIaWpzaTU5aWZkNzN4VHd0d1VBcXpXWl9URmhlcERNaWlOcFN3RnVpbDA4eXUxRERNaHR5S25pUjNnU2RwZ2xXQTJhM3ExdnVuVDVpTGpVWXFTb1o1cENRQWwxNlZDdWFGQjloMlkyOTVZUkhFRGs1NWdFUWg0emdhUGs0MDdB?oc=5",
-          "source": "Business in Vancouver",
-          "published": "2026-08-24T23:00:00Z"
-        },
-        {
-          "title": "What could a modern treaty for five First Nations mean for Greater Victoria?",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV0ZnRENNb2NudDhzeXlXRm4zQlhlSmFHR3U4WGp1Tk1GSmhyQ3llUXBjdTZOZjhnVE1sSEowd1JOSWFmOXRKOFJkS01XbHdpU0NVRWgtbV9kcUw3dzNUbXowajhiVWF6eGFmYUFWa2IwZlphc3dJS3dIdkNSTVF5QVJxTmsyRjFQcG14Q29sVHp5bTB0YTB1b1FKcWJBWWl6NXloV3hiMm1wSmMzRF9vQnF3TnIxOVVqYmpCbUI4dUdCTnM?oc=5",
+          "title": "Loopholes leaving out-of-province fugitives on Victoria streets: VicPD deputy chief",
+          "title_ko": "빅토리아 거리의 타주 도망자를 떠나는 허점: VicPD 부국장",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlB0SE9SNnVtMVBkcWR1RzZLTUs5Q3ZmM2J5NU11R21UU0xKbUg3MmRweEpLRjZhN3BJd1NMVVd0QUlTRG55aXU4dG9GYVNycDIzeWFKbXVKUlo0bV85bnBhRkVCdjV3NE43VXNCdGRNV0tyNVk3QVRWb3VsR21tbDVjWGxfRG5uN2NvNUlqN2FydXpjeXVadjVTZ3ZLZTZzYy1MYXVQemlCZDA1VVVKMk5LR3I4VlVYS0ladEFYWWVvRlJTZ084S2txalU?oc=5",
           "source": "Times Colonist",
-          "published": "2026-08-24T11:45:00Z"
+          "published": "2026-08-27T11:45:00Z"
         },
         {
-          "title": "BC Transit direct service to Victoria airport starting on Sept. 8",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUENBVXV5VTd0SGhGdkw4VV9KMXdjUHl1SU01N0hjcWhvb21KNHNyLXdoN2laSGI4Z25yTzJvVi02djZFMnVkVjJEaWRaN0hra1BXVHlQY3RyZ3ZhYjY2UVBaWFhjRDlCZWtJWlZpZ2ZxUmh2QTUwT0haTUtwSzBaMUFjN3hKeUhlZm45NmVRRWIzc2RPN1E2dA?oc=5",
+          "title": "B.C. real estate agent fined $200K, suspended after buying and renting out affordable housing unit",
+          "title_ko": "브리티시 컬럼비아 부동산 중개인은 저렴한 주택 구입 및 임대 후 $200,000의 벌금을 부과받고 정지되었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSG56WkxZOEZQUXpUU2lhLU1JWlhXMUVfeG1sOEs3Q1NSeklGTjNuTmtNMnpxQko1aHQ0OTJJQlJqaDFQamlscG52bGp0LS01cml5alptdWxQQmp1bE9tV0hzaUhHZDdEWUtsZHJTZVp4bXBJWE5hQldkZFVyaUk0VzE4MEJWSmt5b3ljSzk5VjhEQUFxMDJXV19JNzIyTkozLThLaVdEUGtmek1LdEkw?oc=5",
+          "source": "CBC",
+          "published": "2026-08-25T14:31:00Z"
+        },
+        {
+          "title": "BC Transit sees cancellations on 21 Victoria routes due to ‘fleet availability constraints’",
+          "title_ko": "BC 트랜짓(BC Transit), '차량 가용성 제약'으로 인해 빅토리아 노선 21개 노선 취소",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVI4eVJia1lhRXFkNUhjV3AzZGtCWHU5NmtCck9sQlhRbzBEMWFTVlZrOTU5d2toRkRuWjhPbmJyeE1DRnZZWFhMYlRkREhyZFlaeEx0YkJGeVVZYVBpTi12UVRPTExLeVhGS0Fac1VHeWZPbXgxX1JGZFNibnBZdXZXeE9OMi1feXV1MDNrUkVWOHFLcVloaEp4Rkl6U3VXMFR1UjR0NGUtVk9xVml2T2dVREw3U2Rmenc?oc=5",
           "source": "CHEK News",
-          "published": "2026-08-24T19:01:06Z"
+          "published": "2026-08-26T20:01:31Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "B.C. Conservative leader defiant even as another MLA jumps ship",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFoyTS1LSm43TjhDYW5jcHY0NnhHZ2kzbW1INlI2NHY5MkswUndUMnZFRDBqSlRMNmxFbDVCMldkVmI2a2R2dnNOQzM3aHlOWmVxeUFYYlhPZG1lTDBWMVF2bXhHemtWMW5GMGVkN2pvTkxqM3lVUzFER0xteWxtQmJETHJLaVVsVVdjcUpwSWw5ME9GdDBhWTRWdVZTTkdiUjNF?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-08-26T01:13:01Z"
+          "title": "B.C. judge rules $30.5M in Burnaby condo pre-sales 'unenforceable'",
+          "title_ko": "브리티시 컬럼비아 판사, 버나비 콘도 사전 판매 금액 3,050만 달러 '집행 불가능' 판결",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUd6Mm52eFFJLS1PRDVUWUxMN3B5ZmE3dGJhMkxueTkzdVBfN2dIdE9QVGUzb2dCMUZVSk1LcHA1OXFTSEZLQUVqRmtlbElHTndTSWw2WkZMM2N5ZlhSTHZPdUFBNy13eU1WYlBDd1ZKTVBmWXdkdTJ5elc0UWkyWWJFMDhicmE0enA0Y0hiZ3lSNW9Pak5mczdHS1dvQQ?oc=5",
+          "source": "Business in Vancouver",
+          "published": "2026-08-26T23:00:00Z"
         },
         {
-          "title": "Fourth bear attack in Metro Vancouver this month after man injured on North Shore",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQeVE4T2NtU1pVbFhDRGdqTEhNcVVRYks0aFJ6cTNOaUNScV9ENGZ1cjBEODdYYmdCYkZlenZDTFNXVm9mXzNfVF92bTRtZDVuT3U1empQSzg1UGo0cmtSX1JYanBUUmZZZi1rZGlCd2xHQlNxQWhuM1JLYkh0RkExMldFYmlnNFB4OTBiaFp0c0swLUx1Qm55dW9GVlh3aG1BSnR0MmY0LW03ZEVLUkgxY3NaVXU0QUstNWZIaHFKM2R6bWtVbzFnYzZDekJyR1dpQklzVDN4S2ZQdU42MHNxTDZRRWJTU19yazNjT1RRbHZKSkh3TXB0STRlV3cya2xKdHI5TGxEQWFQN256ckRN?oc=5",
-          "source": "thecanadianpressnews.ca",
-          "published": "2026-08-25T16:12:27Z"
+          "title": "Photos: Humpback whales spotted multiple times in Vancouver",
+          "title_ko": "사진: 밴쿠버에서 여러 차례 목격된 혹등고래",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQXI4NGt6N0FFRkVDYi1UVUhGQk10RVZPWkVMeldvUUJTZHZPNUFJTWN1SVR1MUVKdE0xVHY2a2FqbDRpZVNseGNnLXZmYTJYaFBZVnM0dmRBX2dNaGRhREJkY25ZZC11cThqRzlENW5GMGR5cFhTcGxjOUJjenVudlVZT3U2OTc1TXEzYkthU3NLWW5hT2g1ZnhINjhOWE5BZ2c?oc=5",
+          "source": "Vancouver Is Awesome",
+          "published": "2026-08-27T06:15:00Z"
         },
         {
-          "title": "Black bear scratches man’s leg on North Vancouver trail",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc1l1Y1phSGdIQTFMQV9rUjJUcjFvdGY2SXl6ajQxOFB1bktGdk92WEtMMmxLZGV4dGdpdmEycml0dnpodmJvWUtmNVBYYUZqUS1JcWQxSTNOb2lZUHhVZHh4YllNQUlNZUdmOUFMZFk0LUhqdGJ5NG84WUtMRFRvZ2FwU3pvbDdneVhXblFLdVRYWWw2TnpDY1pGZWtwUQ?oc=5",
-          "source": "North Shore News",
-          "published": "2026-08-25T22:23:00Z"
+          "title": "Tree-mapping tool piloted in Kelowna is expanding across B.C. to cool down cities",
+          "title_ko": "킬로나에서 시범 운영된 트리 매핑 도구는 도시의 온도를 낮추기 위해 브리티시컬럼비아 전역으로 확대되고 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUHZVZEVrVFBqZVlzbk9kWk1NVkdjTGRETFpMdUlCNFZ6dHVYNk9kejhhUGVIcnZfRW5GUkVhT2k5N3FkVTFtXzB5ZWdUT1ptS1VjRDQ1NGJBaVdEV3U5VTh1b0cxWndQV3IzX1FlWWRhLUpBLW4xdmNQRm00RVRPZ3Q1YU94R0ZSVjFmRmJKc1BxV0FmbWQ5cjQwXzB6R01fSGFMZ1Vpc2VfbmlkWmtUcEIwY0w0SS1LNEl5LUNZeWhqc0o2cnRfRzk0Z29CUXFNZmZv?oc=5",
+          "source": "CBC",
+          "published": "2026-08-27T16:06:00Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Rosalyn Bird is latest MLA to leave Kerry-Lynne Findlay's B.C. Conservatives",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ3BsT1JiWWpfUVR1WWxxYUMxRXdualdMcEpZMnRlWDZabW5vRkM5T3g1LXExNDJGel9kMS1fR1FnTkRqOExBZDBQSDhfY2pOMHFUcnRJODBJay1Gc2pkakE3NFJLZm84QmJPQjlRekloa040Ql9zbWZqTUZzbXBuN2NSdHpHaWlfc21ITEdGZGVXX0FtSmVZTkh6R3BZRjR2V0w3RkJXbldzSW5KYm1hUFVoajhEQk1wNENOcVVkZjFZTW52SVhDbXNlVEdLVzhIbm5qdDJURXlRNmF2bHpWcFdB?oc=5",
+          "title": "'Real foolishness': Canadian officials reject Trump attempt to rename Lake Ontario as 'Lake America' | CBC News",
+          "title_ko": "'진짜 어리석음': 캐나다 관리들은 온타리오 호수의 이름을 '레이크 아메리카'로 바꾸려는 트럼프의 시도를 거부 | CBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oQ3NHOWhjd1FudjkyOUJwTUFYcnJiTWZjbGp2X1dMc19faUtZalNYa1FaV2tLYUs1QVJaR0UtSEZsRXVaN2s5NFFlVXNUTW16YXNZdnZQajBxTEtJY1J0WVdFdVFtd1NobG9mRm5HMnJEcUVw?oc=5",
           "source": "CBC",
-          "published": "2026-08-25T23:45:11Z"
+          "published": "2026-08-27T21:48:32Z"
         },
         {
-          "title": "Canada’s Carney to attend EU’s State of the Union",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmc2NncxcjQ0dmpNajdVdzg2OFdwcjEwb2plVk43QTZRUmRSNDRMN2JUSUI5VjBpcExQYjVkYUxDT3NDcHlSVy0tUUZhaWJJX3FFdGlUTXRpd2VWNnZ0QjJsbFAzUDd4aUxqY015SGJUSWJFVVR0V1E3WFpQeUx6NE9vXzdxbVRTVVNBMkMwcGp3ZEpuT1o5ZjQtaGJvcm01Z1psNlFXbXM?oc=5",
-          "source": "politico.eu",
-          "published": "2026-08-26T11:14:00Z"
+          "title": "Maine Democrat backs Trump’s Canada tariffs: ‘It won’t go well for them’",
+          "title_ko": "메인주 민주당, 트럼프의 캐나다 관세 지지: '그들에게는 잘 안 될 것'",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWnhPeTRPQ0U2b2ZEUjNRT1FLX1lCUUlZN3pqa2c2TzJxMUFNQm5tR0ZMYzlRVE1JcUtOQnBFR09idjVRMGZjNzc4bTlieTVmbHRGNlhMMFMyOUVZNkxXSmpUNXduS2p0Q1ZscExod1B1d2x2cXFlbGJaV0VYZzJ4bTNnVi1TSVNsSmNr0gGQAUFVX3lxTE83TVhQcXhLQmdCMXNOQXhtZ3RCd1hDTmxuRFdpbzNSMVNvWHBmZGNLR1E5bWE2SGk3LU14NDlBYlB1cWxpRHFTZUhQSkI2akJXbVc4SXVfbzhIbDBaOGliZmVzMUpUNEotcTc0OE9lMUoza0s5QjBFeXY3eUE4ZXExSGxUTF9NM0ZFTXA5MFVZMA?oc=5",
+          "source": "The Hill",
+          "published": "2026-08-27T17:17:00Z"
         },
         {
-          "title": "Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadians balk at the idea",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHZ4b0Z3a0UwYkFxV2loZlZSUVQ4TUtKTjhLc1NxcDBJVDVRNXZ0WnJqNVRwY1o0UmRYY2lyaXJFaE1LVDVEQTJweFg1NjNkS1RYaEo5TmpjeUV6MGM2aXRGVXZKZUUzWWRnYXNrSEdkc3ExUTBXQXk4WGFja2ctOXN0d0U2c19fWFJ5SEMzZG4?oc=5",
-          "source": "AP News",
-          "published": "2026-08-26T14:24:00Z"
+          "title": "Canada poaches 48 US-based top academics",
+          "title_ko": "캐나다, 미국 최고 학자 48명 납치",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS09YNUVGS2VGVGJFc1BtSHVUcDVjV0drZW5DOVc5c3lmbWh0bUZhMUVZanhVSTY5VW13RWdNbHVTMDFkZkRGRmpKSVZTMkJaR1NmaGdNNjVxOXBRQy00VUxKckNfSUpDckVGWkV3MllQdS1OTlJpWXpjN0czMDdqQktJa3g?oc=5",
+          "source": "Financial Times",
+          "published": "2026-08-27T16:11:25Z"
         }
       ]
     }
