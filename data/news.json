@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-27T23:20:56Z",
+  "updated_at": "2026-08-28T22:52:56Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
           "title": "B.C.’s maximum allowable rent increase capped at 2.2% for 2027",
-          "title_ko": null,
+          "title_ko": "브리티시 컬럼비아의 최대 허용 임대료 인상은 2027년에 2.2%로 제한됩니다.",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0VNYW9MLWNNd29XQmk5Q1ZiYzNTdlpLQ05CTHJUWnR5Z0p6aXRnZHBCZlc3X2tyZHJlNzNkQ0NtWUxsU1FGUFhDZGI2QTczRldicVRjZXlTbmtFd08xcm1jR3cxR3BQUkljaWg3LUVWcVlDOUlRUWh2SUVEWkxXZUNJdXNvX2luSTZfRVJHYVlBQlVhbFFJWU1PMzU?oc=5",
           "source": "Saanich News",
           "published": "2026-08-27T18:29:01Z"
         },
         {
-          "title": "Saanich Peninsula’s Heritage Acres looking forward to fall season",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlhDZF8zenkzLVlZWXJ6U2ZDNjBPZlVXbmx2NHBFM2F3NW9fcUdycFBhd2VCQzhwQmxldXR0SWRWRnk0RkhER0J2YUplLS1BMEJuREZHX3I5Y3hzbldCVGFvYkdmekRKQko0WE56R0JTLWkzVmNDUTBQbThmVXd0eUlzc3RrSEFQdV9rd2ozR0xtQTUtWXB2VzJBUnc?oc=5",
-          "source": "Victoria News",
-          "published": "2026-08-21T23:01:32Z"
-        },
-        {
           "title": "New cataract surgery tool at Saanich Peninsula Hospital the first of its kind in western Canada",
-          "title_ko": null,
+          "title_ko": "캐나다 서부 최초의 Saanich Peninsula Hospital에 새로운 백내장 수술 도구 출시",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdjRtN3EyWl9EXzk5dFlueHFpZXFsTUR3SUZvUHJjY0xWVDZYZURRSDhUTHVYaXZ4LUN3S1MwTno2bWFybnN1Qk1sUUhzTzRaNjM2a3dmcXVCQU1IV25ENDIxRFBlczV3QjdJTndQbFRKMkVIUHd5a0Etdnh0a1BCUjdJMDNmUTZaR05ZWXZ1NEwwSE5SRUt5TjR0MXpaOUdvMjVZZDRhbUp1VWdtRXV4dWhqakpxY0REQTBjZlNOMDY2OThNRjhZeXE3YjlKeW1xS2RNSnEwY2laWXBtLUE?oc=5",
           "source": "Times Colonist",
           "published": "2026-08-18T11:00:00Z"
+        },
+        {
+          "title": "Minister’s statement on North Saanich adviser",
+          "title_ko": "North Saanich 고문에 대한 장관의 성명",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZE1mbk93WU9PaVZPcU5JMzltbG9yR243d3J4bVB0bW1TZVdHWXVhc0htSFlJdjQyZnlsSUFtcGF4VGVKYVo5eTQ4S1p4NEJ6N1cxSTZVUzNVS05zWmtV?oc=5",
+          "source": "BC Gov News",
+          "published": "2026-06-16T21:40:14Z"
         }
       ]
     },
@@ -31,25 +31,25 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Loopholes leaving out-of-province fugitives on Victoria streets: VicPD deputy chief",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlB0SE9SNnVtMVBkcWR1RzZLTUs5Q3ZmM2J5NU11R21UU0xKbUg3MmRweEpLRjZhN3BJd1NMVVd0QUlTRG55aXU4dG9GYVNycDIzeWFKbXVKUlo0bV85bnBhRkVCdjV3NE43VXNCdGRNV0tyNVk3QVRWb3VsR21tbDVjWGxfRG5uN2NvNUlqN2FydXpjeXVadjVTZ3ZLZTZzYy1MYXVQemlCZDA1VVVKMk5LR3I4VlVYS0ladEFYWWVvRlJTZ084S2txalU?oc=5",
+          "title": "Victoria man gets 11 years without parole eligibility for 'brutal' hatchet murder",
+          "title_ko": "빅토리아 남성, 잔혹한 도끼 살인 혐의로 11년 가석방 자격 박탈",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMV9peFpicWw2S0Uxd2l5U1d5c28wUDRhUlFBbzVpTTlZRElhS0ZlZFNhRzhfTUo0UzlUYTlGME1HOTkyNTJuMXdGV2wyVzlUeFZTQWg0S1lxejRDa1RjdFBJMVdhSC1mN2YzRlk0Mk10MnhTaUlnNURFWHRxTXR6OE1ZQjhQSWlIaEVJMFc4RUJyTzhnQ2RjUnlwd2NUZUdLaFVwVUl0OUtWcks4Skpqb1ROQzl6dkRHX1NSZTVJM3R0ZlJRZXdMcw?oc=5",
           "source": "Times Colonist",
-          "published": "2026-08-27T11:45:00Z"
+          "published": "2026-08-28T11:15:00Z"
         },
         {
-          "title": "B.C. real estate agent fined $200K, suspended after buying and renting out affordable housing unit",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSG56WkxZOEZQUXpUU2lhLU1JWlhXMUVfeG1sOEs3Q1NSeklGTjNuTmtNMnpxQko1aHQ0OTJJQlJqaDFQamlscG52bGp0LS01cml5alptdWxQQmp1bE9tV0hzaUhHZDdEWUtsZHJTZVp4bXBJWE5hQldkZFVyaUk0VzE4MEJWSmt5b3ljSzk5VjhEQUFxMDJXV19JNzIyTkozLThLaVdEUGtmek1LdEkw?oc=5",
-          "source": "CBC",
-          "published": "2026-08-25T14:31:00Z"
+          "title": "Congregation Emanu-El, Victoria, BC: Canada’s oldest synagogue in continuous use",
+          "title_ko": "Emanu-El 교회, Victoria, BC: 지속적으로 사용되는 캐나다에서 가장 오래된 회당",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0l0Y01pOVMzYXFTQWhTOEFwT3BUTV9qdHpLa2tHLU1OdGFDT0FEcFlubHN1ZTdfTnRSOTcxeVdWX0ctV1duZkxxVU9pc1BTeXNoT2toNURrVlpPWnVISXlmSVlTSFNNdzhsQ1dpN1lpNHZyR1JFY192VDNad3JQbGZpcGxqQ205aEVOV1RaWEgzNXk0OGZmTGZwMklSRFBsSUtyY183SVBMVUozY2c?oc=5",
+          "source": "The Times of Israel",
+          "published": "2026-08-27T02:49:00Z"
         },
         {
-          "title": "BC Transit sees cancellations on 21 Victoria routes due to ‘fleet availability constraints’",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVI4eVJia1lhRXFkNUhjV3AzZGtCWHU5NmtCck9sQlhRbzBEMWFTVlZrOTU5d2toRkRuWjhPbmJyeE1DRnZZWFhMYlRkREhyZFlaeEx0YkJGeVVZYVBpTi12UVRPTExLeVhGS0Fac1VHeWZPbXgxX1JGZFNibnBZdXZXeE9OMi1feXV1MDNrUkVWOHFLcVloaEp4Rkl6U3VXMFR1UjR0NGUtVk9xVml2T2dVREw3U2Rmenc?oc=5",
-          "source": "CHEK News",
-          "published": "2026-08-26T20:01:31Z"
+          "title": "Annual rent increase lowers as Province again caps it at inflation",
+          "title_ko": "주정부가 인플레이션에 따라 연간 임대료 인상을 다시 제한함에 따라 연간 임대료 인상이 낮아집니다.",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UNWdycjhaZUlWVlFHdlRaZDdxZVBwdWlXS3BkMHIyQVNqUkY2eVBBczQ1cEdINHJTNzU1ekNYTmxScl9FRnZVYlJ6VTBaRzZLZmxzUUZLbEUyZTNRY19v?oc=5",
+          "source": "BC Gov News",
+          "published": "2026-08-27T17:46:52Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "B.C. judge rules $30.5M in Burnaby condo pre-sales 'unenforceable'",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUd6Mm52eFFJLS1PRDVUWUxMN3B5ZmE3dGJhMkxueTkzdVBfN2dIdE9QVGUzb2dCMUZVSk1LcHA1OXFTSEZLQUVqRmtlbElHTndTSWw2WkZMM2N5ZlhSTHZPdUFBNy13eU1WYlBDd1ZKTVBmWXdkdTJ5elc0UWkyWWJFMDhicmE0enA0Y0hiZ3lSNW9Pak5mczdHS1dvQQ?oc=5",
-          "source": "Business in Vancouver",
-          "published": "2026-08-26T23:00:00Z"
+          "title": "Police seek suspect after indecent act in Metro Vancouver washroom",
+          "title_ko": "경찰은 메트로 밴쿠버 화장실에서 외설적인 행위를 한 뒤 용의자를 찾고 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmdla1NlSEk4NFo0d25IdmMzVGsxckRONzFGYXllLXpWWjBIOENuWGNIZDJyMTBiV1FWZ0Zlb19kOXpZMTJJVHY2NmR2eDNWOWhsTDhDY0dUemw1WXotREhMaTFVTUlrdHlJRzR5S3NiREplMEFrV2pTN29NQURGRE1vbVo5RmpkcGU5dnRjVkpCZjAxRjc2TjhUNWZVN3JsODJtcy1YbHUwdExp?oc=5",
+          "source": "CTV News",
+          "published": "2026-08-28T17:03:40Z"
         },
         {
-          "title": "Photos: Humpback whales spotted multiple times in Vancouver",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQXI4NGt6N0FFRkVDYi1UVUhGQk10RVZPWkVMeldvUUJTZHZPNUFJTWN1SVR1MUVKdE0xVHY2a2FqbDRpZVNseGNnLXZmYTJYaFBZVnM0dmRBX2dNaGRhREJkY25ZZC11cThqRzlENW5GMGR5cFhTcGxjOUJjenVudlVZT3U2OTc1TXEzYkthU3NLWW5hT2g1ZnhINjhOWE5BZ2c?oc=5",
+          "title": "Everything you need to know about Noah Kahan's Vancouver concert",
+          "title_ko": "Noah Kahan의 밴쿠버 콘서트에 대해 알아야 할 모든 것",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdEtaOXpsc3dSNVE0UUM3QUZUOTRXNmRQbHlDcTNMOE9YdWR3Qk1CWHJTUE9nN0p4N01hSHJTRWJYMEdKczk3bDRzd2dLVGlMTUdmbDV1czhVd21jQmxMN0NLaW5LcEJCYURRakJzaDlYQ3hpZzBZdDdpTXl2Q1Q3Z0xNaUZwdDM5M2FVZTV6U3ZhUG9KbEFkMHRsMDRmNUo0a210cWVtNXgtRjNpR3MtSElDdDF3a1NnS0VkVXp3X2pla29JMUlqN1FmdTY?oc=5",
           "source": "Vancouver Is Awesome",
-          "published": "2026-08-27T06:15:00Z"
+          "published": "2026-08-28T05:15:00Z"
         },
         {
-          "title": "Family desperate for answers as B.C. couple goes missing in Nepal floods",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamF2cW54OVRZelFJVjEyQjZfdkk4TVprRVZQLWVtZ2NXZkx0VWloUFhQSWtaMFlJQmFxR2pkUy1ZV2pOcjRuR3hHbkxIelAxN256aFhfX1JfS3dPbHVBQ0FUZEdWckVRMGdHMzI0c01uVVNmVVNFOW1wYjc4a0tieWZDTkxzcUg5SENXcDN0aWJ2blRCNmVxRmNsQVRDV3YzVU1Rb2lmVm9uZ1J1?oc=5",
+          "title": "Conversations That Matter: B.C. lacks enough skilled tradespeople",
+          "title_ko": "중요한 대화: 브리티시 컬럼비아에는 숙련된 기술자가 부족합니다.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN19sV3M1MFJCREtEc0stTGEtUTRKWU9NVXR5VkRObk1WWUhFUzBlaGI1VTNFOVNxZjZ0NG5tRVpnSGh4RnFSZW5aanBGQW1rTFJYeXJaQkI0UXF0YlZLN1pkcFlEWWFjbEJ6RElhbFJLS3hPdFdtWUdkT2lOanZJUzBjRl9Xa19aM0dfQVFqVm8zMUt5OUEyWHRhR05wYnNZczY3LWw4d1NocjVBOUxabA?oc=5",
           "source": "Vancouver Sun",
-          "published": "2026-08-27T21:34:13Z"
+          "published": "2026-08-28T14:06:18Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Quebec to hold Oct 5 election, separatists favored to win",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY1ZhNWFnM0VrR3poNkFGRDJhOVFyUmFJcFEtQnNWUmpZWVdXWjByTm1mS2RrNmJYWFBLcGhPb0paeGpWUDZSalNkTkJDbWFNZXI4dXJka3RzRDlJVm1qWE1Pbjh3UFFWb080VmtCZFFPSlFiTXY4aERmbW5hMk5TejFjd05EOGR3SElyTFB6ZkRtLTBkNUNDZm5yckphcVJLQXhR?oc=5",
-          "source": "Reuters",
-          "published": "2026-08-27T15:36:44Z"
-        },
-        {
-          "title": "'Real foolishness': Canadian officials reject Trump attempt to rename Lake Ontario as 'Lake America' | CBC News",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oQ3NHOWhjd1FudjkyOUJwTUFYcnJiTWZjbGp2X1dMc19faUtZalNYa1FaV2tLYUs1QVJaR0UtSEZsRXVaN2s5NFFlVXNUTW16YXNZdnZQajBxTEtJY1J0WVdFdVFtd1NobG9mRm5HMnJEcUVw?oc=5",
+          "title": "Bruce Banman joins exodus from B.C. Conservative caucus",
+          "title_ko": "Bruce Banman은 브리티시 컬럼비아 보수당 간부회에서 탈출에 합류했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWEJGMHk2ZFVRX3NUM25aM3pVaE1KT2lGQV9vNlFTTldjTEx0Q2RVckp5VFhybWZ1UG03X2FUeEFGWF9YOUxHRERLdnQ3Ty1MMF8yS0NTVm5VWFJtMWFQMVBzUG82VEc4cU9Rc0VHM0k1Y3NQREVKUFZWRVRkcGRtRkdlSng0SnNxSlRtZ0lfYkplZGNGeXZfcUVSNkN2dERFay1WMDVR?oc=5",
           "source": "CBC",
-          "published": "2026-08-27T21:48:32Z"
+          "published": "2026-08-28T00:19:00Z"
         },
         {
-          "title": "Maine Democrat backs Trump’s Canada tariffs: ‘It won’t go well for them’",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWnhPeTRPQ0U2b2ZEUjNRT1FLX1lCUUlZN3pqa2c2TzJxMUFNQm5tR0ZMYzlRVE1JcUtOQnBFR09idjVRMGZjNzc4bTlieTVmbHRGNlhMMFMyOUVZNkxXSmpUNXduS2p0Q1ZscExod1B1d2x2cXFlbGJaV0VYZzJ4bTNnVi1TSVNsSmNr0gGQAUFVX3lxTE83TVhQcXhLQmdCMXNOQXhtZ3RCd1hDTmxuRFdpbzNSMVNvWHBmZGNLR1E5bWE2SGk3LU14NDlBYlB1cWxpRHFTZUhQSkI2akJXbVc4SXVfbzhIbDBaOGliZmVzMUpUNEotcTc0OE9lMUoza0s5QjBFeXY3eUE4ZXExSGxUTF9NM0ZFTXA5MFVZMA?oc=5",
-          "source": "The Hill",
-          "published": "2026-08-27T17:17:00Z"
+          "title": "Canadian brands show their pride in wake of Trump’s Lake Ontario order. Live updates here.",
+          "title_ko": "캐나다 브랜드들은 트럼프의 온타리오 호수 명령에 대한 자부심을 드러냈습니다. 여기에서 실시간 업데이트를 받으세요.",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb284aGw0VzFQVi1pWnQ0Mng1UkVnOUlIaWxPcEkybDVvcEhQbVdQSkNUVjg0YlZ4aGFRYWludGNEbnVjb2U1RmhXbmN4d2ZpeUhqN21UeURrN21vOHVyekRsNnZlUjU4MnBOZ3pHai16eE4xRzlDQXE4clBlYjRFYXpWeWYtMjB0UHpHR0pFWW9YSGxxck9Lbi0wV0E4ZTM3N2hxYndIUnZFQTc2SnZGY04wSkpTRWpLekVrXzhyZGxtRFFyR0hnN3JYTC1pY2RNM3BvbVkxRmVNVFNrekFxdHV2cjFZeFlQQVE?oc=5",
+          "source": "CTV News",
+          "published": "2026-08-28T22:45:20Z"
+        },
+        {
+          "title": "Appeal court orders new trial in $4M drug seizure near Sask.-Alta. border",
+          "title_ko": "항소 법원은 Sask.-Alta 근처에서 400만 달러 규모의 마약 압수에 대한 새로운 재판을 명령했습니다. 국경",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1lhUXFmaEt3SEtkNDZkck5KWWdGWWlXUUJnWkY3Q1dnR2ZzeDZ5YmRQeDlZQVEzMUFYanJLaV9RWjVvVE9uUkpCYjVpcEJaLUExM2Q0ckJ0YkM0TVY3ZHlSeXNIQWd4N1VuWE1URUhTdWxHY1B4RlZRY1A5RWxYRld6eFpZN1BvRFRaRWFSdnVkQ1hoYTlyLWo0WUJ5dXRjb0psN09xa0xWdmVC?oc=5",
+          "source": "CBC",
+          "published": "2026-08-28T11:00:00Z"
         }
       ]
     }
