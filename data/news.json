@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-08-28T23:16:52Z",
+  "updated_at": "2026-08-29T16:57:51Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
-        {
-          "title": "B.C.’s maximum allowable rent increase capped at 2.2% for 2027",
-          "title_ko": "브리티시 컬럼비아의 최대 허용 임대료 인상은 2027년에 2.2%로 제한됩니다.",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0VNYW9MLWNNd29XQmk5Q1ZiYzNTdlpLQ05CTHJUWnR5Z0p6aXRnZHBCZlc3X2tyZHJlNzNkQ0NtWUxsU1FGUFhDZGI2QTczRldicVRjZXlTbmtFd08xcm1jR3cxR3BQUkljaWg3LUVWcVlDOUlRUWh2SUVEWkxXZUNJdXNvX2luSTZfRVJHYVlBQlVhbFFJWU1PMzU?oc=5",
-          "source": "Saanich News",
-          "published": "2026-08-27T18:29:01Z"
-        },
         {
           "title": "New cataract surgery tool at Saanich Peninsula Hospital the first of its kind in western Canada",
           "title_ko": "캐나다 서부 최초의 Saanich Peninsula Hospital에 새로운 백내장 수술 도구 출시",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdjRtN3EyWl9EXzk5dFlueHFpZXFsTUR3SUZvUHJjY0xWVDZYZURRSDhUTHVYaXZ4LUN3S1MwTno2bWFybnN1Qk1sUUhzTzRaNjM2a3dmcXVCQU1IV25ENDIxRFBlczV3QjdJTndQbFRKMkVIUHd5a0Etdnh0a1BCUjdJMDNmUTZaR05ZWXZ1NEwwSE5SRUt5TjR0MXpaOUdvMjVZZDRhbUp1VWdtRXV4dWhqakpxY0REQTBjZlNOMDY2OThNRjhZeXE3YjlKeW1xS2RNSnEwY2laWXBtLUE?oc=5",
           "source": "Times Colonist",
           "published": "2026-08-18T11:00:00Z"
+        },
+        {
+          "title": "B.C.’s maximum allowable rent increase capped at 2.2% for 2027",
+          "title_ko": "브리티시 컬럼비아의 최대 허용 임대료 인상은 2027년에 2.2%로 제한됩니다.",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0VNYW9MLWNNd29XQmk5Q1ZiYzNTdlpLQ05CTHJUWnR5Z0p6aXRnZHBCZlc3X2tyZHJlNzNkQ0NtWUxsU1FGUFhDZGI2QTczRldicVRjZXlTbmtFd08xcm1jR3cxR3BQUkljaWg3LUVWcVlDOUlRUWh2SUVEWkxXZUNJdXNvX2luSTZfRVJHYVlBQlVhbFFJWU1PMzU?oc=5",
+          "source": "Saanich News",
+          "published": "2026-08-27T18:29:01Z"
         },
         {
           "title": "Minister’s statement on North Saanich adviser",
@@ -31,13 +31,6 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Victoria man gets 11 years without parole eligibility for 'brutal' hatchet murder",
-          "title_ko": "빅토리아 남성, 잔혹한 도끼 살인 혐의로 11년 가석방 자격 박탈",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMV9peFpicWw2S0Uxd2l5U1d5c28wUDRhUlFBbzVpTTlZRElhS0ZlZFNhRzhfTUo0UzlUYTlGME1HOTkyNTJuMXdGV2wyVzlUeFZTQWg0S1lxejRDa1RjdFBJMVdhSC1mN2YzRlk0Mk10MnhTaUlnNURFWHRxTXR6OE1ZQjhQSWlIaEVJMFc4RUJyTzhnQ2RjUnlwd2NUZUdLaFVwVUl0OUtWcks4Skpqb1ROQzl6dkRHX1NSZTVJM3R0ZlJRZXdMcw?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-08-28T11:15:00Z"
-        },
-        {
           "title": "Congregation Emanu-El, Victoria, BC: Canada’s oldest synagogue in continuous use",
           "title_ko": "Emanu-El 교회, Victoria, BC: 지속적으로 사용되는 캐나다에서 가장 오래된 회당",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0l0Y01pOVMzYXFTQWhTOEFwT3BUTV9qdHpLa2tHLU1OdGFDT0FEcFlubHN1ZTdfTnRSOTcxeVdWX0ctV1duZkxxVU9pc1BTeXNoT2toNURrVlpPWnVISXlmSVlTSFNNdzhsQ1dpN1lpNHZyR1JFY192VDNad3JQbGZpcGxqQ205aEVOV1RaWEgzNXk0OGZmTGZwMklSRFBsSUtyY183SVBMVUozY2c?oc=5",
@@ -50,19 +43,19 @@
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UNWdycjhaZUlWVlFHdlRaZDdxZVBwdWlXS3BkMHIyQVNqUkY2eVBBczQ1cEdINHJTNzU1ekNYTmxScl9FRnZVYlJ6VTBaRzZLZmxzUUZLbEUyZTNRY19v?oc=5",
           "source": "BC Gov News",
           "published": "2026-08-27T17:46:52Z"
+        },
+        {
+          "title": "Things to Do This Labour Day Weekend in Victoria",
+          "title_ko": "이번 빅토리아 노동절 주말에 할 일",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RaXAwQ2ZhTVZUb0hXTWZ6UkRyMHhLLVAwZnNNcy1ETGcxUXBzWGxNYWVWd0dDbkh2RGRXVjZaaDRjY3NTSDJ4djNvaWx6R21senRUbmRBaFRKaXhpeHpnR0VuZDZmQ3BJSGs1RUZB0gFzQVVfeXFMTnVaRjlROGJER19VWm9TN0V3VUF3b3E0dndzaTNPSGhwR2pZdTh6akxCN1NjbFVxRGZGbXB2UVpTZzZEM0JFcU9aaEFDTDdHRXJmTGtJeHB3Q25pTXZJNmREdDVWZVkybWd4RXBQMDJTNHRldw?oc=5",
+          "source": "To Do Canada",
+          "published": "2026-08-26T23:10:01Z"
         }
       ]
     },
     "vancouver": {
       "label": "Vancouver",
       "articles": [
-        {
-          "title": "Police seek suspect after indecent act in Metro Vancouver washroom",
-          "title_ko": "경찰은 메트로 밴쿠버 화장실에서 외설적인 행위를 한 뒤 용의자를 찾고 있습니다.",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmdla1NlSEk4NFo0d25IdmMzVGsxckRONzFGYXllLXpWWjBIOENuWGNIZDJyMTBiV1FWZ0Zlb19kOXpZMTJJVHY2NmR2eDNWOWhsTDhDY0dUemw1WXotREhMaTFVTUlrdHlJRzR5S3NiREplMEFrV2pTN29NQURGRE1vbVo5RmpkcGU5dnRjVkpCZjAxRjc2TjhUNWZVN3JsODJtcy1YbHUwdExp?oc=5",
-          "source": "CTV News",
-          "published": "2026-08-28T17:03:40Z"
-        },
         {
           "title": "Everything you need to know about Noah Kahan's Vancouver concert",
           "title_ko": "Noah Kahan의 밴쿠버 콘서트에 대해 알아야 할 모든 것",
@@ -71,11 +64,18 @@
           "published": "2026-08-28T05:15:00Z"
         },
         {
-          "title": "Conversations That Matter: B.C. lacks enough skilled tradespeople",
-          "title_ko": "중요한 대화: 브리티시 컬럼비아에는 숙련된 기술자가 부족합니다.",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN19sV3M1MFJCREtEc0stTGEtUTRKWU9NVXR5VkRObk1WWUhFUzBlaGI1VTNFOVNxZjZ0NG5tRVpnSGh4RnFSZW5aanBGQW1rTFJYeXJaQkI0UXF0YlZLN1pkcFlEWWFjbEJ6RElhbFJLS3hPdFdtWUdkT2lOanZJUzBjRl9Xa19aM0dfQVFqVm8zMUt5OUEyWHRhR05wYnNZczY3LWw4d1NocjVBOUxabA?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-08-28T14:06:18Z"
+          "title": "Police seek suspect after indecent act in Metro Vancouver washroom",
+          "title_ko": "경찰은 메트로 밴쿠버 화장실에서 외설적인 행위를 한 뒤 용의자를 찾고 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmdla1NlSEk4NFo0d25IdmMzVGsxckRONzFGYXllLXpWWjBIOENuWGNIZDJyMTBiV1FWZ0Zlb19kOXpZMTJJVHY2NmR2eDNWOWhsTDhDY0dUemw1WXotREhMaTFVTUlrdHlJRzR5S3NiREplMEFrV2pTN29NQURGRE1vbVo5RmpkcGU5dnRjVkpCZjAxRjc2TjhUNWZVN3JsODJtcy1YbHUwdExp?oc=5",
+          "source": "CTV News",
+          "published": "2026-08-28T17:03:40Z"
+        },
+        {
+          "title": "B.C. judge rules $30.5M in Burnaby condo pre-sales 'unenforceable'",
+          "title_ko": "브리티시 컬럼비아 판사, 버나비 콘도 사전 판매 금액 3,050만 달러 '집행 불가능' 판결",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUd6Mm52eFFJLS1PRDVUWUxMN3B5ZmE3dGJhMkxueTkzdVBfN2dIdE9QVGUzb2dCMUZVSk1LcHA1OXFTSEZLQUVqRmtlbElHTndTSWw2WkZMM2N5ZlhSTHZPdUFBNy13eU1WYlBDd1ZKTVBmWXdkdTJ5elc0UWkyWWJFMDhicmE0enA0Y0hiZ3lSNW9Pak5mczdHS1dvQQ?oc=5",
+          "source": "Business in Vancouver",
+          "published": "2026-08-26T23:00:00Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "'Sad and pathetic': U.S. politicians condemn Trump’s renaming of Lake Ontario",
-          "title_ko": "'슬프고 한심하다': 미국 정치인들은 트럼프의 온타리오 호수 이름 변경을 비난",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFVSM1ZhNUtYVnJEeGtZdElYcFZCUlBiWGEydGMwWThQYldwczZxRF9hNUozaGI0OExnRjM1MmlEejc1SG1WLUFVbXRYbkhTa3FWV1B6UnBqeGR1UTF5aUUtazV3YmNLS1ZZeVAxVFBCenYtR2hwa0UybVZMNFVyMlhZZ0lTTUo2NjVzbHdGVEY5ZEI5ZE9v?oc=5",
+          "title": "As she launches her campaign, Quebec's Fréchette hopes the Carney formula will work twice",
+          "title_ko": "캠페인을 시작하면서 퀘벡의 Fréchette는 Carney 공식이 두 번 효과가 있기를 바랍니다.",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2N5Z1QxMmJTN2VSVmJDWFlMbURmWFNvYll2dkppb1dxLUY1MU1ZbUxmN25ZMjdKbWFwS2gxSGFCV0RIS1dGVWNXUXpEZF9DWWowVTJ5eDVsZlhLZVRjZlRiZ3lqRGlHRXJ3Q09TaVZYbVFrZXVYUnpmdmRGekpGUkNWNG5fRFk3bVFxS192aEVPTkhobjJPVUVwdUUwdDZNN1dVcTRpbExERWdfU2c?oc=5",
           "source": "National Post",
-          "published": "2026-08-28T20:31:01Z"
+          "published": "2026-08-29T10:02:13Z"
         },
         {
-          "title": "Phone calls fly as B.C. Conservatives try to plot a path through the chaos",
-          "title_ko": "브리티시 컬럼비아 보수당이 혼란 속에서 길을 모색하는 동안 전화 통화가 끊이지 않습니다.",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVXh1bGlqbTZfa1VIMkxadDBTWi1aS0trdHMwckF4Sm9uWF9ITnAxRG9UUHI4a2RwNmdlRVFqRG5YWkgwUzhjNjlTdUU0UkhEencxQ1NraWoyNXJmWGJmZlRoRHp2TnRoSXlEaFg5dTdsbFhua3lzampKUlFvLVBQQWx2Tmc2aVgwMWZnYUZxQzV2VGx4TDFUaFNzeDNFaTNk?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-08-28T06:54:22Z"
+          "title": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
+          "title_ko": "'미국에서 만든 것이라면 사지 않는다': 트럼프의 미국 보이콧에 대한 캐나다인",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN2VleHBxVmcyX0VJT3N6RHlZSUpaTmxhVVV0QXh0TGd5VU13YW5TUVlPc0o1MjQ5WWZoanctZzJwMm1xWk4yRUdaVHFpNjItMEQxSkZ4aW52RUxDSkVKRUhvelUycWl3Ulp2bnBZcnZaV0JNeEhfb29QU1RZVlpMZ0NueGhncnJTbEF0UU85NHpUTUdub1AyQ2k1RFF2OGFldXFRYmFaZHJLdkhDZ3puNnJsbG9ycjhOOGZkOE9iSVE?oc=5",
+          "source": "The Guardian",
+          "published": "2026-08-29T11:00:00Z"
         },
         {
-          "title": "Appeal court orders new trial in $4M drug seizure near Sask.-Alta. border",
-          "title_ko": "항소 법원은 Sask.-Alta 근처에서 400만 달러 규모의 마약 압수에 대한 새로운 재판을 명령했습니다. 국경",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1lhUXFmaEt3SEtkNDZkck5KWWdGWWlXUUJnWkY3Q1dnR2ZzeDZ5YmRQeDlZQVEzMUFYanJLaV9RWjVvVE9uUkpCYjVpcEJaLUExM2Q0ckJ0YkM0TVY3ZHlSeXNIQWd4N1VuWE1URUhTdWxHY1B4RlZRY1A5RWxYRld6eFpZN1BvRFRaRWFSdnVkQ1hoYTlyLWo0WUJ5dXRjb0psN09xa0xWdmVC?oc=5",
+          "title": "An island mysteriously appeared — then disappeared — on B.C.'s largest reservoir",
+          "title_ko": "브리티시 컬럼비아의 가장 큰 저수지에 섬이 신비롭게 나타났다가 사라졌습니다.",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3puVFpGYVVvTk9fN3F3YThoaXhjVW5STVR1QTN0LVhqbjZSR0F4bkluVV9od2F1aTNhVGRPQWtHaVhWQ1JrWkdaNzBkWTRhTEN0b1pfdTNlX1luR1N1dzFVVExPcWtmbXhfY3hibU1MaHJuTUdXb3BCQlNrNzZuejBOeERISnNwdVdZMno4cFYwNURZbGc?oc=5",
           "source": "CBC",
-          "published": "2026-08-28T11:00:00Z"
+          "published": "2026-08-29T11:52:15Z"
         }
       ]
     }
