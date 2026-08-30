@@ -1,16 +1,9 @@
 {
-  "updated_at": "2026-08-30T17:11:53Z",
+  "updated_at": "2026-08-30T17:50:33Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
-        {
-          "title": "Room to Grow, Room to Gather | 600 Judah Street, Saanich BC",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HY0lGWkxmOHNIb2YxcEJzMTNhMWFmV0l0UkZfTkpyUzhtN2loeWhZdFZvSHJRM1VsMVdkT3NkSkVLMjlDTWx3QV9vVE5ydTFsYmM0enFzWmd3ZjEw?oc=5",
-          "source": "YouTube",
-          "published": "2026-08-29T05:01:46Z"
-        },
         {
           "title": "Cougar spotted on security cam footage in Royal Oak",
           "title_ko": null,
@@ -24,6 +17,13 @@
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZE1mbk93WU9PaVZPcU5JMzltbG9yR243d3J4bVB0bW1TZVdHWXVhc0htSFlJdjQyZnlsSUFtcGF4VGVKYVo5eTQ4S1p4NEJ6N1cxSTZVUzNVS05zWmtV?oc=5",
           "source": "BC Gov News",
           "published": "2026-06-16T21:40:14Z"
+        },
+        {
+          "title": "Saanich Peninsula’s Heritage Acres looking forward to fall season",
+          "title_ko": null,
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlhDZF8zenkzLVlZWXJ6U2ZDNjBPZlVXbmx2NHBFM2F3NW9fcUdycFBhd2VCQzhwQmxldXR0SWRWRnk0RkhER0J2YUplLS1BMEJuREZHX3I5Y3hzbldCVGFvYkdmekRKQko0WE56R0JTLWkzVmNDUTBQbThmVXd0eUlzc3RrSEFQdV9rd2ozR0xtQTUtWXB2VzJBUnc?oc=5",
+          "source": "Victoria News",
+          "published": "2026-08-21T23:01:32Z"
         }
       ]
     },
@@ -35,7 +35,7 @@
           "title_ko": null,
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbU4zRGFYUGp0cnZaSmZTcHM2THcxZHJRbmRDYWdtUTR1MzlINTdrSmgxdE9qMFNER204ZVZzeFJyV1VlZS1vNDc1Q2JfbndESDZLellUN2xJZUpJa3dTekhjZ3FPSGp1bEgxWHFQYnFRMFZuMjZzamN2SGliYTI2d0UxbVY3ckxzeTRpbDFsVUUzYXVPRU5rTnE1Y3pNUGRSVFBBUTZuVWE?oc=5",
           "source": "Victoria Buzz",
-          "published": "2026-08-30T02:20:18Z"
+          "published": "2026-08-28T17:26:49Z"
         },
         {
           "title": "Congregation Emanu-El, Victoria, BC: Canada’s oldest synagogue in continuous use",
@@ -45,11 +45,11 @@
           "published": "2026-08-27T02:49:00Z"
         },
         {
-          "title": "Adrian Raeside cartoon: How can the B.C. Conservatives stop MLAs from leaving?",
+          "title": "Things to Do This Labour Day Weekend in Victoria",
           "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT01tUWJUbjRlOWRUVFlxRGpMRUFQTnY2aUI0TTU4MENvcExTTk1RWnhvVzUwQkItV29kUHlBeFdLY3pZZ3pwMGEycTM1ZGFJWThoYVJMeXVHTGYwcWwycnpZMDBVeVNVSnV1XzNVWlU3OTJVYmdFN0NyYTVwbWZqb1hfaDJJemh2RGZGSGFoNW1Ja3plcXdiMUJjVE9pVTFtNUwtNHV5YXJGXzhidFlmdVVnUEVldjhNSksxaDB3?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-08-29T17:30:00Z"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RaXAwQ2ZhTVZUb0hXTWZ6UkRyMHhLLVAwZnNNcy1ETGcxUXBzWGxNYWVWd0dDbkh2RGRXVjZaaDRjY3NTSDJ4djNvaWx6R21senRUbmRBaFRKaXhpeHpnR0VuZDZmQ3BJSGs1RUZB0gFzQVVfeXFMTnVaRjlROGJER19VWm9TN0V3VUF3b3E0dndzaTNPSGhwR2pZdTh6akxCN1NjbFVxRGZGbXB2UVpTZzZEM0JFcU9aaEFDTDdHRXJmTGtJeHB3Q25pTXZJNmREdDVWZVkybWd4RXBQMDJTNHRldw?oc=5",
+          "source": "To Do Canada",
+          "published": "2026-08-26T23:10:01Z"
         }
       ]
     },
@@ -57,18 +57,11 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "Tree-mapping tool piloted in Kelowna is expanding across B.C. to cool down cities",
+          "title": "Days after deadly Nepal flood, families of missing B.C. couples desperate for details",
           "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUHZVZEVrVFBqZVlzbk9kWk1NVkdjTGRETFpMdUlCNFZ6dHVYNk9kejhhUGVIcnZfRW5GUkVhT2k5N3FkVTFtXzB5ZWdUT1ptS1VjRDQ1NGJBaVdEV3U5VTh1b0cxWndQV3IzX1FlWWRhLUpBLW4xdmNQRm00RVRPZ3Q1YU94R0ZSVjFmRmJKc1BxV0FmbWQ5cjQwXzB6R01fSGFMZ1Vpc2VfbmlkWmtUcEIwY0w0SS1LNEl5LUNZeWhqc0o2cnRfRzk0Z29CUXFNZmZv?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU21PVkZTV1lkRFdFZnpHM3ExaVktNWRERTJ3R1BsY3FxdDBESVdQVFgySWphX1FsdktHaWJCUkI4VzBMeGxtTDFTYnV1Nm4zM0RXLTZIVldWQ1hPbFdsY3F4bkEtSVF6a05HWEJOTnNrVUZ4Qzd0ekJ5MzFtWWs2cjRrZF82VWNUME5OV19sMWk4V2Z5N1FBamtYV3ZRMm1wYzVR?oc=5",
           "source": "CBC",
-          "published": "2026-08-27T16:06:00Z"
-        },
-        {
-          "title": "Concert Review: Noah Kahan brings The Great Divide Tour to Vancouver",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWm5tWlEyNUhNY09OaTBiNXByX21hRnQ4anMwVV92ZHdrbVRDMzRfRFdsbFZSSmxMQ2dRODZTQ2V2SFRfUE9GQzlTQUROTm1wN3BORklEcVlzQ0VyUWp3R2ktVEI2Qk1qMnFnQmVyZUlYNlRSR19uZTVoY3M4cHFUdGFFczJNZ1RKNUItdHFoWmljNThHdnJLWEI1X2RyWEFu?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-08-29T15:04:48Z"
+          "published": "2026-08-29T22:11:14Z"
         },
         {
           "title": "Why landmarks will be lit blue all across B.C. starting this week",
@@ -76,6 +69,13 @@
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GZ0xVR040cXJURnVXYmM2VXVOOUZjdFhJLXlYcXNlOGVvUWZINFNST0lPNXNUeE83UEdtcXlXeWFKdWtTcFFYYU43eTQzdFNLYnlpaHNfcFBJYzkxcS1WMmFwZEpFMDFxQkZTcjlYY3dub0w5TEE?oc=5",
           "source": "Daily Hive",
           "published": "2026-08-30T17:05:15Z"
+        },
+        {
+          "title": "Everything you need to know about Noah Kahan's Vancouver concert",
+          "title_ko": null,
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdEtaOXpsc3dSNVE0UUM3QUZUOTRXNmRQbHlDcTNMOE9YdWR3Qk1CWHJTUE9nN0p4N01hSHJTRWJYMEdKczk3bDRzd2dLVGlMTUdmbDV1czhVd21jQmxMN0NLaW5LcEJCYURRakJzaDlYQ3hpZzBZdDdpTXl2Q1Q3Z0xNaUZwdDM5M2FVZTV6U3ZhUG9KbEFkMHRsMDRmNUo0a210cWVtNXgtRjNpR3MtSElDdDF3a1NnS0VkVXp3X2pla29JMUlqN1FmdTY?oc=5",
+          "source": "Vancouver Is Awesome",
+          "published": "2026-08-28T05:15:00Z"
         }
       ]
     },
@@ -83,18 +83,18 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "As referendum nears, Danielle Smith to address Alberta Day celebration in Calgary",
+          "title": "Both sides of Alberta separation debate rally as momentum kicks up ahead of vote",
           "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOThBVm81Sm5NcnYyUGJacE14aHR1UWYxekM1a2Z6Y1VPV2pRWFR0RW02MDNkV1Y4c0psTE80dExRc0I3MHhmSkVwWW1qam5jVVZnWGI5clpwQmNHMFZxMlFaMlE0OFNJQ1NJME90NjUyVlZNejV1b2JMbHJISUM4V0FXeWVQNEw4c2UwUGRsbWQ5bjVYOGNCLVpZNkdQd25YMzJHbWNsdVV0TXVBZ2tMNUU0WUtXWjM2eElQbA?oc=5",
-          "source": "CTV News",
-          "published": "2026-08-30T13:46:08Z"
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDVQYU15YkRBLWxrbmZtSndjYndzX1BfajlOX2tJZzhqSVlrTkdDMW1nb2FhR0F6OGhSUHZqVW5EOC1lNU9tZzktNGR1cWxRTFNNWTRaUWpCNEtvN0htNXNUb1RmeW81aTJzU2hjOU5QR0hyRV9FdHZmX01VWVNwV01nV2dRbW5EOW82VHVsR1JjY0hxLV9TSDB5SzVTM0daTVdJYVdEUEVGdUNnRGlGZHJuUW5Lel8xcnJVUDJpLUdVZWxabXFQand3?oc=5",
+          "source": "CBC",
+          "published": "2026-08-30T15:42:03Z"
         },
         {
-          "title": "Google Maps Changes Lake Ontario to Lake America Following Trump’s Executive Order",
+          "title": "Google Maps Now Displays ‘Lake America’ After Trump’s Executive Order Amid U.S.-Canada Trade War",
           "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3ZpLUhUbE5aLXpJdHBwN1Fnc19fSnZ4YncyaXRkQlJoQzFTMjQ4aW15MVJhMHFBLWR6bkJIVXo0TjF5WUxDX0FQajlZQ1RvQnFNckFrTHJKRC1rYUhnRFRKTm5ZOFFEUEgyMXY2XzJVZWtTamQxdW8wODRCVTlhR1dJeFhtQ1Y2MjE5czV3?oc=5",
-          "source": "The New York Times",
-          "published": "2026-08-30T13:14:08Z"
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUW9WU09WVFZDUTdOU2pBQ0dhemNrQjNHZ2RGXzhBcnc3TjJmSDF4MnhNNkl5RmxXSE9WRExiWGNGMnRLb3NMZzU0Mm5iWU1jMmtJamRpcmVxM19wb04wN3loTGlibi1BUi1pS1c4cjlNQjJCMnlCejdfc2hHcGpnYWlpWFI1YTBHX01JVWQydTY1dG5hanEyNDZJa29vY2lSUzdiR0djMTJQQ1JoWENJakd2eHFUblJzTU9rSXVpTUNzNHJRSXJnZW9CckVFMzVBc0pzX0pZemVRRkNn?oc=5",
+          "source": "Forbes",
+          "published": "2026-08-30T13:45:20Z"
         },
         {
           "title": "Quebec faces $2-billion blow as Trump’s new tariffs hit province hardest, report warns",
