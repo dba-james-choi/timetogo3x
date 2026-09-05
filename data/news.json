@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T15:46:35Z",
+  "updated_at": "2026-09-05T16:22:50Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -57,18 +57,18 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "Jerry Dobrovolny out as CAO of Metro Vancouver Regional District",
-          "title_ko": "메트로 밴쿠버 지역 지구 CAO로 Jerry Dobrovolny 사임",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbGlTZVhpYWQyU1ZHX2RYVnZ2S2J4U0kzVzZROXJDUWZmXzRXRGR2RklxVm5vMEM5by1hNHk4cnF1dTZhVjlCc1VkVXk3cUVISzc5WGY2ZGxqZEVuMkxJbDRKdEdOWUxLVG5scDJ1YS1HY0NqcFc0NktWMDJPLVU2bkpaUlIxS200eHl6Y2s1U1BXdmhZ?oc=5",
-          "source": "CBC",
-          "published": "2026-09-05T01:53:00Z"
-        },
-        {
           "title": "‘Order in urgent circumstances’: B.C. regulator suspends real estate agent",
           "title_ko": "'긴급한 상황에서 주문': 브리티시 컬럼비아 규제 당국이 부동산 중개인을 정지합니다",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRlA1RkRabWpMckFSc3dmclRkOVJPSEU3dTNWaW9XZEdpb3FVZ3plWWhZaXNnTy1FVHJXb2hZRVF3bFVOcHhxNzNXc2N6VC1MVXp5SnUzU3NvcEFsbS1qeDluZ1lFZlE5MmlQcm9oUEpGZnR4LWpyUWllNkZqV2N6OFkxemhkMWNGaTViU3ZadTBCVGN3di0wcFpWNEg2NDI5TGJIVWQtTWtuYmtPYUU2cA?oc=5",
           "source": "CTV News",
           "published": "2026-09-05T01:44:00Z"
+        },
+        {
+          "title": "Jerry Dobrovolny out as CAO of Metro Vancouver Regional District",
+          "title_ko": "메트로 밴쿠버 지역 지구 CAO로 Jerry Dobrovolny 사임",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbGlTZVhpYWQyU1ZHX2RYVnZ2S2J4U0kzVzZROXJDUWZmXzRXRGR2RklxVm5vMEM5by1hNHk4cnF1dTZhVjlCc1VkVXk3cUVISzc5WGY2ZGxqZEVuMkxJbDRKdEdOWUxLVG5scDJ1YS1HY0NqcFc0NktWMDJPLVU2bkpaUlIxS200eHl6Y2s1U1BXdmhZ?oc=5",
+          "source": "CBC",
+          "published": "2026-09-05T01:53:00Z"
         },
         {
           "title": "Vancouver man caught in international U.S. stock fraud ring faces Canadian sanctions",
