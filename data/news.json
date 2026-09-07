@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-07T18:06:22Z",
+  "updated_at": "2026-09-07T18:28:43Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
           "title": "More than 45 local artists set to headline Saanich Peninsula studio tour",
-          "title_ko": "45명 이상의 현지 예술가가 Saanich 반도 스튜디오 투어의 헤드라인을 장식합니다.",
+          "title_ko": "45명 이상의 지역 예술가가 Saanich 반도 스튜디오 투어의 헤드라인을 장식합니다.",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbm1rWmNwckFjbEZWcElWSkZNOVVHeVMyR3JCOTRlWXRWZUF0b0FUT3Z1MEdIXzB4UE1tLTluc3QzenRpZGNVVzZYYnBqU1N2ZnZzeGswUVlrVDFtcE5mQW9PQXI4UFZETTVoOGo3ZHgtZ0Q0LWM2Vm9wTWdxWmY0Z3JITDloWThYQ0w3VDMyclI0ejI3dnppSTZVclk3VHBqemVZdmdHQ1NjVkct?oc=5",
           "source": "Saanich News",
           "published": "2026-09-06T12:39:12Z"
@@ -15,14 +15,14 @@
           "title": "Minister’s statement on North Saanich adviser",
           "title_ko": "North Saanich 고문에 대한 장관의 성명",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZE1mbk93WU9PaVZPcU5JMzltbG9yR243d3J4bVB0bW1TZVdHWXVhc0htSFlJdjQyZnlsSUFtcGF4VGVKYVo5eTQ4S1p4NEJ6N1cxSTZVUzNVS05zWmtV?oc=5",
-          "source": "BC Gov News",
+          "source": "news.gov.bc.ca",
           "published": "2026-06-16T21:40:14Z"
         },
         {
           "title": "New cataract surgery tool at Saanich Peninsula Hospital the first of its kind in western Canada",
           "title_ko": "캐나다 서부 최초의 Saanich Peninsula Hospital에 새로운 백내장 수술 도구 출시",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdjRtN3EyWl9EXzk5dFlueHFpZXFsTUR3SUZvUHJjY0xWVDZYZURRSDhUTHVYaXZ4LUN3S1MwTno2bWFybnN1Qk1sUUhzTzRaNjM2a3dmcXVCQU1IV25ENDIxRFBlczV3QjdJTndQbFRKMkVIUHd5a0Etdnh0a1BCUjdJMDNmUTZaR05ZWXZ1NEwwSE5SRUt5TjR0MXpaOUdvMjVZZDRhbUp1VWdtRXV4dWhqakpxY0REQTBjZlNOMDY2OThNRjhZeXE3YjlKeW1xS2RNSnEwY2laWXBtLUE?oc=5",
-          "source": "timescolonist.com",
+          "source": "Times Colonist",
           "published": "2026-08-18T11:00:00Z"
         }
       ]
@@ -32,9 +32,9 @@
       "articles": [
         {
           "title": "Crash knocks out power to more than 2,000 in Victoria",
-          "title_ko": "충돌 사고로 인해 빅토리아에서 2,000명 이상의 전력 공급 중단",
+          "title_ko": "충돌로 인해 빅토리아에서 2,000명 이상의 전력 공급 중단",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSWtxLWJkWkx6ZUhuT0UzamRNZG9mTm9HaW9uUkV0LV9qUlZmVWlzMGM3YkgxVmstSVZqRzFjMVdKRjlsbzlNWElDQzFxMTNVRHBlNkhNN1FhQ1loMEc5QS1kd0Z1UFQ3MDNibG5GR2JKUkpkTGpFN01qQkVEcWRTUjZZSlprSGpF?oc=5",
-          "source": "cheknews.ca",
+          "source": "CHEK News",
           "published": "2026-09-07T16:21:02Z"
         },
         {
@@ -67,7 +67,7 @@
           "title": "Lululemon founder Chip Wilson and wife Shannon 'Summer' Wilson are divorcing",
           "title_ko": "룰루레몬 창업자 칩 윌슨과 아내 섀넌 '서머' 윌슨이 이혼했다.",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUJVM3g0bndwT3RSMl8zWFVtTnlFTnhsRVcxSE1kUzU5cHpPWWFJSVhkOFB5dm9KbUZ4NlNiYi1EYjdJSnVnN0JGdnBWZWNFdHhlYVZ6SkZ4dHlRZ2dNTFFxamlKaVcwdks5UDJEYTZkNGVQTGloYWRqNTAyUHlmbnpXaWRldTNvWlJhcjRwZ1M0cWI1ekhtU0JtVmxtQzNqQUdkOWxxSQ?oc=5",
-          "source": "Vancouver Sun",
+          "source": "vancouversun.com",
           "published": "2026-09-06T19:47:08Z"
         },
         {
@@ -86,15 +86,8 @@
           "title": "Laval mayor announces he has a brain tumour",
           "title_ko": "라발 시장, 자신이 뇌종양을 앓고 있다고 발표",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMG1OU3lKNDVQV1dXVGk5Vy1LR0c3TnBXUWZwVWI0aGpKVVdPTTBKbDRFYjVJT3pPd1NaVzhoQ3RxSnhoRnRHUl9xQmFtdlI1R2ZMNU5RRXFYSmlXWjV5OG1HWEc3SDlTUnZ3WmVZcXE4ZVRZV1dVRFhWNmFIVWFmZ3dWOThpTzJXR0tWSw?oc=5",
-          "source": "CTV News",
+          "source": "ctvnews.ca",
           "published": "2026-09-07T13:13:38Z"
-        },
-        {
-          "title": "Stephen Fuhr was mocked for opposing the purchase of F-35s. Now he's in charge of Canada's defence procurement",
-          "title_ko": "Stephen Fuhr는 F-35 구매를 반대했다는 이유로 조롱당했습니다. 이제 그는 캐나다의 국방 조달을 담당하고 있습니다.",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnl0ajI5LUtLM3NiRUlxX2I3eEI2UFdIcGhJa1lEc0pFSG02aV9pVTVmWUo5ZVJDb2tTSHhjTkpTSS0xY3FJWmwtZmRMMzllSlppakxwYlBMeFNoSExiczRxS0ZoT1pCbmFKdWdHOVI2WDFxckMzQXplZVBLa3U2V20wOW5xR3Z0VE84N19zZmlVVXo0dmc?oc=5",
-          "source": "CBC",
-          "published": "2026-09-07T08:00:00Z"
         },
         {
           "title": "Rainfall warning issued for eastern Cape Breton following deadly flooding",
@@ -102,6 +95,13 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3Q5RS1aNm1QbXRscEVwWkx0REpSMzZlMVZ5XzNNOE9VdFB5MEczV1NOeHh3TzJ0anVmV0NNRDgtSUI4Y2J0Y0J0emthX3dKUi01M2haaWFVY1l2andzTzNXSFRPYXZqMTZIUk5JS2J1V1VtRUIwYnpyLWJkSGwtNm5Nck1oMXBFVVRNQURhWHdoZk5IT0dkbk11czBPTjBzc2JONUM1ZzVvY01yWU5RUkZ5eERvTms1?oc=5",
           "source": "Castanet",
           "published": "2026-09-07T14:15:00Z"
+        },
+        {
+          "title": "As hours tick down to Canada's counter-tariffs against U.S., PMO says no talks are scheduled",
+          "title_ko": "캐나다가 미국에 대한 역관세를 부과할 시간이 다가옴에 따라 PMO는 회담 일정이 없다고 밝혔습니다.",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMU5MbVRsWktzd1FmVklRWjVwcWdBQU5tczkwRUhsOVE4aURfQ3JJNTd4eFRPa1N4cGVmSlBFZzdBdGI3TUI4RDdBc0JpMFZaWlBDNGtOTnlkTmJWOWE0bkVFWjgteUdydm84LVRnRXgxWEpBa1hwWFYwVTEwNEY3OVlldkdjd3RIaFB3cw?oc=5",
+          "source": "CBC",
+          "published": "2026-09-07T18:12:56Z"
         }
       ]
     }
