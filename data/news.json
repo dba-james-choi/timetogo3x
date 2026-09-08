@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T18:28:43Z",
+  "updated_at": "2026-09-08T17:04:35Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -12,31 +12,24 @@
           "published": "2026-09-06T12:39:12Z"
         },
         {
-          "title": "Minister’s statement on North Saanich adviser",
-          "title_ko": "North Saanich 고문에 대한 장관의 성명",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZE1mbk93WU9PaVZPcU5JMzltbG9yR243d3J4bVB0bW1TZVdHWXVhc0htSFlJdjQyZnlsSUFtcGF4VGVKYVo5eTQ4S1p4NEJ6N1cxSTZVUzNVS05zWmtV?oc=5",
-          "source": "news.gov.bc.ca",
-          "published": "2026-06-16T21:40:14Z"
-        },
-        {
           "title": "New cataract surgery tool at Saanich Peninsula Hospital the first of its kind in western Canada",
           "title_ko": "캐나다 서부 최초의 Saanich Peninsula Hospital에 새로운 백내장 수술 도구 출시",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdjRtN3EyWl9EXzk5dFlueHFpZXFsTUR3SUZvUHJjY0xWVDZYZURRSDhUTHVYaXZ4LUN3S1MwTno2bWFybnN1Qk1sUUhzTzRaNjM2a3dmcXVCQU1IV25ENDIxRFBlczV3QjdJTndQbFRKMkVIUHd5a0Etdnh0a1BCUjdJMDNmUTZaR05ZWXZ1NEwwSE5SRUt5TjR0MXpaOUdvMjVZZDRhbUp1VWdtRXV4dWhqakpxY0REQTBjZlNOMDY2OThNRjhZeXE3YjlKeW1xS2RNSnEwY2laWXBtLUE?oc=5",
           "source": "Times Colonist",
           "published": "2026-08-18T11:00:00Z"
+        },
+        {
+          "title": "Saanich Peninsula’s Heritage Acres looking forward to fall season",
+          "title_ko": "가을 시즌을 기대하는 Saanich 반도의 Heritage Acres",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlhDZF8zenkzLVlZWXJ6U2ZDNjBPZlVXbmx2NHBFM2F3NW9fcUdycFBhd2VCQzhwQmxldXR0SWRWRnk0RkhER0J2YUplLS1BMEJuREZHX3I5Y3hzbldCVGFvYkdmekRKQko0WE56R0JTLWkzVmNDUTBQbThmVXd0eUlzc3RrSEFQdV9rd2ozR0xtQTUtWXB2VzJBUnc?oc=5",
+          "source": "Victoria News",
+          "published": "2026-08-21T07:00:00Z"
         }
       ]
     },
     "victoria": {
       "label": "Victoria",
       "articles": [
-        {
-          "title": "Crash knocks out power to more than 2,000 in Victoria",
-          "title_ko": "충돌로 인해 빅토리아에서 2,000명 이상의 전력 공급 중단",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSWtxLWJkWkx6ZUhuT0UzamRNZG9mTm9HaW9uUkV0LV9qUlZmVWlzMGM3YkgxVmstSVZqRzFjMVdKRjlsbzlNWElDQzFxMTNVRHBlNkhNN1FhQ1loMEc5QS1kd0Z1UFQ3MDNibG5GR2JKUkpkTGpFN01qQkVEcWRTUjZZSlprSGpF?oc=5",
-          "source": "CHEK News",
-          "published": "2026-09-07T16:21:02Z"
-        },
         {
           "title": "Events happening in Greater Victoria in September",
           "title_ko": "9월 광역 빅토리아에서 열리는 이벤트",
@@ -45,11 +38,18 @@
           "published": "2026-09-04T22:07:58Z"
         },
         {
-          "title": "OPINION: Celebrating B.C.’s workers on Labour Day",
-          "title_ko": "의견: 노동절에 브리티시 컬럼비아 근로자를 기념합니다.",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUWlqWHNicnhGMEpBVXJXQU44cDV4ZE9zWDUtdlJuNC1Kalk0S0NnX2JnZ3hTSVRfZmZXbVUzWDlrT05CdUVsN3FvZFgxeXRra2U4T1B4dXJMN005Q1hyckMzTXhka0hfOG9PeEJBVnhWY1JBNFNmRkxvWnpfTTNEQW90MndMdw?oc=5",
-          "source": "Victoria News",
-          "published": "2026-09-07T15:09:59Z"
+          "title": "Car crashes into utility pole on Fort Street cutting power for thousands",
+          "title_ko": "Fort Street에서 자동차가 전신주에 충돌하여 수천 명의 전력 공급 중단",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVkRiYllxeWhXRklHTHN0TDgyTGtISFJPWXM1X1pKTW54c09MWEZuWTF6eVNXQjVPZ3lGbFBOb1NRQlQwMlMxc0dIME40aTE0bmRLZzVKUGZJUkNkMXBic095RUpTOGpfRktXYXFDUjB1bG5lSEl3T0Z5bGtIWWFXY0QxSHd5c0xMUWZvd21nTXhOUXlJd2hBVHFycDZNZzl5eGVDOUZ5c2RPa0dUTDZJdTU2QWl3OTJHMG9Jd2gyRQ?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-09-07T23:24:00Z"
+        },
+        {
+          "title": "‘Donald J. Trump Memorial’ sign mysteriously appears above Victoria public washroom",
+          "title_ko": "빅토리아주 공중화장실 위에 '도널드 J. 트럼프 기념관' 표지판이 신비롭게 나타난다",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjkxMnF4dldOdWFuZzhGbWZxSTZad0x0RDJSOGNTbnFGTTdNMGFlY1loWkNWM1BfWnZfc1F5OWI2dkpISjRaQm1HUm1fMWRmYUVVcFE0MHp3ZGxqVnlyeEtGd0VUb2o2bVEwaGU4RGVTSzJvQ0lCalE3MjYwd2cyOVEzNml6NUU3TXRJbUpnNEFJRmlBT0hhejkwdXVxMUlkR2hDVVBCM1JtQXAxdnc?oc=5",
+          "source": "CHEK News",
+          "published": "2026-09-07T00:38:31Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "Jerry Dobrovolny out as CAO of Metro Vancouver Regional District",
-          "title_ko": "메트로 밴쿠버 지역 지구 CAO로 Jerry Dobrovolny 사임",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbGlTZVhpYWQyU1ZHX2RYVnZ2S2J4U0kzVzZROXJDUWZmXzRXRGR2RklxVm5vMEM5by1hNHk4cnF1dTZhVjlCc1VkVXk3cUVISzc5WGY2ZGxqZEVuMkxJbDRKdEdOWUxLVG5scDJ1YS1HY0NqcFc0NktWMDJPLVU2bkpaUlIxS200eHl6Y2s1U1BXdmhZ?oc=5",
-          "source": "CBC",
-          "published": "2026-09-05T01:53:00Z"
-        },
-        {
-          "title": "Lululemon founder Chip Wilson and wife Shannon 'Summer' Wilson are divorcing",
-          "title_ko": "룰루레몬 창업자 칩 윌슨과 아내 섀넌 '서머' 윌슨이 이혼했다.",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUJVM3g0bndwT3RSMl8zWFVtTnlFTnhsRVcxSE1kUzU5cHpPWWFJSVhkOFB5dm9KbUZ4NlNiYi1EYjdJSnVnN0JGdnBWZWNFdHhlYVZ6SkZ4dHlRZ2dNTFFxamlKaVcwdks5UDJEYTZkNGVQTGloYWRqNTAyUHlmbnpXaWRldTNvWlJhcjRwZ1M0cWI1ekhtU0JtVmxtQzNqQUdkOWxxSQ?oc=5",
-          "source": "vancouversun.com",
-          "published": "2026-09-06T19:47:08Z"
-        },
-        {
           "title": "Canada’s first dyslexia centre gets permanent home in Vancouver",
           "title_ko": "캐나다 최초의 난독증 센터가 밴쿠버에 영구 거주하게 되었습니다.",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNanY3LS1mMVNseVFlM0lpRGZROXVCb19lX1hnRkdLZEV6SDZ3ZGZ5SkotaWdyckx2cVJ3MzNFbEVHWUZMcFhlVU9fRXNxS1hraHNMZmtjYWswT3ZZTVJiZ1lNbXI0SGgzZFRTODNNTXIxbDJjRGxzSzZiUVFSMW56enI4THgzZw?oc=5",
-          "source": "Global News",
+          "source": "globalnews.ca",
           "published": "2026-09-05T19:49:20Z"
+        },
+        {
+          "title": "Midnight deadline looms for Canada's counter-tariffs on American goods",
+          "title_ko": "미국산 상품에 대한 캐나다의 역관세 마감 기한이 자정으로 다가왔습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnNWNzZJcUN3Y2p5bkxyV0ZlZ1BLVl8xckl1N2R6YU50ajd6cENJb1VSTzZOQTRybjZEa2xxd2drM0RjblhmUC0xbUMwOTRKb0ZjTTlKY0c1dDR0R0g0RGVwSXNKdExPeVAyU205TGpUc2VUTkEwN1d4bzFSc1FHU2JBeDNjbVpFYU56MFBaeV96aWpEWUpzdUtTXzYyUTRrWG1fXzE5TFdNcEs2Y1BTNjQtQ1pCYjdu?oc=5",
+          "source": "CityNews Vancouver",
+          "published": "2026-09-07T23:51:00Z"
+        },
+        {
+          "title": "New BC SPCA behaviour centre opens in Cowichan",
+          "title_ko": "코위찬에 새로운 BC SPCA 행동 센터 개설",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3dYTV96TW9YUDN6bmRzeUh0TWtUWmlwUEJDczJpM1c2dG5Fd0ZJOUo4cVNMZFMyNVBncUFxT1RJZ1NOTkhaVVVwbnJfa1B0c1UtS1NCUi0xNTJ2UDVSVkxTbmNidHZpS29iQkk3bTBRekpGUTRyakN2WG5qclQwNnpBMmdNZlBlX2NyT19aZzBWdEo3aVQ5Wm94VQ?oc=5",
+          "source": "Vancouver Island Free Daily",
+          "published": "2026-09-08T12:33:11Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Laval mayor announces he has a brain tumour",
-          "title_ko": "라발 시장, 자신이 뇌종양을 앓고 있다고 발표",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMG1OU3lKNDVQV1dXVGk5Vy1LR0c3TnBXUWZwVWI0aGpKVVdPTTBKbDRFYjVJT3pPd1NaVzhoQ3RxSnhoRnRHUl9xQmFtdlI1R2ZMNU5RRXFYSmlXWjV5OG1HWEc3SDlTUnZ3WmVZcXE4ZVRZV1dVRFhWNmFIVWFmZ3dWOThpTzJXR0tWSw?oc=5",
-          "source": "ctvnews.ca",
-          "published": "2026-09-07T13:13:38Z"
+          "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+          "title_ko": "카니는 캐나다가 관세를 반격함에 따라 미국 무역 전쟁에 '비용이 들 것'이라고 말했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JMU1EU1FQNE96QWhEYTd3djdqell4cFo3QktqMWQzMXYwVE1pUWdVb1FiT2RnZllhZHdDTDdwN1NFd3hZNXN4cm5Ib3dNLUFoX1BIMnQ1dHRQQQ?oc=5",
+          "source": "bbc.com",
+          "published": "2026-09-08T14:46:16Z"
         },
         {
-          "title": "Rainfall warning issued for eastern Cape Breton following deadly flooding",
-          "title_ko": "치명적인 홍수로 인해 케이프 브레튼 동부에 강우 경보 발령",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3Q5RS1aNm1QbXRscEVwWkx0REpSMzZlMVZ5XzNNOE9VdFB5MEczV1NOeHh3TzJ0anVmV0NNRDgtSUI4Y2J0Y0J0emthX3dKUi01M2haaWFVY1l2andzTzNXSFRPYXZqMTZIUk5JS2J1V1VtRUIwYnpyLWJkSGwtNm5Nck1oMXBFVVRNQURhWHdoZk5IT0dkbk11czBPTjBzc2JONUM1ZzVvY01yWU5RUkZ5eERvTms1?oc=5",
-          "source": "Castanet",
-          "published": "2026-09-07T14:15:00Z"
+          "title": "Canadian tourist rescued after yacht found submerged in Indian Ocean",
+          "title_ko": "인도양에 잠긴 요트 발견된 캐나다 관광객 구조",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSnpiT2tXMmlXYmZveUJEVkgzaWQyOE5UVkNFN1FwcEVscnR2dFJkbmxraENuTUlPVTRFaWRxUXAySDF0Vnc1dHRSdWs1WVlXbHRqQlM1RGRGUjA5NUFvSUdsOVZTaWhhNm0zZWk0cUVFWG9ubmYtbDJxcERhSkdTT0pkVzJTTE5GdjhLYWFOYzBuWkRDbU1XMS0xMVBwVEpWN0F6R05GTEdOUQ?oc=5",
+          "source": "CTV News",
+          "published": "2026-09-08T14:53:19Z"
         },
         {
-          "title": "As hours tick down to Canada's counter-tariffs against U.S., PMO says no talks are scheduled",
-          "title_ko": "캐나다가 미국에 대한 역관세를 부과할 시간이 다가옴에 따라 PMO는 회담 일정이 없다고 밝혔습니다.",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMU5MbVRsWktzd1FmVklRWjVwcWdBQU5tczkwRUhsOVE4aURfQ3JJNTd4eFRPa1N4cGVmSlBFZzdBdGI3TUI4RDdBc0JpMFZaWlBDNGtOTnlkTmJWOWE0bkVFWjgteUdydm84LVRnRXgxWEpBa1hwWFYwVTEwNEY3OVlldkdjd3RIaFB3cw?oc=5",
+          "title": "‘I need to know’: Alberta man retraces his steps after traumatic brain injury, waking from coma",
+          "title_ko": "'알고 싶어요': 앨버타 남성, 외상성 뇌 손상 후 혼수상태에서 깨어나 자신의 행적을 되돌아보다",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObUgxdFlNTTR2RjRRQXVWOC0yTVRlcUJrTmVLOGRBa19vNVo0UTdJcmRxODNQWUZQSzFVT2kwajJBQk51MHpvQVFUQnRaSkpkeUNLZWZjZEY1MDdINXhTVms3UjJ3OEZocHN4RFFaZ2x5WUVEcVU1OXdVekdhT2NCT2dTTklhMkJEb0E?oc=5",
           "source": "CBC",
-          "published": "2026-09-07T18:12:56Z"
+          "published": "2026-09-08T12:00:00Z"
         }
       ]
     }
