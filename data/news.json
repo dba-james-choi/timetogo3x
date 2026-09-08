@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-08T17:04:35Z",
+  "updated_at": "2026-09-08T17:39:33Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
           "title": "More than 45 local artists set to headline Saanich Peninsula studio tour",
-          "title_ko": "45명 이상의 지역 예술가가 Saanich 반도 스튜디오 투어의 헤드라인을 장식합니다.",
+          "title_ko": "45명 이상의 현지 예술가가 Saanich 반도 스튜디오 투어의 헤드라인을 장식합니다.",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbm1rWmNwckFjbEZWcElWSkZNOVVHeVMyR3JCOTRlWXRWZUF0b0FUT3Z1MEdIXzB4UE1tLTluc3QzenRpZGNVVzZYYnBqU1N2ZnZzeGswUVlrVDFtcE5mQW9PQXI4UFZETTVoOGo3ZHgtZ0Q0LWM2Vm9wTWdxWmY0Z3JITDloWThYQ0w3VDMyclI0ejI3dnppSTZVclk3VHBqemVZdmdHQ1NjVkct?oc=5",
           "source": "Saanich News",
           "published": "2026-09-06T12:39:12Z"
@@ -60,8 +60,15 @@
           "title": "Canada’s first dyslexia centre gets permanent home in Vancouver",
           "title_ko": "캐나다 최초의 난독증 센터가 밴쿠버에 영구 거주하게 되었습니다.",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNanY3LS1mMVNseVFlM0lpRGZROXVCb19lX1hnRkdLZEV6SDZ3ZGZ5SkotaWdyckx2cVJ3MzNFbEVHWUZMcFhlVU9fRXNxS1hraHNMZmtjYWswT3ZZTVJiZ1lNbXI0SGgzZFRTODNNTXIxbDJjRGxzSzZiUVFSMW56enI4THgzZw?oc=5",
-          "source": "globalnews.ca",
+          "source": "Global News",
           "published": "2026-09-05T19:49:20Z"
+        },
+        {
+          "title": "Vancouver officer Kal Dosanjh, charged with theft and fraud, denies wrongdoing",
+          "title_ko": "절도 및 사기 혐의로 기소된 밴쿠버 경찰관 Kal Dosanjh는 불법 행위를 부인했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNa1FWeVQwVjI2WmRqSWlFb1RwVlc2SmdMR005eUlnYjJubk5aUF8wbUVja3g2YUMxbWFZVmMxcHRvak41M2VUU3B1WUZHU01fUklvYlRYMkFqTEYtYTFkY2hRcXZjSld0T3hESjNCQXhUV2xPRGJFajAtWTlWTWdfNWVSYW5URjJWbjFNVGc4RGYtVWFhcTdnbEVIZVR2dFNYLV9EZGhpUlVORG5heVFOaGtJWUJ0VFgyQko1ZTRaSC1STzBmTGIyQ0V1YXMzdHJ3ZnpnVW5lLWYwSVRvaUgwR2N4NWNfRlR5VWhzRGlVVGM2SlRCaHhxaTR3cjBfenZEcF9VSjQ3WkE?oc=5",
+          "source": "thecanadianpressnews.ca",
+          "published": "2026-09-08T16:02:55Z"
         },
         {
           "title": "Midnight deadline looms for Canada's counter-tariffs on American goods",
@@ -69,13 +76,6 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnNWNzZJcUN3Y2p5bkxyV0ZlZ1BLVl8xckl1N2R6YU50ajd6cENJb1VSTzZOQTRybjZEa2xxd2drM0RjblhmUC0xbUMwOTRKb0ZjTTlKY0c1dDR0R0g0RGVwSXNKdExPeVAyU205TGpUc2VUTkEwN1d4bzFSc1FHU2JBeDNjbVpFYU56MFBaeV96aWpEWUpzdUtTXzYyUTRrWG1fXzE5TFdNcEs2Y1BTNjQtQ1pCYjdu?oc=5",
           "source": "CityNews Vancouver",
           "published": "2026-09-07T23:51:00Z"
-        },
-        {
-          "title": "New BC SPCA behaviour centre opens in Cowichan",
-          "title_ko": "코위찬에 새로운 BC SPCA 행동 센터 개설",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3dYTV96TW9YUDN6bmRzeUh0TWtUWmlwUEJDczJpM1c2dG5Fd0ZJOUo4cVNMZFMyNVBncUFxT1RJZ1NOTkhaVVVwbnJfa1B0c1UtS1NCUi0xNTJ2UDVSVkxTbmNidHZpS29iQkk3bTBRekpGUTRyakN2WG5qclQwNnpBMmdNZlBlX2NyT19aZzBWdEo3aVQ5Wm94VQ?oc=5",
-          "source": "Vancouver Island Free Daily",
-          "published": "2026-09-08T12:33:11Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-          "title_ko": "카니는 캐나다가 관세를 반격함에 따라 미국 무역 전쟁에 '비용이 들 것'이라고 말했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JMU1EU1FQNE96QWhEYTd3djdqell4cFo3QktqMWQzMXYwVE1pUWdVb1FiT2RnZllhZHdDTDdwN1NFd3hZNXN4cm5Ib3dNLUFoX1BIMnQ1dHRQQQ?oc=5",
-          "source": "bbc.com",
-          "published": "2026-09-08T14:46:16Z"
-        },
-        {
-          "title": "Canadian tourist rescued after yacht found submerged in Indian Ocean",
-          "title_ko": "인도양에 잠긴 요트 발견된 캐나다 관광객 구조",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSnpiT2tXMmlXYmZveUJEVkgzaWQyOE5UVkNFN1FwcEVscnR2dFJkbmxraENuTUlPVTRFaWRxUXAySDF0Vnc1dHRSdWs1WVlXbHRqQlM1RGRGUjA5NUFvSUdsOVZTaWhhNm0zZWk0cUVFWG9ubmYtbDJxcERhSkdTT0pkVzJTTE5GdjhLYWFOYzBuWkRDbU1XMS0xMVBwVEpWN0F6R05GTEdOUQ?oc=5",
-          "source": "CTV News",
-          "published": "2026-09-08T14:53:19Z"
+          "title": "U.S., Canada trade reps expected to speak today, sources say, as Ottawa's counter-tariffs take effect",
+          "title_ko": "소식통에 따르면 오타와의 역관세가 발효됨에 따라 미국과 캐나다 무역 대표자들이 오늘 연설할 예정이라고 합니다.",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEhMRE5FeE4yTDk2YjJ5Q1RmY2hIaUNkdXp2cDNUbFl0SzJteFdtR2NaakFmYVhLNjNNYzNPNU9rNW5Ka3pOMzRvOXlFME16UUZFMUZTMXRmTEk5d0E0UlduRXpJSTFOWTFZQ3VKcURielplaVg5dF9vUUVSTl9FaDV1aUVPODF4d0p5SlJWVjFxTVVfem5V?oc=5",
+          "source": "CBC",
+          "published": "2026-09-08T16:52:30Z"
         },
         {
           "title": "‘I need to know’: Alberta man retraces his steps after traumatic brain injury, waking from coma",
-          "title_ko": "'알고 싶어요': 앨버타 남성, 외상성 뇌 손상 후 혼수상태에서 깨어나 자신의 행적을 되돌아보다",
+          "title_ko": "'알고 싶습니다': 앨버타 남성, 외상성 뇌 손상 후 혼수상태에서 깨어나 자신의 행적을 되돌아보다",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObUgxdFlNTTR2RjRRQXVWOC0yTVRlcUJrTmVLOGRBa19vNVo0UTdJcmRxODNQWUZQSzFVT2kwajJBQk51MHpvQVFUQnRaSkpkeUNLZWZjZEY1MDdINXhTVms3UjJ3OEZocHN4RFFaZ2x5WUVEcVU1OXdVekdhT2NCT2dTTklhMkJEb0E?oc=5",
           "source": "CBC",
           "published": "2026-09-08T12:00:00Z"
+        },
+        {
+          "title": "Canadian tourist rescued after yacht found submerged in Indian Ocean",
+          "title_ko": "인도양에 잠긴 요트 발견된 캐나다인 관광객 구조",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSnpiT2tXMmlXYmZveUJEVkgzaWQyOE5UVkNFN1FwcEVscnR2dFJkbmxraENuTUlPVTRFaWRxUXAySDF0Vnc1dHRSdWs1WVlXbHRqQlM1RGRGUjA5NUFvSUdsOVZTaWhhNm0zZWk0cUVFWG9ubmYtbDJxcERhSkdTT0pkVzJTTE5GdjhLYWFOYzBuWkRDbU1XMS0xMVBwVEpWN0F6R05GTEdOUQ?oc=5",
+          "source": "CTV News",
+          "published": "2026-09-08T14:53:19Z"
         }
       ]
     }
