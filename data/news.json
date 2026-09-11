@@ -1,34 +1,8 @@
 {
-  "updated_at": "2026-09-10T17:23:34Z",
+  "updated_at": "2026-09-11T16:54:33Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
-      "articles": [
-        {
-          "title": "Drivers fined $368 for passing school bus with stop sign out in Saanich",
-          "title_ko": "Saanich에서 정지 신호를 표시한 채 스쿨버스를 추월한 운전자에게 $368의 벌금이 부과됨",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0o5MW9lNGJ2NjlRY0U4VU8weGpmQjZzRXQzdmRHaVZYTTN1WDJsei00SEhtc2g5R01lcjN2bmhWYmFOeElHX3c1bXhPOHYxaGstanptaFhOTGdjb0d3ckg0SHRrZ0NaRWFXQ1dkMFBHLVVGa1NWbjJ2WjhUeVQ3VGlpdmc3Rlc0X19rSEQtVFRlSVJfZFJwVTQzYzZrQi1NME8zblIySDkwNFRxSDhBdHk4MkJNaUQycE95ZkpR?oc=5",
-          "source": "Pique Newsmagazine",
-          "published": "2026-09-10T13:18:00Z"
-        },
-        {
-          "title": "'Hunted,' 'shattered,' 'scared': How victims say Canada's most prolific voyeur has altered their lives",
-          "title_ko": "'사냥당함', '산산조각났음', '무서움': 피해자들이 캐나다에서 가장 많은 도촬을 한 사람이 자신의 삶을 변화시켰다고 말하는 방법",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUZJOGlIamJfUllHMk5TdDRMcTdHQjlGU0d6SzFQX1l0d3JxOWlYU2xVemNRY3NsWkduczhLUHl6b1AxNTllWUhsODZkMG9jdnRkNkpsOENKOURJZ0VfazliY296SmJvMExmRWxZNU8yTERCZVVvaTZJejQ5Sk0tek1ENE0?oc=5",
-          "source": "CBC",
-          "published": "2026-09-09T11:00:00Z"
-        },
-        {
-          "title": "More than 45 local artists set to headline Saanich Peninsula studio tour",
-          "title_ko": "45명 이상의 현지 예술가가 Saanich 반도 스튜디오 투어의 헤드라인을 장식합니다.",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbm1rWmNwckFjbEZWcElWSkZNOVVHeVMyR3JCOTRlWXRWZUF0b0FUT3Z1MEdIXzB4UE1tLTluc3QzenRpZGNVVzZYYnBqU1N2ZnZzeGswUVlrVDFtcE5mQW9PQXI4UFZETTVoOGo3ZHgtZ0Q0LWM2Vm9wTWdxWmY0Z3JITDloWThYQ0w3VDMyclI0ejI3dnppSTZVclk3VHBqemVZdmdHQ1NjVkct?oc=5",
-          "source": "saanichnews.com",
-          "published": "2026-09-06T12:39:12Z"
-        }
-      ]
-    },
-    "victoria": {
-      "label": "Victoria",
       "articles": [
         {
           "title": "Police did not intervene as Canada's most prolific voyeur was 'looking for more victims,' court records show",
@@ -38,17 +12,43 @@
           "published": "2026-09-10T15:59:21Z"
         },
         {
-          "title": "Victoria rents fall by 3.4% as national declines continue",
-          "title_ko": "빅토리아 임대료는 전국적인 하락세로 인해 3.4% 하락",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMzZ6S00tdGFSYjZMVzZRdFo1T3pIVzNUc25vOENQRW56UExIU2YxSzlNOF9xTWd2cTU1Ul9QVnJwSjdRenhpbHhydUotX0w1aTNkcktxX0VoQU9mMXVxdTJlVGE2QWZoUWhRTFNtTjItUW1LSlFzR2sxcmZGNi1ORm80YXlydElhMjlkejFYc2JrUQ?oc=5",
-          "source": "vicnews.com",
-          "published": "2026-09-10T13:27:01Z"
+          "title": "More than 45 local artists set to headline Saanich Peninsula studio tour",
+          "title_ko": "45명 이상의 현지 예술가가 Saanich 반도 스튜디오 투어의 헤드라인을 장식합니다.",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1l3T2hWdTR5bWpzT3BYV0RsSWlpaG5kZnVsNVVsWWJQMUM3b0kxUXFVaDdrQ01BSEhQNUZBN3NaM1VoOC1SVndHV0dORkU1YTJZWXRmVHVHN3RyeWt0Mlp5dmFWX1ozM1dqUXVPRGFBOGROUEJ5M2luNlVsVGVpQVlVM1RzcHN0bDNHX1A4amxOX1NWbWZlSzFjREs3VlNJMGJZUTZJcw?oc=5",
+          "source": "Victoria News",
+          "published": "2026-09-06T12:34:06Z"
+        },
+        {
+          "title": "Drivers fined $368 for passing school bus with stop sign out in Saanich",
+          "title_ko": "Saanich에서 정지 신호를 표시한 채 스쿨버스를 추월한 운전자에게 $368의 벌금이 부과됨",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3NYUkZwM3JnSHBKU1hmZ3NkcnhiX3BmQ3VfU2MzdUlBZmJKUDc4UVYxMk5nMG9ia2pTNkJuc2dDZnpFZnpoOTV0ZHlxNnlRU3c2c0tYTC1qa1NtR2F0eXRfa0ZtLWJTNVJKT0lmcUF4WlhVYklzTWtjOW94eVRodEJMeUZMQXFQUmRHdmlYSi1ZTFEzNVk0ZHBZQzBMN2F4M1M3ZV9lbnJPNFFZaDgwUHNocm1VQTJsZWszSG01VQ?oc=5",
+          "source": "Vancouver Is Awesome",
+          "published": "2026-09-10T20:18:00Z"
+        }
+      ]
+    },
+    "victoria": {
+      "label": "Victoria",
+      "articles": [
+        {
+          "title": "Letters Sept. 11: B.C. expands sales tax; building a strong Canada",
+          "title_ko": "9월 11일자 서한: 브리티시 컬럼비아는 판매세를 인상합니다. 강한 캐나다 건설",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTWdQS0t4eWZZcEZMLTJONk4zbHZ2cGNGdlZ6eS1YYW1qelQ4TWs0VUZreWdIZXJXZGZyc1VKVkxWQVlFejQ4WXNxbnB1V09NaVFVb3d4QTY0YjlxZHRhWXRQbm44NmpDOVQwbFpTbTZpeVdEY2lSYjFseUNoNXY2M0J3RlNId0dRUG8xQWxMWmozWGYtOW1vemxMYkctV2V0S29jeDJicWstRzVH?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-09-11T12:15:00Z"
+        },
+        {
+          "title": "Police did not intervene as Canada's most prolific voyeur was 'looking for more victims,' court records show",
+          "title_ko": "캐나다에서 가장 많은 도촬을 한 사람이 '더 많은 피해자를 찾고' 있었기 때문에 경찰은 개입하지 않았다고 법원 기록에 나와 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZFAxVmNSVHRMUWJDWmI2UGthMHhHOGtlSjNPWURXVkpwZDBfeVNMNVRxTEhHZTQ3TnZpU1M2c2xqZVNKTFZ4MmlMVzhfWlQ3UFRHdHAtUmVncllIWWRQTHhBZThaOVhLTlgxenY1X3dmTUdESVpTNjJfWEFBSW5RVXh5MHh2dw?oc=5",
+          "source": "CBC",
+          "published": "2026-09-10T15:59:21Z"
         },
         {
           "title": "‘Donald J. Trump Memorial’: Rogue sign put up outside B.C. bathroom",
-          "title_ko": "'도널드 J. 트럼프 기념관': 브리티시 컬럼비아 화장실 밖에 세워진 불량 표지판",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcW4tM21RelJORFJQamdOMzVrY2ZYbmhBa3NGZTVlWEJYUEdpS2RNbHNENjVRdlRaOVN1Tk8zeVRLeGZ1bVlfdmVHTmJwQ1EyRXIyMHlaZUx4M3NVbklJeW56Rmg0c3kxZUIzYU1qNVVvc0h5dnMtblBVQ2NIZzNnOXF5LU9pbEZRVF8tOUpjUmpOZ2g4RUlHSnZXcjJQWHVNU3BPUldIYTRXV2VvelNIbWVGRkdQb04xOUdzTg?oc=5",
-          "source": "CTV News",
+          "title_ko": "'도널드 J. 트럼프 기념관': 브리티시 컬럼비아 화장실 밖에 불량 표지판 설치",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkhXZ2Rka3o1aWZaOGJlcE1vZXdTZXE4cGNiMkhxXzBsclNiUnlDVVZjRlpEcmpoUmpYNHo4OFlQTVFyTU82bWYwbjJxcVlPMmZ6eVdXQ2ZrTFZPUmdtbDlmYkpQOWRHVmlqMjF4UnkwX09rRF90ZTg5UTYzbUVjT2dTX3BRR2VlZ3UyZURzTnYtQ2x2V21VSDdoZ1NFaFlUWHZlTWkzQzBxZw?oc=5",
+          "source": "CP24",
           "published": "2026-09-08T22:00:43Z"
         }
       ]
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "Proposed substation in Vancouver's West End faces community opposition",
-          "title_ko": "밴쿠버 웨스트엔드에 제안된 변전소는 지역사회의 반대에 직면",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTzZnYU5XYlFSNV9xTnVVN01mWnV4Um4xM2NuMk9uaHZRc2ZiQXJQTjFDM25scVRIYVJRR2FIMUtxXzhFWnBqM0U5MFpjc3QtX1lqaUtXTGhZcDBHNjJ4RThoREk1VWhlczhiSzR6UFBhdTVFa2xKLVFOU0pIQ2ZTMENLdlkyX1gwRnhrVXVQcGlWbnBPa1dMZ1JlNG0zUW12LXlFczZBemsyTkFlbHpOdUdSa3pvQmRhX095TUlIcDYtWWc2N1VB?oc=5",
+          "title": "Man flees road rage incident near Vancouver that ended with him being chased with a knife",
+          "title_ko": "밴쿠버 근처에서 칼로 쫓기던 차에서 난폭한 사건에서 도망친 남자",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNE40a0FkNGhpMmZYZGlFRE1DU3dqQ1EtVGJjZklnMUNhYVpzQi1Xc09SS2JTMXVQVVNsMW9qb1NRWk04QmpWNGR2U09ZVGFldC1RZ3JLSUM1NGZLMmJlUzR6eDYtU2dqeENSQUZVRU44NHQ0azZ0ZDBMeDU5QTlkZTlWQ0xZSktiQXc?oc=5",
           "source": "CBC",
-          "published": "2026-09-10T03:24:00Z"
+          "published": "2026-09-11T02:47:00Z"
         },
         {
-          "title": "U.S. executive order severs relationship-building with B.C. wine",
-          "title_ko": "미국 행정명령으로 브리티시컬럼비아 와인과의 관계 구축 중단",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdUltWVJhSjJPNkI3M25OeG1BMkpKSmprR0pPZUI1TWxYbUNqZFNPc0NKUFpmQWlHZFNEMmthV1dMdGVTYWNJS2twLVBsSENaWmc5VnRPOURwLUYxSjhEeXRwUFZuMS1UUVY4ektVMldfZVhFN2lkTHZKRDVORUJNSHdyeDlfcjN3a3Rfekw0a244RW5wSFJsbmlkdG9XejVHZURJ?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-09-09T23:49:39Z"
+          "title": "Masked man hiding in B.C. restaurant crawlspace arrested, police say",
+          "title_ko": "브리티시 컬럼비아 레스토랑 크롤링 공간에 숨어 있던 복면을 쓴 남자가 체포됐다고 경찰이 밝혔습니다.",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQzhTTVlDZFdUTDFVQ3MwUnpzRDZrVWNoUjcwdnFnTlQzOEJVdm1tbEJHM0k0TDdVM3pvcWdMZ0JqblA2dlV5ZHppZEF1QUhDVWtnQXNjcUpLZFdNcmNlSkZEcFVLLUk5RDNYZTNENDlhNTdfNWNscm1PMjJHdzl5dVV0Q2N0TTNWRVcwd3pUc3N4SHdMTGtGSnNFTW90TWJjNnpHNm95RHVzcXZY?oc=5",
+          "source": "CTV News",
+          "published": "2026-09-11T15:20:27Z"
         },
         {
-          "title": "'Mark your calendars': Two massive anti-AI rallies planned for Vancouver",
-          "title_ko": "'달력에 표시해 두세요': 밴쿠버에서 두 개의 대규모 AI 반대 집회 계획",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZTdTT1NJWWNnY0ZVejFxUjZ6MlZ2RXFrakl2WG5YZGEyUDFjbDh6WUwyWHJPUEdYNGo2SW50T2h5TDBMTzZ4U01kaUREQmRHeV91R0xKczdDdnA4bDJvNTBjSmpOYld3S1JZNE1WY3BoLUxEUFp3ZUlWZmttTi1XWWx6cHlYNFRteFVZNG9R?oc=5",
+          "title": "Here's how much it costs to rent a one-bedroom apartment in Vancouver this September",
+          "title_ko": "올 9월 밴쿠버에서 1베드룸 아파트를 임대하는 데 드는 비용은 다음과 같습니다.",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaGJLN0xyem5wMTNhRlFnWXUxUWxFMWVsbzN2dFJkQmdLRW5OVkNRcUg0TEZvb0w0Mk1GeFkwdHhvR2xjeWpfVTdSZjJXTE1vbjFMWjc1VHNtakJwTDdWNXI4MWxYeHp0eVdvZE5SSEwxcnloSmxMUUZIMWEtUUc3bTNuc09ReFhQTkVvb05BSGw2MlNlVUxrbmxn?oc=5",
           "source": "Vancouver Is Awesome",
-          "published": "2026-09-10T08:15:00Z"
+          "published": "2026-09-11T16:49:34Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Gander Welcomed Americans in 2001. Now, U.S.-Canada Tensions Hit Home",
-          "title_ko": "Gander는 2001년에 미국인을 환영했습니다. 이제 미국-캐나다 긴장이 고조되었습니다.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWmVOcE5hOEQzYkJGNWs5TmJQMHU3TUc0VVlqNEd2UUdXS0pReVQxQXZqc1dMV2dNOXlFci1jM3hrZTQzbS1nRkRaaWdTQnJjMDNYckI0dFhuZWpkVTBHQ1JGV09JRFl4Uzc1MHNnRXVrMlJTR3Zod2ZBSXQzWFhwcGdWYmJiYTVTS0MxZktjWXM?oc=5",
-          "source": "The New York Times",
-          "published": "2026-09-10T09:00:41Z"
+          "title": "Gander, Canada, opened its doors after 9/11. Trump’s ambassador risks a cooler welcome.",
+          "title_ko": "캐나다 갠더(Gander)는 9/11 이후 문을 열었습니다. 트럼프 대사는 더 멋진 환영을 받을 위험이 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QOXJhbGMwOUJmVWlSdDhNZHlPZm1Id0xwUDJpQmgzZFBUMENMbEFCTmlJZUU1Mm10cUl1a3BLZWFzZUw1UWpLdl93LVZXalNsTExiZHNrWnBhcXppNTZ6enpGX19rT0pGNzNsanMxWk9QbU4xSlNvdWRtV20?oc=5",
+          "source": "Politico",
+          "published": "2026-09-11T09:50:00Z"
         },
         {
-          "title": "Canadian citizenship certificate applications now facing nearly 3-year delays",
-          "title_ko": "캐나다 시민권 증명서 신청이 거의 3년 지연되고 있습니다.",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yUnF6ZTQ5X1ktR0tWWjNpbVd4T0xKMlRLZWtLZHlMTFA2cWhpeURnZTlvaWpnNUgtM2E3c3RHNVZhME01eHhrTHVMZ0M0YmwwX3dYa2hLemJwVHZEUm9mTVFkX3VhY09leXJWZEtQVUQ4eXFPQTNia1FRb2Nodw?oc=5",
+          "title": "Why isn't Canada blocking the Welland Canal? Other trade war questions answered",
+          "title_ko": "캐나다는 왜 웰랜드 운하를 막지 않습니까? 기타 무역 전쟁 관련 질문에 대한 답변",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyTG1QaWxQWEJYZWZhYzZiSzd6alFvSktwU3lfLWpTdFlyYnc4VmdtZ19uX0dwa0xJeEd4RGNoM01yR09Mak9jemU2WlVmcGxrNW16RU5kekJVVngxejRvMWFldE5wWGs2bGc?oc=5",
           "source": "CBC",
-          "published": "2026-09-10T08:00:00Z"
+          "published": "2026-09-11T08:00:00Z"
         },
         {
-          "title": "Poilievre tells CNBC he won’t ‘attack my PM on foreign soil’ in trade fight",
-          "title_ko": "Poilievre는 CNBC에 무역 싸움에서 '외국 땅에서 내 PM을 공격'하지 않을 것이라고 말했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNi1uUGk3LVJ5cV8xejc3amQ1RkZWMG1ZZURHSTA5Vy1ZbGx2X1dCMXQza2RJQTR5enFVZUNrZFBpMlFBZ19seWZoMXNuTnk1SWJYLVJ3VVZ4WjE0b2Z2RVRYZ1lzYnBLZFNKR2UtbjdlanNKTktxb2JvbC04WFkwMUN4RkdNVlN3cFV3Y29rLU9FZ0RrTS04ZlJ4Z0NCTlJwdm93aWVhVTNlcTVfZndCcHQyMERrVlE?oc=5",
-          "source": "CTV News",
-          "published": "2026-09-10T15:55:54Z"
+          "title": "Would a $20 minimum wage in Quebec actually be a 'big blow' to the economy?",
+          "title_ko": "퀘벡의 최저 임금 20달러가 실제로 경제에 '큰 타격'이 될까요?",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa3ItcGtmQmpmb1l2X0N5aEUxUXJpT3RqZXJ3ZFVhb1g5TjhtaTRMT1YtLWZRN196SFlLOG11XzhBelBSZklvdEMyWlgzX1JOTmg3akpnT3UzVk9jLXdXTm5aLTJZeWdDT0V4TDZaTDktdVpnZ2VYUklqaXYtc0lTakpfYkhadjd2Rm03WDJFY2hiQS03UFQ0dTFpZ20?oc=5",
+          "source": "CBC",
+          "published": "2026-09-11T08:00:00Z"
         }
       ]
     }
