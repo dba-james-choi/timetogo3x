@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T17:28:16Z",
+  "updated_at": "2026-09-15T17:49:24Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -38,18 +38,18 @@
           "published": "2026-09-14T20:02:05Z"
         },
         {
+          "title": "BC Ferries Sept 15: Vancouver-Victoria sailings delayed by mechanical issues",
+          "title_ko": "BC Ferries 9월 15일: 밴쿠버-빅토리아 항해가 기계적 문제로 지연되었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTJKWTg0WTFYUHphdG9OeGhjZmktX1p6MHkzWHZHRy1CdUFmbXFLdVZOaER6R051YjdFUVhUekhaaXRuVm1aTV9XMl9lWTR5UFRySjNVdW9idU9NeHRVbURUdGt0d0I5cTNDX2V2TV9hb0txeWkxaWRNQmNPcEFyRWx3R0h3cTFKM2VwcExIdHRuN3ZVdE5sZFdFX0tfZEtYUklKdFdhQnNwZw?oc=5",
+          "source": "Island Social Trends",
+          "published": "2026-09-15T17:35:49Z"
+        },
+        {
           "title": "Vikes draw for second straight game",
           "title_ko": "Vikes, 2경기 연속 무승부",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVp0cVNNdzJaZFRtY3pJWWRkck96OG1YSUhyVzlnS1lidUFfSzd4WDh5ZXFrYldhQUdPYXNQNmdoUUNNSmk3VW0xVGl1d3luUmtIb0p0WWI1UWNrY1pBeGtHdm04cVpYTF9EVE9SSkZkaExxZ2pzczNqRGtVZ2RvZS1KcDhlSHoxUks2SnJycl9tczZGQ0E?oc=5",
           "source": "University of Victoria Athletics",
           "published": "2026-09-14T03:06:46Z"
-        },
-        {
-          "title": "Letters Sept. 15: Build capacity before building ferries; tax solution is HST",
-          "title_ko": "9월 15일자 편지: 페리를 건조하기 전에 역량을 구축하십시오. 세금 솔루션은 HST입니다",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYW9qaFp5aFJFUjBlZXlMQVVJOVpLMTJ6NWhMa3RJTWRMeWJlLUtIQW0zSkF1eWEtLVZOYjlmMXd1SkhTMnJpM3pSOXRDZ1lMdEVMSUtPY2JtX3h6el9WNjFtTGxGYUNqYjRvbXNDVjZScXFNcXluOG5mZWliQlJUUDNvM3dMYlhtSzR5bkJQUTVHWDFTb0E3MjRyRmVhTG9hQkNCbzE0TllCOHBOVWNkMWNrS3lHS1hHaFFPSjh3?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-09-15T12:15:00Z"
         }
       ]
     },
@@ -61,7 +61,14 @@
           "title_ko": "밴쿠버 다운타운에 예정된 새로운 변전소는 지하에 건설될 예정입니다",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaFNQbzMxMnVrOUNmZ09BUWJMOTNxcVFkaWZBSUxTN1NVTWt6TnBFTDdNYXBpcm5fWWhfb2RWNDQyZkEyMkZVdHZCd3hqZEJ2azdpSlpoaUZNOHZLME9relpDMnR3RnFJaVJYVmNFd1F1dzVZZWpwcFM3Sy1HS21WWHhVQWVuUDd0VjFORTljVTBnRmc5ZGgyTmg2eHhTUVR2UVo5YnRzcDJUeGV6cHdvV21UeUdteVVTUHhzZDVTaUZnVWhqSDFaVVFFWjBsWl8xOUhDZWswNUVyVjg?oc=5",
           "source": "constructconnect.com",
-          "published": "2026-09-15T11:37:55Z"
+          "published": "2026-09-15T11:39:03Z"
+        },
+        {
+          "title": "BC Ferries Sept 15: Vancouver-Victoria sailings delayed by mechanical issues",
+          "title_ko": "BC Ferries 9월 15일: 밴쿠버-빅토리아 항해가 기계적 문제로 지연되었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTJKWTg0WTFYUHphdG9OeGhjZmktX1p6MHkzWHZHRy1CdUFmbXFLdVZOaER6R051YjdFUVhUekhaaXRuVm1aTV9XMl9lWTR5UFRySjNVdW9idU9NeHRVbURUdGt0d0I5cTNDX2V2TV9hb0txeWkxaWRNQmNPcEFyRWx3R0h3cTFKM2VwcExIdHRuN3ZVdE5sZFdFX0tfZEtYUklKdFdhQnNwZw?oc=5",
+          "source": "Island Social Trends",
+          "published": "2026-09-15T17:35:49Z"
         },
         {
           "title": "Get It Done B.C. 2026: live from the Vancouver Club |",
@@ -69,13 +76,6 @@
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmxobmgweHdhSGZrbkZWY25hVDF6Ul9FSFp2cUFOUHpTcEgtcXFYaTM0ZHliZFdUVXcyN2hpd2c3Q01KNnhmakYtS1F3Ui1HeDNjNDJJRURGUW1DNnVnMGg2NG1GZkFKSnFfMXZhRkpiVjZFMnJIeU1CS3cxNm5RczRR?oc=5",
           "source": "Resource Works",
           "published": "2026-09-15T00:17:48Z"
-        },
-        {
-          "title": "The stories behind B.C.’s fastest-growing companies",
-          "title_ko": "브리티시 컬럼비아에서 가장 빠르게 성장하는 기업의 비하인드 스토리",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLUVQNUxMbG10NmlpR053OXV3dFBTOEk3UzJMV2dPdWtkZk15aTVVanVjSDJySzZPamhwVHgxT1l5QzROVS12SF82bnA2X2NJTTFsdlJscGFZVjBnT0F5c3RGcjNTMXVTQk5PRWRYWGN1cWphbTBXTTZmbzFkNzdsb0RVbEFPbjhnTFdwS0FUclZQMkxrM2dVWFJSNnIzNl9XQzBXMl9pUQ?oc=5",
-          "source": "Business in Vancouver",
-          "published": "2026-09-15T13:00:00Z"
         }
       ]
     },
@@ -90,18 +90,18 @@
           "published": "2026-09-15T12:47:53Z"
         },
         {
+          "title": "Ursula von der Leyen’s diplomatic faux pas with Mark Carney",
+          "title_ko": "Ursula von der Leyen의 Mark Carney와의 외교적 실수",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ2kxeklNWGYwckFINU1TSUcyM2ZWZE9FTlVqTXJxVDAyX2R6dEJ1REdESnNwLXc1eWNqMmVzUFhsOGNWc3U5aHY4NUF4bVFVVDlJeEl4MzVpcVlBT3VhNmJ3RzhtejByOEVVbmRkelQ4bEFldUtUdzNnVF9CdFRLdGp0U0FoZHlOVnN4emdud0VUQXVIWlpUMDNNOA?oc=5",
+          "source": "politico.eu",
+          "published": "2026-09-15T16:08:16Z"
+        },
+        {
           "title": "Toronto police ID 17-year-old boy killed in Jane and Finch shooting",
           "title_ko": "토론토 경찰 신분증 제인과 핀치 총격으로 17세 소년 사망",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONnFxUWVWdk1yYUFDWXQwaTk5Qkd1bGNleW0tcDRFNGd1TUE0N1pCVmdhVXdZSGJWU2N2YUROUm1rU3dwYnhza2xiMGtMOXQ3am5WdFo3S3R4aHNvejdoT1RueTRWZEt4cXp2VXFFX21XdWZqR3l5RjRBQS0yUmZkTDlyR0dadFJER0t5ajM0ZTJ6TTlnUWFMLXZ1RDlrbGg0UVBoOGNYeFM2elM2MDZyeXVVcw?oc=5",
           "source": "CP24",
           "published": "2026-09-15T12:46:10Z"
-        },
-        {
-          "title": "Definitive Churchill Falls Agreements to be Brought Back to Legislature for Another Debate",
-          "title_ko": "또 다른 토론을 위해 최종적인 처칠 폴스 합의가 입법부로 다시 제기될 예정",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjRSOFpsWjFDVkNOanBxcUF2bDJSdE1oX0YyZDViWU9zY2NuakxzUDgyV01ZdExGSnNwbzdOME9rNjNGRUh0XzY4UzFZMWxsOVQwenlSWkVfcEs5OUJ0am55U2JHalA2Nm1ZWWo5ZzRqdHctU2FfdWtRelVvcU0wUXQxQWxmbkVqUWltdk9BbnJya3pudUp1R05uTFRCUlZyazUxdjNBTGJKdmdKOHFuTWRjZ21DQWtFZXVn?oc=5",
-          "source": "VOCM",
-          "published": "2026-09-15T10:19:00Z"
         }
       ]
     }
