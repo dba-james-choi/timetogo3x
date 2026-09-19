@@ -1,22 +1,15 @@
 {
-  "updated_at": "2026-09-19T16:13:33Z",
+  "updated_at": "2026-09-19T16:54:05Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
-          "title": "‘Validating to see’: Greater Victoria school tops B.C. elementary rankings",
-          "title_ko": "'볼 수 있는 검증': 광역 빅토리아(Greater Victoria) 학교가 브리티시 컬럼비아 초등학교 순위에서 1위를 차지했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFM0NEM2RHQ1Y0YxaTZ1cS1pYUVCUXBzd0NMNVJWT3BCcXV4T3o3ZWJOMzZoZXFER2lGaEd0TE9sR2t1dGhJejZKbW5CMVBsVm5xX0t6RjNBUTZ0TG5uUTd1SGxwUUlNNnI3QmxhTkFjSkFiSHFoLXBxQUVsSVF2SjNtYm81NjdGSmxRcDhIaUxWd05KMjEyRkRDckc4RW9ra3UxWDkwU2Jqdw?oc=5",
-          "source": "Saanich News",
-          "published": "2026-09-18T12:54:44Z"
-        },
-        {
           "title": "More than 45 local artists set to headline Saanich Peninsula studio tour",
           "title_ko": "45명 이상의 지역 예술가가 Saanich 반도 스튜디오 투어의 헤드라인을 장식합니다.",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1l3T2hWdTR5bWpzT3BYV0RsSWlpaG5kZnVsNVVsWWJQMUM3b0kxUXFVaDdrQ01BSEhQNUZBN3NaM1VoOC1SVndHV0dORkU1YTJZWXRmVHVHN3RyeWt0Mlp5dmFWX1ozM1dqUXVPRGFBOGROUEJ5M2luNlVsVGVpQVlVM1RzcHN0bDNHX1A4amxOX1NWbWZlSzFjREs3VlNJMGJZUTZJcw?oc=5",
-          "source": "Victoria News",
-          "published": "2026-09-06T12:34:06Z"
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbm1rWmNwckFjbEZWcElWSkZNOVVHeVMyR3JCOTRlWXRWZUF0b0FUT3Z1MEdIXzB4UE1tLTluc3QzenRpZGNVVzZYYnBqU1N2ZnZzeGswUVlrVDFtcE5mQW9PQXI4UFZETTVoOGo3ZHgtZ0Q0LWM2Vm9wTWdxWmY0Z3JITDloWThYQ0w3VDMyclI0ejI3dnppSTZVclk3VHBqemVZdmdHQ1NjVkct?oc=5",
+          "source": "Saanich News",
+          "published": "2026-09-06T12:39:12Z"
         },
         {
           "title": "North Saanich Air Quality Index (AQI) and Canada Air Pollution",
@@ -24,6 +17,13 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CLWRWQ1g3V2dOd3IwUm9xMWkybHB4b3pGYU44SXpvTDNiR0c4ZVdzVWFtODR6Z19HOV9lNWhMVUFmaHd3ZzRtVW9lMDEtT2tNaXQxMEVQUU8zNGdWQkpaSmxoSlVMZEQ1QTVXa1pvNE5FTTNtcTM2U1QycFJfdWc?oc=5",
           "source": "IQAir",
           "published": "2026-06-25T20:10:28Z"
+        },
+        {
+          "title": "Minister’s statement on North Saanich adviser",
+          "title_ko": "North Saanich 고문에 대한 장관의 성명",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZE1mbk93WU9PaVZPcU5JMzltbG9yR243d3J4bVB0bW1TZVdHWXVhc0htSFlJdjQyZnlsSUFtcGF4VGVKYVo5eTQ4S1p4NEJ6N1cxSTZVUzNVS05zWmtV?oc=5",
+          "source": "BC Gov News",
+          "published": "2026-06-16T21:40:14Z"
         }
       ]
     },
@@ -39,14 +39,14 @@
         },
         {
           "title": "CFSEU-BC Investigation Leads to Significant Drug and Firearm Seizure in Victoria",
-          "title_ko": "CFSEU-BC 조사 결과 빅토리아주에서 심각한 마약 및 총기 압수 사건 발생",
+          "title_ko": "CFSEU-BC 조사로 빅토리아주에서 심각한 마약 및 총기 압수 사건 발생",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYlJUOXREcVA2WTM4cVZvRmhQeHNjYUtYT2tpMGI2MWRUenpSTW5XQ1BjZnN2eHZjSWJ3UmdYdGg2T1Z3Snh5ZWxkbF93ZGd6b3VvR05pM3hDSXFtdnZ3SzNmN2ozaTZEU2N3aHZaTmYtNUVzV1ZYS2ZsZWZHcEpoZ0xXVGFjMldOX20yRk10NWJYMUZBX1hOZ0JhUWFHa0pNYl9N?oc=5",
           "source": "Combined Forces Special Enforcement Unit of British Columbia",
           "published": "2026-09-19T01:49:44Z"
         },
         {
           "title": "Rod Moran Obituary - Victoria, BC",
-          "title_ko": "로드 모란 사망 기사 - BC주 빅토리아",
+          "title_ko": "로드 모란 사망 기사 - BC 주 빅토리아",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTkw3LWhsYnpIeHBlUXRUZTIxVkk2bVFWT2E2eW9LTUlYeXNQR0FDam44SWRrVEtVWXVnUmxTaFQzUUZpQXg5akpOWFpFZ0RzUnFWUHRuT25meGJEdDd1TEFTTWV1RDVGWHlBT010Q1RleW9pZV9aSmJPOFl0eVhROUxLLWE?oc=5",
           "source": "Dignity Memorial",
           "published": "2026-09-19T06:45:45Z"
@@ -58,7 +58,7 @@
       "articles": [
         {
           "title": "Peter Milobar, Mike Bernier announce merger of centre-right alternative parties",
-          "title_ko": "피터 밀로바(Peter Milobar), 마이크 버니어(Mike Bernier), 중도우파 대안정당 합병 발표",
+          "title_ko": "피터 밀로바(Peter Milobar), 마이크 버니어(Mike Bernier), 중도우파 대안정당 통합 발표",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORFRvRExURFQ5aWpacWZRTUJ4VnM5S0Qzd09XcEk3Tko4a1pVeWhDekMzTm94dURqd0RUbG5ZRUx0YmFZazFodmRNLXJJWVBGSVZOTjZ6MHd3Y0lPeElaYWIxdDFBd2tsbU02MGZBRnBZcVd6VjJvZmtOYnJiQjg1bWxYZjV3bC01MGdudHcyQk9fSzZ2UTNFUWw3eHh1eVBQ?oc=5",
           "source": "Vancouver Sun",
           "published": "2026-09-18T22:04:36Z"
@@ -97,11 +97,11 @@
           "published": "2026-09-19T11:00:00Z"
         },
         {
-          "title": "Peter Milobar, Mike Bernier announce merger of centre-right alternative parties",
-          "title_ko": "피터 밀로바(Peter Milobar), 마이크 버니어(Mike Bernier), 중도우파 대안정당 합병 발표",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORFRvRExURFQ5aWpacWZRTUJ4VnM5S0Qzd09XcEk3Tko4a1pVeWhDekMzTm94dURqd0RUbG5ZRUx0YmFZazFodmRNLXJJWVBGSVZOTjZ6MHd3Y0lPeElaYWIxdDFBd2tsbU02MGZBRnBZcVd6VjJvZmtOYnJiQjg1bWxYZjV3bC01MGdudHcyQk9fSzZ2UTNFUWw3eHh1eVBQ?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-09-18T22:04:36Z"
+          "title": "Canada won't pay directly into EU budget under Carney's plan: ambassador-designate",
+          "title_ko": "캐나다는 Carney의 계획에 따라 EU 예산에 직접 지불하지 않을 것입니다: 대사 지정",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNalB0N1ZNeUE4Sk1Xd3QwWk1CcDNHb0I2TU93RDJFdUtlMWlDaldDM21PNVFiTFM0X3ZYWmM0cGlWcGxuQ216c3NkT3c5VENIVG1ZcGJKRzNBem5VaDJmOGN0SGhFV2hmWjBvbGlrUFl1RVVMTXNzNnFGbGlTNE9DaFFSUVdlLXJ1bURPWEhwNUhKYlEyTG1nR05jMVQxNmg0WkE?oc=5",
+          "source": "CBC",
+          "published": "2026-09-19T14:08:23Z"
         }
       ]
     }
