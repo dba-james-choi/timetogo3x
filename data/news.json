@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T18:28:12Z",
+  "updated_at": "2026-09-21T18:58:16Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -13,7 +13,7 @@
         },
         {
           "title": "More than 45 local artists set to headline Saanich Peninsula studio tour",
-          "title_ko": "45명 이상의 지역 예술가가 Saanich 반도 스튜디오 투어의 헤드라인을 장식합니다.",
+          "title_ko": "45명 이상의 현지 예술가가 Saanich 반도 스튜디오 투어의 헤드라인을 장식합니다.",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1l3T2hWdTR5bWpzT3BYV0RsSWlpaG5kZnVsNVVsWWJQMUM3b0kxUXFVaDdrQ01BSEhQNUZBN3NaM1VoOC1SVndHV0dORkU1YTJZWXRmVHVHN3RyeWt0Mlp5dmFWX1ozM1dqUXVPRGFBOGROUEJ5M2luNlVsVGVpQVlVM1RzcHN0bDNHX1A4amxOX1NWbWZlSzFjREs3VlNJMGJZUTZJcw?oc=5",
           "source": "Victoria News",
           "published": "2026-09-06T07:00:00Z"
@@ -39,9 +39,9 @@
         },
         {
           "title": "B.C. gang unit seizes 2 guns in Victoria investigation where suspect fired shot",
-          "title_ko": "브리티시 컬럼비아 갱단, 빅토리아 조사에서 용의자가 총격을 가한 총기 2개 압수",
+          "title_ko": "브리티시 컬럼비아 갱단, 빅토리아주 조사에서 용의자가 총격을 가한 총기 2구 압수",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGo3SUJBUWNhTDZpRURqSlRjemszRDhodkYzNHNhQ3pSelZNS0JIRE9KdXJmTF9tYlBFSkcyR0ZfbENjcE5GTjlZYk5HSXNlWGxBV0JHSk52Nld5SkpXem1ORmt5aHRqcnZzekhfQWhKYVBkM0kyVFpkUFdrMFpqTFZyOEdJeDNIYnd2U2wzYk1halA1UVhjLVlya0pubVlFcXh2NVItWlkwaDg?oc=5",
-          "source": "cheknews.ca",
+          "source": "CHEK News",
           "published": "2026-09-18T20:14:48Z"
         },
         {
@@ -57,13 +57,6 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "4 Vancouver Island wildfires burning out of control, including 10-hectare blaze",
-          "title_ko": "10헥타르 규모의 화재를 포함해 밴쿠버 섬 산불 4건이 걷잡을 수 없이 타오르고 있습니다.",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZWxtLTBXZG1qcDlMTU1EeGNtRWEzc0NpaW9wTGREdFFzN2ZNMWx2bE05WWNyQ01SRHF3T3JjMy1xQm5zSVhIQWRHRTVGTUt3NE5wd2ZBenNzZmg3LWpyWmc0aW10ZEp4LUVPSmppQVJhT0J3eG1MN1hjVEV4NW1iMmFIcTJ3aExDdTdLa3dQRlM3RGM2T0FtQkFVbnVCMWQ5NVdwUEZNZW43SXl2Q0ZaY081emE0WUc0ZnhoczJMWHBsTUpSa3ZoU3FkczRuOFB5ZGc?oc=5",
-          "source": "CTV News",
-          "published": "2026-09-21T17:46:49Z"
-        },
-        {
           "title": "B.C. judge who championed child-welfare and Vancouver's community court dead at 79",
           "title_ko": "아동 복지와 밴쿠버 지역 법원을 옹호한 브리티시 컬럼비아 판사가 79세로 사망했습니다.",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdU1hVzZLZ0Exem9MODhzemNCN043WDRSTW9BcmczbmlCZENVYXE0bVRHWlozNkpyME15cnpndDRoUGtDNU04UG43V3Y0R1F0RUNJVFFqbndSVkpXb0xHNkhLaXYyOXRNS3FhakFfR0ctMjZ3TTlSTk4xNmk4ejE5SlNoMkJJUWpQazk5QlRESFJ0a180d1R2a2dERXV6NFV4d0dwdmlXUkdFVzh3MGMzTG1HQ3NVQVc1RXd2OFg5cTNPYS1BaW5PUWZjSTdNR0s2U2dRQ0ZR?oc=5",
@@ -71,11 +64,18 @@
           "published": "2026-09-21T13:00:00Z"
         },
         {
-          "title": "B.C. pausing controversial PST expansion to professional services amidst trade uncertainty",
-          "title_ko": "브리티시 컬럼비아, 무역 불확실성으로 인해 논란의 여지가 있는 전문 서비스에 대한 PST 확장 중단",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNanhBeHdOTVU3Q24tVFc1UlUwVnRWblFGWlhIaHdSUTl6NVl3QmFxX2xrbml2WVdRdXV4MTJQZ2NpSzcySmRteTNVaTkwMnU5RUhOSXByYVVFQWl0MHI0RThDWm1VN2xpR0FVY3dPdjFzY1pVZlBXYTU3RFYwbFBOZHFVTXdGdEhFTE84U1RWa3BrZVpkSF9lRS1MS0JFQmFyV05VY19QRDhQaFY3VWRWM3I4a0g3S0ljZnZoVlJfdGtxZFR3bG1oUkhJaw?oc=5",
-          "source": "CityNews Vancouver",
-          "published": "2026-09-18T19:01:38Z"
+          "title": "4 Vancouver Island wildfires burning out of control, including 10-hectare blaze",
+          "title_ko": "10헥타르 규모의 화재를 포함해 밴쿠버 섬 산불 4건이 걷잡을 수 없이 타오르고 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZWxtLTBXZG1qcDlMTU1EeGNtRWEzc0NpaW9wTGREdFFzN2ZNMWx2bE05WWNyQ01SRHF3T3JjMy1xQm5zSVhIQWRHRTVGTUt3NE5wd2ZBenNzZmg3LWpyWmc0aW10ZEp4LUVPSmppQVJhT0J3eG1MN1hjVEV4NW1iMmFIcTJ3aExDdTdLa3dQRlM3RGM2T0FtQkFVbnVCMWQ5NVdwUEZNZW43SXl2Q0ZaY081emE0WUc0ZnhoczJMWHBsTUpSa3ZoU3FkczRuOFB5ZGc?oc=5",
+          "source": "CTV News",
+          "published": "2026-09-21T17:46:49Z"
+        },
+        {
+          "title": "20 fantastic things to do in Vancouver this week: Sept. 21 to 27",
+          "title_ko": "이번 주 밴쿠버에서 할 수 있는 환상적인 일 20가지: 9월 21일부터 27일까지",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85U0tFR3dRUnR6NlNqZ1hTc1dnYkZqcDJ6TDFyQnBlaTMyVUliVUVIYmZXTkRmS29Gam5WSVFvUGNYOTVrbGdDLVpOWGc4eFhtN25fTUJSZHRDYi1IWWcyUnpMd3lzOFNTbkJ2WVp5Y09qdw?oc=5",
+          "source": "Daily Hive",
+          "published": "2026-09-20T20:00:00Z"
         }
       ]
     },
@@ -84,10 +84,10 @@
       "articles": [
         {
           "title": "Suspect, police officer wounded in shooting outside Belleville, Ont., synagogue ID'd",
-          "title_ko": "온타리오주 벨빌 외곽에서 총격 사건이 발생해 경찰이 부상을 입었다.",
+          "title_ko": "온타리오 주 벨빌 유대교 회당에서 총격 사건으로 경찰 부상 용의자 신원 확인",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlhEOE43aHhvRnNyT19PbU5rTkxsXzlDVURIQUgzRUpuZ1BfTW10OXNZWjhzRzB4T2N5TjVadlRUaHItalZaMGZpN0VLWWpTNzRfdVZDMDdCLUVQQTlUZDRDOVNaWVk0VEJOU283NHVtdHVCRFA5RXJsenV2OHVJRVFLUEpxZ2Z4?oc=5",
           "source": "CBC",
-          "published": "2026-09-21T17:59:53Z"
+          "published": "2026-09-21T18:16:19Z"
         },
         {
           "title": "NDP meets on election prospects as B.C. Conservatives name Doerkson interim leader",
