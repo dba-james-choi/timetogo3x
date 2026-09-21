@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T17:06:55Z",
+  "updated_at": "2026-09-21T18:28:12Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -12,18 +12,18 @@
           "published": "2026-09-19T19:37:59Z"
         },
         {
-          "title": "3 - 4701 Lochside Drive - Broadmead - Saanich, BC",
-          "title_ko": "3 - 4701 Lochside Drive - Broadmead - Saanich, BC",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PS3c3dktRNEZXd2tlV0VUUXNlakNPZzVxVE5LcGtjMTQyQ1MybTJ4OVh6VFh5ZHQtakZuQUdvdE5Ndw?oc=5",
-          "source": "youtu.be",
-          "published": "2026-09-14T16:27:46Z"
-        },
-        {
           "title": "More than 45 local artists set to headline Saanich Peninsula studio tour",
           "title_ko": "45명 이상의 지역 예술가가 Saanich 반도 스튜디오 투어의 헤드라인을 장식합니다.",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1l3T2hWdTR5bWpzT3BYV0RsSWlpaG5kZnVsNVVsWWJQMUM3b0kxUXFVaDdrQ01BSEhQNUZBN3NaM1VoOC1SVndHV0dORkU1YTJZWXRmVHVHN3RyeWt0Mlp5dmFWX1ozM1dqUXVPRGFBOGROUEJ5M2luNlVsVGVpQVlVM1RzcHN0bDNHX1A4amxOX1NWbWZlSzFjREs3VlNJMGJZUTZJcw?oc=5",
           "source": "Victoria News",
-          "published": "2026-09-06T12:34:06Z"
+          "published": "2026-09-06T07:00:00Z"
+        },
+        {
+          "title": "North Saanich Air Quality Index (AQI) and Canada Air Pollution",
+          "title_ko": "North Saanich 공기질 지수(AQI) 및 캐나다 공해",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CLWRWQ1g3V2dOd3IwUm9xMWkybHB4b3pGYU44SXpvTDNiR0c4ZVdzVWFtODR6Z19HOV9lNWhMVUFmaHd3ZzRtVW9lMDEtT2tNaXQxMEVQUU8zNGdWQkpaSmxoSlVMZEQ1QTVXa1pvNE5FTTNtcTM2U1QycFJfdWc?oc=5",
+          "source": "IQAir",
+          "published": "2026-06-25T20:10:28Z"
         }
       ]
     },
@@ -31,25 +31,25 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "PacifiCan invests in passenger rail opportunities connecting Victoria West and Langford",
-          "title_ko": "PacifiCan은 Victoria West와 Langford를 연결하는 여객철도 사업에 투자합니다.",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbUUxM0JxQkdHSUYxVDhBVzZfLTk5U2tBdmtNRldSNURrMWtoOW9TQ1d1cXoxRnFyNGp3c0ZZZnBLNHRIZTRmSy1XeGtCajNCV1dHVF83S2JFaVVzWnJQM19OLXdEZ25EWVJ5dVJ5ZkdPanQ0WW91NHN1UTk3S0tWSFE1R3VPbEVxb3ROOF8zWG93YWdxY0FMVXBOaEJqSElaSVVxeFpleWxuZkVNaENVRDYtc2VWdW1oUEIzbWxzMDZEMFh5UThHVVR0QUFmRkZ2V1YxWjVycHFsOGhnQldyS3ZURmpaM2lRamEzT0g5VDA?oc=5",
-          "source": "canada.ca",
-          "published": "2026-09-16T16:10:33Z"
+          "title": "Brennan Day: B.C. conservatives, we need to get our act together",
+          "title_ko": "브레넌 데이(Brennan Day): 브리티시 컬럼비아 보수주의자 여러분, 우리는 함께 행동해야 합니다.",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSGotSUdOSm9uQTN6UkQxSF9yRWNQQUVUUVlQTVZLMTVSdVluRnJRdFFSTkN4SW84Rnh3aXBSZVJKUWNDU3pmLVpnbUtqeUtKWjM5OUZ0SXM2ekFOaEFabTk3SngwdXFHT0hnYXhQbkotTUdvd24yREtKVXVqSkR0RkU3aXYxcXEwYkxHQ2dCcnhTUThaVVliV3hn?oc=5",
+          "source": "National Post",
+          "published": "2026-09-21T15:42:04Z"
         },
         {
           "title": "B.C. gang unit seizes 2 guns in Victoria investigation where suspect fired shot",
-          "title_ko": "브리티시 컬럼비아 갱단, 빅토리아주 조사에서 용의자가 총격을 가한 곳에서 총 2구 압수",
+          "title_ko": "브리티시 컬럼비아 갱단, 빅토리아 조사에서 용의자가 총격을 가한 총기 2개 압수",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGo3SUJBUWNhTDZpRURqSlRjemszRDhodkYzNHNhQ3pSelZNS0JIRE9KdXJmTF9tYlBFSkcyR0ZfbENjcE5GTjlZYk5HSXNlWGxBV0JHSk52Nld5SkpXem1ORmt5aHRqcnZzekhfQWhKYVBkM0kyVFpkUFdrMFpqTFZyOEdJeDNIYnd2U2wzYk1halA1UVhjLVlya0pubVlFcXh2NVItWlkwaDg?oc=5",
-          "source": "CHEK News",
+          "source": "cheknews.ca",
           "published": "2026-09-18T20:14:48Z"
         },
         {
-          "title": "No falling back with B.C.’s new time zone code, Pacific Time: PCT",
-          "title_ko": "브리티시 컬럼비아의 새로운 시간대 코드인 태평양 표준시: PCT를 사용하면 후퇴할 필요가 없습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KZEJnWEQzV3VzbjlQd09oMFdjbWpQZm5ld01MaW5RNFpBOEM4ZFFLY2l3RURtUGhZQ1JibTFfVllxckozZDVTc1c5TWtiVmRDaTFWYkgwd19jaWNfNXp1cQ?oc=5",
-          "source": "news.gov.bc.ca",
-          "published": "2026-09-17T17:16:21Z"
+          "title": "2nd ‘out of control’ wildfire discovered in Sooke region",
+          "title_ko": "수크 지역에서 두 번째 '통제 불능' 산불 발견",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMDhVYkpJMm9HM0EzZXI5YkNLX0s4WHhUMGI3endwaEZZeE8zV1N0STl5aUVhbGpoLUQxQmxHWFIyakRmZU9PeEVuYUUzOVRSUGMxOTBIQURQd0dUaV9TV05jZmtFSkowSXFqUW1GeTQxcEF5VWFnTDZ6eTBiR2hUbUlFREM1WHNKTlljd0Rzbw?oc=5",
+          "source": "Victoria News",
+          "published": "2026-09-21T04:14:16Z"
         }
       ]
     },
@@ -57,11 +57,18 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "B.C. judge rules Vancouver city candidates can use Chinese names on ballot",
-          "title_ko": "브리티시 컬럼비아 판사는 밴쿠버 시 후보자들이 투표용지에 중국어 이름을 사용할 수 있다고 판결했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXk0SGxlWEZqVDl0aTYwSG9ublRhdG1CaEpMcmRWS0VuWG9oaWE1U2FZTEZXOERXSGRnb1NMQmtJdU9McjFiLVVkR185YnJfajdLak1WVUlxbjg3dWp0RUdQUWZQU1B2TDhJZmdLTk1OUDhOdmwzSmVVN1Aza0lBTFkwcFRIUFpxQWxKMGpvOEFldFJFa2dtUnpWSHRxTzUzdkhXdjNFdjEzZnFjWU9vbmplYw?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-09-18T23:22:39Z"
+          "title": "4 Vancouver Island wildfires burning out of control, including 10-hectare blaze",
+          "title_ko": "10헥타르 규모의 화재를 포함해 밴쿠버 섬 산불 4건이 걷잡을 수 없이 타오르고 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZWxtLTBXZG1qcDlMTU1EeGNtRWEzc0NpaW9wTGREdFFzN2ZNMWx2bE05WWNyQ01SRHF3T3JjMy1xQm5zSVhIQWRHRTVGTUt3NE5wd2ZBenNzZmg3LWpyWmc0aW10ZEp4LUVPSmppQVJhT0J3eG1MN1hjVEV4NW1iMmFIcTJ3aExDdTdLa3dQRlM3RGM2T0FtQkFVbnVCMWQ5NVdwUEZNZW43SXl2Q0ZaY081emE0WUc0ZnhoczJMWHBsTUpSa3ZoU3FkczRuOFB5ZGc?oc=5",
+          "source": "CTV News",
+          "published": "2026-09-21T17:46:49Z"
+        },
+        {
+          "title": "B.C. judge who championed child-welfare and Vancouver's community court dead at 79",
+          "title_ko": "아동 복지와 밴쿠버 지역 법원을 옹호한 브리티시 컬럼비아 판사가 79세로 사망했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdU1hVzZLZ0Exem9MODhzemNCN043WDRSTW9BcmczbmlCZENVYXE0bVRHWlozNkpyME15cnpndDRoUGtDNU04UG43V3Y0R1F0RUNJVFFqbndSVkpXb0xHNkhLaXYyOXRNS3FhakFfR0ctMjZ3TTlSTk4xNmk4ejE5SlNoMkJJUWpQazk5QlRESFJ0a180d1R2a2dERXV6NFV4d0dwdmlXUkdFVzh3MGMzTG1HQ3NVQVc1RXd2OFg5cTNPYS1BaW5PUWZjSTdNR0s2U2dRQ0ZR?oc=5",
+          "source": "CBC",
+          "published": "2026-09-21T13:00:00Z"
         },
         {
           "title": "B.C. pausing controversial PST expansion to professional services amidst trade uncertainty",
@@ -69,13 +76,6 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNanhBeHdOTVU3Q24tVFc1UlUwVnRWblFGWlhIaHdSUTl6NVl3QmFxX2xrbml2WVdRdXV4MTJQZ2NpSzcySmRteTNVaTkwMnU5RUhOSXByYVVFQWl0MHI0RThDWm1VN2xpR0FVY3dPdjFzY1pVZlBXYTU3RFYwbFBOZHFVTXdGdEhFTE84U1RWa3BrZVpkSF9lRS1MS0JFQmFyV05VY19QRDhQaFY3VWRWM3I4a0g3S0ljZnZoVlJfdGtxZFR3bG1oUkhJaw?oc=5",
           "source": "CityNews Vancouver",
           "published": "2026-09-18T19:01:38Z"
-        },
-        {
-          "title": "'Rich forests, rugged coastlines': New downtown Vancouver restaurant highlights B.C. seasonal ingredients",
-          "title_ko": "'풍성한 숲, 울퉁불퉁한 해안선': 브리티시 컬럼비아의 제철 재료를 강조하는 새로운 다운타운 밴쿠버 레스토랑",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUnlGajM1ZW5vbGxaSlNVWmxVOF93aGRNV0Q1U0REQW1fbWNHUk81YVRid3pieEhUWjVHb3lXTlIwRWlVQzZVOWxTSHJTeFhTS3JTcnVNUk1sclRySlc1MFFhUUw2TjVQQVV2cTNYb0R4NmxJSmhWajJxOHVkR05kMUNlc2M0djNfRUlJOGNZOG1PZWRBOEtXNUp1Z1BDdUV5VGNnWS1fMTFFM1ZtQ3pDSlFhWE9OUkE?oc=5",
-          "source": "Vancouver Is Awesome",
-          "published": "2026-09-19T02:15:00Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Newsletter: Carney is right on EU associate membership — the name is irrelevant, the politics aren’t",
-          "title_ko": "뉴스레터: EU 준회원 자격에 대한 Carney의 주장이 옳습니다. 이름은 관련이 없고 정치도 중요하지 않습니다.",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZFQ2T3ktdU9ESzBjSG5VR290S25VWDQtNzZpdXRTZ2gzSmJ2NzlKSG8tOEcxaEtOZkx4cS1mVEd5ZmVXNkRSRmJsY2IxUTA5TkdtX0hmbFFnTjEzQ1c2d3NHYnBObEFNODJsUk9kVWtsTGozSmM0X1pTeWhsaGNwMVFzeDhnUFZfWFgwN2p1dkJNbTUzeDM1VnZiVzJoVTljR1U4N2JybzE4dlhVSTB3Ml9pZ0pFUkM4Mkc5anloOXhrS3ZkSm94NUJiVW9zenBJOHc?oc=5",
-          "source": "Euronews.com",
-          "published": "2026-09-20T10:06:05Z"
+          "title": "Suspect, police officer wounded in shooting outside Belleville, Ont., synagogue ID'd",
+          "title_ko": "온타리오주 벨빌 외곽에서 총격 사건이 발생해 경찰이 부상을 입었다.",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlhEOE43aHhvRnNyT19PbU5rTkxsXzlDVURIQUgzRUpuZ1BfTW10OXNZWjhzRzB4T2N5TjVadlRUaHItalZaMGZpN0VLWWpTNzRfdVZDMDdCLUVQQTlUZDRDOVNaWVk0VEJOU283NHVtdHVCRFA5RXJsenV2OHVJRVFLUEpxZ2Z4?oc=5",
+          "source": "CBC",
+          "published": "2026-09-21T17:59:53Z"
         },
         {
-          "title": "Bird 'dumbfounded' by former party's hiring of private investigator",
-          "title_ko": "전당의 사설탐정 채용에 새는 '어안이 벙벙'",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMFFHZjFFOE9pc1I4MzNidEE2T3pidDR3cmxsaFd4MGFMZlYycjBlZl9fN2Y0ZDdQOTN5bjdkR0RXNWZKRm5TYjk4M3lpeTI1emJQMHpKSF83dUcwZElQRnFCckxwc1U3RHVzbHBuTm9mam50ZWRTcVQ4RGNScVF2UEkyZ2hUaS05WlJyOUF0X0RMcnpWZTJuSzRsQWJDd0lPZE1FTFdwb1ZzWjdOdWhoZTU5amI4WjVhM3RVaw?oc=5",
-          "source": "princegeorgecitizen.com",
-          "published": "2026-09-19T20:09:42Z"
+          "title": "NDP meets on election prospects as B.C. Conservatives name Doerkson interim leader",
+          "title_ko": "NDP는 브리티시 컬럼비아 보수당이 Doerkson 임시 지도자를 임명함에 따라 선거 전망에 대해 회의합니다.",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUExZNFFva2dkTEdlNnNmekhEY2xPMTJJaGVDWTctTlI5YmxadkhFY25fajlQV0sxY0lab2g5S191TmdkODEwMmY2bk5LLXlseUJYekk2N3NjZ3dvT2RSTkNrVmxpa1NLQW1pa2hDclZGUmFnaWdGR3VrWllXczF2S19BLTBwU2lVLTQ3TnlPZjI2Q2Zyamx2UlRNNkVyNkpvQ0cweDFCOUhNUlB0U01kR2k5bjNDZkRVSzRFSTUzQ24?oc=5",
+          "source": "CTV News",
+          "published": "2026-09-21T13:36:21Z"
         },
         {
-          "title": "Parliament returns with a big agenda and a fight brewing between Carney and labour unions",
-          "title_ko": "의회는 큰 의제와 카니와 노동조합 간의 싸움을 안고 돌아왔습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTdHSkVhdnJzb25KalRFN2VXRGxRX2F2VjBSSmpZWjVfeU03ODlYRVVkZkd3NFFMZDdyV2hQQ0lNUmViWjRVOTRJWldpMjh0QlRLTFBPcHlZS0RWOU1nUDVPdHZTMkNEY3hrRHljOTZjNEVGS3h3QnE0Tl83Q1hGQVJCYnliWGhMOFlrclRaMkJDaklvTlE2eW9pRzNhVG9pV3k2bkQ4dng0YnEzWXEzLU1lT3ZrWlZvcmhZ?oc=5",
-          "source": "National Post",
-          "published": "2026-09-20T10:03:40Z"
+          "title": "House of Commons is back as Liberals vow ‘significant’ legislation coming",
+          "title_ko": "자유당이 '중요한' 입법을 약속하면서 하원이 돌아왔습니다.",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KUkdrSVhwMTlkNG8yZUJTbEFCUk45cXJCdGVVWGpJYXh3VWMzN1BVcWdZQlhLT0tFWlVUbEFXZ18ybnFZS2FPdVdiNmxIZmxFRUt2ckdRMjVQWVFHV0FDNVpIQ09hWGlON3pGWXZfWkNmQTd1Y1E0amxkakNVSnM?oc=5",
+          "source": "Global News",
+          "published": "2026-09-21T18:21:09Z"
         }
       ]
     }
