@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T17:44:19Z",
+  "updated_at": "2026-09-24T18:03:13Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -32,17 +32,10 @@
       "articles": [
         {
           "title": "BC Ferries cancels two Victoria-Vancouver sailings due to steering issue",
-          "title_ko": "BC 페리(BC Ferries), 조향 문제로 빅토리아-밴쿠버 운항 2회 취소",
+          "title_ko": "BC 페리(BC Ferries), 조타 문제로 빅토리아-밴쿠버 운항 2회 취소",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3FsQW00SWVkRFVXQWplUDhoQi1pMUVSNWhNRFRJVUZVMVhyVDExNkRaY0dXVW4xY1BYU0NKWVRtMzlCTkZJOTMtT3VrNHlNRW1rRzVZODhEeTdMaFZDTjhpQjJCaXVUZDJLVEpscENyOFB2YU9KbW5qUUtLQ3dVcFVkRkN2bVhQaTRNMzFrY3I3allGVXIwZXNGSjh1XzR0dnBR?oc=5",
           "source": "CHEK News",
           "published": "2026-09-23T18:39:39Z"
-        },
-        {
-          "title": "Accent Inns, Hotel Zed chain sold to Vancouver group",
-          "title_ko": "Accent Inns, Hotel Zed 체인이 밴쿠버 그룹에 매각되었습니다.",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDhjSVU3amVsaHhWSGtUcEN6blRrTHFrX3ZFRGV2V1JwbTIwcFp1ZXRwMk9jM1V1bEEzY09SUzhFdjR2emVSLUk5ZGxjWWN2dE9VSDNDVkpBSm5VcXkwM2pHd3B4ekFfQnhCa3poMUpyYl9ucUREd0t6M0hjZWJreDNhMlZIckVqbHctTkQ1clJ0MVM1NE5pTHZrZjFGQlZN?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-09-22T22:30:00Z"
         },
         {
           "title": "BC Green's Emily Lowan to run in Victoria-area riding as Rob Botterell steps aside",
@@ -50,19 +43,19 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU0tHRXNlaU4wOGFTWWFyLUsxQUI3VjZhYTZSbE9scmxrWXRMeUg4TE1pRFA3XzNabGRILW81TG5CeHBMRmdFaG5nZy1DNE5PaEJzbW5RWE9TR1FMZlg3QlUxdFJ4eThDSjgwb3d4NkRmbEtLeThQcWxqSjFjNTZKbkRvbTB3RjhUZWRQdks3UWkwd1gxOTZqUmd3SGZkRFdGaE50aV9DZjMwR2JDT1FueTdELWJWZ2thM2tlcF9WUQ?oc=5",
           "source": "Castanet",
           "published": "2026-09-23T18:57:00Z"
+        },
+        {
+          "title": "Accent Inns, Hotel Zed chain sold to Vancouver group",
+          "title_ko": "Accent Inns, Hotel Zed 체인이 밴쿠버 그룹에 매각되었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDhjSVU3amVsaHhWSGtUcEN6blRrTHFrX3ZFRGV2V1JwbTIwcFp1ZXRwMk9jM1V1bEEzY09SUzhFdjR2emVSLUk5ZGxjWWN2dE9VSDNDVkpBSm5VcXkwM2pHd3B4ekFfQnhCa3poMUpyYl9ucUREd0t6M0hjZWJreDNhMlZIckVqbHctTkQ1clJ0MVM1NE5pTHZrZjFGQlZN?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-09-22T22:30:00Z"
         }
       ]
     },
     "vancouver": {
       "label": "Vancouver",
       "articles": [
-        {
-          "title": "‘Nightmare fuel’: 2 sea spider species discovered off B.C. coast",
-          "title_ko": "'악몽의 연료': 브리티시컬럼비아 해안에서 발견된 바다거미 2종",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZEVxM1RVdXhDOVBGLTduS08xSmRqOXlzeG16UjBfeWdSS08wMlh3UEZOYzlrOXUtTmhlUVJKamRRRTZWZHRNSF90UlF3SFkwUGtqRTVlckRoXy1uVDJnZHk0c1A4Y1VpY3dWQVZiN0Q3REZaVEN6eHhGVUFBNnN2NmttR1YwRy0td2txNGh5VGtBOERJb3h0ZV9CS21rVUpFQ0tJ?oc=5",
-          "source": "CTV News",
-          "published": "2026-09-23T23:19:53Z"
-        },
         {
           "title": "Here's what the next three months of fall weather may look like in B.C.",
           "title_ko": "브리티시컬럼비아의 다음 3개월 가을 날씨는 다음과 같습니다.",
@@ -71,8 +64,15 @@
           "published": "2026-09-23T20:12:00Z"
         },
         {
+          "title": "Port of Vancouver reports record cargo volumes, fuelled by grain and oil exports",
+          "title_ko": "밴쿠버항, 곡물 및 석유 수출에 힘입어 기록적인 화물량 보고",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSm1WbFJjcUx6ZGg5Zlc4R0o2STExNkVpb05kYnJhYlFnSGpwaW9tUXJtdzBOWVFFUXdKTi1KMTI5THdsbVNKZXpKbmhCSUN4UExCUTV0NmlTTDFZMUIyOER4STEwSVNBaXJabUxuN1ZXQUZlNzBZWHhlLXp6eHRjdEM2UUlXS2RHYWVrUmI5d2ZxSldzMkQ0ZC1TSU5lNEx2SXNLYzFfajBBZGM?oc=5",
+          "source": "CBC",
+          "published": "2026-09-21T20:30:35Z"
+        },
+        {
           "title": "B.C. Hells Angels trafficker pleads guilty in long-running island case",
-          "title_ko": "브리티시 컬럼비아 헬스 엔젤스(Hells Angels) 밀매업자, 오랫동안 지속된 섬 사건에서 유죄를 인정",
+          "title_ko": "브리티시 컬럼비아 헬스 엔젤스(Hells Angels) 밀매업자, 장기간 지속된 섬 사건에서 유죄를 인정",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFRGM0cxVGJiYlFFN1h0ODFiNHk5eWQxQjFicUV6NDIyWXBwZ296dGl2cngyOWZYaERfaG03aG44Tk9QTlZHOXhZNEYyaUVPbHZ2dmRwdmxCNHhCNnBXbUwxeEpKTWk5NjZqdC1HbF9YbmdOT3ByeklPTGJnQkEydHVQQ2hmZzV1QWhNM3BKVUg0dGZ2NVNGQWpBaw?oc=5",
           "source": "Vancouver Sun",
           "published": "2026-09-22T21:42:08Z"
@@ -83,15 +83,15 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Police to provide update on Belleville synagogue shooting",
-          "title_ko": "경찰, 벨빌 회당 총격 사건에 대한 최신 정보 제공",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVmNkSFdDbFY3YWE2c1dxVDRGVk1mMzBlUmd4dHpBWDVrUHY5RGVSRl9yc3NyanZDZkZvX2lCenRhV3dPNUpNY3FEQkZ2d1BYQVJrZkV2SVJoT0I0amYydnRKVUgwZ0FQNVhLQ28yY2d3V0pxQ1JMNGdESW1nTDk3M2lwTERGVmxLTkFSQ1hqTkxmYzJ1STF1T0QxQzU1dw?oc=5",
-          "source": "CTV News",
-          "published": "2026-09-24T14:59:04Z"
+          "title": "Former soldier who shot at synagogue was suing military for $1M over vaccination policy",
+          "title_ko": "회당에서 총을 쏜 전직 군인, 예방접종 정책에 대해 100만 달러 소송을 제기하다",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYXhhRjdPUTNpbUYzNHh5M3RMbW13elh6QS1zRjA4THcycmEzWkVXdGFpZjhiNnQ0MG5taWU4eUFWRE9LM2UtbjZJTl9KUG9qdVdLdXBENkFhV2VnLWsyelFQSHhuZWlnXzJTdG5ocnQ5Sl9EM3A1V0l2TEpLZ2xMX3ZTX1lWMU5lSEE?oc=5",
+          "source": "Global News",
+          "published": "2026-09-24T13:20:37Z"
         },
         {
-          "title": "‘He did not know my daughter,’ mother of U.K. victim tells Kenneth Law sentencing",
-          "title_ko": "영국 피해자 어머니, 케네스 로 선고에 “그는 내 딸을 몰랐다”",
+          "title": "‘He did not know my daughter,’ U.K. victim’s mother tells Kenneth Law sentencing",
+          "title_ko": "영국 피해자 어머니, 케네스 로 선고에 “그는 내 딸 몰랐다”",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSGpGYUJGX3J3Ukw1SUs4eldKSkhpS2tLbmpEQ1NNRnpKR2pDeEYwVVRMRWFFWGY2TXlaRm13NmZVUC0zTldGemx0UkRaY3FEUzRtS0YyUWJ0LV9pX29jZWFjQWRxWmJlNWtqZXpEckVPZjJGUkItVVdYRmNPNFBoUFdTaHFiZXZNZFZpUnc1b3BqZ3ZRTDVlcVhUdjZNS05j?oc=5",
           "source": "The Globe and Mail",
           "published": "2026-09-24T13:12:21Z"
