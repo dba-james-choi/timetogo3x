@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T17:29:01Z",
+  "updated_at": "2026-09-27T17:58:44Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -34,15 +34,8 @@
           "title": "Victoria Election 2026 Candidate Profile Guide",
           "title_ko": "2026년 빅토리아 선거 후보자 프로필 안내",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjM0S2phTkNjeEdxV1l3M1RWM0ZFZkVDRHZ0a0RNRjNxLWw2VnRtNnpiWi03R2FSeFFJLTFoU0JjbkhaWFlIdS0xS2xPVml4T2N2d2ZMX0NmNDRpdURfcWUxWlF2S0MzeldkWG42RWhtZ2dVemlPWG9XQ19YY3JKMUFVLWhUTU1PYzBRUnZTdXJ6YUNhR0E?oc=5",
-          "source": "City of Victoria",
+          "source": "victoria.ca",
           "published": "2026-09-25T12:00:00Z"
-        },
-        {
-          "title": "Mom 'relieved' after accused in Saanich double murder found guilty",
-          "title_ko": "사니치 이중 살인 혐의로 기소된 엄마, 유죄 판결을 받아 '안심'",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONGRmN1M4S1JPeVpxZVhIeGhva0IyOHZ4dkZQQ1h0M3AyXzBPOWZ3MmRfODJIcXp0NjBUbDkxYndDUFhMTTNvYXJReDJSUlpvcm01WTRhSzhuX3o2eXZERlRwQlBQNG9XU0NBSmczSGVhWWNMbklSV0FXMHpSZXpCeXpXVTJsczcwbDVrTjBWMnk2Z3g2SGJWRkhpRk5OWGRmTFpmdkducG42c0U2eVNXZHBXR1Q?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-09-26T11:45:00Z"
         },
         {
           "title": "VicPD warns of traffic disruptions for two memorial events this weekend",
@@ -50,6 +43,13 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlV1VTZpbmpGbHM5d0dBZkcwQkdBVDI4b29RQV85Wk5CMjdqb1hndUh5Q1dEN3lVNlBTQUlSN2NNM2VuektRQmdPam1rU1JYM1h0YVg2WXNOemZFRFVhZVNBNmVCLUtrZkJQWG5ENkFWNDFmYmJuNzlKZ21sSC1jbk0xTndFZDVtVGo1U2lsWFBhYllCZXF6NFhqUHdXbnhPS2c?oc=5",
           "source": "CHEK News",
           "published": "2026-09-25T16:57:32Z"
+        },
+        {
+          "title": "Mom 'relieved' after accused in Saanich double murder found guilty",
+          "title_ko": "사니치 이중 살인 혐의로 기소된 엄마, 유죄 판결을 받아 '안심'",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONGRmN1M4S1JPeVpxZVhIeGhva0IyOHZ4dkZQQ1h0M3AyXzBPOWZ3MmRfODJIcXp0NjBUbDkxYndDUFhMTTNvYXJReDJSUlpvcm01WTRhSzhuX3o2eXZERlRwQlBQNG9XU0NBSmczSGVhWWNMbklSV0FXMHpSZXpCeXpXVTJsczcwbDVrTjBWMnk2Z3g2SGJWRkhpRk5OWGRmTFpmdkducG42c0U2eVNXZHBXR1Q?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-09-26T11:45:00Z"
         }
       ]
     },
@@ -64,11 +64,11 @@
           "published": "2026-09-27T02:39:00Z"
         },
         {
-          "title": "Lighthouse-like house hits B.C. housing market for $2.35M",
-          "title_ko": "등대 같은 집이 브리티시 컬럼비아 주택 시장에 235만 달러에 낙찰",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWdNd2pXZWZKZzVaRTFTSnoxU0NMUjhPM3l0d2hpUkd2UWNhWXRoNl82bVpJS3psNzJqckEzRU1zTTQ5YnJVOVpHSG5KTlhSTTEtcHQ0X0t5NUczeDVIN2R2RmFkNTNVc1p2RldaMUw5SDlBcVN1eWtRZWFRVWpfR0tZbF9kTDlrMHNlMWtsUERGdXB0ZGgza0dvVHVIdVBSeWpULWNLcHA?oc=5",
+          "title": "Fall getaways: 10 B.C. cosy cabin stays with jaw-dropping waterfront views",
+          "title_ko": "가을 휴가: 브리티시 컬럼비아의 아늑한 캐빈 스테이 10곳과 입이 떡 벌어지는 해안가 전망",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGFicmNBRDltXzM2eWpuR1QwM0xTWFFaVGxrdHJvNjBSQWM0c0NEdnBmTlh6SEl6QXdBZUpwa09QZV83Q1ZOSlhzX094T2VWc1BTOWNBUnpvVDIyaU1qcHpEYlRvc0JjdHVCbXdWTnYtUUlLdjdjSEM0ajR1WjV3a2R1LU9IRlpwT3AtcENldWh1ZGVmRXpvY0RON1g0a0k?oc=5",
           "source": "Vancouver Is Awesome",
-          "published": "2026-09-25T20:15:00Z"
+          "published": "2026-09-26T23:15:00Z"
         },
         {
           "title": "B.C. Conservatives take early lead as election campaign gets underway: Poll",
@@ -83,6 +83,13 @@
       "label": "Canada",
       "articles": [
         {
+          "title": "Unions have new leverage, not less, under Liberals' new major projects bill: jobs minister",
+          "title_ko": "노동조합은 자유당의 새로운 주요 프로젝트 법안에 따라 새로운 영향력을 행사합니다.",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnZkQWRycG9zeFB5T25CN25yeG9xeTBrNlJfalk4bXN4QkJpNEJOVnNvamJ0bjRPMlNKMkt3Um8xd1J5RHpOLVVwNUo2VXlMOEloOC1kSFNQNHJ6d1NTR0VVQnE0SGtCVktLNEEybERKX2Fmb1ZKeWp0b2R1SVdGakVXYl8zT0ZmTVl3bkJuMzFfU09rLVdkZWotNW05bWN5Z3lHRXdUWTRBckFuaDczcm5MbFVIcE0?oc=5",
+          "source": "CBC",
+          "published": "2026-09-27T15:54:57Z"
+        },
+        {
           "title": "Belleville shooting a wake-up call for Canadians, survivor says in new statement",
           "title_ko": "벨빌에서 캐나다인들에게 경종을 울리는 소리를 냈다고 생존자가 새로운 성명에서 밝혔습니다.",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEtaRUlyYnRTUXpyNk5NR3dCNW1uZDN2aEVpMGQ3QWNWMmxoajNNbWpETTRkWldGSENUZnBkX09TRWMwa0pKT1NwUC1xeW04ZDA1RGthRDJISmg1TG0tTDluaW0wZ3NuWGZjcmNHaXJlTU1aV25vNm5fT0VEbXNkcldhd1A2eXBOTndsSU9KSmxvaEU2UW5mMGJEbmN2bTZQWnpjbEZBUUFNSjcxMnc?oc=5",
@@ -90,18 +97,11 @@
           "published": "2026-09-26T10:02:59Z"
         },
         {
-          "title": "Lorne Doerkson takes the reins of B.C. Conservatives, with a party to rebuild and election ahead",
-          "title_ko": "Lorne Doerkson은 브리티시 컬럼비아 보수당의 고삐를 잡고 당을 재건하고 선거를 앞두고 있습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMnBvdVVXNnM5UndQaElROEpKbEk3VTk2STk5bzdDbmIzWXJNQm9UOHlXNXdqMTI1YVVlcG9VRVZ0ejVxUFYtaV9jRjdfUmNoMmJXcEpjMTZRY0xlQmZhblRBSVhjWFY5N1VrZGxKN3dham5BWXpQVFpKMXpHTlJmZEtxcWFzYjE3MGRGM2VSUVo0SzZXb1hiTFZqa0NicUFLa1plejBqRjF0MVNYOWlRdGRoR0xpREx5TzJwLXZTRlZuc3lEeHVqdVozOA?oc=5",
-          "source": "The Globe and Mail",
-          "published": "2026-09-26T11:00:00Z"
-        },
-        {
-          "title": "Unions have new leverage, not less, under Liberals' new major projects bill: jobs minister",
-          "title_ko": "노동조합은 자유당의 새로운 주요 프로젝트 법안에 따라 새로운 영향력을 행사합니다.",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnZkQWRycG9zeFB5T25CN25yeG9xeTBrNlJfalk4bXN4QkJpNEJOVnNvamJ0bjRPMlNKMkt3Um8xd1J5RHpOLVVwNUo2VXlMOEloOC1kSFNQNHJ6d1NTR0VVQnE0SGtCVktLNEEybERKX2Fmb1ZKeWp0b2R1SVdGakVXYl8zT0ZmTVl3bkJuMzFfU09rLVdkZWotNW05bWN5Z3lHRXdUWTRBckFuaDczcm5MbFVIcE0?oc=5",
-          "source": "CBC",
-          "published": "2026-09-27T08:00:00Z"
+          "title": "Canada’s premiers tight-lipped on constitutional changes in Alberta referendum",
+          "title_ko": "캐나다 총리들은 앨버타 국민투표의 헌법 개정에 대해 입을 다물고 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMTIxYUc3bkpmZ3FwQXNfU0MtSk52X3BLY2ZYeElXdzdGLXJYN0NVaGRXSXJsYS1ZLXBqYXJoYXVtQ3dmQzNoNjhDdklIc0lib09MNnJxLW1iQXNpRlVYNlBfcXNhbVNSTUNPalAyVnI2aGptTldDQURCdWd6RWYwZEFKRnExdjRKSWlORkhiT1E4MGg1T3hMdE5B?oc=5",
+          "source": "Global News",
+          "published": "2026-09-27T13:03:19Z"
         }
       ]
     }
