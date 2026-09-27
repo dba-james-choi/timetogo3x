@@ -1,15 +1,41 @@
 {
-  "updated_at": "2026-09-26T17:28:12Z",
+  "updated_at": "2026-09-27T17:29:01Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
+        {
+          "title": "BC Green Leader to run in Saanich North and the Islands, current Green MLA to retire",
+          "title_ko": "BC Green Leader, Saanich North and the Islands에서 출마, 현재 Green MLA는 은퇴",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWFCc0QzOHdRak5ucG5pUGVhOUhkS3FtYURxSlo0VlZpSWh2NUJ0UlZBaHRoR0cwV3dDZl9URlRXTkxfUmNnWFhncExCekdyaVI0enV0VElNWjBfVE03TF9vTEpmZG16WTlLa2ppVTNBVmtDWDgzX1lZUkg2V2dpN2djY1JUamNnM1lnQ0FONWNTTzJtUzZ2R1g1SnlnY09LZzJGZnI4aXk3MWlJd2x3RHNMUkItWlU?oc=5",
+          "source": "CHEK News",
+          "published": "2026-09-23T18:31:54Z"
+        },
         {
           "title": "Former B.C. employee, committee member running for North Saanich council",
           "title_ko": "전 브리티시 컬럼비아 직원, North Saanich 의회 출마 위원회 위원",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa0lsUE5kM3Rwa3EzdTR6UW9CX3Q0dlBBMnlZTHBYdVpmLVl1cjR0SEdKbnZLUW9KVG9YUlVVMHZvNmhwU3NCcXJFMGNrZGdLb2xQdzJrcDBUYkhUTXN0WnpGRmo0VGJoTjE3VndXN3EtZnpRd28wR3ItOFVpTGxfYVU0S1luZlY0RnM3c1JIUFVGREt3YUg0ZGpSMmU2QjZWeXF3WXpqNVh0MzJsU2k5alFEX0o?oc=5",
           "source": "Peninsula News Review",
           "published": "2026-09-26T15:30:34Z"
+        },
+        {
+          "title": "Former TV reporter Richard Zussman to run for B.C. NDP in Saanich South",
+          "title_ko": "전 TV 기자 Richard Zussman이 Saanich South에서 브리티시 컬럼비아 NDP에 출마합니다.",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWNZSE9neHRhZlQtQlNUaW4yNXRaV19Lb2dzci0tbG85cjNVdkJEVzk1d1pVbG9qVk1KN1YzTExDZ1Vra3RwWEl1cm9hNDAzM3NYQnA1Q25rcnNpQXFFLWhwNkVud2UzVVMwbFZJcTVEc2tXZkZjLTdSekxPRmd5d0l5TUh5SVZBSjhZNG1jb0w0OEtLeDNvVmo2WGRNWG5VV3g3MXJfSENFMC1XSFpyWnp2YWhXUHFwSC1rWkxDYw?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-09-24T00:00:00Z"
+        }
+      ]
+    },
+    "victoria": {
+      "label": "Victoria",
+      "articles": [
+        {
+          "title": "Victoria Election 2026 Candidate Profile Guide",
+          "title_ko": "2026년 빅토리아 선거 후보자 프로필 안내",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjM0S2phTkNjeEdxV1l3M1RWM0ZFZkVDRHZ0a0RNRjNxLWw2VnRtNnpiWi03R2FSeFFJLTFoU0JjbkhaWFlIdS0xS2xPVml4T2N2d2ZMX0NmNDRpdURfcWUxWlF2S0MzeldkWG42RWhtZ2dVemlPWG9XQ19YY3JKMUFVLWhUTU1PYzBRUnZTdXJ6YUNhR0E?oc=5",
+          "source": "City of Victoria",
+          "published": "2026-09-25T12:00:00Z"
         },
         {
           "title": "Mom 'relieved' after accused in Saanich double murder found guilty",
@@ -19,37 +45,11 @@
           "published": "2026-09-26T11:45:00Z"
         },
         {
-          "title": "BC Green Leader to run in Saanich North and the Islands, current Green MLA to retire",
-          "title_ko": "BC Green Leader, Saanich North and the Islands에서 출마, 현재 Green MLA는 은퇴",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWFCc0QzOHdRak5ucG5pUGVhOUhkS3FtYURxSlo0VlZpSWh2NUJ0UlZBaHRoR0cwV3dDZl9URlRXTkxfUmNnWFhncExCekdyaVI0enV0VElNWjBfVE03TF9vTEpmZG16WTlLa2ppVTNBVmtDWDgzX1lZUkg2V2dpN2djY1JUamNnM1lnQ0FONWNTTzJtUzZ2R1g1SnlnY09LZzJGZnI4aXk3MWlJd2x3RHNMUkItWlU?oc=5",
+          "title": "VicPD warns of traffic disruptions for two memorial events this weekend",
+          "title_ko": "VicPD는 이번 주말 두 건의 추모 행사로 인해 교통 혼잡을 경고합니다.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlV1VTZpbmpGbHM5d0dBZkcwQkdBVDI4b29RQV85Wk5CMjdqb1hndUh5Q1dEN3lVNlBTQUlSN2NNM2VuektRQmdPam1rU1JYM1h0YVg2WXNOemZFRFVhZVNBNmVCLUtrZkJQWG5ENkFWNDFmYmJuNzlKZ21sSC1jbk0xTndFZDVtVGo1U2lsWFBhYllCZXF6NFhqUHdXbnhPS2c?oc=5",
           "source": "CHEK News",
-          "published": "2026-09-23T18:31:54Z"
-        }
-      ]
-    },
-    "victoria": {
-      "label": "Victoria",
-      "articles": [
-        {
-          "title": "Top B.C. club golf pros tee it up in Vernon",
-          "title_ko": "브리티시컬럼비아 최고의 클럽 골프 프로들이 버넌에서 티샷을 합니다.",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lYjM2d3dyWnhHM2pNNnF1YzVMS2x0Y3dDRmxyckt5eW14dVRWUmRHYnI5Y1JhVXV2VUVEQkNkX3lKc2VEQ1VtbHB2LTRHUEJRNU02Z2laSFRWcXR3c0xIb0ZFRFhaWWdfVU83dkNXRjlFYzlNS0ZzNGhWMENWVjQ?oc=5",
-          "source": "vicnews.com",
-          "published": "2026-09-26T03:04:34Z"
-        },
-        {
-          "title": "Who we know is running provincially on Vancouver Island so far",
-          "title_ko": "우리가 아는 사람은 지금까지 밴쿠버 섬에서 지방 대회를 운영하고 있습니다.",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYTBmYVpZT0tHSnJDMXMtbGF2N3psVVVQV29TZHpvMUVCUHYxZUpjbGJnY0JoUDdtTXNGRE9CR3hnOTJMSW43TFFYU3UwQVpISHJHT29vakVBOHNZblA2cnRnT0pPY0hxY05xdU5jYWU0WGZqRlNnQU5NQ1NfMWlRdHlQN1ZlelJVX2VWTEJSWFg5aGF3X1E?oc=5",
-          "source": "CHEK News",
-          "published": "2026-09-23T23:05:49Z"
-        },
-        {
-          "title": "15 new battery-electric buses begin arriving for Whistler's public transit system",
-          "title_ko": "휘슬러의 대중교통 시스템에 15대의 새로운 배터리 전기 버스가 도착하기 시작했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90dld2U0lsaU1vbFFwLUJxWFhhaklxVk1mRzVFaFJvUmpCUUxqVHBBTHZYN1YydVVFOFRsS054a0h2YmE4LTlMYmhHZE5hNWZGZU9hT19CNjEtd3cxWGRnZGtnRGRXVmRGR0E5V2pfMXhqRFpWMlJwS2dZVmxKRWM?oc=5",
-          "source": "Daily Hive",
-          "published": "2026-09-26T00:52:00Z"
+          "published": "2026-09-25T16:57:32Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "Vancouver businesses calling for needs to be met this election season",
-          "title_ko": "밴쿠버 기업들은 이번 선거 시즌에 요구 사항을 충족해야 합니다.",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQWNEMF9yNkdSak42LXhQYndHMUNXRFkzLUpKeFJwV0JHdmlXbFFQWHhib0VrYW5IUEdiMHpUMzA1cEdCMk0xdTNtbXRmdzNoekJhc1p4RHFIQk04UXROQ0I1MUlEVFdDaU1CaWVtaVhvcDlzWTZ2OVZxZWgwV1ZHbw?oc=5",
-          "source": "CityNews Vancouver",
-          "published": "2026-09-25T14:51:19Z"
+          "title": "Vancouver police investigating targeted Spanish Banks shooting",
+          "title_ko": "밴쿠버 경찰, 스페인 은행 총격 사건 조사",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdTliTXotbXJuMk9vRXE3cEtwcUpiTVFzZVVnVXZlZ05yQ0NwbE9qeGpmdHhlWkZVRkw2ckhCT2M1a213SkxqcVZUTXJNOGJTQ0NJaG1SS183UEd6dHVHRHFrQjlWTWg3YjBXVUdydHAwcUk4VUlkNVkwQmhnMUo4djBnVk9weEF4NFB5a3BnMlRYTDBNZDVobElMYXJkYkk?oc=5",
+          "source": "CBC",
+          "published": "2026-09-27T02:39:00Z"
         },
         {
-          "title": "Rain, cooler temperatures assist firefighters battling B.C.’s only out-of-control blaze",
-          "title_ko": "비와 서늘한 기온이 브리티시컬럼비아 유일의 통제 불능 산불과 싸우는 소방관들을 돕습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2kyOWNSLVVkYVpzU1ZWNHZ1YlJUTFg4a0hLdkJmSk1QSnhHcU1FTmIxNEN4ekZudk5nRU5rZVdxTVdsTlRLUHRFWThtMmtlNjEta0puempyTmcyWGlLOVk2Rm9QOGM3ZGJEV1VWRnYzOENtb193OE1SSnR1dFc1TmFyWWR4blQtSmZoektrQTZaYjhENWxldXpBMkFCbnhERXh3VWh6VndSc28yVUFxRnRXejFlTTFFVnlCT1dZZlBNMTg?oc=5",
-          "source": "ctvnews.ca",
-          "published": "2026-09-25T18:36:50Z"
+          "title": "Lighthouse-like house hits B.C. housing market for $2.35M",
+          "title_ko": "등대 같은 집이 브리티시 컬럼비아 주택 시장에 235만 달러에 낙찰",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWdNd2pXZWZKZzVaRTFTSnoxU0NMUjhPM3l0d2hpUkd2UWNhWXRoNl82bVpJS3psNzJqckEzRU1zTTQ5YnJVOVpHSG5KTlhSTTEtcHQ0X0t5NUczeDVIN2R2RmFkNTNVc1p2RldaMUw5SDlBcVN1eWtRZWFRVWpfR0tZbF9kTDlrMHNlMWtsUERGdXB0ZGgza0dvVHVIdVBSeWpULWNLcHA?oc=5",
+          "source": "Vancouver Is Awesome",
+          "published": "2026-09-25T20:15:00Z"
         },
         {
-          "title": "BC Ferries cancels 2 sailings between Vancouver and Nanaimo, other sailings restored",
-          "title_ko": "BC Ferries는 밴쿠버와 너나이모 간 운항 2건을 취소하고 다른 운항은 재개했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOUxuNV91RGpzUmdtY3pwUHdIelA2V09IS28waUl2T0N3ejNTRUNheVRDV3g2UTEtTVI2QXRrWkl3MnRMRzhlRk01S0FCUkliMVpObDN4V2ZqMzMwRi1Scjd6VlFnd29SUFdUNmFXQjc5U0VDT29qY19NRFVPNW1zcGkyb01EQ2l3ejkybVdCcEd6bTRUWFE1c3hGemVLUFRybnhRQlQzWWVGSnhXeEo2ZW1QbEFvd1dFUzFR?oc=5",
-          "source": "CHEK News",
-          "published": "2026-09-25T14:30:50Z"
+          "title": "B.C. Conservatives take early lead as election campaign gets underway: Poll",
+          "title_ko": "브리티시 컬럼비아 보수당이 선거 캠페인이 진행되면서 조기 선두를 차지했습니다: 여론조사",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0bDVGaUN4ZXhmQ2RNTGctZURYc2RHdVVRSjg0ZVZKM0RZNHlreVRBREM0OEkzSDdXTHRjbzI2Yy03M1Q1WUJmaGd2X2JXNmdqdkswanllcE9RR0JORjk1akNFRG5oeGMtT1lNTjJka0ZWMzB1YTlEaWhnQnE?oc=5",
+          "source": "Vancouver Sun",
+          "published": "2026-09-24T20:57:31Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Squamish man uses motion-activated zombie to scare bears away from garbage",
-          "title_ko": "스쿼미시(Squamish) 남자는 동작으로 활성화되는 좀비를 사용하여 쓰레기에서 곰을 겁주게 합니다.",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWUxGWVVWMHNXVzgwUDIwdzdaUjF5UEE2Yk1UMmo2Z2xsbjZrRmFsdENyMTExUWxzSi1ZNjRkd1Bwa1FUdE9ubWEzeVU3UWhzVDVjVUVxVndIanY2VmN2VWF2VmctSmpKMEhLa1ZrUUFLTmg2TXFUVUNFc1VFTUpfYjNGWm9taUI0alhQRi1yMW1GVUoxRGI0eXJtNE1yTFRCOGlGcERmTQ?oc=5",
-          "source": "CBC",
-          "published": "2026-09-26T13:00:00Z"
-        },
-        {
-          "title": "$750K raised for hero Belleville cop who prevented a Jewish massacre",
-          "title_ko": "유대인 학살을 막은 영웅 벨빌 경찰을 위해 75만 달러 모금",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORW50bFl3bm8zY2ROcW5TYUxyWFI2ZHFLT3ZaX2lpVFdCNzBTQ2VCLTdTVUVMRm5uQW5xbEYxYnBZMGpXcUNrZloxVVY5aVlYekZSd1hEY05RQW4xSEZwUGJUYmJXdGVRQXllSlBjcnZwOFNiODRXWlhBc3pyVml2aFg3WHd6R0w3QjAtVHNacUo3dFBHeXBFMTFOdDBuOGVhclFIa3k2cw?oc=5",
+          "title": "Belleville shooting a wake-up call for Canadians, survivor says in new statement",
+          "title_ko": "벨빌에서 캐나다인들에게 경종을 울리는 소리를 냈다고 생존자가 새로운 성명에서 밝혔습니다.",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEtaRUlyYnRTUXpyNk5NR3dCNW1uZDN2aEVpMGQ3QWNWMmxoajNNbWpETTRkWldGSENUZnBkX09TRWMwa0pKT1NwUC1xeW04ZDA1RGthRDJISmg1TG0tTDluaW0wZ3NuWGZjcmNHaXJlTU1aV25vNm5fT0VEbXNkcldhd1A2eXBOTndsSU9KSmxvaEU2UW5mMGJEbmN2bTZQWnpjbEZBUUFNSjcxMnc?oc=5",
           "source": "National Post",
-          "published": "2026-09-26T10:15:40Z"
+          "published": "2026-09-26T10:02:59Z"
         },
         {
-          "title": "Revelations about how ChatGPT helped Tumbler Ridge shooter proves need for new criminal law: B.C. attorney general",
-          "title_ko": "ChatGPT가 Tumbler Ridge 총격 사건에 어떻게 도움이 되었는지에 대한 폭로로 새로운 형법의 필요성 입증: 브리티시 컬럼비아 법무장관",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV2xOeWJ3WjJMWUhyUEtueE9GWTBQVkdLdHI3R2NQMjN5R2hjZzdlS2FXeWpOb28ydUlLQjVqQUtfN05CSmhXLUlOZDhUWmJVQ2E2WW5iclVoQWRlNFZhc05OMU5OY095M2dVVEZMMFdFSk9zNllEc09qSTVwQzBDOWtpajJWS2hmaGJZeV9KUV9ob2pranBPVVVmYmhyTmFVcEJDLTJmamxrRVRGN3hhd0w2Tk5fZGhEVW0wOTlCNi14bGZGUGk2S3JWMG02MkFJRG1uRmU3dw?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-09-25T21:36:42Z"
+          "title": "Lorne Doerkson takes the reins of B.C. Conservatives, with a party to rebuild and election ahead",
+          "title_ko": "Lorne Doerkson은 브리티시 컬럼비아 보수당의 고삐를 잡고 당을 재건하고 선거를 앞두고 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMnBvdVVXNnM5UndQaElROEpKbEk3VTk2STk5bzdDbmIzWXJNQm9UOHlXNXdqMTI1YVVlcG9VRVZ0ejVxUFYtaV9jRjdfUmNoMmJXcEpjMTZRY0xlQmZhblRBSVhjWFY5N1VrZGxKN3dham5BWXpQVFpKMXpHTlJmZEtxcWFzYjE3MGRGM2VSUVo0SzZXb1hiTFZqa0NicUFLa1plejBqRjF0MVNYOWlRdGRoR0xpREx5TzJwLXZTRlZuc3lEeHVqdVozOA?oc=5",
+          "source": "The Globe and Mail",
+          "published": "2026-09-26T11:00:00Z"
+        },
+        {
+          "title": "Unions have new leverage, not less, under Liberals' new major projects bill: jobs minister",
+          "title_ko": "노동조합은 자유당의 새로운 주요 프로젝트 법안에 따라 새로운 영향력을 행사합니다.",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnZkQWRycG9zeFB5T25CN25yeG9xeTBrNlJfalk4bXN4QkJpNEJOVnNvamJ0bjRPMlNKMkt3Um8xd1J5RHpOLVVwNUo2VXlMOEloOC1kSFNQNHJ6d1NTR0VVQnE0SGtCVktLNEEybERKX2Fmb1ZKeWp0b2R1SVdGakVXYl8zT0ZmTVl3bkJuMzFfU09rLVdkZWotNW05bWN5Z3lHRXdUWTRBckFuaDczcm5MbFVIcE0?oc=5",
+          "source": "CBC",
+          "published": "2026-09-27T08:00:00Z"
         }
       ]
     }
