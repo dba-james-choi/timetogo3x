@@ -1,16 +1,9 @@
 {
-  "updated_at": "2026-09-28T19:59:18Z",
+  "updated_at": "2026-09-28T20:18:41Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
-        {
-          "title": "B.C. election 2026: Who's running on Vancouver Island?",
-          "title_ko": "2026년 브리티시 컬럼비아 선거: 밴쿠버 섬에는 누가 출마하나요?",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2pDdkVzd1BkYnlmZ1JXa0UtNWZBWkIxdGFDalpCUDVkOEJ1bmktNVhvZU5ZNG9EeTVHS0F4Y19JOWFQTm5EOXlLZUxGaXdiemhsNUpwaGt4NWoyWF9XSHVKTklxdk1GZ19xX1ZmZWR1djRYME8tbG5ady1sZ0c1QmpWVXp1aGMzeVJSOTJTWGNGaDVxSzVOQUR1Y1FoUjRjOWlwOQ?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-09-27T16:22:19Z"
-        },
         {
           "title": "Former B.C. employee, committee member running for North Saanich council",
           "title_ko": "전 브리티시 컬럼비아 직원, North Saanich 의회 출마 위원회 위원",
@@ -19,10 +12,17 @@
           "published": "2026-09-26T15:30:34Z"
         },
         {
+          "title": "B.C. election 2026: Who's running on Vancouver Island?",
+          "title_ko": "2026년 브리티시 컬럼비아 선거: 밴쿠버 섬에는 누가 출마하나요?",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2pDdkVzd1BkYnlmZ1JXa0UtNWZBWkIxdGFDalpCUDVkOEJ1bmktNVhvZU5ZNG9EeTVHS0F4Y19JOWFQTm5EOXlLZUxGaXdiemhsNUpwaGt4NWoyWF9XSHVKTklxdk1GZ19xX1ZmZWR1djRYME8tbG5ady1sZ0c1QmpWVXp1aGMzeVJSOTJTWGNGaDVxSzVOQUR1Y1FoUjRjOWlwOQ?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-09-27T16:22:19Z"
+        },
+        {
           "title": "BC Green Leader to run in Saanich North and the Islands, current Green MLA to retire",
           "title_ko": "BC Green Leader, Saanich North and the Islands에서 출마, 현재 Green MLA는 은퇴",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWFCc0QzOHdRak5ucG5pUGVhOUhkS3FtYURxSlo0VlZpSWh2NUJ0UlZBaHRoR0cwV3dDZl9URlRXTkxfUmNnWFhncExCekdyaVI0enV0VElNWjBfVE03TF9vTEpmZG16WTlLa2ppVTNBVmtDWDgzX1lZUkg2V2dpN2djY1JUamNnM1lnQ0FONWNTTzJtUzZ2R1g1SnlnY09LZzJGZnI4aXk3MWlJd2x3RHNMUkItWlU?oc=5",
-          "source": "CHEK News",
+          "source": "cheknews.ca",
           "published": "2026-09-23T18:31:54Z"
         }
       ]
@@ -48,7 +48,7 @@
           "title": "Hundreds of police officers gather in Victoria for annual memorial",
           "title_ko": "매년 추모식을 위해 수백 명의 경찰관이 빅토리아에 모였습니다.",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTBmZW1HYzl6dUlkNnhONkd1bWU2dEt2Q0lGb3AzZHBwLWxTUnItc0lGUnVYdEZPeHJBOW5ySjRlaldIVm84dXpVZjBPbWJDaWxHd1RiUG9nUDVvSUpiY3JNYVFyMXhDcnYtVXVUNjJnSlNlQ0FlSFkycFMxQS1hZFNmSmx1X3BDc1liNE5hdktONWtOY3VCSnVaVXVSYldpRG82SDNuUQ?oc=5",
-          "source": "CHEK News",
+          "source": "cheknews.ca",
           "published": "2026-09-27T18:09:30Z"
         }
       ]
@@ -67,15 +67,15 @@
           "title": "Calls for better safety at Vancouver SkyTrain stations after 122 incidents reported over 10 years",
           "title_ko": "10년 동안 122건의 사건이 보고된 후 밴쿠버 스카이트레인 역의 안전 강화를 요구",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdG41cXlENEVLTXR6MTJHNEdycVdrSVRwal9RSUk4cVIzUGpDM010UW9IR3Y0STZMVHBZRDQtYVhMaUwxUVR4SDlZYU9mNXRlNGliY3VSUmhvU001UEZXMkppSlNSekRZODNtVWVEdjF1cTNnRUtfQ0FFX1dlZlFLTUhEdExqSHc?oc=5",
-          "source": "CBC",
+          "source": "cbc.ca",
           "published": "2026-09-28T14:00:00Z"
         },
         {
-          "title": "2 overnight earthquakes remind Vancouver Island residents to be prepared",
-          "title_ko": "밤새 2번의 지진으로 인해 밴쿠버 섬 주민들은 대비해야 합니다.",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGJ2M3VJdzc4MnhkdkVTMmlHWG5WNHhqZWVxLUNLRk1JMVhkZHFjamNzYUx2NkdEcElOREN2eFROXzdOVTVJRG1uU0tQN3M5cDY0VUY4YVdxVExLR3lBRHBRbXAwSHB6X2ZHOWN6UWRpcmVyVm5udV9nTFBleWFOcWxYT016eWFvN0RPam5zYmtuZE1JekJrdTBTbmhpS0Z6OGlDVDNhZw?oc=5",
-          "source": "Victoria News",
-          "published": "2026-09-28T14:18:08Z"
+          "title": "B.C. election 2026: Who's running on Vancouver Island?",
+          "title_ko": "2026년 브리티시 컬럼비아 선거: 밴쿠버 섬에는 누가 출마하나요?",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2pDdkVzd1BkYnlmZ1JXa0UtNWZBWkIxdGFDalpCUDVkOEJ1bmktNVhvZU5ZNG9EeTVHS0F4Y19JOWFQTm5EOXlLZUxGaXdiemhsNUpwaGt4NWoyWF9XSHVKTklxdk1GZ19xX1ZmZWR1djRYME8tbG5ady1sZ0c1QmpWVXp1aGMzeVJSOTJTWGNGaDVxSzVOQUR1Y1FoUjRjOWlwOQ?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-09-27T16:22:19Z"
         }
       ]
     },
@@ -90,18 +90,18 @@
           "published": "2026-09-28T18:18:32Z"
         },
         {
-          "title": "Here’s what’s open and closed in Toronto on the National Day for Truth and Reconciliation",
-          "title_ko": "진실과 화해를 위한 국경일에 토론토에서 열리는 행사와 마감되는 행사는 다음과 같습니다.",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMTh6d1dEanpzS0hlQUVhTVVGUnBleHlKRU9iZWJmUHI1N09kZWVwV0JUVGNCNFdad0pnRWx3Y2V0VlR5cWE1SFQzYnVReTNuNkF2SFpEemdscWQtak1BZFJPbktYTU9pUFVvTC04bTlKSjc4T0oyTU8zYTBRT3pnczhPM3RwVE9kY2x6cmduVXprNjlBMXJTX0tHb1UtRXBuRXdKVHJYWmJKYlNzN00zOFcwbkxjbm90UnpCMnJYRFd5bkFCVXdLNkZWREhHeTQ?oc=5",
-          "source": "CP24",
-          "published": "2026-09-28T13:48:24Z"
+          "title": "Alberta teen charged with terrorism allegedly part of 764 network: RCMP",
+          "title_ko": "앨버타 10대, 764 네트워크 소속 테러 혐의로 기소: RCMP",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQVFwa2lBNnRRSjJSemVuSzlETS1Hd0JvWkhSdjN1QWZGdUNHVWhMa1FxbXZyT0hkLTE1SWU4Njg1UUM3dncyWmE4ZkFQMEZOUkltemYzdEl2Tm1xRTNkSGwwemJZWlkxeHZSNEtONUtZVE5KTU5IelRJaXpfMHdwX0ZSUndOc29wS3dYTlR0Z09jUzhpQkI2Rmp3eU9PeDJyN3RQR1FtTkVkMlhjMmZB?oc=5",
+          "source": "CTV News",
+          "published": "2026-09-28T18:09:36Z"
         },
         {
-          "title": "Toronto police ID second homicide victim found in burnt-out vehicle",
-          "title_ko": "토론토 경찰 신원 확인 두 번째 살인 피해자, 불탄 차량에서 발견",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vWTUtZlcwSGdhZWZZM3FKU1NLWXRYczFnX0lDZXJiY1ZXamx5SFpiR0lWZFZRS0dJS3dFRzk4cTVaYV93ZVNVLUU5ZmFqaUdTRHZ6NFpERm95TldOck9BTWVGVXE2VTg3VkdrVjI5SDA3bi02eEUxRA?oc=5",
+          "title": "Hate-motivated online comments result in charge for Kingston resident: police",
+          "title_ko": "증오심이 담긴 온라인 댓글로 인해 킹스턴 주민이 기소되었습니다: 경찰",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRU5EYS1qZ09mSUpSbW9vMS1uSlFxZVlxQk5QX1pmRnpGYWxNNUZGZmRuNjRnVjhuckdnWTBranBxV0daczNOeC1DMEY1R20yM2xoZkg1ejdvTV96YjVfMi1xY1ZVeTVGSkpHRDREenBoZGpTYlk5UzFISXFieUd0aVJfb2dKNjVNUDQxaHBwQQ?oc=5",
           "source": "Global News",
-          "published": "2026-09-28T18:38:04Z"
+          "published": "2026-09-28T14:52:35Z"
         }
       ]
     }
