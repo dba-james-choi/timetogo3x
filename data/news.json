@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T18:27:14Z",
+  "updated_at": "2026-09-29T18:58:59Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -22,7 +22,7 @@
           "title": "B.C. election 2026: Who's running on Vancouver Island?",
           "title_ko": "2026년 브리티시 컬럼비아 선거: 밴쿠버 섬에는 누가 출마하나요?",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2pDdkVzd1BkYnlmZ1JXa0UtNWZBWkIxdGFDalpCUDVkOEJ1bmktNVhvZU5ZNG9EeTVHS0F4Y19JOWFQTm5EOXlLZUxGaXdiemhsNUpwaGt4NWoyWF9XSHVKTklxdk1GZ19xX1ZmZWR1djRYME8tbG5ady1sZ0c1QmpWVXp1aGMzeVJSOTJTWGNGaDVxSzVOQUR1Y1FoUjRjOWlwOQ?oc=5",
-          "source": "timescolonist.com",
+          "source": "Times Colonist",
           "published": "2026-09-27T16:22:19Z"
         }
       ]
@@ -48,7 +48,7 @@
           "title": "B.C. election 2026: Who's running on Vancouver Island?",
           "title_ko": "2026년 브리티시 컬럼비아 선거: 밴쿠버 섬에는 누가 출마하나요?",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2pDdkVzd1BkYnlmZ1JXa0UtNWZBWkIxdGFDalpCUDVkOEJ1bmktNVhvZU5ZNG9EeTVHS0F4Y19JOWFQTm5EOXlLZUxGaXdiemhsNUpwaGt4NWoyWF9XSHVKTklxdk1GZ19xX1ZmZWR1djRYME8tbG5ady1sZ0c1QmpWVXp1aGMzeVJSOTJTWGNGaDVxSzVOQUR1Y1FoUjRjOWlwOQ?oc=5",
-          "source": "timescolonist.com",
+          "source": "Times Colonist",
           "published": "2026-09-27T16:22:19Z"
         }
       ]
@@ -57,31 +57,38 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "Whitecaps to stay at Vancouver's BC Place next season after extending lease",
-          "title_ko": "화이트캡스, 임대 연장 후 다음 시즌에도 밴쿠버 BC 플레이스에 남을 것",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMldyRTVka1paLWJ2clItNy00U1hta20zcHNYUE15Rm5kT0ZIM3BJWWdsVkZrY0tyWlczSGtBc0NNMjg2OEFaZWlkY0pnaGtKRDFMRzVGZTVRd3pBNkpuYW1iOTh3SHlRWk1oVDE3aDVlUkpWTEhMWkFyc3JSdFAyU09RYVd5OGVXUUFEUHpTTFVhaGo4dk9scnBmdTNLaEVKc2VieVN5ZDlMbmI4S0hHMEp3?oc=5",
-          "source": "Sportsnet.ca",
-          "published": "2026-09-29T18:09:00Z"
-        },
-        {
-          "title": "B.C. tosses trafficking convictions against Vancouver compassion club founders",
-          "title_ko": "브리티시 컬럼비아, 밴쿠버 컴포지션 클럽 창립자들에 대해 인신매매 유죄 판결을 내림",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdG1mMG9kNkprUF9qb2Z3SFpBNU9lUnZlX0drVGZzYkppb0o4VGQtX29sT3ZWazF6QlVPcUcySnM3NTg2MUljU0VSaGdwOHkzWnVFSzlsV2NDWWJkNDFLMTYwb0JMTkNWOHl2dnpnZ2JKRHBCTG9PdDVneENOM25qNzZqTlo2UFl6RnVHMVlQR1ZUNGdrd3ZvM3REeGd1Y3p6N3M0Y2dLeXY4elNaU0xfWWZCWDBqZzVRRU5zMklmYXU?oc=5",
-          "source": "timescolonist.com",
-          "published": "2026-09-29T18:06:36Z"
-        },
-        {
-          "title": "Group seeks to make long-delayed removal of Vancouver's viaducts an election issue",
-          "title_ko": "그룹은 오랫동안 지연된 밴쿠버 고가교 철거를 선거 문제로 만들려고 노력하고 있습니다.",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmNQTEVWS0JjdzZWVm54ZElIT0hILUlhR3M5b0VMU0xzNWVRZ2E5TjZqdTVKcm5HWFlGWVlDNlFrbDBZVjhVdHc1SGxyM0M1WFFFWExuRHl2TFh0RldHQXB3b1hzTVVWLWhObFBUOFJGQmNrNVpZbm9XRVFrNFFoNGo2b2ZfemlhZG9tWm1IU1lXSjVKWnZlOTRlcktBcm92ZzNORmFYMkVYU1QyYWc?oc=5",
+          "title": "Heavy rain, strong winds forecast for coastal B.C., including Metro Vancouver",
+          "title_ko": "메트로 밴쿠버를 포함한 브리티시컬럼비아 해안에 폭우, 강풍 예상",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUNrRVcxVjRzYnowb2lvX2ZVX2t1ZWNkXy05M0NuaFFJa2daQkFsOUNCWnVfM3hPQmJPQ09jR28tdEtQc25vdVJIa01HM1BmT2NaVE45ZzVDdDMwYmc1Z2pMakNka3RrWmpzOGtQYlcwWU5oZnc0RkpRRVZ1TVVROW53d0xFSGVpRVFfWlhMc3FoZWFLMnNHWkk2alBDdENu?oc=5",
           "source": "CBC",
-          "published": "2026-09-29T15:00:00Z"
+          "published": "2026-09-28T23:12:22Z"
+        },
+        {
+          "title": "Heavy rain in forecast as warnings issued for Metro Vancouver, B.C. coast",
+          "title_ko": "브리티시컬럼비아주 메트로 밴쿠버 해안에 폭우 경보 발령 예정",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWWcwa1RvS1RpUFRtdmtpTC1ZWVFZNTY1UGZLM084Q2U2NHoxS3BnYk5fT1lwQXlKUEk0ckktdUYxdkJIcnYyQVkzN3lobVhQY0FuOXkwU2Y3Y0RhN0E2VV9JdjBYMWdqSnZ4TXZoSTE0NVhFdEhvLVpFc0x2ZEk3RkNST1BnbmhiRkJoaG5JWDg4eG9ZbjJhdndKWm9UYmhzVzh4OWxkZzNzc2FyQzVZ?oc=5",
+          "source": "NanaimoNewsNOW",
+          "published": "2026-09-28T16:24:08Z"
+        },
+        {
+          "title": "Rainfall warnings issued for Metro Vancouver, coastal B.C.",
+          "title_ko": "브리티시 컬럼비아 해안 메트로 밴쿠버에 강우 경보 발령",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSzZHeUVNQzJtRXVRTXFMWGhpRy1rVFU2UFlnT2VPckZwZERfeW9MbmdEZXZXb2FNcFFZNVQ2NF93Qkk5aFZOUW41RjlCZTFFVExCNEFMTTIweUdzOVplcEZocURPNEpIOUpDbEdHeFhLY01pRFhRU3o2SlFQNlU1Sm8zZlNpeHFVUHdfVmpXTFM1SFoxaHYxMXl4Njg5UQ?oc=5",
+          "source": "CTV News",
+          "published": "2026-09-28T15:11:01Z"
         }
       ]
     },
     "canada": {
       "label": "Canada",
       "articles": [
+        {
+          "title": "One person dead after cement truck rolled over on Hwy. 401 in Scarborough",
+          "title_ko": "고속도로에서 시멘트 트럭이 전복돼 1명이 숨졌다. 스카버러의 401",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdTVZcXI4alNWcDRBUGFRZk5BZWVER2w4UnhZRHlBa2ZSbzMxcThodDhrUFRPTURTZU9hbjRvUENoX2N4QVFkeXR0dG5Hb2JFNWNXSHhaS0ZKajhNWVJ4MGZ6M2FxN2p2MTJSel9tQlJxTVZHV3R1LTkxcmNCdUhyMm1MUDlNNDdjbUl5WFZGRzlqZzhQLUMxcDFVMWpLaG9Ta3dDSUxKMmtmYzBVRnFPdGgwNmd6dEhleFow?oc=5",
+          "source": "CP24",
+          "published": "2026-09-29T18:07:06Z"
+        },
         {
           "title": "U.S. bans on Canadian booze hit producers on one of trade war's thorniest fronts",
           "title_ko": "미국, 무역 전쟁의 가장 어려운 전선 중 하나인 캐나다 주류 생산업체에 대한 금지 조치",
@@ -90,18 +97,11 @@
           "published": "2026-09-29T16:55:32Z"
         },
         {
-          "title": "Quebec Separatists Near Power With Plan for Vote on Breaking Up Canada",
-          "title_ko": "캐나다 분리에 대한 투표 계획으로 권력을 잡은 퀘벡 분리주의자",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmNzdFBja0FnNENtLWhFbGEtT3pCUlloMk1nWTk4UnEteHZLUVo5TElXaW5SV0l3VWJUcXRYbjNBTm9xYUY1U2FCTUtqUElaNjlaX0VQRW1nS2Y0UHhSbWh0YmpzOWJVb2J5dlNMOExFTmRhdXJhN3VjUDQ3ejNrb0ZGSUJ0WVBBVThMWk5kR2F5TS1kbmFuLUo0dW5NQi1ldEwxX05wV05fU004UUc0WDROcmJPeGV1Z1lLdV9R?oc=5",
-          "source": "Bloomberg",
-          "published": "2026-09-29T11:00:00Z"
-        },
-        {
-          "title": "Ontario’s affordable child-care program extended, but not to $10 a day",
-          "title_ko": "온타리오주의 저렴한 보육 프로그램이 하루 10달러까지 연장되지는 않았습니다.",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWWJyTXhvakJscWx6T0VxcU9rc182SHVrbVllT3Jua0tXVWkyN2dnc2JMNUI3XzJxOVRoZS1uNF9ZcTZ5MEMxaXdEUXJLRWNwUEJMYTlnMUdNX3J1WjJtOTBiR1Exd0F1bllaa1hKLUdVNjZLYmNxamQ0bThRTUdmLQ?oc=5",
-          "source": "Global News",
-          "published": "2026-09-29T13:11:07Z"
+          "title": "Grave of boy who vanished at residential school found decades later, First Nation looks for others like him",
+          "title_ko": "수십 년 후 발견된 기숙학교에서 사라진 소년의 무덤, First Nation은 그와 같은 다른 사람을 찾습니다",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSlViZ0JEUUhVQVJGXy1Ecjh5YnVFOFZxSkxhSVZDay01SW1vSkNRZGFWSU1LR2xUZHpBT2NhZ0xWbFFlZDUyWjEzZmw5TTZXdzI5UDNHZmEtaG4wbkhYVHhWQUNkMUNZV3k2Uk5rVmFUSEZodU5wTjAxbEN2TTIwd2FWM1BaV0c5N1hFMTJzeTFjRWVpcEJsQTVpOTc?oc=5",
+          "source": "CBC",
+          "published": "2026-09-29T08:00:00Z"
         }
       ]
     }
