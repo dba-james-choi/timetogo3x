@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T18:16:16Z",
+  "updated_at": "2026-09-30T18:42:01Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -38,31 +38,24 @@
           "published": "2026-09-30T11:30:00Z"
         },
         {
-          "title": "Here’s what’s happening in and around Victoria for National Day of Truth and Reconciliation",
-          "title_ko": "진실과 화해의 국경일을 맞아 빅토리아주와 그 주변에서 무슨 일이 일어나고 있는지 알아보세요.",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjJLUmxsSGk2ZVpzc1Y1aHExSEl5b1Zua2RHeWZiRXJWYVJDc1E1aTFfWmxBbkhCS0JJcWdtTnhNTVd3b0NrWGhHNFFXWVo4a0pKaE44MGZNYjhZX0dfc3NIN2tCbUw1Mlc0dzVpanZOZHprcU1fUUprVTBIQ0NxdkFaM1Z1VVMyRjBnbm85UTFPNzJkTGtiMFA4UlFUNlVYbnMwWm5wSDB5VlNWbkRQTFhuLVRNd1FpY0gtTmduVmM?oc=5",
-          "source": "Victoria Buzz",
-          "published": "2026-09-29T19:09:22Z"
-        },
-        {
           "title": "BGO Buys The James At Harbour Towers In Victoria From Nicola Wealth For $102M",
           "title_ko": "BGO는 Nicola Wealth로부터 The James At Harbour Towers in Victoria를 1억 200만 달러에 구입했습니다.",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUxxR05UdXRwekExWnhNQ3RTNUJrWVNDeDRUOEZrX0hFSkdCRUUzUjNFWUZ3UDRpYXlDdy1vWWZHckhrSjQteEhCekdTeVpGSXVQcXhabFRfdElydWZGN0VfbzZlTUViUHBrZy1TYlFqTW5TUWYzeUdscFBvU1hpZ3hmRC1oaGw2NjlHNG9XUkpCS0NRcHJEZ3VqT2VHYnVISFdod3U5Y1ZZZ0FD?oc=5",
           "source": "The Realist | Howard Chai",
           "published": "2026-09-30T14:31:11Z"
+        },
+        {
+          "title": "Here’s what’s happening in and around Victoria for National Day of Truth and Reconciliation",
+          "title_ko": "진실과 화해의 국경일을 맞아 빅토리아주와 그 주변에서 무슨 일이 벌어지고 있는지 알아보세요.",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjJLUmxsSGk2ZVpzc1Y1aHExSEl5b1Zua2RHeWZiRXJWYVJDc1E1aTFfWmxBbkhCS0JJcWdtTnhNTVd3b0NrWGhHNFFXWVo4a0pKaE44MGZNYjhZX0dfc3NIN2tCbUw1Mlc0dzVpanZOZHprcU1fUUprVTBIQ0NxdkFaM1Z1VVMyRjBnbm85UTFPNzJkTGtiMFA4UlFUNlVYbnMwWm5wSDB5VlNWbkRQTFhuLVRNd1FpY0gtTmduVmM?oc=5",
+          "source": "Victoria Buzz",
+          "published": "2026-09-29T19:09:22Z"
         }
       ]
     },
     "vancouver": {
       "label": "Vancouver",
       "articles": [
-        {
-          "title": "Frontal system causes heavy rain of up to 100 millimetres along part of B.C. coast",
-          "title_ko": "정면 시스템으로 인해 브리티시컬럼비아 해안 일부 지역에 최대 100mm의 폭우 발생",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0lIS2VoRDJlZVhfLUlySEFsRWVlYlhvaFZGTnNqdWNHNFpnWmhDMENnbktGVG9PeVlxeWtuR1c1Ymd3OTFMeDZFRzNvSTJIREtPUDktSVAxNE9BVnozcGV4bThTMHNjZjJlbVkzM203NWVxXzdERFpnR0wxbTEtVjkxdE45LVN1Y3NJY29uOTBibmN1N1RRSXpGQ1E0SnJuWW0zU09ZQXVNZjVzTXBJOVpMQnRCLUJhZjJ2b3B0WQ?oc=5",
-          "source": "CTV News",
-          "published": "2026-09-30T17:12:36Z"
-        },
         {
           "title": "B.C. judge drops drug charges against Vancouver compassion club, declares law illegal",
           "title_ko": "브리티시 컬럼비아 판사, 밴쿠버 컴포지션 클럽에 대한 마약 혐의를 기각하고 법률이 불법이라고 선언",
@@ -71,10 +64,17 @@
           "published": "2026-09-30T00:05:51Z"
         },
         {
+          "title": "Frontal system causes heavy rain of up to 100 millimetres along part of B.C. coast",
+          "title_ko": "정면 시스템으로 인해 브리티시컬럼비아 해안 일부 지역에 최대 100mm의 폭우 발생",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0lIS2VoRDJlZVhfLUlySEFsRWVlYlhvaFZGTnNqdWNHNFpnWmhDMENnbktGVG9PeVlxeWtuR1c1Ymd3OTFMeDZFRzNvSTJIREtPUDktSVAxNE9BVnozcGV4bThTMHNjZjJlbVkzM203NWVxXzdERFpnR0wxbTEtVjkxdE45LVN1Y3NJY29uOTBibmN1N1RRSXpGQ1E0SnJuWW0zU09ZQXVNZjVzTXBJOVpMQnRCLUJhZjJ2b3B0WQ?oc=5",
+          "source": "CTV News",
+          "published": "2026-09-30T17:12:36Z"
+        },
+        {
           "title": "B.C. getaways: 4 road-trips from Vancouver with the best fall foliage",
           "title_ko": "브리티시컬럼비아 휴가: 최고의 단풍과 함께 밴쿠버에서 출발하는 4가지 도로 여행",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSDFzUmVIMWx1RkhFU1hqZUwxQWZmeGN6X1hZZ054WmtiMnJwMVBGTjd0eXI4ZDgtLUJ2RF9LWmVDeUIwWE84SUwtYzR2Zm5WOEZKSnB6XzI0Y05vSTNKMlJfNGhpSG1tR2Y0aWIxbTFhMFBBeWVjUzRjel9SanpncXNINVNLZUxyYkp3bkZwdlNPTDA4TnhsQWk2b2o?oc=5",
-          "source": "vancouverisawesome.com",
+          "source": "Vancouver Is Awesome",
           "published": "2026-09-30T05:15:00Z"
         }
       ]
@@ -87,7 +87,7 @@
           "title_ko": "카니는 진실과 화해의 날에 “우리는 그들에게 행동을 취해야 한다”고 말했다",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBETC1SclJudkpCdEFGaU1RbGNXVTdQYTZTV2NyV25lemtROXNVU1V3eEJmX3E1MS1qcEpjQmtRR1ZnQ1dGS05EZFA2MlRvb3l4MG5MOXdrZGhBem5jbFNpMkVMVE1icWQ3YTNtSnpyU3kyU091b2VQQ09n?oc=5",
           "source": "Global News",
-          "published": "2026-09-30T16:06:58Z"
+          "published": "2026-09-30T18:02:38Z"
         },
         {
           "title": "Almost 40K residential school records will be destroyed. Not all survivors think they should be",
