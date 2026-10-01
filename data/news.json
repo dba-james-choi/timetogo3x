@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-30T18:42:01Z",
+  "updated_at": "2026-10-01T18:41:47Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
-          "title": "North Saanich, BC Current Weather",
-          "title_ko": "노스 새니치, BC 현재 날씨",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONm1tMzkyRV9fODNITks3dlQ4VWM0UjVVZTc2TktaNm1ibXkySXZGWGhlYVlnQWNOU01GbWM0Ti1DR1BXNndWOUJSaEJ2OC1MQ1B6T2kzLXlXTGtYbzEzVWRKRkQwZGhPMmdJUUxUVW9yaHVPZWdhN2g3aUNVMlF6b2VmQU1tRTZFRVAw?oc=5",
-          "source": "The Weather Network",
-          "published": "2026-09-27T07:00:00Z"
-        },
-        {
-          "title": "32nd annual tour opens doors to artist studios across the Saanich Peninsula",
-          "title_ko": "32차 연례 투어로 사니치 반도 전역의 아티스트 스튜디오에 문이 열림",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN2R4aXA1N3Q1UE1XWjhSUWpEWjR5WlZKM2lCUjE0dWZDN3RCRFRaMThlcVliZW9EZk9UV1dmZ1RuWHd2bURsby0tRmxMRk13LUYycW9SQkRhZE9YT0FFWEQ1bnhpc2VVcEFaSVd3Y3RpVzJ2dkIyYVlJYlUyMlVFWVFZWmlkRFdRdWpYRFJ5ZVdzb3FQNkoxTjVaTmhIUWVKZ3p1WmZ6cXRFUlI1WVFVUw?oc=5",
-          "source": "Saanich News",
-          "published": "2026-09-30T12:51:12Z"
-        },
-        {
-          "title": "B.C. election 2026: Who's running on Vancouver Island?",
-          "title_ko": "2026년 브리티시 컬럼비아 선거: 밴쿠버 섬에는 누가 출마하나요?",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2pDdkVzd1BkYnlmZ1JXa0UtNWZBWkIxdGFDalpCUDVkOEJ1bmktNVhvZU5ZNG9EeTVHS0F4Y19JOWFQTm5EOXlLZUxGaXdiemhsNUpwaGt4NWoyWF9XSHVKTklxdk1GZ19xX1ZmZWR1djRYME8tbG5ady1sZ0c1QmpWVXp1aGMzeVJSOTJTWGNGaDVxSzVOQUR1Y1FoUjRjOWlwOQ?oc=5",
+          "title": "'Very large' black bear spotted in Saanich west of Pat Bay highway",
+          "title_ko": "Pat Bay 고속도로 서쪽 Saanich에서 '매우 큰' 흑곰 발견",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmJpMmhRSFExSDI1azkteldQWElPdTlpbVFBTlk3TmpGaldHSVFoaU9aV3BSN1JzMGl1MDZMaTlPYWVWV0V6SXlWVVYwX3ZXN2RBaEZYblEtZnJzSWFhZHNWTFhLSk1lTmFIdHBnTGx3c1BrU01PTVRBNXRPa3VSNGhYczRnRGRMOUdQeXNRb0ZwUHRNNUk5cXRmWk9JaE1oaEFKWUhQdnZvRTJCVi1NajhPeVc?oc=5",
           "source": "Times Colonist",
-          "published": "2026-09-27T16:22:19Z"
+          "published": "2026-10-01T00:55:00Z"
+        },
+        {
+          "title": "Police warn public after large black bear spotted in Saanich",
+          "title_ko": "경찰은 사니치에서 대형 흑곰이 발견되자 대중에게 경고했다.",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPckZpcVNEd2owWWU4S1ItTTl2dDhLV0MxRk1oNjF3dTJsQWVWSWJDMlk3WDZ2M0xEZE13VDktejdRM2g1OTNDS2dxX1E3MmVXNEFOUVQxMkJuemNKRnhFbXNXZVlYYkdkWXlBMEZOaHlWdmd5cWFnc2JEVlM2UXdrSnFPS2x5aVlyS3JCOWstQklVeXM?oc=5",
+          "source": "CHEK News",
+          "published": "2026-09-30T21:48:17Z"
+        },
+        {
+          "title": "East Saanich 2, BC Current Weather",
+          "title_ko": "East Saanich 2, BC 현재 날씨",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTTdaQUx4TW9MSTV0eVZDS1lvVzAxbzRlbjZBalM0VnNHS3NBdEdhaTh2ell0SEotS2xTYldaNUFaYmFBaWR2NEtuVm5ZTEQyU3VGRXVoSVZqcS05NHAzNXJ1ak1XMnNTMFhldTJSVDkwMnkzX2llUjVBR0h0RUJhU2hzQUJUaGE3YkZHTQ?oc=5",
+          "source": "The Weather Network",
+          "published": "2026-09-28T07:00:00Z"
         }
       ]
     },
@@ -31,25 +31,25 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Events to mark National Truth and Reconciliation Day on Vancouver Island",
-          "title_ko": "밴쿠버 섬에서 국가 진실과 화해의 날을 기념하는 행사",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbEFFLTBzaFplQlI3ck9kMlpLTE10NTl3OEQ3RzNZZDhtOVlXdld0NEJWMXVQc0dYNkcxWUpwMXhZZlV4UXhnWWx2Y0RtdGxMeDF5NzlBdldzc2M5Vnl3TG9sOXJiVnhaZjZkbDUzYjh6aHE1cm1fTzQ0cXcxU3JhSHRpQnlxeWFSTUJ3YU1NaUxMZHowS2VlQTdZWFpjSlRmZzgxTlUyTmd4YVJIUTF3Y00xRVpBZTNYX0xJRWZnUQ?oc=5",
+          "title": "PREVIEW: Men’s rowing opens fall season in Burnaby",
+          "title_ko": "미리보기: 남자 조정, 버나비에서 가을 시즌 개막",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN2dJc3h4T3BoX0hVZzVncnhIWkRfbmYtTFFHQ01ZU0lkR0VwLVJZNG9aaFJuVXdjeEhKSk5vSzUyYm8yQ1hCb0ZaNnZUbFdMWGpaSEQzU0pXcWV0OV9sY3ZuWFlaNW5rMTZId3RnVVVZYUhicnBXY282M2VDTE1vRXlkOTZqWEQ0OVp3Sk9TUUx0aUEzRnNLS01Ocm4wV1dGc3JvSA?oc=5",
+          "source": "University of Victoria Athletics",
+          "published": "2026-10-01T16:43:29Z"
+        },
+        {
+          "title": "'Very large' black bear spotted in Saanich west of Pat Bay highway",
+          "title_ko": "Pat Bay 고속도로 서쪽 Saanich에서 '매우 큰' 흑곰 발견",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmJpMmhRSFExSDI1azkteldQWElPdTlpbVFBTlk3TmpGaldHSVFoaU9aV3BSN1JzMGl1MDZMaTlPYWVWV0V6SXlWVVYwX3ZXN2RBaEZYblEtZnJzSWFhZHNWTFhLSk1lTmFIdHBnTGx3c1BrU01PTVRBNXRPa3VSNGhYczRnRGRMOUdQeXNRb0ZwUHRNNUk5cXRmWk9JaE1oaEFKWUhQdnZvRTJCVi1NajhPeVc?oc=5",
           "source": "Times Colonist",
-          "published": "2026-09-30T11:30:00Z"
+          "published": "2026-10-01T00:55:00Z"
         },
         {
-          "title": "BGO Buys The James At Harbour Towers In Victoria From Nicola Wealth For $102M",
-          "title_ko": "BGO는 Nicola Wealth로부터 The James At Harbour Towers in Victoria를 1억 200만 달러에 구입했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUxxR05UdXRwekExWnhNQ3RTNUJrWVNDeDRUOEZrX0hFSkdCRUUzUjNFWUZ3UDRpYXlDdy1vWWZHckhrSjQteEhCekdTeVpGSXVQcXhabFRfdElydWZGN0VfbzZlTUViUHBrZy1TYlFqTW5TUWYzeUdscFBvU1hpZ3hmRC1oaGw2NjlHNG9XUkpCS0NRcHJEZ3VqT2VHYnVISFdod3U5Y1ZZZ0FD?oc=5",
-          "source": "The Realist | Howard Chai",
-          "published": "2026-09-30T14:31:11Z"
-        },
-        {
-          "title": "Here’s what’s happening in and around Victoria for National Day of Truth and Reconciliation",
-          "title_ko": "진실과 화해의 국경일을 맞아 빅토리아주와 그 주변에서 무슨 일이 벌어지고 있는지 알아보세요.",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjJLUmxsSGk2ZVpzc1Y1aHExSEl5b1Zua2RHeWZiRXJWYVJDc1E1aTFfWmxBbkhCS0JJcWdtTnhNTVd3b0NrWGhHNFFXWVo4a0pKaE44MGZNYjhZX0dfc3NIN2tCbUw1Mlc0dzVpanZOZHprcU1fUUprVTBIQ0NxdkFaM1Z1VVMyRjBnbm85UTFPNzJkTGtiMFA4UlFUNlVYbnMwWm5wSDB5VlNWbkRQTFhuLVRNd1FpY0gtTmduVmM?oc=5",
-          "source": "Victoria Buzz",
-          "published": "2026-09-29T19:09:22Z"
+          "title": "National Day for Truth and Reconciliation events for Greater Victoria",
+          "title_ko": "광역 빅토리아의 진실과 화해를 위한 국경일 행사",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTDBKektKZE9vS1lMRk1WbXhIbHlGQ21CaEZtU2tSRjVsUGxkUzNKZlhPTGZRQXdHOUhsaXItOXRhNkxrVEhDSTdqRGo0TTVUX2ZTQnBpWHV5cTFMUUZUeHdDZ2VCenV5am5FVHFWUUlacTlHekFuNThIVXdnR3F5Z2Y1aDZNWGtOamhTLXl1RlRvLUFDalhSSWIyNUVIRUhuY3hFSQ?oc=5",
+          "source": "Capital Daily",
+          "published": "2026-09-29T03:54:19Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "B.C. judge drops drug charges against Vancouver compassion club, declares law illegal",
-          "title_ko": "브리티시 컬럼비아 판사, 밴쿠버 컴포지션 클럽에 대한 마약 혐의를 기각하고 법률이 불법이라고 선언",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVUpjSjA4N1FDbXNwUzhzZGRKMnQydlJLVHBIMzBRZ1ZOR2ZUamJ5T0J2X1VKOWxkUjJ4UWIycFNyUlVGQ0ZfN1F5QnRpa2xIYWhNZTRBT1RGSkJuZktDeUR1T2lmdTI3MktaT21ZUUVCTXNEVkRxSWtYRnUyRkZoMzQxTEkyanVqUHlaTjU2RW9rSkEtVEw2UHFsQTNNSldxWno1cE1qdHdTeTRZQ3FVV1l3?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-09-30T00:05:51Z"
+          "title": "Black bear killed on Lonsdale in North Vancouver",
+          "title_ko": "노스밴쿠버 론스데일에서 흑곰이 사살됐다.",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KcGhLaVNkajlQSWI0X2JnVXRzRGhxNDVTUmFmR1RnZmxVLVJmSFI3RGlQMGNzcHpqODUyem40UWRsSzZGU0w4MWJqQjc4d3ZTWkxPVzNaX1cxdV95TldKeWxwai1wbHR6SVlacG1YUQ?oc=5",
+          "source": "CityNews Vancouver",
+          "published": "2026-09-30T23:50:02Z"
         },
         {
-          "title": "Frontal system causes heavy rain of up to 100 millimetres along part of B.C. coast",
-          "title_ko": "정면 시스템으로 인해 브리티시컬럼비아 해안 일부 지역에 최대 100mm의 폭우 발생",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0lIS2VoRDJlZVhfLUlySEFsRWVlYlhvaFZGTnNqdWNHNFpnWmhDMENnbktGVG9PeVlxeWtuR1c1Ymd3OTFMeDZFRzNvSTJIREtPUDktSVAxNE9BVnozcGV4bThTMHNjZjJlbVkzM203NWVxXzdERFpnR0wxbTEtVjkxdE45LVN1Y3NJY29uOTBibmN1N1RRSXpGQ1E0SnJuWW0zU09ZQXVNZjVzTXBJOVpMQnRCLUJhZjJ2b3B0WQ?oc=5",
-          "source": "CTV News",
-          "published": "2026-09-30T17:12:36Z"
+          "title": "B.C. tosses trafficking convictions, tells Ottawa to rework drug legislation",
+          "title_ko": "브리티시컬럼비아주, 인신매매 유죄 판결을 취소하고 오타와에 마약 법안을 재작업하라고 지시",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdG1mMG9kNkprUF9qb2Z3SFpBNU9lUnZlX0drVGZzYkppb0o4VGQtX29sT3ZWazF6QlVPcUcySnM3NTg2MUljU0VSaGdwOHkzWnVFSzlsV2NDWWJkNDFLMTYwb0JMTkNWOHl2dnpnZ2JKRHBCTG9PdDVneENOM25qNzZqTlo2UFl6RnVHMVlQR1ZUNGdrd3ZvM3REeGd1Y3p6N3M0Y2dLeXY4elNaU0xfWWZCWDBqZzVRRU5zMklmYXU?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-09-30T00:02:12Z"
         },
         {
-          "title": "B.C. getaways: 4 road-trips from Vancouver with the best fall foliage",
-          "title_ko": "브리티시컬럼비아 휴가: 최고의 단풍과 함께 밴쿠버에서 출발하는 4가지 도로 여행",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSDFzUmVIMWx1RkhFU1hqZUwxQWZmeGN6X1hZZ054WmtiMnJwMVBGTjd0eXI4ZDgtLUJ2RF9LWmVDeUIwWE84SUwtYzR2Zm5WOEZKSnB6XzI0Y05vSTNKMlJfNGhpSG1tR2Y0aWIxbTFhMFBBeWVjUzRjel9SanpncXNINVNLZUxyYkp3bkZwdlNPTDA4TnhsQWk2b2o?oc=5",
-          "source": "Vancouver Is Awesome",
-          "published": "2026-09-30T05:15:00Z"
+          "title": "Whitecaps to stay at Vancouver's BC Place next season after extending lease",
+          "title_ko": "화이트캡스, 임대 연장 후 다음 시즌에도 밴쿠버 BC 플레이스에 남을 것",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMldyRTVka1paLWJ2clItNy00U1hta20zcHNYUE15Rm5kT0ZIM3BJWWdsVkZrY0tyWlczSGtBc0NNMjg2OEFaZWlkY0pnaGtKRDFMRzVGZTVRd3pBNkpuYW1iOTh3SHlRWk1oVDE3aDVlUkpWTEhMWkFyc3JSdFAyU09RYVd5OGVXUUFEUHpTTFVhaGo4dk9scnBmdTNLaEVKc2VieVN5ZDlMbmI4S0hHMEp3?oc=5",
+          "source": "Sportsnet.ca",
+          "published": "2026-09-29T18:09:00Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "‘We owe them action,’ Carney says on Truth and Reconciliation Day",
-          "title_ko": "카니는 진실과 화해의 날에 “우리는 그들에게 행동을 취해야 한다”고 말했다",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBETC1SclJudkpCdEFGaU1RbGNXVTdQYTZTV2NyV25lemtROXNVU1V3eEJmX3E1MS1qcEpjQmtRR1ZnQ1dGS05EZFA2MlRvb3l4MG5MOXdrZGhBem5jbFNpMkVMVE1icWQ3YTNtSnpyU3kyU091b2VQQ09n?oc=5",
-          "source": "Global News",
-          "published": "2026-09-30T18:02:38Z"
-        },
-        {
-          "title": "Almost 40K residential school records will be destroyed. Not all survivors think they should be",
-          "title_ko": "거의 40,000개의 기숙학교 기록이 파기될 것입니다. 모든 생존자가 그래야 한다고 생각하는 것은 아닙니다.",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWDYxY2FBcXVmSHVMenRrSHk3WEttekV4cFROd1FRbzBwdGQwRURhamROSkZoTkg2Y0xCLWJLamtkSWhYS2MwY1YwVnh1Q3Y3Z1haZUJGV3ZNLXAtdnYwX2F1MGFhZFhob0NNQ3YtbXZnYURNYmhobjZ2Q01UZHJvd2ZSVTlkeklGMmk4SnkwM2ZLVHhnb3BoWmk1WG43RjVEUVE?oc=5",
+          "title": "West Coast oil pipeline becomes 1st project designated in national interest",
+          "title_ko": "서해안 송유관 1호 국익사업 지정",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGVGQXdYVUtyYlBCNExSckhCRE5uUFNFTkZYOXhCcDhVSGNwbHN0ZlYzNEtxOEM1V0hMS2M1NWZuY1VLNGY5V01ONTNFaXVYajJKWkZnZkNnQjNlRWxPYUFqWW11RmZ3NkI1eGFNbnVZeTFKNUR5c3dVQnhYVDJ1Q1I3b0hXcFk?oc=5",
           "source": "CBC",
-          "published": "2026-09-30T11:00:00Z"
+          "published": "2026-10-01T17:02:19Z"
         },
         {
-          "title": "When U.S. President Donald Trump renamed Lake Ontario, this company couldn’t ignore the antagonism",
-          "title_ko": "도널드 트럼프 미국 대통령이 레이크 온타리오(Lake Ontario)로 이름을 바꿨을 때, 이 회사는 이러한 적대감을 무시할 수 없었습니다.",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdEFhN2RodG1GX0ZNYmYya1hDTVkwQUZrM3kzRUNFRnBDWnM4enRnNk95ZGRsYmljRm5hSGlXRGpHUWhMQ3B3NGVLcE9xWEs5Ni1rWm41Z0FfcXpSMlZfemlvZVNwajZLNjNfUzlTYjZfMTQ0SzF5RzlTWW1aX0loZkdLcXRwUEkzWXhNRFJZanhCWV9raUlqaGU5TGVpa0RWT1FQZ3o2WmFBZ1JYbS1hQm9ZdVBYNlp3X0VHZDVjd2Fma3IySHJXMk04VWNWVE9u?oc=5",
-          "source": "CTV News",
-          "published": "2026-09-30T09:35:29Z"
+          "title": "Canada Malting plant could collapse at any moment, engineering report says",
+          "title_ko": "캐나다 몰팅 공장은 언제든지 붕괴될 수 있다고 엔지니어링 보고서는 밝혔습니다.",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oUnBjdklJUGhTbHdnQ3pmUWx3WkVLSmlTeUZ5TGRMMlFCeVZDMHV3MEM2S0c4a2wyREpVUU85QUMtQWtxcFN4aHpMYnl0aFVqcnFEVjJFOEJKRkc1aFBLamlRb0xYVEFpT0JISlJYNXNGYnpjRlA1WTkzclk?oc=5",
+          "source": "CBC",
+          "published": "2026-10-01T16:38:02Z"
+        },
+        {
+          "title": "Trump 'loves' Canadians, especially Gretzky, but thinks Canada's leaders are 'very bad'",
+          "title_ko": "트럼프는 캐나다인, 특히 그레츠키를 '사랑'하지만 캐나다 지도자들은 '매우 나쁘다'고 생각합니다.",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOajVOTS1hci1GVFFFVUdXYm0zNnhnc1RfMTY1VFdUSG9xVzNkcWRDdWViUTdHYzZUZDdmVi0tZ3VTbDdlQWZlSnltTGdQRE9ReWxQRktYLW0teUJDUVU1T1pCalR4aVNDeFp2ZDFHaUlZaHJPMXhpV1pMOGdUOF9JS1dYZ08wSnlKVE9SUzJSWWhBaDZkU0gxcWlqMHdyVUwyd24zRkllMGxaOV9DLVJv?oc=5",
+          "source": "National Post",
+          "published": "2026-10-01T15:20:57Z"
         }
       ]
     }
