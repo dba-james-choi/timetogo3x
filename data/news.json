@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T19:08:13Z",
+  "updated_at": "2026-10-02T18:12:31Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -12,31 +12,24 @@
           "published": "2026-10-01T00:55:00Z"
         },
         {
-          "title": "Police warn public after large black bear spotted in Saanich",
-          "title_ko": "경찰은 사니치에서 대형 흑곰이 발견되자 대중에게 경고했다.",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPckZpcVNEd2owWWU4S1ItTTl2dDhLV0MxRk1oNjF3dTJsQWVWSWJDMlk3WDZ2M0xEZE13VDktejdRM2g1OTNDS2dxX1E3MmVXNEFOUVQxMkJuemNKRnhFbXNXZVlYYkdkWXlBMEZOaHlWdmd5cWFnc2JEVlM2UXdrSnFPS2x5aVlyS3JCOWstQklVeXM?oc=5",
-          "source": "CHEK News",
-          "published": "2026-09-30T21:48:17Z"
+          "title": "Former chief coroner running in Saanich South for B.C. Greens",
+          "title_ko": "브리티시 컬럼비아 그린스(British Columbia Greens)를 위해 Saanich South에서 출마한 전 최고 검시관",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVRzdkJEYWZYYUxxLWJlSFRSb1ktTTE0Yk9rZUpDTG1OSXlQZ01yUFFvcVB5Mi01ZDVxdVItck9WUldOLXpWQ2pDcmhOQnpsamxTeHpERUR1a3Y4SU9yT3VoTllWN0p5SE85aTl4VFRBUjFFZ1R2MUxSbUtiY1M5SVAtXzJIdFpJTi1naTJfLUlWLWNMTzNNbm1acw?oc=5",
+          "source": "Oak Bay News",
+          "published": "2026-10-01T20:21:06Z"
         },
         {
-          "title": "East Saanich 2, BC Current Weather",
-          "title_ko": "East Saanich 2, BC 현재 날씨",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTTdaQUx4TW9MSTV0eVZDS1lvVzAxbzRlbjZBalM0VnNHS3NBdEdhaTh2ell0SEotS2xTYldaNUFaYmFBaWR2NEtuVm5ZTEQyU3VGRXVoSVZqcS05NHAzNXJ1ak1XMnNTMFhldTJSVDkwMnkzX2llUjVBR0h0RUJhU2hzQUJUaGE3YkZHTQ?oc=5",
-          "source": "The Weather Network",
-          "published": "2026-09-28T07:00:00Z"
+          "title": "Lawyer, community advocate steps up for B.C. NDP Saanich North, Islands",
+          "title_ko": "브리티시 컬럼비아 NDP Saanich North, Islands를 위한 변호사 및 지역 사회 옹호 활동",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOEhWUWs4WWI5S3BtUHM4dFRDMDByNm5sUkswb1NEcjhvYzJXYlBzb25EWWNrU0pBQ2tmUnZOclYzSHFZaHd4SlQ1bHhKMFNvb2lnX3lxanBjS3JvcXBPY3ZMOEpJM3lVZkF4WVFVMW5iQkdGWExDQlBBbEtyOTdkcm41MUNITlppcFk2VWNONkQzSUZ2VWhLVU1DOGZMbGZOa2pfQUVrVk1OU2g5LXhrM1V3?oc=5",
+          "source": "Peninsula News Review",
+          "published": "2026-10-02T16:57:49Z"
         }
       ]
     },
     "victoria": {
       "label": "Victoria",
       "articles": [
-        {
-          "title": "'Very large' black bear spotted in Saanich west of Pat Bay highway",
-          "title_ko": "Pat Bay 고속도로 서쪽 Saanich에서 '매우 큰' 흑곰 발견",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmJpMmhRSFExSDI1azkteldQWElPdTlpbVFBTlk3TmpGaldHSVFoaU9aV3BSN1JzMGl1MDZMaTlPYWVWV0V6SXlWVVYwX3ZXN2RBaEZYblEtZnJzSWFhZHNWTFhLSk1lTmFIdHBnTGx3c1BrU01PTVRBNXRPa3VSNGhYczRnRGRMOUdQeXNRb0ZwUHRNNUk5cXRmWk9JaE1oaEFKWUhQdnZvRTJCVi1NajhPeVc?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-10-01T00:55:00Z"
-        },
         {
           "title": "National Day for Truth and Reconciliation events for Greater Victoria",
           "title_ko": "광역 빅토리아의 진실과 화해를 위한 국경일 행사",
@@ -45,11 +38,18 @@
           "published": "2026-09-29T03:54:19Z"
         },
         {
-          "title": "Draw schedule set for GSOC Co-op Invitational in Victoria",
-          "title_ko": "빅토리아 GSOC Co-op Invitational 추첨 일정 확정",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT3VLU3FTdEhYUWRvcHlHdFFRdjl5S0hFRDZ0Z01xSHBlWjBCc3dnZlplQWJFZm5lRWQ1anZWSm1SdWlwdjV6aEZuNktRRHVORUhUa2s5WUIxTDI3NWNidW5lUkU3eDFlTkhKcGdyand3OVhjTUo4TG8wSFBuN1NJa2ltV29LYVhFUFVzLTREaU5FNU9BbXZZOERPcFk1aG82T0E?oc=5",
-          "source": "The Grand Slam of Curling",
-          "published": "2026-09-28T17:04:33Z"
+          "title": "Hotel proposed for Art Deco-style building gets Victoria council support",
+          "title_ko": "아르데코 스타일 건물로 제안된 호텔, 빅토리아 시의회 지원 받아",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUIyOTZuZnFFaUhRcGtmTnY4c2x3bHA0bjc1cW5Hd2h2dWJkUGRlWC00VTJCMjEydXA2a0JCNEpMYVpLTm81MFJPSXJkRDlGNnJYakNHRDA0LUEtazg3WGdQTnVpTWZaaGx5T096ZVpzc1kxcV9wS2JkeXdFQWdWa0hGTHpVaHctX0FGTmg3LXAzcXhnY1F3cVdrM3pianI2eUQxeWVvQ2N4TEs2TjlFZzhrUmJ2LVhWWjBBTlB3dw?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-10-02T11:15:00Z"
+        },
+        {
+          "title": "Eby promises plan to cut BC gas prices by up to 30 cents per litre if re-elected",
+          "title_ko": "Eby는 재선될 경우 BC 휘발유 가격을 리터당 최대 30센트 인하할 계획을 약속했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNm5yR1RjbjUyNGRjTVJwVU5EeXBzUDJPeTZQeWNOaUVwV0E5dDZ4VU5jbFlLMVZYODBCM0VfdHcxeXVHaW5xNjNoVkRSOFJvd1BBNFNSWFI0djBXMlFfYnE1cWZXSWRXSkxyUnY2a0NZckhqMzQ3eEhFbU5nTkpFSlhFSk8tbHh2czRuc1FkMVBsRGlhTkV1NnRYbWVrcjRGQjMxUmRFb0RBRi0ybDVQRlF2Qnc?oc=5",
+          "source": "victoriabuzz.com",
+          "published": "2026-10-01T21:30:35Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "Black bear killed on Lonsdale in North Vancouver",
-          "title_ko": "노스밴쿠버 론스데일에서 흑곰이 사살됐다.",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KcGhLaVNkajlQSWI0X2JnVXRzRGhxNDVTUmFmR1RnZmxVLVJmSFI3RGlQMGNzcHpqODUyem40UWRsSzZGU0w4MWJqQjc4d3ZTWkxPVzNaX1cxdV95TldKeWxwai1wbHR6SVlacG1YUQ?oc=5",
-          "source": "CityNews Vancouver",
-          "published": "2026-09-30T23:50:02Z"
+          "title": "Drivers told to expect delays as Vancouver begins repairs on Georgia Viaduct",
+          "title_ko": "밴쿠버가 조지아 육교(Georgia Viaduct)에서 수리를 시작함에 따라 운전자들은 지연을 예상한다는 말을 들었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZUF3MGk3TTNiZHlJcFI3ckI4aTZWdDJoeHk3LTM5dGo0VEFwV1hscWVUNVU3OVp3RDExLXo4WUFHbE1IS3RZMkt1ZWJNU1JSMFI0SWtyOXY0TmJlbUhrWFBFUElZcG01UG1YRFdsOXBaVFZEYTdYX3ZpbmdBODJjMkc3a2poZkp0bW94bUNqbzZPUHlTbFlhcw?oc=5",
+          "source": "CBC",
+          "published": "2026-10-02T12:30:00Z"
         },
         {
-          "title": "B.C. teacher caught in ‘predator’ sting on Grindr handed 7-year ban",
-          "title_ko": "브리티시 컬럼비아 교사는 Grindr의 '포식자'에게 7년 자격 정지 처분을 받았습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaENKREVMd01qRmtTTE9MOVpNVE4tRlB0T0RCSzFIaW9TU3FLOUNZNEpqeWN5TjRtQlpxam9NSHE1U0hoNld5RjZ6N1Z3ZE1jZFhIcUVMeG9HaGw5SU1jRjhET2xrLTNYWGlXdWF1cEhfMHJTdWFWNk5vNTlzOG1XWTFYUU96YkN1eDRscUhVU2E5b29hWm1BMHRCQnNDclRMaU5OQ2tPVkU?oc=5",
-          "source": "CTV News",
-          "published": "2026-10-01T00:29:00Z"
+          "title": "Bear claws, flying salmon and a long drop: 'The Amazing Race' kicks off in Vancouver with big stunt at BC Place",
+          "title_ko": "곰 발톱, 날아다니는 연어, 긴 낙하: '어메이징 레이스'가 밴쿠버 BC 플레이스에서 대규모 스턴트와 함께 시작됩니다.",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTmZmLWY4SEtZYVhHLVB6Y1gxVmRRRGc3M0x4MFNjclhUc2lRNHplQnNxc1J5X2p1NURacmYwaDRDaTdQNjJYQU1HRlVsdEpyLUt2XzAtSHFQVkhYY0NzVDVKU09yVVVWdXFKSktOMVFQcUljQnVIaTBpZW0wVUs0ekN6czhWMUx2d09vUFhQeHBqQzFpSVExMEluWVU?oc=5",
+          "source": "Vancouver Is Awesome",
+          "published": "2026-10-02T04:50:00Z"
         },
         {
-          "title": "B.C. tosses trafficking convictions, tells Ottawa to rework drug legislation",
-          "title_ko": "브리티시컬럼비아주, 인신매매 유죄 판결을 취소하고 오타와에 마약 법안을 재작업하라고 지시",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdG1mMG9kNkprUF9qb2Z3SFpBNU9lUnZlX0drVGZzYkppb0o4VGQtX29sT3ZWazF6QlVPcUcySnM3NTg2MUljU0VSaGdwOHkzWnVFSzlsV2NDWWJkNDFLMTYwb0JMTkNWOHl2dnpnZ2JKRHBCTG9PdDVneENOM25qNzZqTlo2UFl6RnVHMVlQR1ZUNGdrd3ZvM3REeGd1Y3p6N3M0Y2dLeXY4elNaU0xfWWZCWDBqZzVRRU5zMklmYXU?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-09-30T00:02:12Z"
+          "title": "B.C. university crowned third best in Canada in new global ranking",
+          "title_ko": "브리티시 컬럼비아 대학, 새로운 글로벌 순위에서 캐나다 내 3위로 선정",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdVVVZUJxOFQ1REN1Z3hSeWctUG9oRUZwM25VS3BJZDVReEdTQl9Dc2xYZndOM29BZWNoeXJoUG55eG1wckRSYUp6RlNkZ3BIRWpSZTBua0NBUjEzNFdET1V3NlVZVk14UEpaYmh3VkJ5djMwOW5QVTUwbDlyNVMtRmFiaw?oc=5",
+          "source": "Daily Hive",
+          "published": "2026-10-02T14:00:00Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "West Coast oil pipeline becomes 1st project designated in national interest",
-          "title_ko": "서해안 송유관 1호 국익사업 지정",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGVGQXdYVUtyYlBCNExSckhCRE5uUFNFTkZYOXhCcDhVSGNwbHN0ZlYzNEtxOEM1V0hMS2M1NWZuY1VLNGY5V01ONTNFaXVYajJKWkZnZkNnQjNlRWxPYUFqWW11RmZ3NkI1eGFNbnVZeTFKNUR5c3dVQnhYVDJ1Q1I3b0hXcFk?oc=5",
-          "source": "CBC",
-          "published": "2026-10-01T17:02:19Z"
-        },
-        {
-          "title": "Canada Malting plant could collapse at any moment, engineering report says",
-          "title_ko": "캐나다 몰팅 공장은 언제든지 붕괴될 수 있다고 엔지니어링 보고서는 밝혔습니다.",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oUnBjdklJUGhTbHdnQ3pmUWx3WkVLSmlTeUZ5TGRMMlFCeVZDMHV3MEM2S0c4a2wyREpVUU85QUMtQWtxcFN4aHpMYnl0aFVqcnFEVjJFOEJKRkc1aFBLamlRb0xYVEFpT0JISlJYNXNGYnpjRlA1WTkzclk?oc=5",
-          "source": "CBC",
-          "published": "2026-10-01T18:06:38Z"
-        },
-        {
-          "title": "Carney's electoral Trump card is falling flat in B.C., Quebec elections",
-          "title_ko": "카니의 선거인 트럼프 카드가 브리티시 컬럼비아, 퀘벡 선거에서 실패하고 있습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS2ZmVUhicTh5XzBYUHhIQTUxT3l1VUxqUHR5aG40RG02U2pJc2xQek5MSk85TWhhVEtGVDJreUxqWXRjZVE5amxMSmtISllmd3pEYVNhYUZtNURlazdfZXRnVVFtV0VrLUFFcjFiYTJfeVktcmhmUjN3VmlhRXJnb3Vqczd3MnZOcW5kRGRRdVlWcUVWeGtyZGtPZUN2cnNzNEVrOVk3ZEI?oc=5",
+          "title": "John Ivison: Carney pipeline boosting hasn't yet convinced investors that Canada has changed",
+          "title_ko": "John Ivison: Carney 파이프라인 강화는 아직 투자자들에게 캐나다가 변화했다는 사실을 확신시키지 못했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclJsVDV3Z0hGZng2eUhmdjEtX1lxZzU4RkNUY3JDcmRGOTJacGJzVWVrenp1Ul9qaUhSV3ZCVTMtTWxGQXg2dmVNUFhwSWQ0SlJ0WTlyNlAwRG9McHI0dWdsZDI4MlB6X3RTV2VGblFBUF9Jczhqa21iRWcxTkgydDI1VDlPakJxQ25KcVF0blJjVkdRT0VoQXhYOTRtc1dXaUZjLTJvNnNYRmVSekFqLWExSVFGSF9KbFhXMkh4Qlo?oc=5",
           "source": "National Post",
-          "published": "2026-10-01T14:00:48Z"
+          "published": "2026-10-02T10:03:12Z"
+        },
+        {
+          "title": "Black vulture, rarely seen in Canada, 'all the buzz' in Mayo, Yukon",
+          "title_ko": "캐나다에서는 거의 볼 수 없는 검은 독수리, 유콘주 마요에서 '모든 화제'",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fN19oWXlESHhuN3ZwcU55U3VkTHVMZ2lzLVlPR0NXc2hmMkQtQjZkT1VSVTlYS1R4WTF0dVNCMUcyN2ZjYWtDd09seDdxUWczS0xMOVBVeHdxQ3V5d3BJbkpxT1h5Mk9JR242N3ZBYzBNV0dPM1VfaGxUQQ?oc=5",
+          "source": "CBC",
+          "published": "2026-10-02T15:30:55Z"
+        },
+        {
+          "title": "Woman in fake nurse case narrowly escapes arrest warrant after 6th postponement",
+          "title_ko": "가짜 간호사 사건 여성, 6번째 구속영장 기각 끝에 간신히 탈출",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd3BrdXRrS2o2ZldaNF9MS21ENlplMWR3Z0NkYm4wWmtIb2ptMnAwYkhKMUxWRVBJOUNNNWxzY3o4czlhUmNwNUhPQm5VRHU1MUZCRTZodVoyV3ZpQmRKSmN2b3N1TVVGSjItdWdKQXpVSEtJb2FJejFQakRISnozd0xWbXlFbmlJYVp1aTIyb1JXWTV4cWxwYkdZZUN2dlk?oc=5",
+          "source": "CBC",
+          "published": "2026-10-02T15:17:09Z"
         }
       ]
     }
