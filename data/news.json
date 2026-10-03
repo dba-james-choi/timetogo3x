@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-10-02T18:47:50Z",
+  "updated_at": "2026-10-03T16:58:26Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
+        {
+          "title": "Former chief coroner Lisa Lapointe to run for B.C. Greens in Saanich South",
+          "title_ko": "전 검시관 Lisa Lapointe, Saanich South의 British Columbia Greens에 출마",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWsyLWxzc3VKc3VRN3RzUjVxb19TZ3Y4OV9rc2IzYTktWHh6aGxYY3NhN3FFVGswUUR0T0hUZDJPQi1XamhLUks0X01FNDJGSG5UaExtYkhuN3VxZGxCeE1zTmNIMDB4T01uRURnUkp3RVdsc1hxTXZiUlpVSnRoVngyakNhRk9KcU13NDlKdHNtbkY2T1ZOM1kxUHcxbmp5MG5SVjZ4NA?oc=5",
+          "source": "CBC",
+          "published": "2026-10-01T23:39:00Z"
+        },
         {
           "title": "'Very large' black bear spotted in Saanich west of Pat Bay highway",
           "title_ko": "Pat Bay 고속도로 서쪽 Saanich에서 '매우 큰' 흑곰 발견",
@@ -12,18 +19,11 @@
           "published": "2026-10-01T00:55:00Z"
         },
         {
-          "title": "Former chief coroner running in Saanich South for B.C. Greens",
-          "title_ko": "브리티시 컬럼비아 그린스(British Columbia Greens)를 위해 Saanich South에서 출마한 전 최고 검시관",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVRzdkJEYWZYYUxxLWJlSFRSb1ktTTE0Yk9rZUpDTG1OSXlQZ01yUFFvcVB5Mi01ZDVxdVItck9WUldOLXpWQ2pDcmhOQnpsamxTeHpERUR1a3Y4SU9yT3VoTllWN0p5SE85aTl4VFRBUjFFZ1R2MUxSbUtiY1M5SVAtXzJIdFpJTi1naTJfLUlWLWNMTzNNbm1acw?oc=5",
-          "source": "Oak Bay News",
-          "published": "2026-10-01T20:21:06Z"
-        },
-        {
-          "title": "Lawyer, community advocate steps up for B.C. NDP Saanich North, Islands",
-          "title_ko": "브리티시 컬럼비아 NDP Saanich North, Islands를 위한 변호사 및 지역 사회 옹호 활동",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOEhWUWs4WWI5S3BtUHM4dFRDMDByNm5sUkswb1NEcjhvYzJXYlBzb25EWWNrU0pBQ2tmUnZOclYzSHFZaHd4SlQ1bHhKMFNvb2lnX3lxanBjS3JvcXBPY3ZMOEpJM3lVZkF4WVFVMW5iQkdGWExDQlBBbEtyOTdkcm41MUNITlppcFk2VWNONkQzSUZ2VWhLVU1DOGZMbGZOa2pfQUVrVk1OU2g5LXhrM1V3?oc=5",
-          "source": "Peninsula News Review",
-          "published": "2026-10-02T16:57:49Z"
+          "title": "Police warn public after large black bear spotted in Saanich",
+          "title_ko": "경찰은 사니치에서 대형 흑곰이 발견되자 대중에게 경고했다.",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPckZpcVNEd2owWWU4S1ItTTl2dDhLV0MxRk1oNjF3dTJsQWVWSWJDMlk3WDZ2M0xEZE13VDktejdRM2g1OTNDS2dxX1E3MmVXNEFOUVQxMkJuemNKRnhFbXNXZVlYYkdkWXlBMEZOaHlWdmd5cWFnc2JEVlM2UXdrSnFPS2x5aVlyS3JCOWstQklVeXM?oc=5",
+          "source": "CHEK News",
+          "published": "2026-09-30T21:48:17Z"
         }
       ]
     },
@@ -31,25 +31,25 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Japanese Canadian monument unveiled in Victoria",
-          "title_ko": "빅토리아에서 일본계 캐나다인 기념물 공개",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZGozX1RzT3N5cDFQTlVhNHd3ZFY0eVpZUWdoRERmbWZXb3ZwXy1rLTA1SU1RMGhxQmNLOURncHp5M25WUzZXZVNVeTdQNFJ2RU9rbXUybkFWS1FXd3NOZ2ZFU200VE10Q0dLc0ZHXy1hT1QwQmNlTGZCNkZMWmxrNXR4TVU5SVk2cnhKbTFB?oc=5",
+          "title": "Suspect in violent attack on Victoria grocery store manager re-arrested",
+          "title_ko": "빅토리아 식료품점 매니저 폭행 혐의로 다시 체포",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMFRaOGlfbUhYLURablA2bEV1QWZCbVNqSDd1UjJ2TUdWMHR6Ul85RHk2UTFWMjlkejJNYThoRjVDVXVRZGxkNWdRdzVieUtuUUdCOUJVbmF0T2hidzFTYmI5R0NOZ1d5ZkVZZW5oSDMtYlpZa3U1OXdMci11dlZYRExxWkFOT0tJczExa2Q2WnpQV2dFTndTbzdGcFhWaU82Q010ag?oc=5",
           "source": "Global News",
-          "published": "2026-10-02T17:58:22Z"
+          "published": "2026-10-03T04:22:12Z"
         },
         {
-          "title": "National Day for Truth and Reconciliation events for Greater Victoria",
-          "title_ko": "광역 빅토리아의 진실과 화해를 위한 국경일 행사",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTDBKektKZE9vS1lMRk1WbXhIbHlGQ21CaEZtU2tSRjVsUGxkUzNKZlhPTGZRQXdHOUhsaXItOXRhNkxrVEhDSTdqRGo0TTVUX2ZTQnBpWHV5cTFMUUZUeHdDZ2VCenV5am5FVHFWUUlacTlHekFuNThIVXdnR3F5Z2Y1aDZNWGtOamhTLXl1RlRvLUFDalhSSWIyNUVIRUhuY3hFSQ?oc=5",
-          "source": "Capital Daily",
-          "published": "2026-09-29T03:54:19Z"
+          "title": "Fair deal and public funding needed to keep Victoria buses moving",
+          "title_ko": "빅토리아 버스를 계속 운행하려면 공정한 거래와 공공 자금이 필요합니다.",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcUlWZ3l1LTJOSnVOVXd4Wm5DZEVZbmFmUnkzMmxqY3BDTXA3bWUzdE9QSHkxYTQzVl9ocmRBUV9VLVoxd2hETUgwUHVZeWwzNElaSW9mTDl2N2hlbUw5N0VlREJXakhZaHM3V3FQcE9pMFZ6VkhSYURzS2JROGxrUkVCLTB2TjJ0QlpxY3NpbGpYeFlLS0lVUUMzMEt3Y0tYdWpUSE9raGFORTRDN1BSdW9namNsYTlEZnc?oc=5",
+          "source": "PR Newswire Canada",
+          "published": "2026-10-02T19:04:00Z"
         },
         {
-          "title": "Hotel proposed for Art Deco-style building gets Victoria council support",
-          "title_ko": "아르데코 스타일 건물로 제안된 호텔, 빅토리아 시의회 지원 받아",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUIyOTZuZnFFaUhRcGtmTnY4c2x3bHA0bjc1cW5Hd2h2dWJkUGRlWC00VTJCMjEydXA2a0JCNEpMYVpLTm81MFJPSXJkRDlGNnJYakNHRDA0LUEtazg3WGdQTnVpTWZaaGx5T096ZVpzc1kxcV9wS2JkeXdFQWdWa0hGTHpVaHctX0FGTmg3LXAzcXhnY1F3cVdrM3pianI2eUQxeWVvQ2N4TEs2TjlFZzhrUmJ2LVhWWjBBTlB3dw?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-10-02T11:15:00Z"
+          "title": "Failed talks spark possible restart of BC Transit overtime ban in Victoria",
+          "title_ko": "협상 실패로 인해 빅토리아 주 BC Transit 초과근무 금지 재개 가능성",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGhqMmYxT3EwcndBNU9qY0l3dU5DRzJZWlpQaEx5Y2tSS0xjaGF4ZUU0bHZQcjU0eEh3VFB2MENXRE01REpBMDhrOEJGYnR5aURmMFZsZGNYOVNpRkFrN1BTVVNhMWpNNFdTM19kWVFwX05XUXJvRDRSNlgzMzdTNzQ5RUk0N0tBdmdfbUF2cDYzODFKZW1nR2U3cWI3SXNSemxpQkUzMGlBZw?oc=5",
+          "source": "Victoria News",
+          "published": "2026-10-02T23:03:56Z"
         }
       ]
     },
@@ -64,18 +64,18 @@
           "published": "2026-10-02T04:50:00Z"
         },
         {
-          "title": "B.C. university crowned third best in Canada in new global ranking",
-          "title_ko": "브리티시 컬럼비아 대학, 새로운 글로벌 순위에서 캐나다 내 3위로 선정",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdVVVZUJxOFQ1REN1Z3hSeWctUG9oRUZwM25VS3BJZDVReEdTQl9Dc2xYZndOM29BZWNoeXJoUG55eG1wckRSYUp6RlNkZ3BIRWpSZTBua0NBUjEzNFdET1V3NlVZVk14UEpaYmh3VkJ5djMwOW5QVTUwbDlyNVMtRmFiaw?oc=5",
-          "source": "Daily Hive",
-          "published": "2026-10-02T14:00:00Z"
+          "title": "B.C. reverses course, approves funding for boy's crucial overseas brain treatment",
+          "title_ko": "브리티시 컬럼비아주, 소년의 중요한 해외 뇌 치료에 대한 자금 지원을 승인",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2JLeWFlckM0WGRvLUFnZ1hJb3NLMWwzbUFGU0dUNnp1Z3hLS3o4SXlIY1JjaEgzZGlxZnBnRWdBblFXUGVVMHNwRjRPUjJiQ2lmUy1tdmRPRjlIMDhMZ2hYZXBqdTI4UDNqNXNqSDZfWmdmcHIwVXZBWmFMMFBYOHVMcGIwT0lXLUlReWxXbjFsMDFjMzVwNjRXeVBlZUpjblpaUFdwZ0J1VUF4MG5EakREMWtPYnMzXzlQc0VNT1c2b1c2?oc=5",
+          "source": "CityNews Vancouver",
+          "published": "2026-10-02T23:26:00Z"
         },
         {
-          "title": "Police Watchdog investigating after man jumps from Metro Vancouver bridge",
-          "title_ko": "메트로 밴쿠버 다리에서 남성이 뛰어내린 뒤 경찰 감시단이 조사 중",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVQ4RGdFYUdYeUFxU01JLUI2ZEZsUDFIbC05dThtZERfMUt0YnlYN0F0UFExcWVEMW1mcW9IMnA1RWRvQlRxOUF2LUQ2dVdyWWRpTEs2Ri1SaG1XdVBxMVRjWkNPTmFNZXBJR0tGMzc4ODBtX0xOV0RVNVVGXzBfY0ltRmpUeTRSbV8yVEdJWGpGWU1DQ3dYT2NSYUwyLV95TTVrcVFUTzdXWjdpSXlGRVgzYw?oc=5",
-          "source": "Castanet",
-          "published": "2026-10-01T19:44:00Z"
+          "title": "Driver arrested after truck crashes into Vancouver, B.C., nursing home",
+          "title_ko": "트럭이 브리티시컬럼비아주 밴쿠버 요양원에 충돌한 뒤 운전자 체포",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMU5VTWs0VFc4QjlONE1iZXRUVWt4TklBbWJhNzlobU02Rnl3SEFYTkgya2FXc1JYODdsZk1iZ1luZHJ5VEpvampPRWZvRWdPME54elpvSmdyWVBrd2pCSXJFY1RoaHdnYUZDSXJUMHBDSGowcFhBWXFiSFI2aEpLbnNkVDlqUGhPSUU2VWdBODFRWTltOGhMNXFYY00?oc=5",
+          "source": "CHEK News",
+          "published": "2026-10-02T22:24:49Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "It's the biggest Alberta separatist account on the internet. It has links to a movement leader",
-          "title_ko": "이는 인터넷에서 가장 큰 앨버타 분리주의자 계정입니다. 운동 지도자와 연결되어 있습니다.",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXF2WDFlZ0ozVmZNSGNHTWNQZ0dQNllzRmRLNFBhMGFCWWU5OUVNS1ZKMzUycEdvd1cwazJrN1c4NjFpemJ4Z19DbW1pTkx2Z015X0dUZG91RTBUb2ttMmVYZmZsVGdVek9vTkZsaUt4d3F1dXgyQnZ1VXNyZzBLVFpMbGtlM1pmck1KNm9zcmxjRmZuZ0tQejlZVEstRmxHQk9OY21TckxOQkkxYWtoUA?oc=5",
-          "source": "CBC",
-          "published": "2026-10-02T08:00:00Z"
+          "title": "Separatists Are Set to Win Quebec’s Election. What Will It Mean for Independence?",
+          "title_ko": "분리주의자들이 퀘벡 선거에서 승리할 것으로 예상됩니다. 독립은 무엇을 의미하는가?",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPenBBdjNvQk50STdTSmlxWkVhanlZQ2pxaThaNHE3MFVTeGlQNmZxdEJwUG1lSVNiNU5pWHZmbGNmNURrQUc2Ukt3U0hsV2RDemFmX1lUUFNjeDEwdHhTZFBHMDlLSmtoZlUtcExzZUN4d21nYXg5bk9kRVFoc1hJRDd4eU9MVnNhaEp1SU1PQ0FQVHR4QXBCemhhakF2Ym5OeDNfRmN1bE1XS1Ay?oc=5",
+          "source": "The New York Times",
+          "published": "2026-10-03T09:02:05Z"
         },
         {
-          "title": "Black vulture, rarely seen in Canada, 'all the buzz' in Mayo, Yukon",
-          "title_ko": "캐나다에서는 거의 볼 수 없는 검은 독수리, 유콘주 마요에서 '모든 화제'",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fN19oWXlESHhuN3ZwcU55U3VkTHVMZ2lzLVlPR0NXc2hmMkQtQjZkT1VSVTlYS1R4WTF0dVNCMUcyN2ZjYWtDd09seDdxUWczS0xMOVBVeHdxQ3V5d3BJbkpxT1h5Mk9JR242N3ZBYzBNV0dPM1VfaGxUQQ?oc=5",
+          "title": "Carney, Smith say new West Coast pipeline could get oil companies building again",
+          "title_ko": "Carney와 Smith는 새로운 서해안 파이프라인이 석유 회사를 다시 건설하게 할 수 있다고 말했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlhGdjdibVNkVzBBU254RHlHR0JNV3pDak05WW1aNWc4VDdEV0JFbENsVEluRnBObm9pbjB0b1UzNnlveTJ1S1hEZjd2ZVVDdmZBaDlQYUFEbVd3endIMGI1Z29iY0tBdWRLbWg5QkdObUd3b0hkX3JrWVF5MGVTZmdUUmM?oc=5",
           "source": "CBC",
-          "published": "2026-10-02T15:30:55Z"
+          "published": "2026-10-02T21:27:54Z"
         },
         {
-          "title": "Woman in fake nurse case narrowly escapes arrest warrant after 6th postponement",
-          "title_ko": "가짜 간호사 사건 여성, 6번째 구속영장 기각 끝에 간신히 탈출",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd3BrdXRrS2o2ZldaNF9MS21ENlplMWR3Z0NkYm4wWmtIb2ptMnAwYkhKMUxWRVBJOUNNNWxzY3o4czlhUmNwNUhPQm5VRHU1MUZCRTZodVoyV3ZpQmRKSmN2b3N1TVVGSjItdWdKQXpVSEtJb2FJejFQakRISnozd0xWbXlFbmlJYVp1aTIyb1JXWTV4cWxwYkdZZUN2dlk?oc=5",
-          "source": "CBC",
-          "published": "2026-10-02T15:17:09Z"
+          "title": "Five arrested after year-long probe into extortion at Langley car dealership",
+          "title_ko": "Langley 자동차 판매점에서 1년간의 강탈 혐의로 조사를 받은 후 5명이 체포되었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVzdmSGpGMUZiMW8zR0REcUlYRFFTSHM3MURvTVdtLU9ZOUZUSjJKQ0syeGRyeVZrbUVhWU5KREtoZWdRbTdaQVdXQTJ3dXF2aWwwN0RuZG1MSU1YSEtBazQ5QnJrMXFtT3ZwQ0FyVV9uV1VZNWhLR3FEZFNWODBnOEdPVTBRLVVl?oc=5",
+          "source": "Vancouver Sun",
+          "published": "2026-10-03T00:31:15Z"
         }
       ]
     }
