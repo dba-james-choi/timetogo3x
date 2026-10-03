@@ -1,16 +1,9 @@
 {
-  "updated_at": "2026-10-03T16:58:26Z",
+  "updated_at": "2026-10-03T17:40:54Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
-        {
-          "title": "Former chief coroner Lisa Lapointe to run for B.C. Greens in Saanich South",
-          "title_ko": "전 검시관 Lisa Lapointe, Saanich South의 British Columbia Greens에 출마",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWsyLWxzc3VKc3VRN3RzUjVxb19TZ3Y4OV9rc2IzYTktWHh6aGxYY3NhN3FFVGswUUR0T0hUZDJPQi1XamhLUks0X01FNDJGSG5UaExtYkhuN3VxZGxCeE1zTmNIMDB4T01uRURnUkp3RVdsc1hxTXZiUlpVSnRoVngyakNhRk9KcU13NDlKdHNtbkY2T1ZOM1kxUHcxbmp5MG5SVjZ4NA?oc=5",
-          "source": "CBC",
-          "published": "2026-10-01T23:39:00Z"
-        },
         {
           "title": "'Very large' black bear spotted in Saanich west of Pat Bay highway",
           "title_ko": "Pat Bay 고속도로 서쪽 Saanich에서 '매우 큰' 흑곰 발견",
@@ -19,11 +12,18 @@
           "published": "2026-10-01T00:55:00Z"
         },
         {
-          "title": "Police warn public after large black bear spotted in Saanich",
-          "title_ko": "경찰은 사니치에서 대형 흑곰이 발견되자 대중에게 경고했다.",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPckZpcVNEd2owWWU4S1ItTTl2dDhLV0MxRk1oNjF3dTJsQWVWSWJDMlk3WDZ2M0xEZE13VDktejdRM2g1OTNDS2dxX1E3MmVXNEFOUVQxMkJuemNKRnhFbXNXZVlYYkdkWXlBMEZOaHlWdmd5cWFnc2JEVlM2UXdrSnFPS2x5aVlyS3JCOWstQklVeXM?oc=5",
-          "source": "CHEK News",
-          "published": "2026-09-30T21:48:17Z"
+          "title": "Former chief coroner running in Saanich South for B.C. Greens",
+          "title_ko": "브리티시 컬럼비아 그린스(British Columbia Greens)를 위해 Saanich South에서 출마한 전 최고 검시관",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVRzdkJEYWZYYUxxLWJlSFRSb1ktTTE0Yk9rZUpDTG1OSXlQZ01yUFFvcVB5Mi01ZDVxdVItck9WUldOLXpWQ2pDcmhOQnpsamxTeHpERUR1a3Y4SU9yT3VoTllWN0p5SE85aTl4VFRBUjFFZ1R2MUxSbUtiY1M5SVAtXzJIdFpJTi1naTJfLUlWLWNMTzNNbm1acw?oc=5",
+          "source": "Oak Bay News",
+          "published": "2026-10-01T20:21:06Z"
+        },
+        {
+          "title": "Former chief coroner Lisa Lapointe to run for B.C. Greens in Saanich South",
+          "title_ko": "전 검시관 Lisa Lapointe, Saanich South의 British Columbia Greens에 출마",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWsyLWxzc3VKc3VRN3RzUjVxb19TZ3Y4OV9rc2IzYTktWHh6aGxYY3NhN3FFVGswUUR0T0hUZDJPQi1XamhLUks0X01FNDJGSG5UaExtYkhuN3VxZGxCeE1zTmNIMDB4T01uRURnUkp3RVdsc1hxTXZiUlpVSnRoVngyakNhRk9KcU13NDlKdHNtbkY2T1ZOM1kxUHcxbmp5MG5SVjZ4NA?oc=5",
+          "source": "CBC",
+          "published": "2026-10-01T23:39:00Z"
         }
       ]
     },
@@ -46,7 +46,7 @@
         },
         {
           "title": "Failed talks spark possible restart of BC Transit overtime ban in Victoria",
-          "title_ko": "협상 실패로 인해 빅토리아 주 BC Transit 초과근무 금지 재개 가능성",
+          "title_ko": "협상 실패로 인해 빅토리아주 BC Transit 초과근무 금지 재개 가능성",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGhqMmYxT3EwcndBNU9qY0l3dU5DRzJZWlpQaEx5Y2tSS0xjaGF4ZUU0bHZQcjU0eEh3VFB2MENXRE01REpBMDhrOEJGYnR5aURmMFZsZGNYOVNpRkFrN1BTVVNhMWpNNFdTM19kWVFwX05XUXJvRDRSNlgzMzdTNzQ5RUk0N0tBdmdfbUF2cDYzODFKZW1nR2U3cWI3SXNSemxpQkUzMGlBZw?oc=5",
           "source": "Victoria News",
           "published": "2026-10-02T23:03:56Z"
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
+          "title": "City of Saskatoon cancels in-person count of unsheltered people over safety concerns",
+          "title_ko": "새스커툰 시는 안전 문제로 인해 보호받지 못한 사람의 대면 집계를 취소했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaWItSHBoUGN5empJY2hKbWpGMERoa0JyTWw2UzAwREJhdkU0aFczVmxaMkRMU2daOVBiRVlobDdlMFVRYkNNbnhtZHZtNzl6YmJueDF0TGt2Y3BZa3pGdW1HNGJSQy1GSEpvRzVUREZaeGpxTHpoM0ZYVllwUGFmRzlwX0h6VkRFSGlTR1ptZE0xdGJWcVcxSDlZX0R0Ny1NOHNBd3NmQ2c3RmxDQTJpZzBabDcwQjlxMGhhSnYtWXR6NC1hc0tMNUQ5dw?oc=5",
+          "source": "CBC",
+          "published": "2026-10-03T11:00:00Z"
+        },
+        {
           "title": "Separatists Are Set to Win Quebec’s Election. What Will It Mean for Independence?",
           "title_ko": "분리주의자들이 퀘벡 선거에서 승리할 것으로 예상됩니다. 독립은 무엇을 의미하는가?",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPenBBdjNvQk50STdTSmlxWkVhanlZQ2pxaThaNHE3MFVTeGlQNmZxdEJwUG1lSVNiNU5pWHZmbGNmNURrQUc2Ukt3U0hsV2RDemFmX1lUUFNjeDEwdHhTZFBHMDlLSmtoZlUtcExzZUN4d21nYXg5bk9kRVFoc1hJRDd4eU9MVnNhaEp1SU1PQ0FQVHR4QXBCemhhakF2Ym5OeDNfRmN1bE1XS1Ay?oc=5",
-          "source": "The New York Times",
+          "source": "nytimes.com",
           "published": "2026-10-03T09:02:05Z"
         },
         {
-          "title": "Carney, Smith say new West Coast pipeline could get oil companies building again",
-          "title_ko": "Carney와 Smith는 새로운 서해안 파이프라인이 석유 회사를 다시 건설하게 할 수 있다고 말했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlhGdjdibVNkVzBBU254RHlHR0JNV3pDak05WW1aNWc4VDdEV0JFbENsVEluRnBObm9pbjB0b1UzNnlveTJ1S1hEZjd2ZVVDdmZBaDlQYUFEbVd3endIMGI1Z29iY0tBdWRLbWg5QkdObUd3b0hkX3JrWVF5MGVTZmdUUmM?oc=5",
-          "source": "CBC",
-          "published": "2026-10-02T21:27:54Z"
-        },
-        {
-          "title": "Five arrested after year-long probe into extortion at Langley car dealership",
-          "title_ko": "Langley 자동차 판매점에서 1년간의 강탈 혐의로 조사를 받은 후 5명이 체포되었습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVzdmSGpGMUZiMW8zR0REcUlYRFFTSHM3MURvTVdtLU9ZOUZUSjJKQ0syeGRyeVZrbUVhWU5KREtoZWdRbTdaQVdXQTJ3dXF2aWwwN0RuZG1MSU1YSEtBazQ5QnJrMXFtT3ZwQ0FyVV9uV1VZNWhLR3FEZFNWODBnOEdPVTBRLVVl?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-10-03T00:31:15Z"
+          "title": "Alberta separation debate puts community divisions on display ahead of referendum",
+          "title_ko": "앨버타 분리 논쟁으로 국민투표에 앞서 지역사회 분열이 드러나게 되었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdEJ4OEFNREFIdmVTZmRLSGJUeF9hdEdNZnR1b2RVVDFyUGhjUHFiS0lDV01ISnZlVlBTb2QwN0syWFUwa2YzNi1FQVBIQVdXODZFTWI0NUlyckZTT3VKV1hCNGRJLXJLNFBVampwNnltMHRhNEY3Szl2cXRpQk5lU2Jlay13bXBRN3dNWTY4bko0eXRSZDRiYms3OXUtbEY2X1M1ZTVTVVdvTTVRNDlXTFVhR3lXYWFfMDg4TndEZHM3SERfWDZmVV9NMWRWeUE4YU5lWG1R?oc=5",
+          "source": "CTV News",
+          "published": "2026-10-03T09:00:00Z"
         }
       ]
     }
