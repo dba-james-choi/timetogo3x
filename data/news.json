@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-04T17:17:11Z",
+  "updated_at": "2026-10-04T17:54:37Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
+          "title": "B.C.'s capital city of Victoria and Saanich to hold amalgamation plebiscite during the civic election",
+          "title_ko": "브리티시컬럼비아의 주도인 빅토리아와 사니치(Saanich)는 시민선거 기간 동안 합병 국민투표를 실시할 예정이다.",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNzkyeW0zRGtUalJGYk55Tk83VERYUXdzMUM0WGhHTk9Oa1NhVTA4djRSR21URzBvVkhoYXpremRMZHhLWDJZazlBRkFOUDB0S0hCcEM2LVJkOGhtdno3RnFWT3ZmcDZXejhMN2RXcC1MS19RSVhlX3VHcHhLRzZ0a3BXclQxQWRDY1Z5SzFxXzFmYW5xSkhOdUU4bHVvdXZGZnVKejlTbHJwSkk?oc=5",
+          "source": "Daily Hive",
+          "published": "2026-10-03T18:25:00Z"
+        },
+        {
+          "title": "Former chief coroner running in Saanich South for B.C. Greens",
+          "title_ko": "브리티시 컬럼비아 그린스(British Columbia Greens)를 위해 Saanich South에서 출마한 전 최고 검시관",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVRzdkJEYWZYYUxxLWJlSFRSb1ktTTE0Yk9rZUpDTG1OSXlQZ01yUFFvcVB5Mi01ZDVxdVItck9WUldOLXpWQ2pDcmhOQnpsamxTeHpERUR1a3Y4SU9yT3VoTllWN0p5SE85aTl4VFRBUjFFZ1R2MUxSbUtiY1M5SVAtXzJIdFpJTi1naTJfLUlWLWNMTzNNbm1acw?oc=5",
+          "source": "Oak Bay News",
+          "published": "2026-10-01T20:21:06Z"
+        },
+        {
           "title": "Former chief coroner Lisa Lapointe to run for B.C. Greens in Saanich South",
           "title_ko": "전 검시관 Lisa Lapointe, Saanich South의 British Columbia Greens에 출마",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWsyLWxzc3VKc3VRN3RzUjVxb19TZ3Y4OV9rc2IzYTktWHh6aGxYY3NhN3FFVGswUUR0T0hUZDJPQi1XamhLUks0X01FNDJGSG5UaExtYkhuN3VxZGxCeE1zTmNIMDB4T01uRURnUkp3RVdsc1hxTXZiUlpVSnRoVngyakNhRk9KcU13NDlKdHNtbkY2T1ZOM1kxUHcxbmp5MG5SVjZ4NA?oc=5",
-          "source": "CBC",
+          "source": "cbc.ca",
           "published": "2026-10-01T23:39:00Z"
-        },
-        {
-          "title": "'Very large' black bear spotted in Saanich west of Pat Bay highway",
-          "title_ko": "Pat Bay 고속도로 서쪽 Saanich에서 '매우 큰' 흑곰 발견",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmJpMmhRSFExSDI1azkteldQWElPdTlpbVFBTlk3TmpGaldHSVFoaU9aV3BSN1JzMGl1MDZMaTlPYWVWV0V6SXlWVVYwX3ZXN2RBaEZYblEtZnJzSWFhZHNWTFhLSk1lTmFIdHBnTGx3c1BrU01PTVRBNXRPa3VSNGhYczRnRGRMOUdQeXNRb0ZwUHRNNUk5cXRmWk9JaE1oaEFKWUhQdnZvRTJCVi1NajhPeVc?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-10-01T00:55:00Z"
-        },
-        {
-          "title": "Police warn public after large black bear spotted in Saanich",
-          "title_ko": "경찰은 Saanich에서 대형 흑곰이 발견된 후 대중에게 경고했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPckZpcVNEd2owWWU4S1ItTTl2dDhLV0MxRk1oNjF3dTJsQWVWSWJDMlk3WDZ2M0xEZE13VDktejdRM2g1OTNDS2dxX1E3MmVXNEFOUVQxMkJuemNKRnhFbXNXZVlYYkdkWXlBMEZOaHlWdmd5cWFnc2JEVlM2UXdrSnFPS2x5aVlyS3JCOWstQklVeXM?oc=5",
-          "source": "CHEK News",
-          "published": "2026-09-30T21:48:17Z"
         }
       ]
     },
@@ -41,14 +41,14 @@
           "title": "Suspect in violent attack on Victoria grocery store manager re-arrested",
           "title_ko": "빅토리아 식료품점 매니저 폭행 혐의로 다시 체포",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMFRaOGlfbUhYLURablA2bEV1QWZCbVNqSDd1UjJ2TUdWMHR6Ul85RHk2UTFWMjlkejJNYThoRjVDVXVRZGxkNWdRdzVieUtuUUdCOUJVbmF0T2hidzFTYmI5R0NOZ1d5ZkVZZW5oSDMtYlpZa3U1OXdMci11dlZYRExxWkFOT0tJczExa2Q2WnpQV2dFTndTbzdGcFhWaU82Q010ag?oc=5",
-          "source": "Global News",
+          "source": "globalnews.ca",
           "published": "2026-10-03T04:22:12Z"
         },
         {
           "title": "B.C. man sentenced to 8 months in jail for antisemitic graffiti on Victoria synagogue",
           "title_ko": "빅토리아 유대교 회당에 반유대주의 낙서를 한 브리티시 컬럼비아 남성에게 징역 8개월 선고",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS3RFcS00MjNpU1JobXRaUmpfTU9QMlYwb1JTbjlLNXYyQnM4NmJ1V3JrY1JSZ2RYXzZfLXNFRVdRWEZ0cUpfTTFFaWdnY0FxaUZweHhnOWp2SnpRQnozZHZlY0FwZTMzckFDNlp4dnpDMHc1a1UyRFFyQWRucHpvVmt0ZEwxQmdKeXRaUDhxVm0xWmJxNUs2Yk9YRnh0b25XMV9wRUpfUHhBLUZ4Ynd2bTVyT3RUejZlcUNHMnRtcF91aDZYZ291aWVqX1I?oc=5",
-          "source": "CBC",
+          "source": "cbc.ca",
           "published": "2026-10-02T23:02:00Z"
         }
       ]
@@ -74,7 +74,7 @@
           "title": "B.C. reverses course, approves funding for boy's crucial overseas brain treatment",
           "title_ko": "브리티시 컬럼비아주, 소년의 중요한 해외 뇌 치료에 대한 자금 지원을 승인",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2JLeWFlckM0WGRvLUFnZ1hJb3NLMWwzbUFGU0dUNnp1Z3hLS3o4SXlIY1JjaEgzZGlxZnBnRWdBblFXUGVVMHNwRjRPUjJiQ2lmUy1tdmRPRjlIMDhMZ2hYZXBqdTI4UDNqNXNqSDZfWmdmcHIwVXZBWmFMMFBYOHVMcGIwT0lXLUlReWxXbjFsMDFjMzVwNjRXeVBlZUpjblpaUFdwZ0J1VUF4MG5EakREMWtPYnMzXzlQc0VNT1c2b1c2?oc=5",
-          "source": "vancouver.citynews.ca",
+          "source": "CityNews Vancouver",
           "published": "2026-10-02T23:26:00Z"
         }
       ]
@@ -84,24 +84,24 @@
       "articles": [
         {
           "title": "U.S. Coast Guard says priority is finding survivors from missing Ontario air ambulance",
-          "title_ko": "미국 해안경비대 \"온타리오 구급차 실종자 생존자 찾는 것이 우선\"",
+          "title_ko": "미국 해안경비대 \"온타리오 구급차 실종자 생존자 찾는 것이 최우선\"",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3F3Y3NhbWRsdHdTSDFUeXpMN1RsazhHQzdkM1Q3cmZ4NUg1bGlKcnNnNTR0bzZCTE14azl1akJPbjRubkR3emZFQ0Y3RTZBdE5DdTNXeUt2OEZiXy1NRjl4LU9FZklVSi0yOVZnM28xVWNENWxYdndyQ05vQ2tVMjg1cmt4bnM4a1gzT3RXXzFObUZsWFhDTVdSaXJsZWM?oc=5",
-          "source": "CBC",
+          "source": "cbc.ca",
           "published": "2026-10-04T17:07:38Z"
         },
         {
-          "title": "‘The community has benefited’: Business owner concerned about Alta. immigration referendum",
-          "title_ko": "'커뮤니티가 혜택을 받았습니다': 알타를 우려하는 사업주. 이민 국민투표",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWEh6Tk15bTMtZERGTTlzaHl4X2k2MVp3SU9MWjhCVzV5UFctNEsxUHR2UUt4SjRmSnBIM1dxdlNwS2Mzclc0cFhqZ2t4SEx5VGZzeEhMd2ZHSDVUQm5KMVYtMFFjZXFaaHNIVmkzT01jZkh1QWZJRG1VdUVCNUdOYm02UGdnVGhiUHd2Ml9zYV9TMHI2ajM3VkdRbWhHdkoyYXhfUE01dkFXOVozd2NiUkVocE5Ic2d5NE1URVd5OUV4cVlISnJtcHdZdkRrZG5PNmxoeFRMeUhVVzRj?oc=5",
+          "title": "‘We will build this pipeline for the people of Canada’: Hodgson promises Pacific Link will get built",
+          "title_ko": "'우리는 캐나다 국민을 위해 이 파이프라인을 구축할 것입니다': Hodgson은 Pacific Link가 구축될 것이라고 약속합니다.",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUVlENmx5SlJyYlZ2aXRaWGZJM21LRnlVSHZadmNhSExtbG9fZGdOSFZvM0ctMUtObHFoVmhFaE9mRm1PTUotaFJkWWszLU11Zm5fVmoyOWZsSWtGSGFZZUF3TGYzV3ZlNFVBQUhQa1lkM1RpR3R1WHpvZ08wSm1uM3NjUV8tQk1YbG5lV0RFbk4yci1jZExUWUVNTUFJeHNBWHE0aFF5cTNfaDVRTGEwRkJYYXNvMTdmNnRPcVdVRGl5ZTllZUxrb09aRTlvYS02VlE?oc=5",
           "source": "CTV News",
           "published": "2026-10-04T09:00:00Z"
         },
         {
-          "title": "'Super unprecedented': How the Parti Québécois could win a majority with less than a third of the vote",
-          "title_ko": "'전례 없는 초유의': 퀘벡당이 3분의 1도 안 되는 득표율로 다수당을 획득한 방법",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVE8tMWM3QlkwODhqN0hSRlZLM3VrVVUtQVRZSV90Wm9TSjRnWklvZDJTczlkR2R2ZGlTTTlhLUJRU3FLaVB1M29KUlRYcjB4NDZXZ216ZGwwNWR6N3VUQkdWbVotODFGbFVISG9jRkh4Vzk5V05TN1g5R0JTN2FVbVdRQzVjeFRwaTFFZGh3TFNTUDBUSUJYMTdwRFVadGR5c0cyVlptLU1CZjBpOTh5YnlrOWRjemlWcXczVnJlRlNhMmxSRlVnVHpBMk5kcTRwNkE?oc=5",
-          "source": "National Post",
-          "published": "2026-10-04T16:52:30Z"
+          "title": "‘The community has benefited’: Business owner concerned about Alta. immigration referendum",
+          "title_ko": "'커뮤니티가 혜택을 받았습니다': 사업주가 알타를 우려합니다. 이민 국민투표",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWEh6Tk15bTMtZERGTTlzaHl4X2k2MVp3SU9MWjhCVzV5UFctNEsxUHR2UUt4SjRmSnBIM1dxdlNwS2Mzclc0cFhqZ2t4SEx5VGZzeEhMd2ZHSDVUQm5KMVYtMFFjZXFaaHNIVmkzT01jZkh1QWZJRG1VdUVCNUdOYm02UGdnVGhiUHd2Ml9zYV9TMHI2ajM3VkdRbWhHdkoyYXhfUE01dkFXOVozd2NiUkVocE5Ic2d5NE1URVd5OUV4cVlISnJtcHdZdkRrZG5PNmxoeFRMeUhVVzRj?oc=5",
+          "source": "CTV News",
+          "published": "2026-10-04T09:00:00Z"
         }
       ]
     }
