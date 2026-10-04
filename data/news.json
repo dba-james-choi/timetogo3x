@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-10-03T17:40:54Z",
+  "updated_at": "2026-10-04T17:17:11Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
+        {
+          "title": "Former chief coroner Lisa Lapointe to run for B.C. Greens in Saanich South",
+          "title_ko": "전 검시관 Lisa Lapointe, Saanich South의 British Columbia Greens에 출마",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWsyLWxzc3VKc3VRN3RzUjVxb19TZ3Y4OV9rc2IzYTktWHh6aGxYY3NhN3FFVGswUUR0T0hUZDJPQi1XamhLUks0X01FNDJGSG5UaExtYkhuN3VxZGxCeE1zTmNIMDB4T01uRURnUkp3RVdsc1hxTXZiUlpVSnRoVngyakNhRk9KcU13NDlKdHNtbkY2T1ZOM1kxUHcxbmp5MG5SVjZ4NA?oc=5",
+          "source": "CBC",
+          "published": "2026-10-01T23:39:00Z"
+        },
         {
           "title": "'Very large' black bear spotted in Saanich west of Pat Bay highway",
           "title_ko": "Pat Bay 고속도로 서쪽 Saanich에서 '매우 큰' 흑곰 발견",
@@ -12,24 +19,24 @@
           "published": "2026-10-01T00:55:00Z"
         },
         {
-          "title": "Former chief coroner running in Saanich South for B.C. Greens",
-          "title_ko": "브리티시 컬럼비아 그린스(British Columbia Greens)를 위해 Saanich South에서 출마한 전 최고 검시관",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVRzdkJEYWZYYUxxLWJlSFRSb1ktTTE0Yk9rZUpDTG1OSXlQZ01yUFFvcVB5Mi01ZDVxdVItck9WUldOLXpWQ2pDcmhOQnpsamxTeHpERUR1a3Y4SU9yT3VoTllWN0p5SE85aTl4VFRBUjFFZ1R2MUxSbUtiY1M5SVAtXzJIdFpJTi1naTJfLUlWLWNMTzNNbm1acw?oc=5",
-          "source": "Oak Bay News",
-          "published": "2026-10-01T20:21:06Z"
-        },
-        {
-          "title": "Former chief coroner Lisa Lapointe to run for B.C. Greens in Saanich South",
-          "title_ko": "전 검시관 Lisa Lapointe, Saanich South의 British Columbia Greens에 출마",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWsyLWxzc3VKc3VRN3RzUjVxb19TZ3Y4OV9rc2IzYTktWHh6aGxYY3NhN3FFVGswUUR0T0hUZDJPQi1XamhLUks0X01FNDJGSG5UaExtYkhuN3VxZGxCeE1zTmNIMDB4T01uRURnUkp3RVdsc1hxTXZiUlpVSnRoVngyakNhRk9KcU13NDlKdHNtbkY2T1ZOM1kxUHcxbmp5MG5SVjZ4NA?oc=5",
-          "source": "CBC",
-          "published": "2026-10-01T23:39:00Z"
+          "title": "Police warn public after large black bear spotted in Saanich",
+          "title_ko": "경찰은 Saanich에서 대형 흑곰이 발견된 후 대중에게 경고했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPckZpcVNEd2owWWU4S1ItTTl2dDhLV0MxRk1oNjF3dTJsQWVWSWJDMlk3WDZ2M0xEZE13VDktejdRM2g1OTNDS2dxX1E3MmVXNEFOUVQxMkJuemNKRnhFbXNXZVlYYkdkWXlBMEZOaHlWdmd5cWFnc2JEVlM2UXdrSnFPS2x5aVlyS3JCOWstQklVeXM?oc=5",
+          "source": "CHEK News",
+          "published": "2026-09-30T21:48:17Z"
         }
       ]
     },
     "victoria": {
       "label": "Victoria",
       "articles": [
+        {
+          "title": "New monument to Japanese Canadians reminder of dark period in B.C.’s past",
+          "title_ko": "브리티시 컬럼비아의 과거 암흑기를 상기시키는 일본계 캐나다인을 기리는 새로운 기념물",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc1ZWd1BlUzVyWUpJV2d2TlRsTWhha25vS0RWRTJyWnVoWXpxeDViR3ZEdXVaMG9uZXIyYngxb1A0VmdoMjZZaXhGZXB6YUtNR3pXdDJONUtLNWZlMmpHTlRTMWJCTy1MZVdnZUNsV0MwU0MxRHRfUmJvRWZVMUpCeFllRnhhU1docWxITm1JS2pLSGhZaTBPa2c5bUJXOVlYVWhTa3k3QlhxbTItUWtwRnBQTWZnQlQ1aVU5Zg?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-10-04T12:00:00Z"
+        },
         {
           "title": "Suspect in violent attack on Victoria grocery store manager re-arrested",
           "title_ko": "빅토리아 식료품점 매니저 폭행 혐의로 다시 체포",
@@ -38,18 +45,11 @@
           "published": "2026-10-03T04:22:12Z"
         },
         {
-          "title": "Fair deal and public funding needed to keep Victoria buses moving",
-          "title_ko": "빅토리아 버스를 계속 운행하려면 공정한 거래와 공공 자금이 필요합니다.",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcUlWZ3l1LTJOSnVOVXd4Wm5DZEVZbmFmUnkzMmxqY3BDTXA3bWUzdE9QSHkxYTQzVl9ocmRBUV9VLVoxd2hETUgwUHVZeWwzNElaSW9mTDl2N2hlbUw5N0VlREJXakhZaHM3V3FQcE9pMFZ6VkhSYURzS2JROGxrUkVCLTB2TjJ0QlpxY3NpbGpYeFlLS0lVUUMzMEt3Y0tYdWpUSE9raGFORTRDN1BSdW9namNsYTlEZnc?oc=5",
-          "source": "PR Newswire Canada",
-          "published": "2026-10-02T19:04:00Z"
-        },
-        {
-          "title": "Failed talks spark possible restart of BC Transit overtime ban in Victoria",
-          "title_ko": "협상 실패로 인해 빅토리아주 BC Transit 초과근무 금지 재개 가능성",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGhqMmYxT3EwcndBNU9qY0l3dU5DRzJZWlpQaEx5Y2tSS0xjaGF4ZUU0bHZQcjU0eEh3VFB2MENXRE01REpBMDhrOEJGYnR5aURmMFZsZGNYOVNpRkFrN1BTVVNhMWpNNFdTM19kWVFwX05XUXJvRDRSNlgzMzdTNzQ5RUk0N0tBdmdfbUF2cDYzODFKZW1nR2U3cWI3SXNSemxpQkUzMGlBZw?oc=5",
-          "source": "Victoria News",
-          "published": "2026-10-02T23:03:56Z"
+          "title": "B.C. man sentenced to 8 months in jail for antisemitic graffiti on Victoria synagogue",
+          "title_ko": "빅토리아 유대교 회당에 반유대주의 낙서를 한 브리티시 컬럼비아 남성에게 징역 8개월 선고",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS3RFcS00MjNpU1JobXRaUmpfTU9QMlYwb1JTbjlLNXYyQnM4NmJ1V3JrY1JSZ2RYXzZfLXNFRVdRWEZ0cUpfTTFFaWdnY0FxaUZweHhnOWp2SnpRQnozZHZlY0FwZTMzckFDNlp4dnpDMHc1a1UyRFFyQWRucHpvVmt0ZEwxQmdKeXRaUDhxVm0xWmJxNUs2Yk9YRnh0b25XMV9wRUpfUHhBLUZ4Ynd2bTVyT3RUejZlcUNHMnRtcF91aDZYZ291aWVqX1I?oc=5",
+          "source": "CBC",
+          "published": "2026-10-02T23:02:00Z"
         }
       ]
     },
@@ -64,18 +64,18 @@
           "published": "2026-10-02T04:50:00Z"
         },
         {
+          "title": "All Vancouver Island candidates for the 2026 B.C. election",
+          "title_ko": "2026년 브리티시 컬럼비아 선거의 모든 밴쿠버 섬 후보자",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSm5ONkVQLUhjMnR6bFo1UFFHVXVuV0tkTEthTkZZdmFkN3RBSG84SWk1QnhyeTN3WWZQR0x0aF9mcGJqLXZuelNNbERBSllrcjBvQU9MaTNvNGdpZUZWSTVKS1FqWVRVRWJZVFFwY0xtemRtejBrZ3REVUdlN1cwTFRJUFVfNjNzZ0ZpSDJGbw?oc=5",
+          "source": "CHEK News",
+          "published": "2026-10-03T20:28:59Z"
+        },
+        {
           "title": "B.C. reverses course, approves funding for boy's crucial overseas brain treatment",
           "title_ko": "브리티시 컬럼비아주, 소년의 중요한 해외 뇌 치료에 대한 자금 지원을 승인",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2JLeWFlckM0WGRvLUFnZ1hJb3NLMWwzbUFGU0dUNnp1Z3hLS3o4SXlIY1JjaEgzZGlxZnBnRWdBblFXUGVVMHNwRjRPUjJiQ2lmUy1tdmRPRjlIMDhMZ2hYZXBqdTI4UDNqNXNqSDZfWmdmcHIwVXZBWmFMMFBYOHVMcGIwT0lXLUlReWxXbjFsMDFjMzVwNjRXeVBlZUpjblpaUFdwZ0J1VUF4MG5EakREMWtPYnMzXzlQc0VNT1c2b1c2?oc=5",
-          "source": "CityNews Vancouver",
+          "source": "vancouver.citynews.ca",
           "published": "2026-10-02T23:26:00Z"
-        },
-        {
-          "title": "Driver arrested after truck crashes into Vancouver, B.C., nursing home",
-          "title_ko": "트럭이 브리티시컬럼비아주 밴쿠버 요양원에 충돌한 뒤 운전자 체포",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMU5VTWs0VFc4QjlONE1iZXRUVWt4TklBbWJhNzlobU02Rnl3SEFYTkgya2FXc1JYODdsZk1iZ1luZHJ5VEpvampPRWZvRWdPME54elpvSmdyWVBrd2pCSXJFY1RoaHdnYUZDSXJUMHBDSGowcFhBWXFiSFI2aEpLbnNkVDlqUGhPSUU2VWdBODFRWTltOGhMNXFYY00?oc=5",
-          "source": "CHEK News",
-          "published": "2026-10-02T22:24:49Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "City of Saskatoon cancels in-person count of unsheltered people over safety concerns",
-          "title_ko": "새스커툰 시는 안전 문제로 인해 보호받지 못한 사람의 대면 집계를 취소했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaWItSHBoUGN5empJY2hKbWpGMERoa0JyTWw2UzAwREJhdkU0aFczVmxaMkRMU2daOVBiRVlobDdlMFVRYkNNbnhtZHZtNzl6YmJueDF0TGt2Y3BZa3pGdW1HNGJSQy1GSEpvRzVUREZaeGpxTHpoM0ZYVllwUGFmRzlwX0h6VkRFSGlTR1ptZE0xdGJWcVcxSDlZX0R0Ny1NOHNBd3NmQ2c3RmxDQTJpZzBabDcwQjlxMGhhSnYtWXR6NC1hc0tMNUQ5dw?oc=5",
+          "title": "U.S. Coast Guard says priority is finding survivors from missing Ontario air ambulance",
+          "title_ko": "미국 해안경비대 \"온타리오 구급차 실종자 생존자 찾는 것이 우선\"",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3F3Y3NhbWRsdHdTSDFUeXpMN1RsazhHQzdkM1Q3cmZ4NUg1bGlKcnNnNTR0bzZCTE14azl1akJPbjRubkR3emZFQ0Y3RTZBdE5DdTNXeUt2OEZiXy1NRjl4LU9FZklVSi0yOVZnM28xVWNENWxYdndyQ05vQ2tVMjg1cmt4bnM4a1gzT3RXXzFObUZsWFhDTVdSaXJsZWM?oc=5",
           "source": "CBC",
-          "published": "2026-10-03T11:00:00Z"
+          "published": "2026-10-04T17:07:38Z"
         },
         {
-          "title": "Separatists Are Set to Win Quebec’s Election. What Will It Mean for Independence?",
-          "title_ko": "분리주의자들이 퀘벡 선거에서 승리할 것으로 예상됩니다. 독립은 무엇을 의미하는가?",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPenBBdjNvQk50STdTSmlxWkVhanlZQ2pxaThaNHE3MFVTeGlQNmZxdEJwUG1lSVNiNU5pWHZmbGNmNURrQUc2Ukt3U0hsV2RDemFmX1lUUFNjeDEwdHhTZFBHMDlLSmtoZlUtcExzZUN4d21nYXg5bk9kRVFoc1hJRDd4eU9MVnNhaEp1SU1PQ0FQVHR4QXBCemhhakF2Ym5OeDNfRmN1bE1XS1Ay?oc=5",
-          "source": "nytimes.com",
-          "published": "2026-10-03T09:02:05Z"
-        },
-        {
-          "title": "Alberta separation debate puts community divisions on display ahead of referendum",
-          "title_ko": "앨버타 분리 논쟁으로 국민투표에 앞서 지역사회 분열이 드러나게 되었습니다.",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdEJ4OEFNREFIdmVTZmRLSGJUeF9hdEdNZnR1b2RVVDFyUGhjUHFiS0lDV01ISnZlVlBTb2QwN0syWFUwa2YzNi1FQVBIQVdXODZFTWI0NUlyckZTT3VKV1hCNGRJLXJLNFBVampwNnltMHRhNEY3Szl2cXRpQk5lU2Jlay13bXBRN3dNWTY4bko0eXRSZDRiYms3OXUtbEY2X1M1ZTVTVVdvTTVRNDlXTFVhR3lXYWFfMDg4TndEZHM3SERfWDZmVV9NMWRWeUE4YU5lWG1R?oc=5",
+          "title": "‘The community has benefited’: Business owner concerned about Alta. immigration referendum",
+          "title_ko": "'커뮤니티가 혜택을 받았습니다': 알타를 우려하는 사업주. 이민 국민투표",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWEh6Tk15bTMtZERGTTlzaHl4X2k2MVp3SU9MWjhCVzV5UFctNEsxUHR2UUt4SjRmSnBIM1dxdlNwS2Mzclc0cFhqZ2t4SEx5VGZzeEhMd2ZHSDVUQm5KMVYtMFFjZXFaaHNIVmkzT01jZkh1QWZJRG1VdUVCNUdOYm02UGdnVGhiUHd2Ml9zYV9TMHI2ajM3VkdRbWhHdkoyYXhfUE01dkFXOVozd2NiUkVocE5Ic2d5NE1URVd5OUV4cVlISnJtcHdZdkRrZG5PNmxoeFRMeUhVVzRj?oc=5",
           "source": "CTV News",
-          "published": "2026-10-03T09:00:00Z"
+          "published": "2026-10-04T09:00:00Z"
+        },
+        {
+          "title": "'Super unprecedented': How the Parti Québécois could win a majority with less than a third of the vote",
+          "title_ko": "'전례 없는 초유의': 퀘벡당이 3분의 1도 안 되는 득표율로 다수당을 획득한 방법",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVE8tMWM3QlkwODhqN0hSRlZLM3VrVVUtQVRZSV90Wm9TSjRnWklvZDJTczlkR2R2ZGlTTTlhLUJRU3FLaVB1M29KUlRYcjB4NDZXZ216ZGwwNWR6N3VUQkdWbVotODFGbFVISG9jRkh4Vzk5V05TN1g5R0JTN2FVbVdRQzVjeFRwaTFFZGh3TFNTUDBUSUJYMTdwRFVadGR5c0cyVlptLU1CZjBpOTh5YnlrOWRjemlWcXczVnJlRlNhMmxSRlVnVHpBMk5kcTRwNkE?oc=5",
+          "source": "National Post",
+          "published": "2026-10-04T16:52:30Z"
         }
       ]
     }
