@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T21:22:13Z",
+  "updated_at": "2026-10-06T18:45:57Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -19,11 +19,11 @@
           "published": "2026-10-01T23:39:00Z"
         },
         {
-          "title": "Scientist, volunteer running for Centre B.C. in Saanich North and the Islands",
-          "title_ko": "과학자, Saanich North 및 Islands의 브리티시 컬럼비아 센터를 위해 자원 봉사 활동",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkhRV096bkpPTGxsQ2dFdHJJUUpuR21oY1M3NV9pbzM0MHlXYlhkWUlzZnExWUk0V3lyX3VhclVRbGRXcXIxX2l2Q192OXhYczBvcElnaFVzX2dLU1A0bUNua3JRSjF6Rm9KM3RvVXZsdE9LQmJZcE9UN2NuaUxHWld0eGt3b21NZVd2V0NLSTFCY1AyYnc0YlFXdHBmeDlCaGRnbEl3blJzS01JV1FsUndsekdPSnFGSUJZ?oc=5",
-          "source": "peninsulanewsreview.com",
-          "published": "2026-10-05T15:58:27Z"
+          "title": "'Very large' black bear spotted in Saanich west of Pat Bay highway",
+          "title_ko": "Pat Bay 고속도로 서쪽 Saanich에서 '매우 큰' 흑곰 발견",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmJpMmhRSFExSDI1azkteldQWElPdTlpbVFBTlk3TmpGaldHSVFoaU9aV3BSN1JzMGl1MDZMaTlPYWVWV0V6SXlWVVYwX3ZXN2RBaEZYblEtZnJzSWFhZHNWTFhLSk1lTmFIdHBnTGx3c1BrU01PTVRBNXRPa3VSNGhYczRnRGRMOUdQeXNRb0ZwUHRNNUk5cXRmWk9JaE1oaEFKWUhQdnZvRTJCVi1NajhPeVc?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-10-01T00:55:00Z"
         }
       ]
     },
@@ -31,25 +31,25 @@
       "label": "Victoria",
       "articles": [
         {
+          "title": "VICTORIA, B.C. NAMED BEST SMALL CITY IN THE WORLD FOR FOURTH CONSECUTIVE YEAR IN CONDÉ NAST TRAVELER'S 2026 READERS' CHOICE AWARDS",
+          "title_ko": "브리티시컬럼비아주 빅토리아는 CONDÉ NAST TRAVELER의 2026년 독자 초이스 어워드에서 4년 연속 세계 최고의 작은 도시로 선정되었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdXpiRmljYllDdnNsR0xQWndCT0lFRGRmUE91WGhRLXZQWFAzbXdhUEdVTEdiYko4WjNyLWp6Ukl0NFJjR0hsdkxLdWRnTVpBU0JpZE4zNGpjNTY1dFlGLUlaZllfSURjdkNPclhqSlgwdHZqdXhzbTFnNnQ4Um9UYzQ4ak1rb2MyckszUHZWWkcyS09STFMxUWV6cGlWR0gxeWduUFBXMkZBVk02Z1AzNzlmQTJyb1EtbXE5SjBCZ25BVkpVc1JBWHBhWVBxbTBnSUVfQ1E1VFNud1JMb0xfb2pjWGZ6RUh3VXVGeVdIbWJQcHg2MkV5VmRxSXJEWnZ3Wmp5VmdjUERLV0ZB?oc=5",
+          "source": "PR Newswire Canada",
+          "published": "2026-10-06T13:06:00Z"
+        },
+        {
+          "title": "Victoria council OKs hotel pitched for former BC Power historic art deco building",
+          "title_ko": "빅토리아 시의회는 이전 BC 전력의 역사적인 아르데코 건물에 호텔을 내놓았습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQenBuSEs4YW1Gd2tCWG41bDB0SC1VQUcxUF9VT2hPRWs5alhpV1lzbTduZjZ2dnhodjY0UFJKR3JKTGU5Q2EyaWNVa3dPbWZhaEY2MHc4LTVjSVJ1QzNlZjUwV1l1NzQ4cndsWWl3WTE1VkVjNGpOQTIxZ1hDTWJpRzZIeGxUQmkwbkxMajMxbm5qYW5qZWpaVVZRSFdNWlRvOFBvNHhwenFfN0hhWXhnb3BjWQ?oc=5",
+          "source": "Victoria News",
+          "published": "2026-10-06T15:53:14Z"
+        },
+        {
           "title": "Suspect in violent attack on Victoria grocery store manager re-arrested",
           "title_ko": "빅토리아 식료품점 매니저 폭행 혐의로 다시 체포",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMFRaOGlfbUhYLURablA2bEV1QWZCbVNqSDd1UjJ2TUdWMHR6Ul85RHk2UTFWMjlkejJNYThoRjVDVXVRZGxkNWdRdzVieUtuUUdCOUJVbmF0T2hidzFTYmI5R0NOZ1d5ZkVZZW5oSDMtYlpZa3U1OXdMci11dlZYRExxWkFOT0tJczExa2Q2WnpQV2dFTndTbzdGcFhWaU82Q010ag?oc=5",
           "source": "Global News",
           "published": "2026-10-03T04:22:12Z"
-        },
-        {
-          "title": "Eby lands in Victoria, promises tax hike on wealthy to fund health care",
-          "title_ko": "Eby는 빅토리아에 상륙하고 건강 관리 자금을 조달하기 위해 부유층에 대한 세금 인상을 약속합니다.",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSzdVMU1ienZleERPMEc3OWYxSWxPZXBFWFZTZ3VBaU9IUUYtSDB4d2hmZzFwYkZ2U21xVkJudkRuWnc1QWItQVVHLVhCUXNFZzZwbDhudjFJVU9VUlRyQUpmemFLVXdGblhudTR6ZXdGMWdIb19CVjVsU0lUQm04ZUYwRGRYczZnblZxT05JV1pJbUZjR2JrUlJEMEcwSmpWVktPVg?oc=5",
-          "source": "Victoria News",
-          "published": "2026-10-05T03:37:16Z"
-        },
-        {
-          "title": "Meet the 32 candidates running across Greater Victoria in BC’s election",
-          "title_ko": "BC주 선거에서 광역 빅토리아 전역에 출마한 32명의 후보자를 만나보세요",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXFsemcwX2dYdzFuTURhcWkzTjZNYmNiZTJud3JEaXdqeHFWWUNLeGpkX2I2aUFUWUk0RFJseHh3QjNwNGNsUmR5THV0UDZmdmtHUTgtOFdIZktuM3FtMXI4MUM3V1BYQnUzVm5vRmJQaEU0Zy0yVXBpODh6TnQ5NzdfUTBnWUE4czZHLUN1VGxYR2VFZW55MUFzS0QyQ29MenI0cEFnQQ?oc=5",
-          "source": "Victoria Buzz",
-          "published": "2026-10-05T17:04:03Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "B.C. Election: David Eby pitches new tax hikes for highest earners",
-          "title_ko": "브리티시 컬럼비아 선거: David Eby, 최고 소득자를 위한 새로운 세금 인상 제안",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXpqRG1MMGlJTENfRjloODN0dWg1T0lhSDJfOHB1M0Vkd2s4ZDBNVDE2cndKWVpHejhmOWstV2E2M21VUUo4bkdKRlpjVTdMMHR2OTZnOWI5V0JYTVRsTjVoaXhoMHJoSEZkMlU3RF8wQkNGdlNUVmIzaFdzRjBRazRaX2Q2S18yNTB5b3pBZ245TVpOc1JudFhDSmFoUQ?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-10-05T02:14:40Z"
-        },
-        {
-          "title": "All Vancouver Island candidates for the 2026 B.C. election",
-          "title_ko": "2026년 브리티시 컬럼비아 선거의 모든 밴쿠버 섬 후보자",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSm5ONkVQLUhjMnR6bFo1UFFHVXVuV0tkTEthTkZZdmFkN3RBSG84SWk1QnhyeTN3WWZQR0x0aF9mcGJqLXZuelNNbERBSllrcjBvQU9MaTNvNGdpZUZWSTVKS1FqWVRVRWJZVFFwY0xtemRtejBrZ3REVUdlN1cwTFRJUFVfNjNzZ0ZpSDJGbw?oc=5",
-          "source": "CHEK News",
-          "published": "2026-10-03T20:28:59Z"
-        },
-        {
-          "title": "20 fantastic things to do in Vancouver this week: Oct. 5 to 11",
-          "title_ko": "이번 주 밴쿠버에서 할 수 있는 환상적인 일 20가지: 10월 5일부터 11일까지",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zcExuMWw1VXFnLWxkX1VaRFhwV1dFMnloV2I3REVzTmFoTDQ1WEdMY3RCQ1FxOGVkSlhDMVpkQklDYWc1RXdvNGd6b0RDNEVQSjh3UDZuZlBGLWlOSXVfejQ5dl9PbzBtbjlOaFpn?oc=5",
+          "title": "Conservatives vow to strip Metro Vancouver Regional District of its responsibilities | Daily Hive | Urbanized",
+          "title_ko": "보수주의자들은 메트로 밴쿠버 지역구의 책임을 박탈하겠다고 다짐 | 데일리 하이브 | 도시화",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXFfYThaUGJuZ19ENTZJRnN1MERWYURZbWwzLWUtX2dYMTRpVW95aVhib1BZaG4zeEVhSVJISUlvTW5NU0xyU3BUemZoejgzM0NGN3JpbGM3dHNuZGVDVVB2OW1Odk9ncVZ3cUpkenpGZVFhWGlhQUhrYlNCTXVwdmhUXzViakh4NXBLVmNYU1E4X3N4N2hpOVZYRUwwc2VkdkM4ZXlqMlBnQQ?oc=5",
           "source": "Daily Hive",
-          "published": "2026-10-04T19:00:00Z"
+          "published": "2026-10-06T04:21:00Z"
+        },
+        {
+          "title": "Vancouver school support workers vote overwhelmingly to back strike action",
+          "title_ko": "밴쿠버 학교 지원 노동자들이 파업을 지지하기 위해 압도적으로 투표했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUVNwR1VBWEtsUlNtUjNRQXYxRUZzT0x5N2FRZUZGN0tGZ2pmMEZFamtSLU9lZEYtYUZFV1RocmZDVjg4VW4tOWVFRjUyZUEyRk5WTEtzOXR1aUlBMS1OLWVWNjNiWGRxNjZUSFc2bHF2YlZSSjJ0TXVndDhxS1Nhb3E1SXA4VEpsemp1WTF0bG9ZREU?oc=5",
+          "source": "CBC",
+          "published": "2026-10-06T00:42:00Z"
+        },
+        {
+          "title": "B.C. teen rescued after using AI to plan hiking route",
+          "title_ko": "AI를 사용하여 하이킹 경로를 계획한 후 구조된 브리티시 컬럼비아의 10대",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXRQRVBIclpkU0JHaWRGc3V1YnByZUdlZzVKQnBLZUtpUVFqWUp2YTkyYjBUNjFaUXlaOHg1ZVcwT3FOdjd0MkI1aDM5bHhMQU1CclVTWlV2cjN2RkNQdS1Sb01PVC1hQkIwam54NU5YWmJ4anQzYXpFTzhjSnkybUE5VXlEVENYRm9VNTVVLTBHdjBVVjY1Z2FGdVVjNUFqczFxYQ?oc=5",
+          "source": "CTV News",
+          "published": "2026-10-06T17:10:47Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "12-year-old hit in the face by exploding firework, Port Moody police say",
-          "title_ko": "포트무디 경찰 \"폭죽 터져 12세 소년 얼굴에 부상\"",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNnljdWFnTFNsODc3dmE3cTl4UUpCOUVrOGdKcURRNHBiTGk0QTdsX25feGlDMG1TVC1nM0EzM0dpbzgzQWNqcG04YkwtRHkzTW5FaWZFdDVDRUF5MnJ0cVlrQXVnWDlTSTU5RjJpNTZQVzF2dTFHYnhsMmRtX0E4Ml9tOWk4emZodWVPdnRGeF9wdU1vNUg2RktOTGxPekgzTTh0WHRUbGhxUDZ4ZXNHYURvWQ?oc=5",
-          "source": "CTV News",
-          "published": "2026-10-05T15:31:24Z"
+          "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+          "title_ko": "분리주의 정당이 퀘벡 선거에서 승리할 것으로 예상되어 캐나다의 통합에 새로운 시험대를 추가",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oQ2dRRklEclhVX2JfaVo1UmxKRFBTME9fVm9GVXBBQVJ4c0RSVmdNa3U5X2NhOWUybzVscHhpUWV2RVpYdEtmNERKV1QyQlFIU2h3WVBibEdUSkk?oc=5",
+          "source": "BBC",
+          "published": "2026-10-06T16:51:59Z"
         },
         {
-          "title": "Man accused in massive gold heist at Toronto's Pearson airport pleads not guilty as trial begins",
-          "title_ko": "토론토 피어슨 공항에서 대규모 금강탈 혐의로 기소된 남성, 재판이 시작되면서 무죄 주장",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNUZycm4zSGg1TllTWUR6Q0p5QXFQaHBjM0V5Wlo2d0VSeWVYLXhOWTVwSy0tTGh4R1NJT2dSd3hCQ0dLYVh1Nk04Tl9hbkc0NGw3SVZBWENCYV80STRFYVYyUnZKUHZUUjk3c05pX0FFZk5QaDNYUFRlMU1PWklOd1RPNmUxTVA2Tnc?oc=5",
-          "source": "CBC",
-          "published": "2026-10-05T15:42:14Z"
+          "title": "Chris Alexander drops out of Toronto mayor’s race after new poll shows him well behind Olivia Chow, Brad Bradford",
+          "title_ko": "Chris Alexander는 새로운 여론 조사에서 Olivia Chow, Brad Bradford에 훨씬 뒤처진 것으로 나타난 후 토론토 시장 선거에서 탈락했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLXMwTXFlcHhyd21RcHRFS0N6WnYwS05yUmI5UmZJeG1WMGFCeWUwX1hKdXU5Z0J4bTFrVzkzYnROZVZlelVySGdJQ3REakt5dGpqbEtaakZYU1hqNlF6QUhFR3FNc3FLTmpWcmpCVFNkRTJETVMweF83b1VKdXUzSWhEUW1HcFItaTgtU01YQ3kwRG0yQjJJdG1zNmpLdTcyVjZ6bWtYYU93Q3UtQTBqSlVWei1qZw?oc=5",
+          "source": "CP24",
+          "published": "2026-10-06T13:35:09Z"
         },
         {
-          "title": "Quebec heads to the polls with focus more on Trump than independence",
-          "title_ko": "퀘벡은 독립보다 트럼프에 더 초점을 맞춰 여론조사에 나선다",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGpVVnRKUWRpaXI1ZnRkZ1psZWFJT1VKbE9sSVBpN0kyWUppUlh4d2hhUl9kbEdTN0pKRFhFYUJ5SGNlT2owbWFfSVltSnhKMktIWm5oaWx5SXV3M2NjUDhMRklDd3k0aUJ3QVY4REZrN1RFSmk1Xy1vWFBqWDJkVEJPM2dSTUFYTms3cDgzcHZuRUV1aXc3VVhXcEJvRTVPTDJNTWRIM09xWldhWWc?oc=5",
-          "source": "Reuters",
-          "published": "2026-10-05T16:45:43Z"
+          "title": "U.S. person arrested in connection with deadly Tumbler Ridge shooting",
+          "title_ko": "텀블러 리지 총격 사건 용의자 미국인 체포",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXJsSEN2bDlXam5jNzRVMGRoSlE4UzdJVlhxMFpFTEU2NmhHSkJCTC1sallDRTJpMkUxdUlFUTNXY1lqa180TFdISVBOV1Y1bVl1ak9zMXZTSjNubnpCZ1RvSVBFN3B5dUhkMzFtR3RHLWRfQTdHbkpaRjE2NjFPQkhRUXZ5QzNiSzlj?oc=5",
+          "source": "Global News",
+          "published": "2026-10-06T17:16:30Z"
         }
       ]
     }
