@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T19:08:18Z",
+  "updated_at": "2026-10-08T19:34:02Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -65,7 +65,7 @@
         },
         {
           "title": "Vancouver rent just had the biggest monthly increase in Canada's major markets",
-          "title_ko": "밴쿠버 임대료는 캐나다 주요 시장에서 월별 가장 큰 증가세를 보였습니다.",
+          "title_ko": "밴쿠버 임대료는 캐나다 주요 시장에서 가장 큰 월간 증가율을 기록했습니다.",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GMlp3TVlsY01CYzF6NDUycl9xeVMwRUxJWUFrci1CZFdXbnh1MjZEdWFRT3FvZUVmYlN4emlDWERtTElhMXUwN0w3WlpwMlVjMDA0UlRhNG5rZTJ4NkFHRExhMzEzWHFod2c?oc=5",
           "source": "Daily Hive",
           "published": "2026-10-07T17:38:00Z"
@@ -83,8 +83,15 @@
       "label": "Canada",
       "articles": [
         {
+          "title": "Cold Lake First Nations push for judicial review of pipeline designation",
+          "title_ko": "Cold Lake First Nations는 파이프라인 지정에 대한 사법적 검토를 추진합니다.",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZU9HenBVTkl0dVVFbC12VHVmYU1SWVF5M1l5S1lNcVdBSFFQV1VTZlhQOHFNT0xKX2tEM09JdnNQYUtkcFJBQktyT1lQekRQUWtqZEEwMGpUS1lha1hCOVdNQWV3NzdOdVNiekw4b1cyMkstUlk0bFlxeURQZmowdUd6NGVsUzk2Yk9zcnc0QjByTkFHZ2pmTA?oc=5",
+          "source": "The Globe and Mail",
+          "published": "2026-10-08T18:30:44Z"
+        },
+        {
           "title": "Oshawa museum faces nearly $3K in city fines over homeless encampments on property",
-          "title_ko": "오샤와 박물관은 부지 내 노숙자 캠프로 인해 약 3,000달러의 시 벌금을 부과받게 되었습니다.",
+          "title_ko": "오샤와 박물관은 부지 내 노숙자 캠프로 인해 시 벌금 약 3,000달러에 직면",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOUFBMEl1ZUl3Rm5FbVk4ZXdkdjJRZjdtTnQ4ZFJXcy1HbmEwNkk0bjR4WWZGZWM5MVVQaE45WXVnUnhMb3Q2S1hVNFVTeU9lMEt6QUpIVVIzU2JQTS1xTjRGT3g2ZGI2TUQ3SGZUR0J5YUNoUGhKYUxCX05EemRGT3gyVzB1WEdoWThURVdfTTgxT3Q1Y09SVk5LSDAxV1Q2ZWNPX1JCOA?oc=5",
           "source": "CBC",
           "published": "2026-10-08T12:21:08Z"
@@ -95,13 +102,6 @@
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wY3h6THJ6ZWhvaTh3TjR0VmFPZjhpNnZpUnotYTRlS3dXUTNlRHE0RkhUWndjSmlQQjVmV2I2c1Q5M2tyY19fTmFYVQ?oc=5",
           "source": "VOCM",
           "published": "2026-10-08T16:03:00Z"
-        },
-        {
-          "title": "‘Caught in the middle’ More than 500 private career colleges impacted by OSAP freeze",
-          "title_ko": "'중간' OSAP 동결로 인해 500개 이상의 사립 직업 대학이 영향을 받음",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3ZRUEZqMWNMZ1V4Q3FWZjB6N0ZXYndaZHZJOElIaHZTTkRGc2ZKcm1ZWVBydzFsWjllTkVjN1EwdUstYy11Q25MQ1MwcnZkRVhrdnhlQmtpZ25YcDQ2U1pKcDFWWkRDUnRZaUdZTVhuS2FRWTVMeDRfcWtBNEFMMjRtT0IxS1V0N3VWMXZwVC1XNnFBRW5CV2d0YUdhSDlOZi1lUlZXMk45cHpMajFySURheS1vNVhxVUN3?oc=5",
-          "source": "Global News",
-          "published": "2026-10-08T14:00:40Z"
         }
       ]
     }
