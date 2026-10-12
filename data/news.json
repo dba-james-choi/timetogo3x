@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-11T18:31:16Z",
+  "updated_at": "2026-10-12T21:33:03Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
+          "title": "Cathie Ounsted running for Conservatives in Saanich South",
+          "title_ko": "Cathie Ounsted는 Saanich South에서 보수당에 출마했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzFEZDB3SVZyT2NjT19mTXlnV1pYQWJyNTRJdHhIVVBCTmQtSFRMdHV6SGs0ZTBkeHFKa21JVkpTbzdkeTFUYUZwRmVmb2RxMzRfOTF1VFRKNlJfQjRWRlVuUWJsNVVOLXRiUzFCVHo2Znk0NG9yeUtjYk9CdjhieTR5blpJSHA1LWh5T2RrcDNzZ1prTF9sbXo2cFJuZEN5TlBj?oc=5",
+          "source": "Peninsula News Review",
+          "published": "2026-10-12T15:34:36Z"
+        },
+        {
           "title": "Motorcyclist dies following single-vehicle crash in Saanich",
-          "title_ko": null,
+          "title_ko": "Saanich에서 단일 차량 충돌로 오토바이 운전자가 사망",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdTN6MWRMMXdCRTR6cnAyNjREcGc3YkFERDNLVjZwVXVIOS1IX2hFRF9kZTNxLVp0QmNLOVNleWZSRXRReEw1cmlGUEJldHNQbUFVUzBpODhaamdIbGd6ZEhGaVJORDhldFRqSFR3T1k4eHEwY1BGSndWT2ZvRzNmSUlNUjB4eDI1YXAzb3NmNFZWZnFKenc?oc=5",
           "source": "Victoria News",
           "published": "2026-10-10T19:18:30Z"
         },
         {
-          "title": "Scientist, volunteer running for Centre B.C. in Saanich North and the Islands",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkhRV096bkpPTGxsQ2dFdHJJUUpuR21oY1M3NV9pbzM0MHlXYlhkWUlzZnExWUk0V3lyX3VhclVRbGRXcXIxX2l2Q192OXhYczBvcElnaFVzX2dLU1A0bUNua3JRSjF6Rm9KM3RvVXZsdE9LQmJZcE9UN2NuaUxHWld0eGt3b21NZVd2V0NLSTFCY1AyYnc0YlFXdHBmeDlCaGRnbEl3blJzS01JV1FsUndsekdPSnFGSUJZ?oc=5",
-          "source": "Peninsula News Review",
-          "published": "2026-10-05T18:22:27Z"
-        },
-        {
-          "title": "Ferry to ferry: Cowichan Valley Nightmare takes pack of cyclists from Nanaimo to North Saanich",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUsyM2dDMkxBUFdRaXhDMWV4aS1wcXhJc084SnVFQmd4REtQNkIxZ0tzc1N3OVF5UGRrM1FGUlF3c2xxZEl0d0xFbzNGUFEzNUVhOTBpUlNGVWRTc3JUVFY3UEdPLTdtakk3RWFXSDlGMnZOTmc0Zzd4VEFRdE9XLXJUcl9NSkJWR2d6MjZHLXAxRllBcDFYX0R4S3NaQ3ZjZUxVdHNiN0Z1R0o2NGhRa3NycnZGNGUxMWxpRHZYTXNCZDRUUHc?oc=5",
-          "source": "Today in BC",
-          "published": "2026-10-09T00:04:29Z"
+          "title": "Endorsement, 'break the slate' movement heat up Saanich council race",
+          "title_ko": "지지, '슬레이트 깨기' 운동이 Saanich 의회 경쟁을 가열",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdkdxT0tLRkJEOVN5WGVLV19JTDMtcUVkdFA4RXo2ZUdkVXhCaDlZOTU4SDB1a0EwTHdKLXZXMUR6UVJKbnZ1VUdGejI0aDJmX2kxMERNVVc0anJwcWhNdFJhdXg3TnRYZ1d1bWRZYUtZOC1vemFBRHR0YlhZdDRQc2V2MG5DQ21KOUpOX3JjWDdjcWF0RzRQN1ZGX0NmOEw3cHlMVzJaeVA0SENlMUQ0QkZOcGE5LVJHeTYzUWFPVEJJdnczT1htenJVSDg?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-10-08T11:45:00Z"
         }
       ]
     },
@@ -31,25 +31,25 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "BC Greens say public must have a say whether AI data centres get built",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWEYyclM4amtZNEtFNlJSQmVqOFYwYlJIQkVxOXlTdUNUalJhdzV2RW1DR05IS2EtbnphanlnTzMyMEYyZ25yQmdMdWNhUW5RSENITTRDdm9nMWw0aFBHZHdfTlF6ekpQQ1dkV1hCM3VRRzNpWW90eXdPZHFSOGxqVWVRbUI1QjFBMmc3aTV0Wl9pR0kySVpvRmZLU244NEJHNW5IWDduQzA5UVJVUHc?oc=5",
-          "source": "NanaimoNewsNOW",
-          "published": "2026-10-11T17:18:13Z"
+          "title": "Spill incidents - Province of British Columbia",
+          "title_ko": "유출 사고 - 브리티시 컬럼비아 주",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94cDZrRHRlUnl1Y0ZMaXoxVWpwWXlWTnNHNXlicURTXzNpanFWNkhLd1ZyWkxtZUI0ME1RTzNFT3hVOTBPekE5bjZIN0hlRUR5SXlYOXBnNGE4bWhrN2FRelpZX0dlemNuWm9odW03MHI2MVloVDZnLThR?oc=5",
+          "source": "Government of British Columbia",
+          "published": "2026-10-10T07:00:00Z"
         },
         {
-          "title": "Victoria fills leaderboard at inaugural Fall Fest Open",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmxUc3Vid0I4UFVMMFpPcVgxU2xsdXJtM1NRdHJvRjhSXy1nUmJ6eE96VEJvWXJxNms1bHdMZl9iVzJrRG1zczZYM0ExSUlHQXNHaUlBVHJlY3BEbmZVV3dZTDd4b2U2dVAxRlE5bnRwaHdaYm9uY0lqcFY1YXFaWXFNekpKZ2Q0TzA1VVVjbzNpcEhrZm5rUVU1M3pHdHAwQnhpb0dVUFlTZw?oc=5",
-          "source": "University of Victoria Athletics",
-          "published": "2026-10-11T07:48:15Z"
+          "title": "Luxurious B.C. hotels named among best in Canada in international vote",
+          "title_ko": "브리티시 컬럼비아의 고급 호텔이 국제 투표에서 캐나다 최고의 호텔로 선정되었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORVBGU1NzcG40aGpWdUdQX2VBSnpGNkRZTXJKZG1DcnIzeERjOUhZWWVyN29VUTlEMDFIbXNtSTdXQWpqSFZhOVctc1ZJYm44SzFpcHFFcjdDSjJkdjJocVVyWlE3UjFoWnRWdS1pbWI1SGpfUDIwMi1XVndpeDVsbw?oc=5",
+          "source": "Daily Hive",
+          "published": "2026-10-12T15:00:00Z"
         },
         {
-          "title": "Our Community: Kids colouring contest in Victoria; volunteers remove invasive species",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaUwxaTFWWXdONHBuZEgycTF2VkNrTWtpcjBNbjhZaDRVbWdZczZvbFdfZjFQRmxzUU5FN1liZWFXUWN2QVF6OVBjbi1sdjhkaVlrT3FqV0l1Y1lzM0ZydzJ1SnJjWGRvQmhSWlNsZTc0VU91Q1d0TUp0NEVhUkhfQUJHY1RpT1NDR1k2UzFUQ3YwYWxsZ280dkNGYWl0TEpkUGZiMThHX0ZaNFZ2bFpnTGZtMUdLUTFDVDRyWU1uMkFBRnoxUHpQV3Jfbw?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-10-11T10:15:00Z"
+          "title": "VICTORIA, B.C. NAMED BEST SMALL CITY IN THE WORLD FOR FOURTH CONSECUTIVE YEAR IN CONDÉ NAST TRAVELER'S 2026 READERS' CHOICE AWARDS",
+          "title_ko": "브리티시컬럼비아주 빅토리아는 CONDÉ NAST TRAVELER의 2026년 독자 초이스 어워드에서 4년 연속 세계 최고의 작은 도시로 선정되었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdXpiRmljYllDdnNsR0xQWndCT0lFRGRmUE91WGhRLXZQWFAzbXdhUEdVTEdiYko4WjNyLWp6Ukl0NFJjR0hsdkxLdWRnTVpBU0JpZE4zNGpjNTY1dFlGLUlaZllfSURjdkNPclhqSlgwdHZqdXhzbTFnNnQ4Um9UYzQ4ak1rb2MyckszUHZWWkcyS09STFMxUWV6cGlWR0gxeWduUFBXMkZBVk02Z1AzNzlmQTJyb1EtbXE5SjBCZ25BVkpVc1JBWHBhWVBxbTBnSUVfQ1E1VFNud1JMb0xfb2pjWGZ6RUh3VXVGeVdIbWJQcHg2MkV5VmRxSXJEWnZ3Wmp5VmdjUERLV0ZB?oc=5",
+          "source": "PR Newswire Canada",
+          "published": "2026-10-06T13:06:00Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "Block after block of death and despair. This is Vancouver's Downtown Eastside, where all hope is now lost",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYXdnTFhiNkpkLVZuTV9KbG9BUzJIMk9uamo5ZjkxSHdyZ2NhWlp2aE94bThhVTB1OWhGZEpUaVpPU3VzQXhKNUxSeC1xN2tZM2VXZUk2QzFqLVZTbUdZSlBYZHVlSlVpNld5YWJoZzh1MXlVWXp2N2R1aVhjS0dtMWNObw?oc=5",
-          "source": "National Post",
-          "published": "2026-10-08T15:39:36Z"
-        },
-        {
           "title": "Could B.C. be headed for a record-breaking mild winter?",
-          "title_ko": null,
+          "title_ko": "브리티시 컬럼비아는 기록적인 온화한 겨울을 맞이할 수 있을까요?",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQODJEdmZKa1l1a05EazNlblNxU2hvWXBiOENvQnhFR05TRHdpQ2NGc29qN0djZllKMEJhbFlNM0NEN094LWxDWEFUOVhxbWNaWUdmVVBURVhka3BmYWNhR1lXaXd6b0lwT3drUW5pM0NTUHRoNkxfLTkxWlplNVZlczZCc0I3cVZmMndjQWlYN2xFZ2ViWXRybg?oc=5",
           "source": "Vancouver Sun",
           "published": "2026-10-11T15:06:54Z"
         },
         {
-          "title": "Metro Vancouver Realtor wins interim stay of licence suspension",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHRONm5Cc2VnSUdDN1hsQzZqVFR0cUZwc2xhSTNvRHR1dlBxbVRHZDlVWXl4TlNCU0dvQ1h1d0J1UVdLZXF2NzdCc3Vqa2tFYWo4QUJVWW1EbUt0Rld0REdWZzBwSW0wYno5RWsydlQ1U0FxbTlGYk1xUjNfajc2UEVzWUxkTmJzZHc4VWtxQVc3TGk3TTBOT3RXVXJWTC02Vk1lSHhGOEw?oc=5",
+          "title": "B.C. burger joint polling patrons ahead of provincial election",
+          "title_ko": "주 선거를 앞두고 브리티시 컬럼비아 버거 공동 투표 후원자",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSjZyNUwyMDBIVHVwWUQ1ZzFkRUh4dHItOENPMlh6SHI2QmtKMmYxdC01TVhRYVo4UDhNeUxQN1ZFWGVqc2ZEMkdZNy1UWlZ0SnpaVUxHWkhreGVOQmtvV3ZMWHY5ZE5MeVhsQTFtcERfRmY1NFZpaVlGSzFuWmE1Z1NoNU1qa1FGOERpTjJDVTJOblJmY0VlQ2Z4Q0xwSmM5bVZsdg?oc=5",
           "source": "CTV News",
-          "published": "2026-10-10T18:36:53Z"
+          "published": "2026-10-11T20:22:31Z"
+        },
+        {
+          "title": "Vancouver's court-ordered property listings are nearing a 20-year high — and they're not selling",
+          "title_ko": "밴쿠버 법원 명령에 따른 부동산 목록이 20년 만에 최고치에 가까워지고 있으며 판매가 중단되고 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSUdHMEhVTWhJSHoxeFp5NlBlbkRKUUxFSmlKRURtSUpCVEF6WkxibzN2OEJnRWMtNldhckgzaE9JNVphMXFMMi1XVWJOaVhDS3BKQjNid3Jlbmw5d3FQazdLeGdSWUh4SEZzeHp6Sl9MYkplMnRqTXF6UHR4eHdDVDA2WUpOT3JzMC1pU25Ubi1QRHFYNjRCUjJmWTJDZnpPSEE?oc=5",
+          "source": "Financial Post",
+          "published": "2026-10-09T21:29:46Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Alberta separatists are expected to lose. They’re not preparing to quit",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdGp1eU1Zek84Uk9pc2xIM3VRTERMcU95SlNCTlZycDUyYl91dnpNOTNEelFzS0FTX1BhVmxIYWVnaEY0RzZxRk9fajFYVjJORUl4b0l2VklDUDBPamRicjBnSHU1aC1WamE1QVRERlUwYTdxZDEtQTJmQlBmX3F5Vk5mdjdzNVhULXVqb2tRUnpIdmxjZDNub09ic21KV1lHVzJwOUp2Q3p4ZEhfdjhaNGVqMW1rWDNkVThYR0Y2b0tPYWpxTmN3TWp6bXoxTjJ0Sm9UUHMxdnk3TnJfWVFtWkpXSXBRRURUYWJ3ci1qaWhlZVU?oc=5",
-          "source": "Toronto Star",
-          "published": "2026-10-11T17:25:29Z"
-        },
-        {
-          "title": "Age, speed limits for e-scooters and other personal electric vehicles hitting Manitoba roads next year",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVlFsVDZPVXFWbk9xOUFrLWxhWW84dVk0Z0xuVXRwcTRzTzdQSnoyejdDTHZWSlhsc3NqcEd3X3UzRUp6VFlPZk1HcG00bmwwODBQZWJTc0dOZEhBa01TWmVNZ3ltcktFOHpJZ05BemtmOHpiX1hTTlFxdWYtY1hva09LeWJiMHptU1g1ZVVkY2JsaE5u?oc=5",
-          "source": "CBC",
-          "published": "2026-10-10T21:19:10Z"
-        },
-        {
-          "title": "Parti Québécois leader asks caucus to stay ready for next election after minority win",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLS1aZUFkc3JsV21DUWZac1IyN2tucE9qYUhyZjJvTHl6RUtoY0EzYzBOcWNoU2RSSlF5ZENqVXN4dVF5RXVsOEFpOEMtLTgwbDBhQkVDa0hMTkd0OEJFaEVSX2QwODN5RU0tbEJmMEFnd0hwLWRSVnowS3YzdDdKV1Q5TDZtSHFnUFRUNXJmSGxHZ045Y09aVldraEtnd2ZUcnJUYXJWRmJxUDBfQzY0UFJzU3I0U0FlMEMxNWRSckZJN1dE?oc=5",
+          "title": "Woman charged after hit-and-run and police chase in Halifax: police",
+          "title_ko": "핼리팩스에서 뺑소니와 경찰 추격으로 기소된 여성: 경찰",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlhlTjI5MkNqT1l5Q0FOeHNnc2wyd0JBaHRIUV9peW5qN00zOER6Mnotb3BVMW5jbG5Sa0tEM0dvSk1QT3d3MjBmcWtQNlNTWFItRmRxdnNtWmU3U0xlNFh3Yl9oQVlyclA1cWYxMDVtSEdxWDIxZDNDWTRueDdIZnA5OHpNUFZJUFByc1NSOTRmRE5yUDNobHZ0SXpJUTlDZlAwN0RMU3hjY3M?oc=5",
           "source": "CTV News",
-          "published": "2026-10-10T16:13:42Z"
+          "published": "2026-10-12T13:34:07Z"
+        },
+        {
+          "title": "Sask. farmer trying to sell or donate town's grain elevator to avoid demolition",
+          "title_ko": "사스크. 철거를 피하기 위해 마을의 곡물 창고를 팔거나 기부하려는 농부",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkppX21IQWJyTGZMcVUwdHUwSDhWQjQzWHVFbm92ZEtBRUVzV0QxbkZMX0pzZGFwaGhsQzBUN0g5UUwxV29tZE9BRllDbjh2dEU5SVBDclNDemItRWwtMVJIV3VJbzFuU1IwMHg2LVB3M09QRTZPWkRZbHhZc0ZSNmhpbmVTdkQ3anZYM3dRbkUwWTdndVlUVnRoMGVsTHM5eGdyRE9xRmF3QjJKaVpXS3pPWWxsSEV2MkRVTTk0b0ZtLVVNUjVELWE4dzA?oc=5",
+          "source": "CBC",
+          "published": "2026-10-12T11:00:00Z"
+        },
+        {
+          "title": "PM Carney speaks directly to Albertans in Thanksgiving message",
+          "title_ko": "Carney 총리는 추수감사절 메시지를 통해 Albertans에게 직접 연설합니다.",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWlQ4V3hRbktrXzlFdjUwVXNoczR5OHd2WGxsYldjNm91YjJISzlUYzRJWklfRUYxbkJQWGktQmJVbE9Bc2gtVjlQeWlERzJDb0VnVjNadW5NMmlLZkZhaWdzMm5fSEhSSlROZS0xSW16elBIUktHLVNjMVFKVDBoTGJzaFJnZTUwbnlCU05NZV9WSkR4WVBmeUVZVHFzX0txVlJNRklYVQ?oc=5",
+          "source": "CP24",
+          "published": "2026-10-12T20:41:48Z"
         }
       ]
     }
