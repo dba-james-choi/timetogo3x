@@ -1,16 +1,9 @@
 {
-  "updated_at": "2026-10-12T21:54:59Z",
+  "updated_at": "2026-10-13T19:44:41Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
-        {
-          "title": "Cathie Ounsted running for Conservatives in Saanich South",
-          "title_ko": "Cathie Ounsted는 Saanich South에서 보수당에 출마했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzFEZDB3SVZyT2NjT19mTXlnV1pYQWJyNTRJdHhIVVBCTmQtSFRMdHV6SGs0ZTBkeHFKa21JVkpTbzdkeTFUYUZwRmVmb2RxMzRfOTF1VFRKNlJfQjRWRlVuUWJsNVVOLXRiUzFCVHo2Znk0NG9yeUtjYk9CdjhieTR5blpJSHA1LWh5T2RrcDNzZ1prTF9sbXo2cFJuZEN5TlBj?oc=5",
-          "source": "Peninsula News Review",
-          "published": "2026-10-12T15:34:36Z"
-        },
         {
           "title": "Motorcyclist dies following single-vehicle crash in Saanich",
           "title_ko": "Saanich에서 단일 차량 충돌로 오토바이 운전자가 사망",
@@ -19,11 +12,18 @@
           "published": "2026-10-10T19:18:30Z"
         },
         {
-          "title": "Endorsement, 'break the slate' movement heat up Saanich council race",
-          "title_ko": "지지, '슬레이트 깨기' 운동이 Saanich 의회 경쟁을 가열",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdkdxT0tLRkJEOVN5WGVLV19JTDMtcUVkdFA4RXo2ZUdkVXhCaDlZOTU4SDB1a0EwTHdKLXZXMUR6UVJKbnZ1VUdGejI0aDJmX2kxMERNVVc0anJwcWhNdFJhdXg3TnRYZ1d1bWRZYUtZOC1vemFBRHR0YlhZdDRQc2V2MG5DQ21KOUpOX3JjWDdjcWF0RzRQN1ZGX0NmOEw3cHlMVzJaeVA0SENlMUQ0QkZOcGE5LVJHeTYzUWFPVEJJdnczT1htenJVSDg?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-10-08T11:45:00Z"
+          "title": "Saanich police seek witnesses after fatal motorcycle crash",
+          "title_ko": "Saanich 경찰은 치명적인 오토바이 충돌 사고로 증인을 찾고 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZkRiWUdzeHh2T0U0TFhYSGNHMGs1cjJUQ3BNZ1M3WHVES1BONlpOTVA1MGFHMHcyNkVHd25NX0Ruc01WcVRXUlR6dllTMVNjWWJscXgyVXZfbmFRYVVuQW56UGl2SHJneUVqN0NFRkFLSm45eG1YeUVEYlBpQndkMnRMRmZMZFNuYTBPX3FORlVoc2NaRm02MFpONEtlV1g4bFE?oc=5",
+          "source": "CTV News",
+          "published": "2026-10-10T22:30:59Z"
+        },
+        {
+          "title": "Cathie Ounsted running for Conservatives in Saanich South",
+          "title_ko": "Cathie Ounsted는 Saanich South에서 보수당에 출마했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzFEZDB3SVZyT2NjT19mTXlnV1pYQWJyNTRJdHhIVVBCTmQtSFRMdHV6SGs0ZTBkeHFKa21JVkpTbzdkeTFUYUZwRmVmb2RxMzRfOTF1VFRKNlJfQjRWRlVuUWJsNVVOLXRiUzFCVHo2Znk0NG9yeUtjYk9CdjhieTR5blpJSHA1LWh5T2RrcDNzZ1prTF9sbXo2cFJuZEN5TlBj?oc=5",
+          "source": "Peninsula News Review",
+          "published": "2026-10-12T15:34:36Z"
         }
       ]
     },
@@ -31,25 +31,25 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Spill incidents - Province of British Columbia",
-          "title_ko": "유출 사고 - 브리티시 컬럼비아 주",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94cDZrRHRlUnl1Y0ZMaXoxVWpwWXlWTnNHNXlicURTXzNpanFWNkhLd1ZyWkxtZUI0ME1RTzNFT3hVOTBPekE5bjZIN0hlRUR5SXlYOXBnNGE4bWhrN2FRelpZX0dlemNuWm9odW03MHI2MVloVDZnLThR?oc=5",
-          "source": "Government of British Columbia",
-          "published": "2026-10-10T07:00:00Z"
+          "title": "Stephen Evon Strutynski",
+          "title_ko": "스티븐 에본 스트루틴스키",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NSmg0ZE9XLUFaMDNpVFJyRG5WQk56bTNUdTBqeXJLeUdTVEVHQmxLVngxbXZRZTNUa09BVG42dVJFVHR2YWQ3bmlJdjlKZk8xSjgwVGRRZnJSWHFCckZnZ0FFT1A0NDhnR3RZR3RYV21mZEE?oc=5",
+          "source": "McCall Gardens Funeral and Cremation Service",
+          "published": "2026-10-12T02:42:23Z"
         },
         {
-          "title": "Luxurious B.C. hotels named among best in Canada in international vote",
-          "title_ko": "브리티시 컬럼비아의 고급 호텔이 국제 투표에서 캐나다 최고의 호텔로 선정되었습니다.",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORVBGU1NzcG40aGpWdUdQX2VBSnpGNkRZTXJKZG1DcnIzeERjOUhZWWVyN29VUTlEMDFIbXNtSTdXQWpqSFZhOVctc1ZJYm44SzFpcHFFcjdDSjJkdjJocVVyWlE3UjFoWnRWdS1pbWI1SGpfUDIwMi1XVndpeDVsbw?oc=5",
-          "source": "Daily Hive",
-          "published": "2026-10-12T15:00:00Z"
+          "title": "B.C. parties dodge the deficit as election promises pile up",
+          "title_ko": "브리티시 컬럼비아 정당들은 선거 공약이 쌓이면서 적자를 피하고 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVlpZmtrNHJlUlZ4UjBxNVFtUDZwaFljSHZ3VFZhMkF0U0ZEbUxIcVIwbVh3NFpUdERYa1JxeDh6emNBLTZsLWFUX1ppOWVIajdkTEdZYXRsLVI5cVV1YkFsNUd1N3pZV1JfRThPaE5oY2tFblVRQzZoOXBmMUFYUUtpbERlMDlSWVNfcHV0RVBxakpEQlhPU24zd1huN3BNcnl0ZEVPcXNkR0RhMWhj?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-10-13T12:00:00Z"
         },
         {
-          "title": "VICTORIA, B.C. NAMED BEST SMALL CITY IN THE WORLD FOR FOURTH CONSECUTIVE YEAR IN CONDÉ NAST TRAVELER'S 2026 READERS' CHOICE AWARDS",
-          "title_ko": "브리티시컬럼비아주 빅토리아는 CONDÉ NAST TRAVELER의 2026년 독자 초이스 어워드에서 4년 연속 세계 최고의 작은 도시로 선정되었습니다.",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdXpiRmljYllDdnNsR0xQWndCT0lFRGRmUE91WGhRLXZQWFAzbXdhUEdVTEdiYko4WjNyLWp6Ukl0NFJjR0hsdkxLdWRnTVpBU0JpZE4zNGpjNTY1dFlGLUlaZllfSURjdkNPclhqSlgwdHZqdXhzbTFnNnQ4Um9UYzQ4ak1rb2MyckszUHZWWkcyS09STFMxUWV6cGlWR0gxeWduUFBXMkZBVk02Z1AzNzlmQTJyb1EtbXE5SjBCZ25BVkpVc1JBWHBhWVBxbTBnSUVfQ1E1VFNud1JMb0xfb2pjWGZ6RUh3VXVGeVdIbWJQcHg2MkV5VmRxSXJEWnZ3Wmp5VmdjUERLV0ZB?oc=5",
-          "source": "PR Newswire Canada",
-          "published": "2026-10-06T13:06:00Z"
+          "title": "Victoria, BC Current Weather",
+          "title_ko": "빅토리아, BC 현재 날씨",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQmRmVm5GbjJ4bE5UbHZIb3lsV0lZc2JLRHd6cVJia0s0QWRzeUZMeDlrVnRwcG1HY2N3a3J3d2huUkNsUWhOM3E4NU5abkZ4MFhIakp1bkZURXEzVm9ZM0dwQmU1RFRlRlRvbHR5cG0wYy1QQWJjbnZaYU5KV0tCSk5SUjU?oc=5",
+          "source": "The Weather Network",
+          "published": "2026-10-11T07:00:00Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "Could B.C. be headed for a record-breaking mild winter?",
-          "title_ko": "브리티시 컬럼비아는 기록적인 온화한 겨울을 맞이할 수 있을까요?",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQODJEdmZKa1l1a05EazNlblNxU2hvWXBiOENvQnhFR05TRHdpQ2NGc29qN0djZllKMEJhbFlNM0NEN094LWxDWEFUOVhxbWNaWUdmVVBURVhka3BmYWNhR1lXaXd6b0lwT3drUW5pM0NTUHRoNkxfLTkxWlplNVZlczZCc0I3cVZmMndjQWlYN2xFZ2ViWXRybg?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-10-11T15:06:54Z"
-        },
-        {
-          "title": "B.C. burger joint polling patrons ahead of provincial election",
-          "title_ko": "주 선거를 앞두고 브리티시 컬럼비아 버거 공동 투표 후원자",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSjZyNUwyMDBIVHVwWUQ1ZzFkRUh4dHItOENPMlh6SHI2QmtKMmYxdC01TVhRYVo4UDhNeUxQN1ZFWGVqc2ZEMkdZNy1UWlZ0SnpaVUxHWkhreGVOQmtvV3ZMWHY5ZE5MeVhsQTFtcERfRmY1NFZpaVlGSzFuWmE1Z1NoNU1qa1FGOERpTjJDVTJOblJmY0VlQ2Z4Q0xwSmM5bVZsdg?oc=5",
+          "title": "Truck and bus collide head-on in Delta, B.C.",
+          "title_ko": "브리티시컬럼비아주 델타에서 트럭과 버스가 정면 충돌했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFI3U0Rmc0ZJNEFaYkhYd3ZOWE4ydF9VcTIzTDhCd2xHbjFGbjlXVGJMQWo2OVJzekVOeHFucjA3SERzLUZzUWR1U0ZWV3AydUhLMHRaVGRZS0ZBMDN0dDJLbVkwby1OMVFmZmo3LUJlRUlpaWFoMDVWaUhlMGQ5WU0tYkxfTzlFZFUw?oc=5",
           "source": "CTV News",
-          "published": "2026-10-11T20:22:31Z"
+          "published": "2026-10-13T01:06:00Z"
         },
         {
-          "title": "Vancouver's court-ordered property listings are nearing a 20-year high — and they're not selling",
-          "title_ko": "밴쿠버 법원 명령에 따른 부동산 목록이 20년 만에 최고치에 가까워지고 있으며 판매가 중단되고 있습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSUdHMEhVTWhJSHoxeFp5NlBlbkRKUUxFSmlKRURtSUpCVEF6WkxibzN2OEJnRWMtNldhckgzaE9JNVphMXFMMi1XVWJOaVhDS3BKQjNid3Jlbmw5d3FQazdLeGdSWUh4SEZzeHp6Sl9MYkplMnRqTXF6UHR4eHdDVDA2WUpOT3JzMC1pU25Ubi1QRHFYNjRCUjJmWTJDZnpPSEE?oc=5",
-          "source": "Financial Post",
-          "published": "2026-10-09T21:29:46Z"
+          "title": "B.C. party leaders make campaign stop at Vancouver trade board ahead of election",
+          "title_ko": "브리티시 컬럼비아 정당 지도자들은 선거를 앞두고 밴쿠버 무역위원회에서 캠페인을 중단했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSHllanAtY1ZCQ09FaklEQXU0LXZPdU5RYmR2VDhRNXhRTVFqSXFqdUMtdkx2ZG1iRnpaUVhlQTdVTVhhZlRIbnc5dEs1bjJ2NFMzX3FHblBRNFZDdEVSQ3J6VGNIc18xNGR0eFRENWlaUW53YlpiOU9KeHN0cEhSUDI5NFUwM2NFc2tsNWcyREhXZk1GdTZ3OG1kTTVubkx3eGh0RUhwVlVtU3FPWmkwSk5TZndfZlE?oc=5",
+          "source": "Global News",
+          "published": "2026-10-13T12:46:02Z"
+        },
+        {
+          "title": "B.C. party leaders make campaign stop at Vancouver trade board ahead of election",
+          "title_ko": "브리티시 컬럼비아 정당 지도자들은 선거를 앞두고 밴쿠버 무역위원회에서 캠페인을 중단했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZl9SNk83enBFd1Fhc1d2SkVCQndBdU5XaDNzcWUyVlk0YjU1TUVmTi1LU1RZaHJuekF4YWE0WU51Vkd1ZWFXV3hiN1Y2Z0duZkxhVDVuZGNZRUpWdC1ZRTBaZmFDcXJVWkVyU2d5clNRMjkwSU5TZUZHa0dFeGF1V2VTcW55QUo4V0tkSXdxQ1NYQ1dfdG12TVlDNWt3RTJNYjZIdjJaRTJxLTJ1aDRwMVB6dXRWWWFjMjJyTWIwN013OE5YbFFFZUxVZUFvSEtKRlRpZWFSNkJ6V1J0SGh0QlktNkhsd1ctaS1LNXB1ZHExbEktMUp4cQ?oc=5",
+          "source": "The Spec",
+          "published": "2026-10-13T08:00:13Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Woman charged after hit-and-run and police chase in Halifax: police",
-          "title_ko": "핼리팩스에서 뺑소니와 경찰 추격으로 기소된 여성: 경찰",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlhlTjI5MkNqT1l5Q0FOeHNnc2wyd0JBaHRIUV9peW5qN00zOER6Mnotb3BVMW5jbG5Sa0tEM0dvSk1QT3d3MjBmcWtQNlNTWFItRmRxdnNtWmU3U0xlNFh3Yl9oQVlyclA1cWYxMDVtSEdxWDIxZDNDWTRueDdIZnA5OHpNUFZJUFByc1NSOTRmRE5yUDNobHZ0SXpJUTlDZlAwN0RMU3hjY3M?oc=5",
-          "source": "CTV News",
-          "published": "2026-10-12T13:34:07Z"
+          "title": "David Eby defends his family receiving $10-a-day child care, says he donated to centre",
+          "title_ko": "David Eby는 하루 10달러의 보육 서비스를 받는 자신의 가족을 변호하고 센터에 기부했다고 말했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3SXhLU0VLblJBRmRtR1Q4SEFoRHl4dTVuSE1laDhubUVBTXlnNjdvVi12MHRSeG82VFg2d1FMa0RGRExiWEY1OC15ZTVmUXFhVnB4WHhMZ2t0VzhTSHNMQzg5U3dhQks5c3hva2wwN241RGgyRkhz?oc=5",
+          "source": "Daily Hive",
+          "published": "2026-10-13T15:41:00Z"
         },
         {
-          "title": "Carney’s Thanksgiving message directed at Alberta ahead of separation referendum",
-          "title_ko": "분리 국민투표를 앞두고 앨버타를 향한 카니의 추수감사절 메시지",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVHI0UEQ3ek45TFptWUpjVm5SSVlJYk5sVlhJRWRZM0dwOFg1NHJXZHFOZW5ncG1Xc2puSEM3TEVqWHlxTy1BV25IQUZxaE5vY2xiQWJrWXF5eUdIWE1mcHZDNlRwaENqRl90X0N4NUd1bDI4Wjd6NzJJMU1uU0JhdlZoMENManJqSmI4MUYxMGRwbW5rWkU0eXdaVG50RF9IdEw0ZUlxdkxUdDVGQkdoSjN6QTBGUTdwQWZRd1hlVTFYQi1LVVNxSw?oc=5",
+          "title": "Parts of northwestern Ontario moving to permanent daylight savings time in November",
+          "title_ko": "11월부터 온타리오 북서부 일부 지역이 영구 일광 절약 시간제로 전환됩니다.",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGZKWGVHWWp4TzgzNkVLeTdHdGNoODZkRnlHZHZHMUNGMk5WNzNXZTFPSURmT3g2bU9sRnlQYWlYWVM5ak9TUUZxY3MtTzcyd2hDbkxuMkVlOVdzVWo3RTVZVUtZM2lsalRqZk00czRIYlhSelQxX3Z6NnNFTnVYQjNsLWZtbkJrM21HWjF3?oc=5",
           "source": "CBC",
-          "published": "2026-10-12T20:25:02Z"
+          "published": "2026-10-13T18:30:26Z"
         },
         {
-          "title": "Sask. farmer trying to sell or donate town's grain elevator to avoid demolition",
-          "title_ko": "사스크. 철거를 피하기 위해 마을의 곡물 창고를 팔거나 기부하려는 농부",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkppX21IQWJyTGZMcVUwdHUwSDhWQjQzWHVFbm92ZEtBRUVzV0QxbkZMX0pzZGFwaGhsQzBUN0g5UUwxV29tZE9BRllDbjh2dEU5SVBDclNDemItRWwtMVJIV3VJbzFuU1IwMHg2LVB3M09QRTZPWkRZbHhZc0ZSNmhpbmVTdkQ3anZYM3dRbkUwWTdndVlUVnRoMGVsTHM5eGdyRE9xRmF3QjJKaVpXS3pPWWxsSEV2MkRVTTk0b0ZtLVVNUjVELWE4dzA?oc=5",
-          "source": "CBC",
-          "published": "2026-10-12T11:00:00Z"
+          "title": "More than 300 advance polls open across Alberta in historic referendum on separation",
+          "title_ko": "분리에 관한 역사적인 국민투표로 앨버타 전역에서 300개 이상의 사전 여론조사가 시작되었습니다",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkZUUTdfOHVadDRSQkt0aDhKc3UxR3YtZVVJb213ZjhWVE5nNmg5eFh4TmQ1dVhvWTFRRWJTQVVyRUI5ekZZeGptUzk0allHQUlOQjVuNXIxNWg5MVI1QW1Pb0dCLWRhSlh3NU5LSFMweHE5cmJkZVIyVFp4UHAtbU96aGY?oc=5",
+          "source": "Global News",
+          "published": "2026-10-13T18:50:09Z"
         }
       ]
     }
