@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T17:35:27Z",
+  "updated_at": "2026-10-15T17:56:01Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -38,18 +38,18 @@
           "published": "2026-10-15T11:00:00Z"
         },
         {
+          "title": "Co-op Invitational Day 2 Takeaways: Jacobs outshines Bottcher in battle of Canadian giants",
+          "title_ko": null,
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTnpjSTRGUDBVZWRqa3Y5eDJPUHpXWVFlcVJiUWxIWUdaOTMzV3VMYk1qYTNHYmRKQXNzSFRIRklaMVR4YXFpVTZGWS1CUllUQzFuUF9GTTJ5SVptZU12dXBOdXk4TWdOSVBKZU9ZWVpzZE9xSlN3SnB3V1o3TG4wYVJWeGVrQVl0bFFxUFY3SWl5YlowcjBJcGFocEZ1Ynd6TFhvQjl4MkJxMi05TDVCck01cDJvQ0dma0Q5WHA5Z3NQdGVJTXY0c21YQQ?oc=5",
+          "source": "Sportsnet.ca",
+          "published": "2026-10-15T12:58:00Z"
+        },
+        {
           "title": "Sooke, Victoria photographers recognized in BC SPCA contest",
           "title_ko": null,
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQVFoQzBrb2NZNmRHRUhPQXN2VDBPSW9KdmRhTmFfbDBTVWY1T0VNeWpXdFNldHJSOENNYXFpczd2LWVMOHZLaS1lSVVFNWlFcmZudnZ4NTZBdW1RNUd5S2pwS3VSc3A2N09JNWJNYldvbXdMcjhCS2NnMktVcVlPd2JkUTRNMk02SG4wYXoyMm9nTU9PWDJZU1lB?oc=5",
           "source": "Saanich News",
           "published": "2026-10-15T12:34:21Z"
-        },
-        {
-          "title": "Spill incidents - Province of British Columbia",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94cDZrRHRlUnl1Y0ZMaXoxVWpwWXlWTnNHNXlicURTXzNpanFWNkhLd1ZyWkxtZUI0ME1RTzNFT3hVOTBPekE5bjZIN0hlRUR5SXlYOXBnNGE4bWhrN2FRelpZX0dlemNuWm9odW03MHI2MVloVDZnLThR?oc=5",
-          "source": "Government of British Columbia",
-          "published": "2026-10-10T07:00:00Z"
         }
       ]
     },
@@ -83,18 +83,18 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Métis leaders in oilsands region say they haven’t been consulted on proposed Pacific Link pipeline",
+          "title": "Carney, Poilievre bring federalist push to Alberta ahead of referendum vote",
           "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT2duLW0yVnpUYnJHYUJQRy1CZHA3cHVWRFlRN05BTTJtNGNCSXpXcmlHTVdHbFZINGtnYTRvY0JORkpoZF9MTWFiSmR0UWpDYzB4SEhLdDZzdDJ4U2FRQkxZQXI2blJadUFfVUw5QTBqRVNDbTBQLXc5N2hkSE42Wl95cjBGQjFXbTlEZ1d3Z0xlODl3SU94NUhB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWmkyLXVPaTZtT3F3bmtUVjAxY3N5SEl1QUhORUNya2xXQUctVGFlMWtrMHhIemQ1THhZZVRWZFlfYzBqN2tCMVloNkR4VWZUMHRYY1NWelVRQURRUXdpRzdiaVR4OW1heWlJMk9TWjM5SkhxdlBVeFYzNE80MXhRZGV5am9tc0Y5bzQwRXduMi1CM1k5YURnNA?oc=5",
           "source": "CBC",
-          "published": "2026-10-15T12:00:00Z"
+          "published": "2026-10-15T16:25:10Z"
         },
         {
-          "title": "Carney says he expects nations, including U.S., to stay out of Alberta vote",
+          "title": "Major projects CEO faces B.C. First Nations’ frustrations over lack of consultations",
           "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON1RRZFN2WXF1aE1tVm1XSW9qY0w0TFhLVE9CQ244bFhxWXJWQUl6M0VDMTRnYzlLX01KcWNKMUVuN19oUm5LV2MyZHhVVWZZc1ZoYUQyZHVhV25FRkFBeWpISTdjeFdFWGFEWUlIQVNfaVVLemhWNVJVSmk3TjRfdW5Xcl91cV9NaVRSZWpqcXZ1QQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd05OMzkzTlJyRlFyRjE0SU8yQ0pVdGZJbDhGVERsRWlqNURoSFpuNlY4TWNDN3luSWhIMkUtODRqdkJlMzJVTGhxVTBTYW53Q3VUQUNlRXMtcFU0WE1iMFlMMW1EUGdQN1M1WW9keGpOWXVUQ00wV1lwcVNvTXM2aGZOMEl1YThnUUQxeFRIRWlEdw?oc=5",
           "source": "Global News",
-          "published": "2026-10-15T15:31:08Z"
+          "published": "2026-10-14T22:23:58Z"
         },
         {
           "title": "Ford government 'asleep at the switch' on alleged OSAP abuses, Liberals say",
