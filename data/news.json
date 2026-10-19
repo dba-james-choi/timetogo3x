@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T19:00:06Z",
+  "updated_at": "2026-10-19T19:33:20Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -38,18 +38,18 @@
           "published": "2026-10-18T03:02:23Z"
         },
         {
-          "title": "Election roundup: Young takes Langford, Alto wins Victoria, Save Our Saanich sweeps in",
-          "title_ko": "선거 요약: Young이 Langford를 차지하고 Alto가 Victoria를 이기고 Save Our Saanich가 승리합니다.",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOclV6TzBRN2JhRk9IZGJNdlZyNEpPaDVFS29sWkZHLUVsSy1mNUt5dGdDQzN2aWsyUU5pQndPb2NXdXJiX29TUU1wRjFWOEZ5Y200Mk9SSEtwZ2V6RHR4X0JFRVJ4UEJHVUE1RUlHMmo4bDlyOFBjWm5heEdhcjBtR3NrR29vV3lSVXNOLWc1ZWotODZMT19aU2dFODBUNjV6RkZRMll0MFd5dU51dUgxUW5iblNqbWV5TEd2LTZ3?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-10-19T05:00:00Z"
-        },
-        {
           "title": "Greater Victoria municipal election results 2026",
           "title_ko": "2026년 광역 빅토리아 지방선거 결과",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0ZMcnQwVWU1T1NzS3U5dmhTOHFWb3FuMExRdlJfREFvcmtjR0FyVzJXYzlOYXRDQ1VmNTVZeHVyZ001ZVA2ZGRfQkJmRXVYOGNDYnhWUHFNaUhnMEV3MlkxdU5RTlRYYTUyeV9oMVFVa1FKTEpiUlYxcHRuOEZ1eW5zbkFfbzc4?oc=5",
           "source": "Capital Daily",
           "published": "2026-10-18T08:20:18Z"
+        },
+        {
+          "title": "Mayor of Victoria election results",
+          "title_ko": "빅토리아 시장 선거 결과",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPendZU3U3R0ZvUGpnekVCejBPd2JhdzcxZ0VuUFFLVFA5M1dZTjhHaGJra0NKalhSMGxUOEdYdVRmX29fYVFsUHhIeTdKcVVPejNFV1I4eVVEQW9CV3ZmazkzTVZLWE9VNUJ5aFRENDRVTk5iai1vdjZPUXBRS1lScHBCaFd6ZUlGaFQtajBmSmw4OGs?oc=5",
+          "source": "CBC",
+          "published": "2026-10-18T02:22:00Z"
         }
       ]
     },
@@ -58,7 +58,7 @@
       "articles": [
         {
           "title": "4 reasons why Pete Fry is the new mayor of Vancouver — and 1 reason Ken Sim lost",
-          "title_ko": "피트 프라이(Pete Fry)가 새 밴쿠버 시장이 된 4가지 이유와 켄 심(Ken Sim)이 시장이 된 이유 1가지",
+          "title_ko": "피트 프라이(Pete Fry)가 새로운 밴쿠버 시장이 된 4가지 이유와 켄 심(Ken Sim)이 시장이 된 이유 1가지",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWlUUmpwdkdoM2dmbEVOcmNCWVVpOXZvOVVCYkZQUm1ETDNPWFpuNHYxZGFSdnlfajdDWmQwcF9HYlludnZMTkVyd1VSRmU1S1lPYnEwUWl2UDNnQjhZUTVhUVVhN1ZiZHZfd3FDVlJYNlBmeTVuaF83MjR6cU9hYnV1cnhpVHJ5RnFNUWRCcU1zSTAyV05mQWx1R2NQTEw2ODVpOExCSWo1UmxaUnh3?oc=5",
           "source": "CBC",
           "published": "2026-10-18T16:03:27Z"
@@ -83,18 +83,18 @@
       "label": "Canada",
       "articles": [
         {
+          "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+          "title_ko": "캐나다 기지에서 발생한 치명적인 화재, '30~60초 만에' 1km 이동",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rTmlLZzJYY3ZhbHZ4cFZKcmEtRG5qREdEWFVjOFNFRHVmdG1IYWNNb0hIWUY3dXVoeFpsajRtQkFqOWl1VFZoTjFEN1h2Zjd6cDRhT1lld3dvTHM?oc=5",
+          "source": "BBC",
+          "published": "2026-10-19T18:22:48Z"
+        },
+        {
           "title": "Former journalist Pamela Wallin resigns from Senate",
           "title_ko": "전 언론인 파멜라 월린(Pamela Wallin)이 상원에서 사임했다.",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ScG5BWTBTZ3BUb1Q0Y3J2QUdxMDlWdDcxU0psbE9SREQ5MnhrcWJnc3VCdzNYWjk3WUFTZ09mVXJyM29UcDl1d3dSNExfV1ozVFRRN25OOGN1TDkzbEswLWpmaUJIazV4Z2RLdDlrNFk1TUFPZThSXw?oc=5",
           "source": "CBC",
           "published": "2026-10-19T17:55:52Z"
-        },
-        {
-          "title": "Canada ‘united in grief’ for CFB Wainwright fire victims, Carney says",
-          "title_ko": "캐나다는 CFB 웨인라이트(Wainwright) 화재 피해자들에 대해 '슬픔에 하나가 됐다'고 카니는 말했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUnotYTNxSlI4UFdGSVdDdDVta1NsMXBwVDhUa1BNQV9EWF83NWpkT1l0TU9zdEktcTBaQ0lOc28tT0JnN2FEQWpnaVpPV3RUblNnSDhEMW9WYXJ5a3RZUXc0MjdlNFl0OW16d2FBUHV6NHczMnQwQjBEYTRLRTd1NkhFM0c5R3M?oc=5",
-          "source": "Global News",
-          "published": "2026-10-19T14:30:54Z"
         },
         {
           "title": "Toronto police officer guilty of charge in Project South investigation receives conditional discharge",
