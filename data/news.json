@@ -1,16 +1,9 @@
 {
-  "updated_at": "2026-10-19T19:33:20Z",
+  "updated_at": "2026-10-20T17:46:08Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
-        {
-          "title": "Election roundup: Young takes Langford, Alto wins Victoria, Save Our Saanich sweeps in",
-          "title_ko": "선거 요약: Young이 Langford를 차지하고 Alto가 Victoria를 이기고 Save Our Saanich가 승리합니다.",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOclV6TzBRN2JhRk9IZGJNdlZyNEpPaDVFS29sWkZHLUVsSy1mNUt5dGdDQzN2aWsyUU5pQndPb2NXdXJiX29TUU1wRjFWOEZ5Y200Mk9SSEtwZ2V6RHR4X0JFRVJ4UEJHVUE1RUlHMmo4bDlyOFBjWm5heEdhcjBtR3NrR29vV3lSVXNOLWc1ZWotODZMT19aU2dFODBUNjV6RkZRMll0MFd5dU51dUgxUW5iblNqbWV5TEd2LTZ3?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-10-19T05:00:00Z"
-        },
         {
           "title": "Rishi Sharma elected Saanich mayor in big night for ‘Save Our Saanich’ Slate",
           "title_ko": "Rishi Sharma는 'Save Our Saanich' 슬레이트를 위해 큰 밤에 Saanich 시장을 선출했습니다.",
@@ -19,8 +12,15 @@
           "published": "2026-10-18T05:22:26Z"
         },
         {
+          "title": "Saanich election results 2026: Save Our Saanich slate sweeps into office with Sharma",
+          "title_ko": "2026년 Saanich 선거 결과: Save Our Saanich 슬레이트가 Sharma와 함께 취임",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVzZhbzBsM0hPSm9OdDJZdlpoQ3dmMjRrdW1JMU9uWXI4TGczNkNONGc0aVJXMk54TmNBY25Ua09qa29RNF9nVGpkNjNZODhGTF81Y2RlU1N1cXZBYlJlNDhESzdGVjhMY0xpUlBoZnQ5OGJOaFVPT19uLWctWExRUzMxWmdsRTlDVFdCallsanp1TkNvT2ItT2ZtNWZVZ0d4ZWlxWU5aMkpsTWNuWlJUZDVQTkc1TmRpQVVXQzA5YWtGT1NEakVQaDExVW9KZ3hEaGV2OFNORjA4NG1xZ05uWUhCX3Y?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-10-18T11:30:00Z"
+        },
+        {
           "title": "Save our Saanich succeeds for Sharma & five first-time politicians",
-          "title_ko": "Saanich를 구해 Sharma와 5명의 신임 정치인을 성공시키세요",
+          "title_ko": "우리의 Saanich를 구해 Sharma와 5명의 신임 정치인을 위한 성공",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeV8tQ2d1YW1Oemo5V1pkc0ZvbnhrdG5QOVYway1tdWFfU2NQYldJbW4wdU1LMl9aX1BFd0lEVEFwdk9NNFhKQW1UOUE2NmlZRGJFYURBVlJMRXdEM1YyQk5KWEJ2d0hpZmc0RlNNMnVPakxNZmdIREZua3hQQnVoRUZ1dWNDQm5VSG1CN2FnNWFIUXVWR3F2M0lVSQ?oc=5",
           "source": "islandsocialtrends.ca",
           "published": "2026-10-18T08:11:44Z"
@@ -31,11 +31,18 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Why Victoria",
-          "title_ko": "왜 빅토리아인가?",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelBQZmxDeFBUckdKb3JNOUFubWFMZldhdl9Lek1IVGFJZmRHN3B3UHdCblBGQ0NiclY0bTRzV1BsWVBpZ2k5YWtFZ2QyeUpqVWxxT1VsVndmMHlHVVNfdFV1MkEtdDB1YUZSSm85WFNiazd2MW5YeGt5UHVVY3JkcQ?oc=5",
+          "title": "Community Safety and Wellbeing Plan",
+          "title_ko": "지역사회 안전 및 복지 계획",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONDh1UzYtak92MmhLZHJfR0hnd1MyUC1JOFllVnctT1NCa3N6ekMweFlhcjVNVkFrMDYxck1zOEpnUGo2NnR6dXNiVm5aT1FXcmxuYVVzN3dGdmdSSVhDaWpyb01uWml6WU9OTGU3X0FkcjlwS1FadUI4c2tjdTV2ZHNtS0czUDJUVmFUMm52ZGpScWJRRXZGSkJn?oc=5",
           "source": "City of Victoria",
           "published": "2026-10-18T03:02:23Z"
+        },
+        {
+          "title": "Letters Oct. 20: Municipal election; shingles vaccine",
+          "title_ko": "편지 10월 20일: 지방자치단체 선거; 대상포진 백신",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU0VFamdFNDRJYnBmQWdCSWEwbDRnZ3hwUDVVeW5LVlE3VDFVd2dZR0N5bnFXTmJndld3dzhQbGdXaGp3YW9udllyZno1NXZxczMyZTFYbExDQTNnODFmMTFBRTVySXZYVmxaRWFJR1RoWXQ1QjdUNS1QWFdrTThaR1RXQl9mZ1c4dno4cDYtVzZRazB6RVo3eFU4dE1oUQ?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-10-20T12:15:00Z"
         },
         {
           "title": "Greater Victoria municipal election results 2026",
@@ -43,13 +50,6 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0ZMcnQwVWU1T1NzS3U5dmhTOHFWb3FuMExRdlJfREFvcmtjR0FyVzJXYzlOYXRDQ1VmNTVZeHVyZ001ZVA2ZGRfQkJmRXVYOGNDYnhWUHFNaUhnMEV3MlkxdU5RTlRYYTUyeV9oMVFVa1FKTEpiUlYxcHRuOEZ1eW5zbkFfbzc4?oc=5",
           "source": "Capital Daily",
           "published": "2026-10-18T08:20:18Z"
-        },
-        {
-          "title": "Mayor of Victoria election results",
-          "title_ko": "빅토리아 시장 선거 결과",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPendZU3U3R0ZvUGpnekVCejBPd2JhdzcxZ0VuUFFLVFA5M1dZTjhHaGJra0NKalhSMGxUOEdYdVRmX29fYVFsUHhIeTdKcVVPejNFV1I4eVVEQW9CV3ZmazkzTVZLWE9VNUJ5aFRENDRVTk5iai1vdjZPUXBRS1lScHBCaFd6ZUlGaFQtajBmSmw4OGs?oc=5",
-          "source": "CBC",
-          "published": "2026-10-18T02:22:00Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "4 reasons why Pete Fry is the new mayor of Vancouver — and 1 reason Ken Sim lost",
-          "title_ko": "피트 프라이(Pete Fry)가 새로운 밴쿠버 시장이 된 4가지 이유와 켄 심(Ken Sim)이 시장이 된 이유 1가지",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWlUUmpwdkdoM2dmbEVOcmNCWVVpOXZvOVVCYkZQUm1ETDNPWFpuNHYxZGFSdnlfajdDWmQwcF9HYlludnZMTkVyd1VSRmU1S1lPYnEwUWl2UDNnQjhZUTVhUVVhN1ZiZHZfd3FDVlJYNlBmeTVuaF83MjR6cU9hYnV1cnhpVHJ5RnFNUWRCcU1zSTAyV05mQWx1R2NQTEw2ODVpOExCSWo1UmxaUnh3?oc=5",
+          "title": "New mayors elected in B.C.'s largest cities, including Vancouver and Surrey, as voters opt for change",
+          "title_ko": "유권자들이 변화를 선택함에 따라 밴쿠버와 서리를 포함한 브리티시 컬럼비아의 가장 큰 도시에서 새로운 시장이 선출되었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMUV4ejczQWwzY1RqSzE0cUtYNk5YSXdxVmIxczBsRGVNYlJaaEU2WERYY1dKQVVnZ3owZzZrcUh4WTlwUEVpYnpGMGo5Y1puNFZ2QWNrZF9JSFlOVldsNVA1VDN0VXo4REJnQm15MkZIeFEtVXVjd1VKOHBlcXlmTzJNd2ZxcXlaLWE1dlJpaklEZi1jN3A5eXBMb2hDUmVqMHlybzE1UWl5THJPY0dSeXNTZnFUczdrckN3TndmNVI1QU5H?oc=5",
           "source": "CBC",
-          "published": "2026-10-18T16:03:27Z"
+          "published": "2026-10-18T07:05:00Z"
         },
         {
-          "title": "Most Vancouverites hoping for new mayor; Surrey voters approve of Locke's work",
-          "title_ko": "대부분의 밴쿠버 주민들은 새로운 시장을 희망합니다. 서리(Surrey) 유권자들은 로크의 작업을 지지합니다.",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWXZqTjdKODBtdHQ5TElTNDRaODNUdG8wZzNLOW5lRGhiai1PM2R6bXNmR2lrdEFKbkYxbTRwVHhsVmZKSDZlNGhWYlhlRkJNLUtncGwyVmRzQ2M5eng5YkpnQmk1T2ZEOGlzY3YtOWlHZE5FWENJNVl5ckxnVVpjakRqbEYtUU1VbHJvQmdabzY0dUJYMGFRNGx5MjVWVExXU1ZhZkJkOTB6ZC05NERNVVFfZ2NhUFl1LWJSbzlWMG9IUQ?oc=5",
+          "title": "B.C. Votes 2026: Municipal election results",
+          "title_ko": "브리티시컬럼비아주 2026년 투표: 지방자치단체 선거 결과",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOTNaSlNTS3hQRlBpcVQwSWZ4allWbmZzWUNqTi1zRndJcU43U2IxWlBzbUtqMHVlQmc0RVhIamhkUnozRmNFVEJ5bGhBdzFFQ3ZBWHJYajRvVFQzWmtfaWNReldLLWdScHhvUThLbnZSTjZnVTg4MWVzSW1LeTJYZWM3dDRPZWg1VGQ0?oc=5",
           "source": "CityNews Vancouver",
-          "published": "2026-10-17T03:00:00Z"
+          "published": "2026-10-18T02:03:54Z"
         },
         {
-          "title": "Unofficial 2026 Vancouver Election results",
-          "title_ko": "비공식 2026년 밴쿠버 선거 결과",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVJ0SE1lT0FURHpCT1NaTVc1QWRkQ1Q2OXp4cmNMRWNZZlZ4MFJzS3pEbU1sQVROQm1ISTQtNzJmM2doWVExQ1BGLUd6ZmtXbDk5NnhiU2p1RllOY0pZMENkbzdldGFqZFFZZEo1ZXoycDAxX20waGd4OUw5TXg1TTc2cGJNdkhJMXhTS2NvWFQ2am9ZSUE?oc=5",
-          "source": "City of Vancouver",
-          "published": "2026-10-18T09:45:21Z"
+          "title": "Poll shows B.C. Conservative leader Lorne Doerkson considered best choice for premier",
+          "title_ko": "여론조사에 따르면 브리티시 컬럼비아 보수당 지도자 론 도르크슨(Lorne Doerkson)이 최고의 총리 후보로 간주되었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0k5aHY4V0g1dnhoRTRXZDJzbjUzZUdqRzh6RERyUGhaT2EwdHdqSFhTNkd6WUc4UlhrRldVXzdBR19mR1Fqb0xPT19EZGR0bUkwTzJRcVl6SEVObU5hSnFua3NNalpEZzZVZlNiNXg0NTJ2UDBtUTdXQ3lvUzFLS0oxaFVMMFVhMlpIbkVSS2M4OVBZYkNpYXlEQm1WMUNWekJMZHJjeXUxYkZueEdBeFJfaWEyMU9FLVlv?oc=5",
+          "source": "Vancouver Sun",
+          "published": "2026-10-20T02:44:16Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-          "title_ko": "캐나다 기지에서 발생한 치명적인 화재, '30~60초 만에' 1km 이동",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rTmlLZzJYY3ZhbHZ4cFZKcmEtRG5qREdEWFVjOFNFRHVmdG1IYWNNb0hIWUY3dXVoeFpsajRtQkFqOWl1VFZoTjFEN1h2Zjd6cDRhT1lld3dvTHM?oc=5",
-          "source": "BBC",
-          "published": "2026-10-19T18:22:48Z"
+          "title": "Alberta rejects a move toward independence from Canada in a victory for Carney",
+          "title_ko": "앨버타는 카니의 승리로 캐나다로부터의 독립을 향한 움직임을 거부했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNam5EME1Qam5lQmc2X3BhcDgzXzdMaWJLa1V2akVCc0c2dnJlZmo4bjZ5NEdXZmMxNHp6d1kxV3hEY2QwbkZraktnS1V5a3ItMUFvZmlxb0daZUppSHdqdjBvdUNrNVNueGo0TlROS21OeGl4OTBwM0RlanJuT2pGZjllNWxHMS0wOVFtRV9DOHA0TzZWbkotTGJXMzJHcjJFOHVFbkhnOUk?oc=5",
+          "source": "AP News",
+          "published": "2026-10-20T15:37:00Z"
         },
         {
-          "title": "Former journalist Pamela Wallin resigns from Senate",
-          "title_ko": "전 언론인 파멜라 월린(Pamela Wallin)이 상원에서 사임했다.",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ScG5BWTBTZ3BUb1Q0Y3J2QUdxMDlWdDcxU0psbE9SREQ5MnhrcWJnc3VCdzNYWjk3WUFTZ09mVXJyM29UcDl1d3dSNExfV1ozVFRRN25OOGN1TDkzbEswLWpmaUJIazV4Z2RLdDlrNFk1TUFPZThSXw?oc=5",
-          "source": "CBC",
-          "published": "2026-10-19T17:55:52Z"
+          "title": "33 military members injured in CFB Wainwright fire remain in hospital: minister",
+          "title_ko": "CFB Wainwright 화재로 부상당한 군인 33명 병원에 남아 있다: 장관",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX2RscFFkZ3FleE9BNEdoZjY4TkxEVkUtVzZoRTFBT25rNGFOSFpNbGo0WmhVN1hKelB4aTg2MmViT1RKT19BVEtvQzNma2FFZGphMVFGY3lYcExONmdPZGg5aExLTllUVDVVN2YweFBJaG1UOXRzejk0Wm9xdUdyQzFiVUNuQnQ3NFBZWS1lNVpYcWo3eV80S1JOVm1Rd3FGY0J3Nm0zUFhtRlhUd0UxdXdkX3ljemUwWGcw?oc=5",
+          "source": "CTV News",
+          "published": "2026-10-20T16:11:21Z"
         },
         {
-          "title": "Toronto police officer guilty of charge in Project South investigation receives conditional discharge",
-          "title_ko": "프로젝트 사우스 수사 혐의로 토론토 경찰, 조건부 해고",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORHZGcnN5bDZnc0Ztb2NXeGZpTUxobWlOb0hMbWIxc1hrbGVvazJPeFE1Z19hbHd0ek4yM0ZHS2FPLUhNNmVSZVNTYjBXX0FVZG13NkNoUldEMUdvUW00b2JTdlV2Z0NMakt0Ul8wdjBSUmJ3M0ZDbzdPVGhVLWtaS0hVM0RMSnFNUHFGWTNLTFo?oc=5",
-          "source": "CityNews Toronto",
-          "published": "2026-10-19T14:13:00Z"
+          "title": "Exclusive poll shows Chow’s lead over Bradford now within margin or error",
+          "title_ko": "독점 여론 조사에 따르면 이제 한계 또는 오류 내에서 브래드포드에 대한 Chow의 우위가 표시됩니다.",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSnc2M1dZT29jamtfV0daSzZZYzNMUFpyRElqbnF6UE1zQ1hhUGQyaUlUSERkUWRNRm4wY0RSTEQ3aWNzbE1DNWlFdWpGTHl3b1dnbUxmd3pLTTJmQnFsdzF1UTExQngtQi02bEE4VnVuZ1c5S2RITVpPcUJhRmlCY3FNZjFyOTh2SlBOR2lkR0RDbElRTW55ZVVRV3prYTVXRWRkTkVMaW9zd3BvNGoyTkVyZjdvSlQ5aUE0d0RlRXRDTmJDd3ZOTFFGUk9SV05WYUxaeE9VYnE3ZzhtMW9nMnVlRGxKWjZUU3ZMVA?oc=5",
+          "source": "CP24",
+          "published": "2026-10-20T11:14:12Z"
         }
       ]
     }
