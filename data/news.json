@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T17:54:12Z",
+  "updated_at": "2026-10-21T18:18:28Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -13,7 +13,7 @@
         },
         {
           "title": "Jack Knox: Affordability leapfrogs environment, even in eco-savvy B.C.",
-          "title_ko": "Jack Knox: 환경 친화적인 브리티시 컬럼비아에서도 경제성이 환경을 뛰어넘습니다.",
+          "title_ko": "Jack Knox: 환경에 정통한 브리티시 컬럼비아에서도 경제성이 환경을 뛰어넘습니다.",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYVVZV3dSc2h3WnUyOFpWSC1XQ1lNVzJJdFdDQ08wUHJvSXlsOUp4QTFUU3JtUjgtbUZQSm94S1NlLVhWM25mSmRhX0ZyaGNCZ1ZFbUNqV2IwdVdfYmRXZXQ5TEJIRHlHOVcxWDMwejR6Q2JSM2g5QndtX3lLR25ncFVFWTlJQjFuVkp5MFJNOXBUaTVqXy1MSE45eEhUYTY3dGdzdzZvdnF0ZFRJNGhLaWpwbm5RcG5Zd292bnVkbGVfUHBRM3ZEYVc5ckhHUHcwSklvdzRsYUhLQQ?oc=5",
           "source": "Times Colonist",
           "published": "2026-10-21T11:15:00Z"
@@ -31,13 +31,6 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Active Initiatives",
-          "title_ko": "적극적인 이니셔티브",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZXRnVEVYSlE3VENsaVNHaVkybGkzZWFOUEVEaGcyalVRZE1Wam9RSlhLVkQ2aWVMLTQtSGZHNG9JUjVlcDlSaDVyZTBIbmpNUnd6b3pwR2ZrSFk1bWM1UWFwTlc1N0REMzBiSE91X1VMcGYtLTdzT25IM3VtYzZxRA?oc=5",
-          "source": "City of Victoria",
-          "published": "2026-10-18T03:02:23Z"
-        },
-        {
           "title": "Greater Victoria municipal election results 2026",
           "title_ko": "2026년 광역 빅토리아 지방선거 결과",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0ZMcnQwVWU1T1NzS3U5dmhTOHFWb3FuMExRdlJfREFvcmtjR0FyVzJXYzlOYXRDQ1VmNTVZeHVyZ001ZVA2ZGRfQkJmRXVYOGNDYnhWUHFNaUhnMEV3MlkxdU5RTlRYYTUyeV9oMVFVa1FKTEpiUlYxcHRuOEZ1eW5zbkFfbzc4?oc=5",
@@ -50,6 +43,13 @@
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMXFpeGJkc18zRVNHLXB5MzJBSGtiWDdDT2lDRmo4NDRfQmdPekdfak9BYTVrT0ZHMXJzRzA3Q2ltWWZDdHFGcUNZaE11SE9QaW41NjdzZXkyQ2dpWHdUdTdRTjNJXzFyWWVKcG9fSExFaTBzdEYySEctYXVLOWMtRlM2Q3hVQkY1dVhwRnFxMzEyZEpkT092aUVHQzh5SG5rYlNfaHhlaWhodm1tN3BuQWFVRThocVNSaV9idllpY2dqaFJqY2ljMUFKd0MxVnl6SjUxOS1SY054OG8?oc=5",
           "source": "Times Colonist",
           "published": "2026-10-18T11:45:00Z"
+        },
+        {
+          "title": "Active Initiatives",
+          "title_ko": "적극적인 이니셔티브",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZXRnVEVYSlE3VENsaVNHaVkybGkzZWFOUEVEaGcyalVRZE1Wam9RSlhLVkQ2aWVMLTQtSGZHNG9JUjVlcDlSaDVyZTBIbmpNUnd6b3pwR2ZrSFk1bWM1UWFwTlc1N0REMzBiSE91X1VMcGYtLTdzT25IM3VtYzZxRA?oc=5",
+          "source": "City of Victoria",
+          "published": "2026-10-18T03:02:23Z"
         }
       ]
     },
@@ -71,11 +71,11 @@
           "published": "2026-10-20T20:10:34Z"
         },
         {
-          "title": "New mayors elected in B.C.'s largest cities, including Vancouver and Surrey, as voters opt for change",
-          "title_ko": "유권자들이 변화를 선택함에 따라 밴쿠버와 서리를 포함한 브리티시 컬럼비아의 가장 큰 도시에서 새로운 시장이 선출되었습니다.",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMUV4ejczQWwzY1RqSzE0cUtYNk5YSXdxVmIxczBsRGVNYlJaaEU2WERYY1dKQVVnZ3owZzZrcUh4WTlwUEVpYnpGMGo5Y1puNFZ2QWNrZF9JSFlOVldsNVA1VDN0VXo4REJnQm15MkZIeFEtVXVjd1VKOHBlcXlmTzJNd2ZxcXlaLWE1dlJpaklEZi1jN3A5eXBMb2hDUmVqMHlybzE1UWl5THJPY0dSeXNTZnFUczdrckN3TndmNVI1QU5H?oc=5",
-          "source": "CBC",
-          "published": "2026-10-18T07:05:00Z"
+          "title": "Vancouver Mayor-elect Pete Fry out door-knocking to support B.C. Greens Leader Lowan",
+          "title_ko": "밴쿠버 시장 당선자 피트 프라이(Pete Fry)가 브리티시 컬럼비아 녹색당 대표 로완을 지지하기 위해 문을 두드리고 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmdPeE9meTVCTFhENmNsY2JRNmtCY2NWajhNQ2JzdmJvR3Y5WmJDTG9xWklxbHBtSjYxVFFTTk4wdTduVHZfYlptbEZaMS1xU2hHeWNSY1NLem5Ha2Y4ak9HVHhVbVhDNURsZXlTazdxLTFyRHpxc29fUnlMWHM0MHJqS3J5MkZSWXppNUdzdlIyUXludXRTcC0zeFBVeUY1aUYtZkNsYzdFRGpJaXlPbjFrTWp2MWs?oc=5",
+          "source": "Abbotsford News",
+          "published": "2026-10-20T22:56:54Z"
         }
       ]
     },
@@ -83,11 +83,11 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Prolonged, fragile recovery ahead for soldiers severely burned at CFB Wainwright",
-          "title_ko": "CFB Wainwright에서 심각한 화상을 입은 군인들의 장기간 취약한 회복이 예상됩니다.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTVtb09Zd01pVjhEejlBN1NTb05HMTlIZFMxN2JwTEE5dUg5Skk0VWExbG9ZWUlvVzJETWU3ZnNwVS1ITHhLS1VNT1BOZWt6RVJBLXVpRWppaGJIYlFPeWs1OXpWaHZTMlJ2dEMxUUphcFZPY3h5dEZ6VDNmbDdGZHNMWUVDN1lMcVVOSHFoSWlLdThqLVVZMkdfYw?oc=5",
-          "source": "CBC",
-          "published": "2026-10-21T08:00:00Z"
+          "title": "Separatist support was strongest in ridings where Pierre Poilievre had some of his best results",
+          "title_ko": "Pierre Poilievre가 최고의 결과를 얻은 라이딩에서 분리주의 지원이 가장 강력했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOeEtUc1E4ZVk5OVZHLVFFcEo5cFo4WUh0QUVybkFWMXpYNHFKNWV2N0tYNE9Tck5LWHFOUXloTHJsR1ZfSlEyc3gteHpBSjhldVQxUXVsaE9TWE9XUU1DTW01MWxULWJvRWFHLXBwZFhINFdMWnhpeGVRVFJRSkw2Wnpjaml2dnNvbEc3ZUJaTmdmeXBWdlllX2lFZ1lHUVQwTEVOVEVNREo1clZ4UG9QU1VMYWV0T3V0bXczamdxYzEtb2pERW9SWXFaemNmTzQwYnRJSTEzaDA4TUo3SUM0T0tBQXFmV0JtQXVUQkxBVDNiS2F1UTF1alpSYVEwOVhud1JMa1dUWjl3cDNfR3NV?oc=5",
+          "source": "Toronto Star",
+          "published": "2026-10-21T18:00:58Z"
         },
         {
           "title": "Quebec premier-designate Paul St-Pierre Plamondon to be sworn in and unveil cabinet",
@@ -97,11 +97,11 @@
           "published": "2026-10-21T12:48:00Z"
         },
         {
-          "title": "Ontario drug funding decision leaves cancer patients disappointed, with few options",
-          "title_ko": "온타리오주 약물 자금 지원 결정으로 인해 암 환자들은 선택의 여지가 거의 없어 실망했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdDhKeXQ4bWFVT3JjWWFQdXI3Tzlla1YzOFU1Y3liX0RxRDh2dDhlV1hkek9QbzdhWk5sUlFyZ2VlZmxOeWd2dmhYQ2R6QlduNnpHN01jLWduTlJsMU84YW42b0FlbzFSdldfU2trVnZ2SFlXdDRqNjdKNVlYVmgtM2Q5WGU1MThQX1Vyc3ZFTmt0b181WnRPRFJCd1BjdUlLdDB5M0s5REFiZk9oSWt1ZUJkYUxmalp0UEZObFFSMA?oc=5",
-          "source": "CTV News",
-          "published": "2026-10-21T09:29:06Z"
+          "title": "'I so desperately would love to turn 32': Cancer patients disappointed by Ontario drug funding decision | CBC News",
+          "title_ko": "'32세가 되기를 간절히 원합니다': 온타리오 약물 자금 지원 결정에 실망한 암 환자들 | CBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVJ3eFdSeEVyUFVlS2lwd3h0SUR0eVVSR3VMTzVfOXNNQndqb2NOMUVuWmVybnpNZVItdGpLWWJoS1NEVDVpRl90bVM5VFNIOFFweWl1Z2JKWE5ldmJqZDlWSUlSRGtMbFlXOTVnQ0FzWkNibGVjeDEzcUFYTlRTLVZzZDZ1aS01WkNOaW5IZ2twZ185NElQeTdvOC1DSlJEVmxB?oc=5",
+          "source": "CBC",
+          "published": "2026-10-21T15:58:03Z"
         }
       ]
     }
