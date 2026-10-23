@@ -1,16 +1,9 @@
 {
-  "updated_at": "2026-10-22T18:12:37Z",
+  "updated_at": "2026-10-23T17:42:04Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
-        {
-          "title": "Where Greater Victoria residents can vote in the 2026 provincial election",
-          "title_ko": "광역 빅토리아 주민들이 2026년 주 선거에서 투표할 수 있는 곳",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcUhyWURDbzhBWkt3bHZYNldteExxbWhNX3BGMTdNeUE1R0Rod01iSzI5LWlsQURaa1QyQ0EySUswS240QW9hNlp2MllwLS1YVVdjMzI4T2VIT2tXZDNlTEI3dy1FRkdGMC1oQzRmSzAtbUdCaFQ0S1hWWVhCc0otZDJaMldDbGFNcUFwcUtJUWtqNWJLZkhBaG12Vk5hem5PYXVTSDZOR1MwSnNBOVE?oc=5",
-          "source": "Saanich News",
-          "published": "2026-10-22T14:00:43Z"
-        },
         {
           "title": "BC election 2026 results: Saanich South",
           "title_ko": "2026년 BC 선거 결과: Saanich South",
@@ -19,11 +12,18 @@
           "published": "2026-10-22T03:14:17Z"
         },
         {
-          "title": "Rishi Sharma elected Saanich mayor in big night for ‘Save Our Saanich’ Slate",
-          "title_ko": "Rishi Sharma는 'Save Our Saanich' 슬레이트를 위해 큰 밤에 Saanich 시장을 선출했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9INmducXpkckJZWWYyMm9hQTFVWVNNNmZXTFRjLUJYNWc0TmJGLXY5cVA2YWxFYzZGVG03UXB1bVczM0JlQy1IZ0x6T2ItbkJTWjAwNVYtU1BJQlFPeVpBZU5lV0xkVGN4Q1NaS1hhM0h3elZ6RnZMaWhGWjQ?oc=5",
-          "source": "CHEK News",
-          "published": "2026-10-18T05:22:26Z"
+          "title": "Provincial election guide: Candidates running in Saanich South",
+          "title_ko": "지방 선거 가이드: Saanich South에 출마하는 후보자",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlV2cDJYUGRYTHU2d24xOVpxTmVrU29LVU1lZ2JzZUcyZGQxcDMzYmxpSDlfX08yc0VFbXpJNWFHTjc0YVFxNjlQRlg3alk2Z0VTclNEYUQ5WDlDR25PU3k2RnZLdlFqbjdTTF9HOGROQVFISDB0ZUFXNFhzbjdFYzQ1LXAxNXhJVC1mcENRQWJEQ3lFbkxUMVlEVQ?oc=5",
+          "source": "Victoria Buzz",
+          "published": "2026-10-21T18:45:39Z"
+        },
+        {
+          "title": "Sharma keen to get to work after Save Our Saanich wins big",
+          "title_ko": "Save Our Saanich가 큰 승리를 거둔 후 일을 시작하고 싶어하는 Sharma",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOby1OZG1OZlM0X1JmSUx6RHpKZG5ueGFOUkxXM2lvelItQk9XLUZaVUpFZHN2Zy1NWjF1YkdVMkJCSTN3Q3ZIY1ZzazNTcU1BVGZPY0dVVDVDR1hScXRvcXZJMF9id0ZWZ0FsUmtYd05aSVVUNE1Ca1hmQ0xpNHRvcV9xT0M1NHFsVS1XOS1qeEhhNjFOSU96V0xpaDB4bDc2RmJyTjdXWkIxamcxTTFsWU9pRER4aW5TOGt2VG9ncHl3NklmRlFJ?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-10-20T11:30:00Z"
         }
       ]
     },
@@ -38,31 +38,24 @@
           "published": "2026-10-22T14:00:51Z"
         },
         {
-          "title": "Provincial election guide: All candidates running in the Greater Victoria area",
-          "title_ko": "주정부 선거 가이드: 광역 빅토리아(Greater Victoria) 지역에 출마하는 모든 후보자",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOclEyODBWZHE1N09tQTVjdVFhS25IRHZLRjdBY3daQlJDVnktbXBTckJkNDY2OUVCYUI3QzlSUjFoRGRHaTFPYXljMkV3U19mWDVMTTVCU0piMXNmNDFsck04cTkxenh6MEREdkQ2cUdBek0xN2tzRmxPNlhJcmM1UU5iM24yc01MS19rTllUS0tDOVQ1a0s3ZWlVTmU5NnpDdVl3YzJBbndvM292VHJ3WQ?oc=5",
-          "source": "Victoria Buzz",
-          "published": "2026-10-21T21:21:12Z"
+          "title": "John Ducker: Too many people 'camping' in left lanes on highways",
+          "title_ko": "존 더커: 고속도로 왼쪽 차선에서 '캠핑'하는 사람들이 너무 많습니다",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdTJCRW1aT1dsNUNTd1dQNThTYmZpczJQT2xPTDl1SUV2cjJ3cUYtQTNiLWVvaWdyRkRiUU4tT2tNeV9fakcwVkt2cElackwxbzBsOWZ1ZXFuUThNVkNpSVdIc2ZKb1JhZXoxQkZBVHB3eU41S21yM0ZhOWcxMnJwMU1YU21ScnFhXy1xaHl3SnRBX1J3TXVQaTh0elJRT1dzZ05TdV90eExuTGYwWGYxT1oxQ1hRcGtWU2t3djBVbnpqWmVPWGdFWW1tVTBmbFU2WkJhc3k0Vkt3NUFZeFBPMDhhQmpOLXRwa2NlQXYyUlJhODBYR1ZOXzNjRGVHMWJwRUE4UWVpaGpyek5uUVg4Vlc3UEowODBHZGh1VTNNc2o5UQ?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-10-23T10:45:00Z"
         },
         {
-          "title": "Active Initiatives",
-          "title_ko": "적극적인 이니셔티브",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZXRnVEVYSlE3VENsaVNHaVkybGkzZWFOUEVEaGcyalVRZE1Wam9RSlhLVkQ2aWVMLTQtSGZHNG9JUjVlcDlSaDVyZTBIbmpNUnd6b3pwR2ZrSFk1bWM1UWFwTlc1N0REMzBiSE91X1VMcGYtLTdzT25IM3VtYzZxRA?oc=5",
-          "source": "City of Victoria",
-          "published": "2026-10-18T03:02:23Z"
+          "title": "We Meet Hudson Williams’s Logan in Witchy YAGA Premiere Filmed in Victoria BC",
+          "title_ko": "BC주 빅토리아에서 촬영된 Witchy YAGA 프리미어에서 허드슨 윌리엄스의 로건을 만나보세요.",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONG9FMDdUTGFFNG5PVjlxaDFrY0ZVSmZSQkpBSmVrTGxhYlB0bkxpQ1hXM1VTMnJIR3ppM19CeFotR0JXd2hSUENqLW12cV8yRDVQeXpUN01TdkthdFlwUTRYV3Bpb0o1UmlaSl9OVVNlSEttWV9CYk5lRFlWakFjQ2tOTWVnOWgxa2dxdjQxVmVhSHRQMFZVc1VNTzRUVmE1TEJveTdMMU9jZGdvc1FqMk9mdEJLLTNXazVSaA?oc=5",
+          "source": "Hollywood North Buzz",
+          "published": "2026-10-23T16:26:24Z"
         }
       ]
     },
     "vancouver": {
       "label": "Vancouver",
       "articles": [
-        {
-          "title": "How to spend a weekend in Vancouver",
-          "title_ko": "밴쿠버에서 주말을 보내는 방법",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYlJzY25DbUNDby1fQ3JidjQ4ZS1vZHBNQXdmV0h0LU04S182c3NpYW1OLUhGakxzYnZxalhTMG96b0ZXRVZxQmZEaXhYVUtJWDVVc1kyNEJ1d0FHcTEzdUJTMnh4WnRuQWNGMkczd3FMeVpCZDJYbTNCUU5mVnQzNkN4bktPdmctVEMzYU5GblZ5bFVOMFlpS1ZzcUgya1daeGpTbXkxbkVzWjBXZ1BueDlVb2NXVWxJRzQ2bW5n?oc=5",
-          "source": "Toronto Star",
-          "published": "2026-10-22T17:30:00Z"
-        },
         {
           "title": "Rabid skunk bites 'small number' of people in downtown Vancouver: officials",
           "title_ko": "광견병에 걸린 스컹크가 밴쿠버 시내에서 '소수'의 사람들을 물었습니다: 관리들",
@@ -71,11 +64,18 @@
           "published": "2026-10-22T00:59:00Z"
         },
         {
-          "title": "B.C. businesses rethink workforce skills as AI agents take on more work",
-          "title_ko": "AI 에이전트가 더 많은 작업을 수행함에 따라 브리티시 컬럼비아 기업은 인력 기술을 재고합니다.",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcTVNUDduLTJmaUJoZk9kWGpWUzJHRjd6MVZrX0d2SHBqdE83NkNudEM0MUxKSDZKZ29sSmpoNlVBSEh3azRqdlZ2MkVXTnVjUHYyWU85bldXZG8ydzFDNkNXX2hMZnQxQmRCUXFuTGNkU3ZGTmx5Z0I0dHExd0RFT3pHN2VKWUU1ZWptaXVzMUZRUU1DbE1lU0hCMzBWR0c3VkxzNmc3bFMxb0k4ZVJXVW1QbHM?oc=5",
-          "source": "Business in Vancouver",
-          "published": "2026-10-22T13:00:00Z"
+          "title": "Historic B.C. waterfront hotel selling for slightly more than benchmark Vancouver house",
+          "title_ko": "벤치마크 밴쿠버 주택보다 약간 더 높은 가격에 판매되는 유서 깊은 브리티시 컬럼비아 해안가 호텔",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbVVGendWTXNNTVpTbVJEZTU3dllVOXhFOUlWU251YW8zOXdpY1BHNTd3bUNOS013cFRFZGVMODZiRmdIMHNWNTJSTW9uNks5RmVqN0dUMFIxMUR3OU1oRm0zWVVBMl9DaTBOLURxbjNtMGhtRjJta1plME9IRlA2TGhzNVJiSkhOZVVRSjhCVTJzRHlwLTlVX2t2ZmNicmFIQVFmZkowT1ZQQkgxcEZvakFFOW90LWlCOVVVUWFVVEtrNVN5OUpzbWtJakpVN1BkZlpxYks0SnItVlN1TDJz?oc=5",
+          "source": "Vancouver Is Awesome",
+          "published": "2026-10-21T20:15:00Z"
+        },
+        {
+          "title": "Surrey could be deciding factor in B.C. election",
+          "title_ko": "서리(Surrey)가 브리티시 컬럼비아 선거에서 결정적인 요인이 될 수 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWDJmQzFWa0xxcFRLRFJyWk9QNUtKOC1wNVpGUmktWHhvY0ViQzBYSW5ybEFOOFF0bnZNeWlzdUNjMDlEZFRsbTd6dFBna1VWLU1jc1ZnNGRWWmdKeGRjSjRyN0hxY3ZFOUFJMzJxb2VLelkta1Z6dlVRRS1Nd2NfcTFpSTZJWWVTRWtWZ2dGckJtM3VHMXBFTlF3S2N4QQ?oc=5",
+          "source": "CTV News",
+          "published": "2026-10-23T15:38:13Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Supreme Court to hear final appeal of Trudeau government's invocation of Emergencies Act",
-          "title_ko": "대법원, 트뤼도 정부의 긴급법 발동에 대한 최종 항소 심리 예정",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0pvbkRXRmhyb3FOZlVIUEVlMERDVS1LZm5SakdvTE5pR0hsQy01Rm9LSEgzWmdzc0lLSzZXV25MOHFHaF80ZVlMRkhQR2ZVRmw2akh5dzhEOFRreEd2NUNJYWttalBINnlDYUVXQ21UbVhrV2hZRXVSN1BCdGNHbU9BRTdoZk0zNWNNekRQaVUwbm9jVUY0QnlCVU13anhRaTA5ZkxBOEprZl9jVFctN1dYeGJwYjg1em94N3hqeThUZlha?oc=5",
-          "source": "National Post",
-          "published": "2026-10-22T16:00:30Z"
-        },
-        {
-          "title": "Alberta referendum count passes deadline as ‘no’ gains ground on constitutional questions",
-          "title_ko": "앨버타 국민투표 집계가 헌법 문제에 대한 근거를 확보함에 따라 마감일을 통과했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaEl6MF8tMkVyTHQ0SElmNGdNd20zeEc2a0xtZEo5b1JycVZQMUtWS2syQmtacmNyTVNhRXJQV2VNMnMtX2hSaXlIYWhJTnpTZVpyUUZRVndXTVMxMW9zaTFZMWlPbnVRNm4xaTBRMDJpa0NrUGtLcmQtQUt6dmRnV09UMTZaV0lYU2dPSUd0NDI4MjlxYWo1TkdidlA4TWlOU19NUHdKMDNVYURNa1J5NFM3ekEyUTlBLUI0OG9MUnU4a1MwNnc?oc=5",
+          "title": "Two women dead after being shot inside vehicle in Rivière-du-Loup",
+          "title_ko": "Rivière-du-Loup에서 차량 안에서 총에 맞아 여성 2명이 사망",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHlOSjJUWUpIZE1abzd5eEMwbjNUOTdBNmVNbFBqY2pDRkdxVl9XUS1kS0xQa2dZU2xFLW1MU0o2dHBGWHd6VW90Z0xFQ3BBeUo1b1ZUeTVpanNhdlVEelZkU3R3SlNJMkxUUU5FS1VzRUR4QXloWFBESHR4cGtOb282MDNoTHBUWXkxQUJyUnlsekx2bkxuNW5CSTlTa1pzcHZBcGRxc3o0NEI1aG12d3NmMnZfZkU?oc=5",
           "source": "CTV News",
-          "published": "2026-10-22T12:59:54Z"
+          "published": "2026-10-23T11:06:13Z"
         },
         {
-          "title": "Alleged Tumbler Ridge mass shooting conspirator set to enter plea in U.S. court",
-          "title_ko": "텀블러 리지(Tumbler Ridge) 총격 사건 공모자가 미국 법원에 항소할 예정",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRGRFUkNVbEN5cS0yelU5MXpnYy1zYnphSW52TUVXY3ZUVC1VSUpDM0hCM2V4OC1CYmtBYjVGazR5ZjVhZC1OY0N0ZTdabnl1Y0RGa0xZa3lZU3VkcUw0dFdnakRyZnhKT0plMFdBMHJKMHFKdUlXcERnbkNsNThkZDJHX3hGZ3YxQ2txYk92b04zZncxMTNBRnJhREMzSHY2OWVnaGNma2RnMERtYi1RbktEa0dacFhoNXc?oc=5",
-          "source": "Castanet",
-          "published": "2026-10-22T16:20:00Z"
+          "title": "Alberta unfurling flag rules limiting what can go up at schools",
+          "title_ko": "학교에서 올라갈 수 있는 것을 제한하는 앨버타 깃발 펼치기 규칙",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaGFoYi03U2xTajEzaDVyV3RUbTlDYnphaW9FV2x1V1pBNDJpWEdZTzdkUlJyNTRVbExJcWNmcVZpVHFGWHpFcGMzN1FjaU1XckY0ZHVEZE9hQlgxSGdBQzUyUDJRazhzbkIybXJMQVgxR04teGFWc2JJcXI5WDU1V1gwMS1pTWVncnlFMnQwaGM5Yl96V3hDNWZGYTZxRmVkU3ZNRGNHYw?oc=5",
+          "source": "CTV News",
+          "published": "2026-10-23T12:00:00Z"
+        },
+        {
+          "title": "Alberta Referendum maps: See how Alberta, Edmonton and Calgary voted",
+          "title_ko": "앨버타 주민투표 지도: 앨버타, 에드먼턴, 캘거리의 투표 방법을 확인하세요.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMzFBekpDUWp2NjJfajBLb1BBcHVNZE50eGNtdTJ4LUpVMFZjMGtQenZsbzN1QUNESkRQQ3NmQ3p3Zm80c0FMS3NOUzFJem9KMEdDVTV2NE9FdlpJTVVUaUlVVkpzZnhiRlc0RGROdTBJNTFiT2JNWmhEeU5Mcm9XUEQ3SXBHdUFScl9NLVFkX3FXRjVRVGlmMFRXd3YxdFVfV1E?oc=5",
+          "source": "Edmonton Journal",
+          "published": "2026-10-23T15:10:05Z"
         }
       ]
     }
