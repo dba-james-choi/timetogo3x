@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T17:42:04Z",
+  "updated_at": "2026-10-23T18:01:25Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -84,24 +84,24 @@
       "articles": [
         {
           "title": "Two women dead after being shot inside vehicle in Rivière-du-Loup",
-          "title_ko": "Rivière-du-Loup에서 차량 안에서 총에 맞아 여성 2명이 사망",
+          "title_ko": "Rivière-du-Loup에서 차량 안에서 총에 맞아 여성 2명이 사망했습니다.",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHlOSjJUWUpIZE1abzd5eEMwbjNUOTdBNmVNbFBqY2pDRkdxVl9XUS1kS0xQa2dZU2xFLW1MU0o2dHBGWHd6VW90Z0xFQ3BBeUo1b1ZUeTVpanNhdlVEelZkU3R3SlNJMkxUUU5FS1VzRUR4QXloWFBESHR4cGtOb282MDNoTHBUWXkxQUJyUnlsekx2bkxuNW5CSTlTa1pzcHZBcGRxc3o0NEI1aG12d3NmMnZfZkU?oc=5",
           "source": "CTV News",
           "published": "2026-10-23T11:06:13Z"
         },
         {
-          "title": "Alberta unfurling flag rules limiting what can go up at schools",
-          "title_ko": "학교에서 올라갈 수 있는 것을 제한하는 앨버타 깃발 펼치기 규칙",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaGFoYi03U2xTajEzaDVyV3RUbTlDYnphaW9FV2x1V1pBNDJpWEdZTzdkUlJyNTRVbExJcWNmcVZpVHFGWHpFcGMzN1FjaU1XckY0ZHVEZE9hQlgxSGdBQzUyUDJRazhzbkIybXJMQVgxR04teGFWc2JJcXI5WDU1V1gwMS1pTWVncnlFMnQwaGM5Yl96V3hDNWZGYTZxRmVkU3ZNRGNHYw?oc=5",
-          "source": "CTV News",
-          "published": "2026-10-23T12:00:00Z"
-        },
-        {
           "title": "Alberta Referendum maps: See how Alberta, Edmonton and Calgary voted",
-          "title_ko": "앨버타 주민투표 지도: 앨버타, 에드먼턴, 캘거리의 투표 방법을 확인하세요.",
+          "title_ko": "앨버타 주민투표 지도: 앨버타, 에드먼턴, 캘거리의 투표 방식을 확인하세요.",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMzFBekpDUWp2NjJfajBLb1BBcHVNZE50eGNtdTJ4LUpVMFZjMGtQenZsbzN1QUNESkRQQ3NmQ3p3Zm80c0FMS3NOUzFJem9KMEdDVTV2NE9FdlpJTVVUaUlVVkpzZnhiRlc0RGROdTBJNTFiT2JNWmhEeU5Mcm9XUEQ3SXBHdUFScl9NLVFkX3FXRjVRVGlmMFRXd3YxdFVfV1E?oc=5",
           "source": "Edmonton Journal",
           "published": "2026-10-23T15:10:05Z"
+        },
+        {
+          "title": "Carney defends doing business with countries that don’t share Canada’s values",
+          "title_ko": "Carney는 캐나다의 가치를 공유하지 않는 국가와의 사업을 옹호합니다.",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnZpcEY1MnZ5X2ZQU0lFR1RhUGxMMkpmZnZhbzBJNXU1TThUZ1JrNWFhWjEtTHdvZmJrQ1Vtb19ydy1qVV9KY2wwaWtfSVRHdkNGRzZubUJxMzk0dGVCWWNOa0oxV2tnSjN0d1BmdnNEQTVpMU1WeFIyRlFGekNGcjNuNUU?oc=5",
+          "source": "CBC",
+          "published": "2026-10-23T13:37:15Z"
         }
       ]
     }
