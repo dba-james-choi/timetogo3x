@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T16:57:36Z",
+  "updated_at": "2026-10-25T17:19:08Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -13,14 +13,14 @@
         },
         {
           "title": "Cathie Ounsted wins Saanich South riding for BC Conservatives",
-          "title_ko": "Cathie Ounsted, BC 보수당의 Saanich South 우승",
+          "title_ko": "Cathie Ounsted가 BC 보수당의 Saanich South에서 승리했습니다.",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSEw2QTdZSElXU0pHUm91RGxoRWljOVFyZnBQYnBkZ2RqNHdxTVBYZlFtYlh3b2hoQ3o3S3psLU9FaTNWYlN6dkY1dDdxblpmLWRiOGZxaXZfSXFkcngzZXY0VlliZldyemhTYThxN2dVWlVWUkZhMkVNSWozTU9mMzFTTmVwUThVMjBYd2lHVlNsdFhN?oc=5",
           "source": "CHEK News",
           "published": "2026-10-25T05:34:10Z"
         },
         {
           "title": "Conservative Cathie Ounsted wins Saanich South",
-          "title_ko": "보수당 캐시 오운스테드(Cathie Ounsted), 사니치 사우스(Saanich South) 승리",
+          "title_ko": "보수당 Cathie Ounsted가 Saanich South에서 승리",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWUtzZGh3Nnh4REdOTmg3bk1VcVNVdF9XOHoydno4dzM3OFVNblh0Qjk2TkdQZmlUS2M1OVM2Q0U3VzdkUEtzaWlKYUtSWS1nSjhDQTFQTmkxYU9kU3hDYThtV3RnV09US2I0OHJBS0VheFBlQlUyNVlmYXZaS0pUb3E0OWNfYk1NTGhDSTl0SQ?oc=5",
           "source": "Saanich News",
           "published": "2026-10-25T06:46:42Z"
@@ -31,25 +31,25 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "'Unconfirmed reports' of person missing after fire at former Victoria hotel",
-          "title_ko": "전 빅토리아 호텔에서 화재 발생 후 실종자 '확인되지 않은 보고'",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbGdYUS1id3NMTWNCVzdYc2NCT3hUdU13SGhadDg0UkYzc1l2M3Ffd0tDRkhxOGVPWjRGNEFyblRPUThPRGFvaW5iNE9KbjNLcThkemJoVzk3Qy1Ybmp3LUdyLU1NZXdGWXJqQ3I2MS1CajV3U3pzbDhTcWpMOWpYYjdjSDdHZ1dSbGlNbHFqUF8xbVpEenc?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-10-25T11:00:00Z"
-        },
-        {
           "title": "Crews fight apartment building blaze in downtown Victoria",
-          "title_ko": "빅토리아 시내 아파트 건물 화재 진압에 나선 승무원들",
+          "title_ko": "빅토리아 시내 아파트 건물 화재 진압에 나선 대원들",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhUDQwZ21xTUhWb1BhLXhOa1A2N2xvdFI4aU05dFU2dW1RamhXc0NoSDQzVGU4YTZlbmFna3ZUMHF3NU9MRUpOanZBUjJjd01FQ3kxdVB2cVdkVG9KZHh3Q05MbFMzWk45U1hrR0k3OUo2S085aDRic1NZMA?oc=5",
           "source": "CBC",
           "published": "2026-10-24T15:22:00Z"
         },
         {
           "title": "'Unconfirmed reports' that additional people may have been in former Travellers Inn in Victoria",
-          "title_ko": "빅토리아주 전 트래블러스 인(Travelers Inn)에 추가 인원이 있었을 수 있다는 '확인되지 않은 보고'",
+          "title_ko": "빅토리아 주 트래블러스 인(Travelers Inn)에 추가 인원이 있었을 수도 있다는 '확인되지 않은 보고'",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYlRMWk5aUkpNcnpGYUZoaGJ2b2RKRmJOaG5oRFItemw3NHhhS2VZeHdNTkhJZWlWaWRXMHZsc2hEbnV5MkZoeU1PTnpkS2FvcTkwSjdnelFZSGRuRXhxSno5ZzV0SmtOV1ZaR2lNc3VEODBnMFg1WnNPVGZLcWRkYlFvN3JPQ2FRX2hLQU9SbDU2T2M?oc=5",
           "source": "CHEK News",
           "published": "2026-10-24T15:03:14Z"
+        },
+        {
+          "title": "Former Travellers Inn catches fire in downtown Victoria",
+          "title_ko": "빅토리아 시내에서 전 트래블러스 인(Travelers Inn)에 불이 났습니다.",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNGJfSFZ3ejhMNzNUUjRUTXVZYmNiQlZBYkJMdXVveUhYVHJMNXduNDJXd3FhcUVEOGpNOUdaVGxSZTlaZExINUxydWNuOE1USXVScjJucVRPcHdGV0ZXWFhRU3RUZHZPSFZlUjBKNjhHRnN3a0c4UlRHa0xMOUdNU3lJX1pkS0lHam9MT2h0Y2tza0lKLUZpWjZ2eHI?oc=5",
+          "source": "CTV News",
+          "published": "2026-10-24T16:58:55Z"
         }
       ]
     },
@@ -57,11 +57,11 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "More than 150 people rescued after Metro Vancouver grad cruise ran aground",
-          "title_ko": "메트로 밴쿠버 졸업생 크루즈 좌초 후 150명 이상 구조",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRnNLVGg0Q3REbGthVXBGRGdzVUVQVU96eWdwUWFfcWRGMU5uNzVPNm1uSjhQbTVITzVzdHUtSHY3UlJDakJuZkVTQkgwMXhrRWRVckt3SUNPQURJYllvdGVyNW45X0hIMVEtY1E2V1dCM2Z2amdkbXQ2bHR5NElQQkRVTVR6WGJKTUFhd0Exd2FwMkJDTHdodnhTLUkyOHl0SV81RWlBVUdhdG5rejdRRnNic18wWmVLeVRzdw?oc=5",
-          "source": "CTV News",
-          "published": "2026-10-24T21:40:41Z"
+          "title": "OneBC interim Leader Dallas Brodie defeated in Vancouver",
+          "title_ko": "OneBC 임시 지도자 달라스 브로디(Dallas Brodie)가 밴쿠버에서 패배",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMHZOaE1kUGVZNG9oMWVyVjJmVmJtdFhwZ2VncG9FM2hjUWwwbVBOSUFaZ1I0TThOZTNzeThMLWJOREZtbFV0c19kcWg2dFJNSGVqRklxaHpiakU5aUI2b05ISnpXU21pck84akd2aVZzbXJMWHVsdlNESWc2Z1VFUGt0SWV4LUZHUDNTR0RIUQ?oc=5",
+          "source": "CBC",
+          "published": "2026-10-25T04:54:00Z"
         },
         {
           "title": "B.C. election 2026: A roundup of the results on Vancouver Island",
@@ -71,11 +71,11 @@
           "published": "2026-10-25T11:45:00Z"
         },
         {
-          "title": "OneBC interim Leader Dallas Brodie defeated in Vancouver",
-          "title_ko": "OneBC 임시 지도자 달라스 브로디(Dallas Brodie)가 밴쿠버에서 패배",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMHZOaE1kUGVZNG9oMWVyVjJmVmJtdFhwZ2VncG9FM2hjUWwwbVBOSUFaZ1I0TThOZTNzeThMLWJOREZtbFV0c19kcWg2dFJNSGVqRklxaHpiakU5aUI2b05ISnpXU21pck84akd2aVZzbXJMWHVsdlNESWc2Z1VFUGt0SWV4LUZHUDNTR0RIUQ?oc=5",
-          "source": "CBC",
-          "published": "2026-10-25T04:54:00Z"
+          "title": "More than 150 people rescued after Metro Vancouver grad cruise ran aground",
+          "title_ko": "메트로 밴쿠버 졸업생 크루즈 좌초 후 150명 이상 구조",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRnNLVGg0Q3REbGthVXBGRGdzVUVQVU96eWdwUWFfcWRGMU5uNzVPNm1uSjhQbTVITzVzdHUtSHY3UlJDakJuZkVTQkgwMXhrRWRVckt3SUNPQURJYllvdGVyNW45X0hIMVEtY1E2V1dCM2Z2amdkbXQ2bHR5NElQQkRVTVR6WGJKTUFhd0Exd2FwMkJDTHdodnhTLUkyOHl0SV81RWlBVUdhdG5rejdRRnNic18wWmVLeVRzdw?oc=5",
+          "source": "CTV News",
+          "published": "2026-10-24T21:40:41Z"
         }
       ]
     },
