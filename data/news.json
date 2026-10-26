@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T17:19:08Z",
+  "updated_at": "2026-10-26T19:01:12Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -13,17 +13,17 @@
         },
         {
           "title": "Cathie Ounsted wins Saanich South riding for BC Conservatives",
-          "title_ko": "Cathie Ounsted가 BC 보수당의 Saanich South에서 승리했습니다.",
+          "title_ko": "Cathie Ounsted, BC 보수당의 Saanich South 우승",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSEw2QTdZSElXU0pHUm91RGxoRWljOVFyZnBQYnBkZ2RqNHdxTVBYZlFtYlh3b2hoQ3o3S3psLU9FaTNWYlN6dkY1dDdxblpmLWRiOGZxaXZfSXFkcngzZXY0VlliZldyemhTYThxN2dVWlVWUkZhMkVNSWozTU9mMzFTTmVwUThVMjBYd2lHVlNsdFhN?oc=5",
           "source": "CHEK News",
           "published": "2026-10-25T05:34:10Z"
         },
         {
-          "title": "Conservative Cathie Ounsted wins Saanich South",
-          "title_ko": "보수당 Cathie Ounsted가 Saanich South에서 승리",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWUtzZGh3Nnh4REdOTmg3bk1VcVNVdF9XOHoydno4dzM3OFVNblh0Qjk2TkdQZmlUS2M1OVM2Q0U3VzdkUEtzaWlKYUtSWS1nSjhDQTFQTmkxYU9kU3hDYThtV3RnV09US2I0OHJBS0VheFBlQlUyNVlmYXZaS0pUb3E0OWNfYk1NTGhDSTl0SQ?oc=5",
-          "source": "Saanich News",
-          "published": "2026-10-25T06:46:42Z"
+          "title": "Where Greater Victoria residents can vote in the 2026 provincial election",
+          "title_ko": "광역 빅토리아 주민들이 2026년 주 선거에서 투표할 수 있는 곳",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbmJYaEpKcTZ6QzlUdDNOanlNelgxc0pXQUl0Rk0xbTRrZl9kNEphdEFJRzlMdU9BYWFDZFF2Z0h0ckVXRnZyR0RLTDVobXBmU1FEbzg2Ql9GWUFlaHdydDl0ZXZ3X1Fwdkw2aTYtN2lqVkU5aWJYc3h4c0NXaklqNFVPZ1o2ZTFyRFZmVnlsLS1nNGFfd2xnM3J4OUJNUzJqSlB1dEJrMUI?oc=5",
+          "source": "Victoria News",
+          "published": "2026-10-22T14:00:51Z"
         }
       ]
     },
@@ -31,18 +31,11 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Crews fight apartment building blaze in downtown Victoria",
-          "title_ko": "빅토리아 시내 아파트 건물 화재 진압에 나선 대원들",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhUDQwZ21xTUhWb1BhLXhOa1A2N2xvdFI4aU05dFU2dW1RamhXc0NoSDQzVGU4YTZlbmFna3ZUMHF3NU9MRUpOanZBUjJjd01FQ3kxdVB2cVdkVG9KZHh3Q05MbFMzWk45U1hrR0k3OUo2S085aDRic1NZMA?oc=5",
-          "source": "CBC",
-          "published": "2026-10-24T15:22:00Z"
-        },
-        {
-          "title": "'Unconfirmed reports' that additional people may have been in former Travellers Inn in Victoria",
-          "title_ko": "빅토리아 주 트래블러스 인(Travelers Inn)에 추가 인원이 있었을 수도 있다는 '확인되지 않은 보고'",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYlRMWk5aUkpNcnpGYUZoaGJ2b2RKRmJOaG5oRFItemw3NHhhS2VZeHdNTkhJZWlWaWRXMHZsc2hEbnV5MkZoeU1PTnpkS2FvcTkwSjdnelFZSGRuRXhxSno5ZzV0SmtOV1ZaR2lNc3VEODBnMFg1WnNPVGZLcWRkYlFvN3JPQ2FRX2hLQU9SbDU2T2M?oc=5",
-          "source": "CHEK News",
-          "published": "2026-10-24T15:03:14Z"
+          "title": "Fire at former hotel declared out, crews working to assess hot spots",
+          "title_ko": "전 호텔 화재 선언, 직원들이 핫스팟 평가 작업",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbGdYUS1id3NMTWNCVzdYc2NCT3hUdU13SGhadDg0UkYzc1l2M3Ffd0tDRkhxOGVPWjRGNEFyblRPUThPRGFvaW5iNE9KbjNLcThkemJoVzk3Qy1Ybmp3LUdyLU1NZXdGWXJqQ3I2MS1CajV3U3pzbDhTcWpMOWpYYjdjSDdHZ1dSbGlNbHFqUF8xbVpEenc?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-10-26T11:15:00Z"
         },
         {
           "title": "Former Travellers Inn catches fire in downtown Victoria",
@@ -50,6 +43,13 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNGJfSFZ3ejhMNzNUUjRUTXVZYmNiQlZBYkJMdXVveUhYVHJMNXduNDJXd3FhcUVEOGpNOUdaVGxSZTlaZExINUxydWNuOE1USXVScjJucVRPcHdGV0ZXWFhRU3RUZHZPSFZlUjBKNjhHRnN3a0c4UlRHa0xMOUdNU3lJX1pkS0lHam9MT2h0Y2tza0lKLUZpWjZ2eHI?oc=5",
           "source": "CTV News",
           "published": "2026-10-24T16:58:55Z"
+        },
+        {
+          "title": "'Unconfirmed reports' that additional people may have been in former Travellers Inn in Victoria",
+          "title_ko": "빅토리아주 전 트래블러스 인(Travelers Inn)에 추가 인원이 있었을 수 있다는 '확인되지 않은 보고'",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYlRMWk5aUkpNcnpGYUZoaGJ2b2RKRmJOaG5oRFItemw3NHhhS2VZeHdNTkhJZWlWaWRXMHZsc2hEbnV5MkZoeU1PTnpkS2FvcTkwSjdnelFZSGRuRXhxSno5ZzV0SmtOV1ZaR2lNc3VEODBnMFg1WnNPVGZLcWRkYlFvN3JPQ2FRX2hLQU9SbDU2T2M?oc=5",
+          "source": "CHEK News",
+          "published": "2026-10-24T15:03:14Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "OneBC interim Leader Dallas Brodie defeated in Vancouver",
-          "title_ko": "OneBC 임시 지도자 달라스 브로디(Dallas Brodie)가 밴쿠버에서 패배",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMHZOaE1kUGVZNG9oMWVyVjJmVmJtdFhwZ2VncG9FM2hjUWwwbVBOSUFaZ1I0TThOZTNzeThMLWJOREZtbFV0c19kcWg2dFJNSGVqRklxaHpiakU5aUI2b05ISnpXU21pck84akd2aVZzbXJMWHVsdlNESWc2Z1VFUGt0SWV4LUZHUDNTR0RIUQ?oc=5",
-          "source": "CBC",
-          "published": "2026-10-25T04:54:00Z"
-        },
-        {
-          "title": "B.C. election 2026: A roundup of the results on Vancouver Island",
-          "title_ko": "2026년 브리티시 컬럼비아 선거: 밴쿠버 섬 결과 요약",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWERqMUE5QUpwTnc4V05GSUVHOVc4UnlTc1FZOHBaVDBnendhX3ZYZnpTVzgwX2Q3ZnVfVnZ3VUJFT1o5UmZBTkZtR1NWLUlsNHNGVVFDSVpVcnktQ0s5bzRoc1BHMWQ0U1ltQWQ5bGkwTzVfYU4zX2RncHgtNzVadHpQc2dPR0loNjNDMWdyVFgtWXpGbmtWSnBPMkVTeUdCSjNsYmIwUUtxbWV0c2c?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-10-25T11:45:00Z"
-        },
-        {
           "title": "More than 150 people rescued after Metro Vancouver grad cruise ran aground",
           "title_ko": "메트로 밴쿠버 졸업생 크루즈 좌초 후 150명 이상 구조",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRnNLVGg0Q3REbGthVXBGRGdzVUVQVU96eWdwUWFfcWRGMU5uNzVPNm1uSjhQbTVITzVzdHUtSHY3UlJDakJuZkVTQkgwMXhrRWRVckt3SUNPQURJYllvdGVyNW45X0hIMVEtY1E2V1dCM2Z2amdkbXQ2bHR5NElQQkRVTVR6WGJKTUFhd0Exd2FwMkJDTHdodnhTLUkyOHl0SV81RWlBVUdhdG5rejdRRnNic18wWmVLeVRzdw?oc=5",
           "source": "CTV News",
           "published": "2026-10-24T21:40:41Z"
+        },
+        {
+          "title": "Rising demand for multigenerational living reshapes B.C. home design",
+          "title_ko": "다세대 생활에 대한 수요 증가로 인해 브리티시 컬럼비아의 주택 디자인이 재편되었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3RRVmJTZ3VncG9oNWJrc1ZjdDdSc21relkteUZiUlhaVXMtd2xJZHR5R1U3MEJjOFlSdEFyOG4xU2RJcFRHNjkzcnRyVF9GdldSWGczeFpRWFVwbDlDUFFWSGJ1SEVKUjV5OVROUFB1TW5fQUUzd0E3Umt3Qy1tNm94TllGVzZWUG4tRU9jZldxOGlCSGpQQ0pRMzNpR1pKbFE?oc=5",
+          "source": "Business in Vancouver",
+          "published": "2026-10-26T13:00:00Z"
+        },
+        {
+          "title": "North Vancouver graduates-to-be have a night to remember as party boat gets stuck in the mud",
+          "title_ko": "노스 밴쿠버 졸업생들은 파티 보트가 진흙에 갇히면서 기억에 남을 밤을 보냅니다.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON0l4ZUE2dnFNMWZwaU1tSjZNX1g1YjBFLU9QaFd5WDFjY0o1d01VRE1wdFBuN3BHZWJ4U1FtWFNBNndmYVVMWnV6S3RjdmVQR253SF8wdG5LZWs5dHAxNDEzRXhHcTkzdHVPWFdEOHROQnJDVWEwUk1XM2RHS0NlNEhITHhNczhlRkxyNjA2bF9nY2dubFZjZzVGRlhRSzFPc0E?oc=5",
+          "source": "CBC",
+          "published": "2026-10-25T19:31:00Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "B.C. Conservatives win majority government, CTV News declares",
-          "title_ko": "브리티시 컬럼비아 보수당이 다수의 정부에서 승리했다고 CTV 뉴스가 선언",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHlhMXh5MDE1WDdHeUhibnZIRmtKVWtJTzFIaHMwUWN0ZnR3bk8wT2ljcEh5T01XNFM2V0NQTUZseHNrX2RZendid05mUUNUQVBsWDZvVHMyNXR5X0pfbTQzTEU0Y0c4SHd2cjcybHRTamtCOGZkZEd2NzJpbmRwSnBTRTYzSW81MFh5WnBQUjhrdjZ3Q0xtX1NiOEMwSHlYR3c?oc=5",
-          "source": "CTV News",
-          "published": "2026-10-25T13:34:56Z"
-        },
-        {
-          "title": "First Nations, Carney, premiers to gather for ceremony ahead of historic meeting",
-          "title_ko": "원주민, 카니 총리, 역사적인 회의에 앞서 행사에 모일 예정",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNEpzckxHdFhSMHc1YVVFMHpJRnl5U0lIcGVTUFBIOUsxYldoSGRkbE8xZWlmOGlJdklLbTEwNUtFcFBQaGRteFIzbF9YcmtSRlhnS2I3dHZtdlJOX21rSzNCUDBvQkFsdUQ0YlMzSUZhNEhzZXgyZkx2ejd6UERDQWlXLUc0TENEVUpR?oc=5",
-          "source": "Global News",
-          "published": "2026-10-25T13:12:26Z"
-        },
-        {
-          "title": "Ontario municipal elections: A look at 7 mayoral races as voters head to the polls",
-          "title_ko": "온타리오 지방선거: 유권자들이 투표장으로 향하는 가운데 7개 시장 경선 살펴보기",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTXV2c0xoNjBRUENVN1RkQmljN3JYclFIUF9FOU1CV1hya3AyRElHN2xNZ0FTS1pfVjN1cExYbEdvaDIyemJtQVdWVTQxbnZYWlZjWnhxTjlsR1F2X0Z0d1JNT3hoUWhXeXlVTW5LeXpJaWF6ZTMwOFF3RUJhV1RTajktbUs?oc=5",
+          "title": "Point May, N.L. residents rally for a whale-sized weekend rescue",
+          "title_ko": "포인트 메이, N.L. 고래 크기의 주말 구조를 위한 주민들 집회",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkdocFJxbm1KRTJMdUV0a2ZPajMzQWxJZGtDT3RHXzVOSThneW04MV92M2RPWTZtZFZlWmg3RXVLMkQ5dEw2M01pUjlWS09iX0pweVJiMTJvYmI5N3V2eEpBczFMSnc3OEo1S2tHUVpBNDJPVEdyR0k1dFVUMGJiaFg0bUNjU0llSmR2M3Z3?oc=5",
           "source": "CBC",
-          "published": "2026-10-25T08:00:00Z"
+          "published": "2026-10-26T16:37:58Z"
+        },
+        {
+          "title": "Kinew tells Carney to abolish the Indian Act at meeting with chiefs",
+          "title_ko": "Kinew는 Carney에게 추장들과의 회의에서 인도법을 폐지하라고 말했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObWFoOGxMVTFmd1hobk9TVEs1NWlNLWlFXzkwZVViY0s4a3FQX1ViT3lpeWRuMnZUa1ktM01NY1FuMjNUbl9SMmpfaXVURjV6TzhhQnYwRVhtQy12cU13Rkw3TkVRVG9manJOMmwxQVlfX1NERTJjaENOU0dSeG9VZU11S0tUdlgzbEU3MWNVRGlMazY0dW1fdVR0eVVMSGRSU1NheDBjeTJiME4x?oc=5",
+          "source": "CTV News",
+          "published": "2026-10-26T17:35:44Z"
+        },
+        {
+          "title": "Montreal police officer faces ethics probe for allegedly urinating on homeless people",
+          "title_ko": "몬트리올 경찰, 노숙자에게 소변을 본 혐의로 윤리 조사 직면",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2E2MlF0ZG1keHQ2SHlIa2JJVkNvZTlqRFl4U3Zhb0VFbEFkZzBHNmhDY1Z2RGFza0V1TG8yV3oxNEdwTnozZWp0cmFkcGJMTnFfc0hJMDFMUFdnRGFxTHhfOGwxTnZiMVNWbG9pZHpqRTZUOV9LLWxVVG1zcHpmQ1ltdkFpSlEtaVhtOVVNS05pRGZfVXU2Z1lIVnpXNnZhSHd0T0VtdFVGWU0?oc=5",
+          "source": "CBC",
+          "published": "2026-10-26T15:02:08Z"
         }
       ]
     }
