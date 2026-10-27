@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-10-26T19:39:09Z",
+  "updated_at": "2026-10-27T18:32:58Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
+        {
+          "title": "Victoria backs amalgamation, but Saanich voters reject becoming a single larger city with B.C.'s capital",
+          "title_ko": "빅토리아는 합병을 지지하지만 Saanich 유권자들은 브리티시 컬럼비아의 수도와 하나의 더 큰 도시가 되는 것을 거부합니다.",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZndNSlVaODU3T0wzM2pLQ1hTazMwY0pVdWNxbnQxZWp2T0RxNlhnYU9tVC1va1hVYjczN3I4ZTBGTEs3dlpVeThtSFJkdER5Sl9HTFVjcjctNkxZOHN2QUlTdjlUX1pMXzU5bnZibFoteTRwd3dEbzdyX0lfZk9YQmZONkQ5VTlPUi1OMmFJZHZfQ0twZHNQTnVxa3BCdFNvaDhaVA?oc=5",
+          "source": "Daily Hive",
+          "published": "2026-10-27T02:56:00Z"
+        },
         {
           "title": "Emily Lowan wins Saanich North and the Islands to lead B.C. Greens in legislature",
           "title_ko": "Emily Lowan이 Saanich North 및 Islands에서 승리하여 입법부에서 브리티시 컬럼비아 녹색당을 이끌게 되었습니다.",
@@ -13,17 +20,10 @@
         },
         {
           "title": "Cathie Ounsted wins Saanich South riding for BC Conservatives",
-          "title_ko": "Cathie Ounsted가 BC 보수당의 Saanich South에서 승리했습니다.",
+          "title_ko": "Cathie Ounsted, BC 보수당의 Saanich South 우승",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSEw2QTdZSElXU0pHUm91RGxoRWljOVFyZnBQYnBkZ2RqNHdxTVBYZlFtYlh3b2hoQ3o3S3psLU9FaTNWYlN6dkY1dDdxblpmLWRiOGZxaXZfSXFkcngzZXY0VlliZldyemhTYThxN2dVWlVWUkZhMkVNSWozTU9mMzFTTmVwUThVMjBYd2lHVlNsdFhN?oc=5",
           "source": "CHEK News",
           "published": "2026-10-25T05:34:10Z"
-        },
-        {
-          "title": "Where Greater Victoria residents can vote in the 2026 provincial election",
-          "title_ko": "광역 빅토리아 주민들이 2026년 주 선거에서 투표할 수 있는 곳",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbmJYaEpKcTZ6QzlUdDNOanlNelgxc0pXQUl0Rk0xbTRrZl9kNEphdEFJRzlMdU9BYWFDZFF2Z0h0ckVXRnZyR0RLTDVobXBmU1FEbzg2Ql9GWUFlaHdydDl0ZXZ3X1Fwdkw2aTYtN2lqVkU5aWJYc3h4c0NXaklqNFVPZ1o2ZTFyRFZmVnlsLS1nNGFfd2xnM3J4OUJNUzJqSlB1dEJrMUI?oc=5",
-          "source": "Victoria News",
-          "published": "2026-10-22T14:00:51Z"
         }
       ]
     },
@@ -31,25 +31,25 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Crews fight apartment building blaze in downtown Victoria",
-          "title_ko": "빅토리아 시내 아파트 건물 화재 진압에 나선 대원들",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhUDQwZ21xTUhWb1BhLXhOa1A2N2xvdFI4aU05dFU2dW1RamhXc0NoSDQzVGU4YTZlbmFna3ZUMHF3NU9MRUpOanZBUjJjd01FQ3kxdVB2cVdkVG9KZHh3Q05MbFMzWk45U1hrR0k3OUo2S085aDRic1NZMA?oc=5",
-          "source": "CBC",
-          "published": "2026-10-24T15:22:00Z"
-        },
-        {
-          "title": "B.C. election 2026: A roundup of the results on Vancouver Island",
-          "title_ko": "2026년 브리티시 컬럼비아 선거: 밴쿠버 섬 결과 요약",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWERqMUE5QUpwTnc4V05GSUVHOVc4UnlTc1FZOHBaVDBnendhX3ZYZnpTVzgwX2Q3ZnVfVnZ3VUJFT1o5UmZBTkZtR1NWLUlsNHNGVVFDSVpVcnktQ0s5bzRoc1BHMWQ0U1ltQWQ5bGkwTzVfYU4zX2RncHgtNzVadHpQc2dPR0loNjNDMWdyVFgtWXpGbmtWSnBPMkVTeUdCSjNsYmIwUUtxbWV0c2c?oc=5",
+          "title": "Rubble from hotel fire to be removed carefully in case of human remains: fire chief",
+          "title_ko": "호텔 화재 잔해, 인명 시 조심스럽게 제거해야 : 소방서장",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWjVnM1VfVWxYTGN4ak85NThjT25aR25abDVKS1B6TWpCN0tZdHlpeWx2RVdnc3VOUklvdXduTFNaYThhRFFZcDdlQXJzLU9LdGVKR3lJQkx3eE9SbkRhSEROLWZaNkRnMWZ1UWE1WkZraEdQWWVELUliTW91dUMyWEdVN285bEtVR20xdE5EQ3BKNHBWOFdqWnhEZk5rOUNneVBxdmI3Y2FBNW9DU3FfS09YNmkzQUxBQXhDOGRWLTRQT2JyWUxSRGtQUkE?oc=5",
           "source": "Times Colonist",
-          "published": "2026-10-25T11:45:00Z"
+          "published": "2026-10-27T11:15:00Z"
         },
         {
-          "title": "Latest B.C. election results for Vancouver Island",
-          "title_ko": "밴쿠버 섬의 최근 브리티시컬럼비아 선거 결과",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GQnprTXJoRzBlRndRZGxCaUx1WlNxOGhJeFBqTFpMMEZITHVEV2pQZDgzOUhWSnFHN2VFYVpYUFNwSy15cS1nR0l4OXhCR3FqXzgwdVhaVS00RE9qc1hRQkxvMjZBWlhwSnpvV0JUaW5OOU5JblBPNjNR?oc=5",
+          "title": "1 person unaccounted for after fire destroys Victoria apartment building",
+          "title_ko": "빅토리아 아파트 화재로 1명 실종",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQODVXY0JIbGdsbG9xOEpEdjk5ZmVYRVBEYTd1MkU3dmt4RkY4NnhOVEYzWXY2VGZxcXNISmxLd2UzeWN2R0hjUEU5Tk40dlFNX3ZyRVRtVVZpQ0lWenpHVkpmSGF6enNvZmRkSnlxZVZWaTIwS01XQlFzeEljNnVFczhQZGlkZzVjbnFXeHlESllJSkVMTjFhNzRqV3Q2c2hlUFJ0WVItMWVmQQ?oc=5",
+          "source": "CBC",
+          "published": "2026-10-26T20:32:15Z"
+        },
+        {
+          "title": "Doerkson denounces white supremacist stunt at B.C. legislature",
+          "title_ko": "Doerkson은 브리티시 컬럼비아 의회에서 백인 우월주의 행위를 비난합니다.",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdzB0R0ZTMlV6Wl8zWnZZLVpTRm9tdW5PdldBd0xTblZoSWNmaU05MldfQm10NFRQNFozQ3NFd2VhTGtocHpSOGZ0clhPaUg0WTJiYVZMaHgtOVRWZWNKZ0N6cFA1MjhGdkJvcUxxZHM1VkZJZ18xQWcwUlZONzNyRU9IQnEwVkVIWEpQZVJhLVRHVHJv?oc=5",
           "source": "CHEK News",
-          "published": "2026-10-24T15:00:00Z"
+          "published": "2026-10-27T00:41:06Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "North Vancouver graduates-to-be have a night to remember as party boat gets stuck in the mud",
-          "title_ko": "노스 밴쿠버 졸업생들은 파티 보트가 진흙에 갇히면서 기억에 남는 밤을 보냅니다.",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON0l4ZUE2dnFNMWZwaU1tSjZNX1g1YjBFLU9QaFd5WDFjY0o1d01VRE1wdFBuN3BHZWJ4U1FtWFNBNndmYVVMWnV6S3RjdmVQR253SF8wdG5LZWs5dHAxNDEzRXhHcTkzdHVPWFdEOHROQnJDVWEwUk1XM2RHS0NlNEhITHhNczhlRkxyNjA2bF9nY2dubFZjZzVGRlhRSzFPc0E?oc=5",
-          "source": "CBC",
-          "published": "2026-10-25T19:31:00Z"
-        },
-        {
-          "title": "Rising demand for multigenerational living reshapes B.C. home design",
-          "title_ko": "다세대 생활에 대한 수요 증가로 인해 브리티시 컬럼비아의 주택 디자인이 재편되었습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3RRVmJTZ3VncG9oNWJrc1ZjdDdSc21relkteUZiUlhaVXMtd2xJZHR5R1U3MEJjOFlSdEFyOG4xU2RJcFRHNjkzcnRyVF9GdldSWGczeFpRWFVwbDlDUFFWSGJ1SEVKUjV5OVROUFB1TW5fQUUzd0E3Umt3Qy1tNm94TllGVzZWUG4tRU9jZldxOGlCSGpQQ0pRMzNpR1pKbFE?oc=5",
-          "source": "Business in Vancouver",
-          "published": "2026-10-26T13:00:00Z"
-        },
-        {
-          "title": "B.C.’s premier-designate plans to speak with Whitecaps about future in Vancouver",
-          "title_ko": "브리티시 컬럼비아의 최고 지명자는 밴쿠버의 미래에 대해 Whitecaps와 대화할 계획입니다.",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVBzejVfSDRvTWRHVnJHZGJIajh3Y3c3ZFJ2Zl9pWmFJa1hyWFhwa3ZpOGo0ZzJZb2doMXNRS2x4a0czNGJWaU9BdTRlUFozTkZjMEJjZDdIYTR0cVVfQ1VldFNlbENxaGFHVmNxaTVRUVl0Z0JHZzBZXzZNNXJINXRMU2syWmE0RlJNSjNuTnlfenp4N3Z4T0VGdk5lSEVjLWhXRlNwRFlmZFB2Q2YwWGNWOFlIRmhxd1Nr?oc=5",
+          "title": "‘Volatile situation brewing’: First Nations leader warns B.C.’s incoming premier",
+          "title_ko": "'변덕스러운 상황 조성': 원주민 지도자, 브리티시컬럼비아의 차기 총리에게 경고",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcmFTb0tDNHhIdjdpWjJmZ3VORGdMdENJV1hRb0UwXzJsRzFwUkhjaVQxNzNHb096eXVuU3otMUtUMG9oMEVsT01QNDM1QVJaOVJTSl9GZHNHRmZlZmpwN3JONHIzX1BVdXd1MnJNS1hpN0VmMy0wVUhQNEtEM01fbndPTjY4S0d2bEtLSU5ZU01CMUN3RVhFTTZ2VzljTlZiMEtCS2Z4czZERWVHdFkxbVl6V21JUzA?oc=5",
           "source": "CTV News",
-          "published": "2026-10-25T23:22:27Z"
+          "published": "2026-10-27T01:27:00Z"
+        },
+        {
+          "title": "B.C. high school teacher disciplined for showing students R-rated movies, racist meme",
+          "title_ko": "브리티시 컬럼비아 고등학교 교사, 학생들에게 R등급 영화, 인종차별 밈 보여줬다가 징계",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQUdkTFVYbzBiUHV3UDBhV1ZSdDZndFZJWUJYMVpxRXNUZ0RqVWx0M19GRkd6bzJhc3NUQ3FqczZHcl9YNjdVNW1qbG8zV080bENYWmZTZlJTVHcycUZQRWRtVXY5ZUg4SGlIcXpuRGtJN0RKUVF0b0s1Tk9BdV9ReHVXV0h4elo2b0pCWThjMDBucmlGNmMySU9QVGRDRjNRRWl5dFZOb3k3al9UeGM4QWdXaW1ZTl93d21mVjdpWUpOdW9QcmM5bEJmcnkzQQ?oc=5",
+          "source": "CTV News",
+          "published": "2026-10-27T18:20:07Z"
+        },
+        {
+          "title": "Local bands fundraise to save bats in B.C.",
+          "title_ko": "브리티시 컬럼비아에서 박쥐를 구하기 위해 지역 밴드가 모금 활동",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMmNRS2NkLVRFRUUtcGptSThKSDlCZWpsQ1lOZTVpS0Z5UUo1Tkdmc3lOT1dxQkRuZjlGaklTdWZhaEYzQ1FrMkVmeFIxN1k2ak5ZQ2x0MENHYVFkeWtONWRxc0RVdmNYSFdmSlQ2Q2VoazhOZVY3QmhnSkZ4VHgxMVJDOUhUSC1RQWR6V2dLT3Y4UGM?oc=5",
+          "source": "CityNews Vancouver",
+          "published": "2026-10-26T17:17:00Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Point May, N.L. residents rally for a whale-sized weekend rescue",
-          "title_ko": "포인트 메이, N.L. 고래 크기의 주말 구조를 위한 주민들 집회",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkdocFJxbm1KRTJMdUV0a2ZPajMzQWxJZGtDT3RHXzVOSThneW04MV92M2RPWTZtZFZlWmg3RXVLMkQ5dEw2M01pUjlWS09iX0pweVJiMTJvYmI5N3V2eEpBczFMSnc3OEo1S2tHUVpBNDJPVEdyR0k1dFVUMGJiaFg0bUNjU0llSmR2M3Z3?oc=5",
-          "source": "CBC",
-          "published": "2026-10-26T16:37:58Z"
-        },
-        {
-          "title": "Manitoba Premier calls on Ottawa to abolish Indian Act",
-          "title_ko": "매니토바주 총리는 오타와에 인디언법(Indian Act)을 폐지할 것을 촉구했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRGgtOXlodUw4eXc5NnVZbGlzMTlPdzFzSWtTTjF5WEloR182ZWJrck9NdUJhRmNHdzFsV2F5SUxjTGo0ZFJUdlc5Q2hrT2FwWWdkcEFIdDNiTjh1WnpkZWt1WWhUSzlJSUhiM1hXZTNhVkRnNUJCaUpLV0pxcG5LUGZYVmxBOU5tcDRrS2xtYlFoRFdFRHBfT0VST3Nxb1lXRzlzU3lIZ3VPWG1zSGNidWlXbERiQUE?oc=5",
-          "source": "The Globe and Mail",
-          "published": "2026-10-26T14:33:24Z"
-        },
-        {
-          "title": "Police ethics commissioner and watchdog investigating Montreal police",
-          "title_ko": "몬트리올 경찰을 조사하는 경찰 윤리 위원 및 감시단",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWnMwQzNfSHZjTWt4aHhPNW5pX2o0V0d1blBRZnFicTVtNXN1d0VqRnN4ZmJ0NFB2NVpQVW14NVpGNGRnNVpJd3YzZDFnRXJOSnEzM3psM1FzVnBrTUpiZmZjMGstMW5ZMDhZQ2x1U2pNS1Z0dWxJTU9aMHczQlRrQ19GZ1pkNUh5TnE0WGxSX3dzSXdQaWVZUi1sTlVGS3pZbEhCMkhfc2tSMy1PbXVNNzBxZ216d2lVTk93eg?oc=5",
+          "title": "Here’s a list of what Olivia Chow has promised to do in her second term",
+          "title_ko": "다음은 올리비아 주(Olivia Chow)가 두 번째 임기 동안 하겠다고 공약한 목록입니다.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0VONnoxbWlZRlQ2NG12bWV6dWx2WThPRlAyQkRwZ3hxU1RGQThpZF9DVTFyMXZDR0FyVE5KV0FCMUVTNnBWX0tCY2lkZk1fa00xN012dVhOR0RlbWRLZm5lRlhaYUtaMlFCVGxHWDZTazJfa0pPa25PdzRQV3hocnZwWXZaUVJEWVlxSGViS3FwdEs1aTNCRWNxTnBKU1JMelE?oc=5",
           "source": "CTV News",
-          "published": "2026-10-26T10:54:32Z"
+          "published": "2026-10-27T09:05:12Z"
+        },
+        {
+          "title": "Ottawa tables new MAID legislation, excluding people suffering solely from mental illness",
+          "title_ko": "오타와, 정신 질환만으로 고통받는 사람들을 제외하는 새로운 MAID 법안 제정",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJMEFBM0Y3eElBVTJyekVJbTZLZTlzTUhtXzZDNUxoTW5iWTNIUW1HeVI4VDkyUTBSWFN0dklGdEJHV05kdUZ1TDhfWUhRTzBMTkZ2QUpEQzhURDh0WG5lVkhwdjM1c1JvSlZ2LVhwaldHcGdS?oc=5",
+          "source": "CBC",
+          "published": "2026-10-27T17:45:08Z"
+        },
+        {
+          "title": "Alberta's Smith aims to turn the page after referendum as legislature returns",
+          "title_ko": "앨버타의 Smith는 의회가 복귀함에 따라 국민투표 후 페이지를 넘기는 것을 목표로 하고 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTW1JZWZpbksxa1V2RXN3b05oZTJsM1lTdkdSNV94N2FYS0lPY2ltWGU4UHdISWJJTVE4WU83bU1TcWV4ZFVhNzBCUmdzYTRad2Q1UGRibGdKUlE1cTVYVWFINWRGbGxvNFJzdTRyTWVJbDFheFlSUHB4cklvN3pHSUdKRm1FdzdXcVZoeFV0T0RDN2pXTVJLaDg5ZnhPOE1qLWo0aE1zY0xNeF9lMjNyVTRUSUs4d0ItUmZuQy1MNA?oc=5",
+          "source": "Castanet",
+          "published": "2026-10-27T12:53:00Z"
         }
       ]
     }
