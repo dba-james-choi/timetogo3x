@@ -1,16 +1,9 @@
 {
-  "updated_at": "2026-10-28T18:39:03Z",
+  "updated_at": "2026-10-28T19:11:18Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
-        {
-          "title": "Victoria backs amalgamation, but Saanich voters reject becoming a single larger city with B.C.'s capital",
-          "title_ko": "빅토리아는 합병을 지지하지만 Saanich 유권자들은 브리티시 컬럼비아의 수도와 하나의 더 큰 도시가 되는 것을 거부합니다.",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZndNSlVaODU3T0wzM2pLQ1hTazMwY0pVdWNxbnQxZWp2T0RxNlhnYU9tVC1va1hVYjczN3I4ZTBGTEs3dlpVeThtSFJkdER5Sl9HTFVjcjctNkxZOHN2QUlTdjlUX1pMXzU5bnZibFoteTRwd3dEbzdyX0lfZk9YQmZONkQ5VTlPUi1OMmFJZHZfQ0twZHNQTnVxa3BCdFNvaDhaVA?oc=5",
-          "source": "Daily Hive",
-          "published": "2026-10-27T02:56:00Z"
-        },
         {
           "title": "Emily Lowan wins Saanich North and the Islands to lead B.C. Greens in legislature",
           "title_ko": "Emily Lowan이 Saanich North 및 Islands에서 승리하여 입법부에서 브리티시 컬럼비아 녹색당을 이끌게 되었습니다.",
@@ -24,6 +17,13 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSEw2QTdZSElXU0pHUm91RGxoRWljOVFyZnBQYnBkZ2RqNHdxTVBYZlFtYlh3b2hoQ3o3S3psLU9FaTNWYlN6dkY1dDdxblpmLWRiOGZxaXZfSXFkcngzZXY0VlliZldyemhTYThxN2dVWlVWUkZhMkVNSWozTU9mMzFTTmVwUThVMjBYd2lHVlNsdFhN?oc=5",
           "source": "CHEK News",
           "published": "2026-10-25T05:34:10Z"
+        },
+        {
+          "title": "B.C. Green Leader Emily Lowan elected, but party fails to make gains",
+          "title_ko": "브리티시 컬럼비아 녹색 지도자 Emily Lowan이 당선되었지만 정당은 이익을 얻지 못했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2w5WnJvTkNGMnVXY0VEQXRDclpMUThsY1FoamZVeUtmU1dGak9TNk1Dekl3ZGQyZDhhSTFWMUxPYm5rLWZnUmJxVm1SajRLRnpMUXY1NXdfT3RtNXJGcENJZ0JyV2w0b2hGbnhkams4MlpiTHdWdTY5ZXBvSVppLWFRaERCQzRu?oc=5",
+          "source": "CBC",
+          "published": "2026-10-25T13:00:00Z"
         }
       ]
     },
@@ -38,18 +38,18 @@
           "published": "2026-10-24T16:25:45Z"
         },
         {
+          "title": "Vancouver Island man killed by drone while rescuing animals in Ukraine",
+          "title_ko": "밴쿠버 섬 남성, 우크라이나서 동물 구출 중 드론에 맞아 사망",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0R4TFlsd0IyaTJLVWFnNWV2SWJVR2puRi1zU280RDVPWlplb29QVXJma09SdXJDSVVoellIRVE4a3M0QU5LMkhMOVZaLTA1NmdIdUJyLS1iV3E5dTFNWTFDeHR3S3hISU9jekptM29sOHNPYjd4Zy1uYi1PTGN2S0s1Y3hpY0JaZTEycHRXcnJ0QnUwWE12Z1ZFYWlySDdsZnRUalRGYzB1dENoZF9IX0lhYno2SERTRmRERg?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-10-28T11:45:00Z"
+        },
+        {
           "title": "1 person unaccounted for after fire destroys Victoria apartment building",
           "title_ko": "빅토리아 아파트 화재로 1명 실종",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQODVXY0JIbGdsbG9xOEpEdjk5ZmVYRVBEYTd1MkU3dmt4RkY4NnhOVEYzWXY2VGZxcXNISmxLd2UzeWN2R0hjUEU5Tk40dlFNX3ZyRVRtVVZpQ0lWenpHVkpmSGF6enNvZmRkSnlxZVZWaTIwS01XQlFzeEljNnVFczhQZGlkZzVjbnFXeHlESllJSkVMTjFhNzRqV3Q2c2hlUFJ0WVItMWVmQQ?oc=5",
           "source": "CBC",
           "published": "2026-10-26T20:32:15Z"
-        },
-        {
-          "title": "Letters Oct. 28: B.C. cannot control sun's movement; cuts are sure to come",
-          "title_ko": "편지 10월 28일: 브리티시 컬럼비아는 태양의 움직임을 통제할 수 없습니다. 상처는 반드시 온다",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUE5IQVpEQmpPZVcxSzBqTFQtRnRoRDNnZ3MyY0JDN2NLeUNzUTA3a2stc2JLZ3AyTWdySFlGamhNdTFScTNQbk04T05oTFRvZmw0NlZnV3AtMGZ6WG1oaUhHd1FnakFSQWQ2cURhQW1wWndpSTJuNHN2VXQzQTAtS0dSLS1fSGNpLXZoWGhFSDRjeEExTUFMSUpwVWc4UlZYTFBBM2hZVElJNl9HUl9MQkRVSHpkZw?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-10-28T12:15:00Z"
         }
       ]
     },
@@ -71,11 +71,11 @@
           "published": "2026-10-28T01:23:00Z"
         },
         {
-          "title": "Clocks in B.C. won't lose an hour this fall. Here's why one expert says that's a bad idea",
-          "title_ko": "브리티시 컬럼비아의 시계는 이번 가을에 한 시간도 놓치지 않을 것입니다. 한 전문가가 그것이 나쁜 생각이라고 말하는 이유는 다음과 같습니다.",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMWhXbDRmNXBUZUNENHd3VVRmaV9TYjEzajRYdHR0WjUyckZGRUFnNUdGRkxRMlNjRkZDN0RVUVZXRUs1cFUyN3RsS2t2c056ZzBPQ0h5UXo1V3J6S2RFa0dEdkJOLTFRdjVrbmk4ZXpmakUyRUs3T0xJQV9kRWw3SFJsdnVhNmxRM3dKYi1QdzJfV1px?oc=5",
-          "source": "Vancouver Is Awesome",
-          "published": "2026-10-28T05:45:00Z"
+          "title": "“Events create economy”: PavCo CEO Rehana Din on the Whitecaps, BC Place and Vancouver’s next big events",
+          "title_ko": "\"이벤트가 경제를 창출합니다\": Whitecaps, BC Place 및 Vancouver의 다음 대규모 이벤트에 관한 PavCo CEO Rehana Din",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeG1GMGlQWXN0ZmRoengxQ0VLa0hnU2p2YUd2ZzZUajExOFo4bTNpUElCTEU3UklvX2IybzMtalVDdGVrSUh2bl9YcTNUX29EQTNQNTF0cS1Mc040UUtJTllnVFlJdlpGdHM5RHNHdHBHdEM2VUhjaldSRE9hOWkwRkN5UlQ0ZHVVd1lfZHQwdDN3aDFNa3V1d1hwQnV6eFJJTmRyY2NqdF9PSkdvNnRQbi1oV0RtOEJQX3Q5OFRqWDlLemoydXBTQjBEYkRZdzgzaUZ4Vg?oc=5",
+          "source": "BCBusiness",
+          "published": "2026-10-27T14:00:09Z"
         }
       ]
     },
@@ -97,11 +97,11 @@
           "published": "2026-10-28T09:00:00Z"
         },
         {
-          "title": "Winnipeg election 2026: Here’s what you should know",
-          "title_ko": "2026년 위니펙 선거: 알아야 할 사항은 다음과 같습니다.",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhOEEtdDE1YlZwRWFUQmh3eFNCUHBOWjZKZ0FXanhzbmJwejB3QlRjUVh6RHlsVVpBWnpMNFBpLXNKckVPRjU5akZwSk5BU0thdndqcndvcGVBaXFpMzFkQW5NMVZRdi1uU2NHWEFxZTM?oc=5",
-          "source": "Global News",
-          "published": "2026-10-28T11:00:12Z"
+          "title": "‘Not an easy path’: Burn survivor reflects on long recovery facing soldiers injured in Wainwright fire",
+          "title_ko": "'쉬운 길은 아니다': 화상 생존자, 웨인라이트 화재로 부상당한 병사들과 마주한 오랜 회복에 대해 반성",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQlBMQy0tSmhBajgwQjkxaHNUdi1tUXBYaWFhX1FoRXZXdVZhTC1pb3dQQ0piaTluY2lMMjRORm5sSUpjUUR3M29SWXlDMFlMVXpnXzdRbmpVbFI5TUV3SFg0S2lXcnZCSV8tZWdDLWc5LVVzRFZfZHNPQVZMVE05RU5LemkycWJ2aThzeG1TWEUwQQ?oc=5",
+          "source": "CBC",
+          "published": "2026-10-28T13:23:26Z"
         }
       ]
     }
