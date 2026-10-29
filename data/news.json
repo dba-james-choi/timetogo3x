@@ -1,16 +1,9 @@
 {
-  "updated_at": "2026-10-29T18:47:40Z",
+  "updated_at": "2026-10-29T19:20:34Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
-        {
-          "title": "Victoria backs amalgamation, but Saanich voters reject becoming a single larger city with B.C.'s capital",
-          "title_ko": "빅토리아는 합병을 지지하지만 Saanich 유권자들은 브리티시 컬럼비아의 수도와 하나의 더 큰 도시가 되는 것을 거부합니다.",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZndNSlVaODU3T0wzM2pLQ1hTazMwY0pVdWNxbnQxZWp2T0RxNlhnYU9tVC1va1hVYjczN3I4ZTBGTEs3dlpVeThtSFJkdER5Sl9HTFVjcjctNkxZOHN2QUlTdjlUX1pMXzU5bnZibFoteTRwd3dEbzdyX0lfZk9YQmZONkQ5VTlPUi1OMmFJZHZfQ0twZHNQTnVxa3BCdFNvaDhaVA?oc=5",
-          "source": "Daily Hive",
-          "published": "2026-10-27T02:56:00Z"
-        },
         {
           "title": "Emily Lowan wins Saanich North and the Islands to lead B.C. Greens in legislature",
           "title_ko": "Emily Lowan이 Saanich North 및 Islands에서 승리하여 입법부에서 브리티시 컬럼비아 녹색당을 이끌게 되었습니다.",
@@ -24,6 +17,13 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSEw2QTdZSElXU0pHUm91RGxoRWljOVFyZnBQYnBkZ2RqNHdxTVBYZlFtYlh3b2hoQ3o3S3psLU9FaTNWYlN6dkY1dDdxblpmLWRiOGZxaXZfSXFkcngzZXY0VlliZldyemhTYThxN2dVWlVWUkZhMkVNSWozTU9mMzFTTmVwUThVMjBYd2lHVlNsdFhN?oc=5",
           "source": "CHEK News",
           "published": "2026-10-25T05:34:10Z"
+        },
+        {
+          "title": "B.C. Green Leader Emily Lowan elected, but party fails to make gains",
+          "title_ko": "브리티시 컬럼비아 녹색 지도자 Emily Lowan이 당선되었지만 정당은 이익을 얻지 못했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2w5WnJvTkNGMnVXY0VEQXRDclpMUThsY1FoamZVeUtmU1dGak9TNk1Dekl3ZGQyZDhhSTFWMUxPYm5rLWZnUmJxVm1SajRLRnpMUXY1NXdfT3RtNXJGcENJZ0JyV2w0b2hGbnhkams4MlpiTHdWdTY5ZXBvSVppLWFRaERCQzRu?oc=5",
+          "source": "CBC",
+          "published": "2026-10-25T13:00:00Z"
         }
       ]
     },
@@ -45,11 +45,11 @@
           "published": "2026-10-29T18:01:35Z"
         },
         {
-          "title": "Letters Oct. 29: Give Doerkson time; run-off elections",
-          "title_ko": "10월 29일자 편지: Doerkson에게 시간을 주십시오. 결선투표",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMlExTS16OTc2LVFXYVowUWtYMGNMRVpZZUtxMXA1bGNGQnQtZ0lvZVFVY3ZSeU5IN3lCdDFHVWdKdHVNQ2RiLUNhZVNpMEg4MWljdlZINEhSdUptWDhNck83Mjh2YmxCQ1hFbVh5c0hLR3NHT3hscERaNHFDbjZ1WXQtYlFpS2kwSEtYSERkRjEzclhudmFuclpEeGxrY2s?oc=5",
+          "title": "Victoria refuses property bequest for waterfront park, citing costs",
+          "title_ko": "빅토리아주, 비용 문제를 이유로 워터프론트 공원에 대한 부동산 상속 거부",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGZBZnl2Yi1tR09MMTBqbi1WWUI5SlREQWZuQnd6RElHZlp6X2gyeTVxSEZuZFhfQmtGWVYyR0VlU0hYSHNCWVI4SmFRWmRoRnRwWXphS3Bqdzd4eFdkaVhFLU1HbGdESl85VWthWjRIemY2MHI1a3RicFZYazVrMU1MSW83UXhKT01hYTVSUmZNbVdRUF9DdUwxYXBpbmM4MDRUNS0yLTlKZlV3V1lrS1kyQ3pTXzg?oc=5",
           "source": "Times Colonist",
-          "published": "2026-10-29T12:15:00Z"
+          "published": "2026-10-28T12:00:00Z"
         }
       ]
     },
@@ -87,21 +87,21 @@
           "title_ko": "'암호화폐 왕' 에이든 플레터스키(Aiden Pleterski)는 토론토 배심원 재판에서 사기 혐의로 유죄 판결을 받았습니다.",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45WjBKQWNUT2JtS3RjckJDRnIwaWxPWUlUbFZYWXFjdGhvSnpSUmI5QWd6REpLTV9IbWRmbWJYU1FlT3p2STA4MzVaeGQzaFI5aGI5RDFab0MwaU83M0QxNUZwNDhMY21objYzc00xVi1NMFRBTGI4?oc=5",
           "source": "CBC",
-          "published": "2026-10-29T17:05:25Z"
+          "published": "2026-10-29T17:53:08Z"
         },
         {
-          "title": "Father, 2 daughters shot in violent home invasion in Toronto’s Bridle Path neighbourhood",
-          "title_ko": "토론토 브라이들 패스(Bridle Path) 인근에서 폭력적인 가정 침입으로 아버지와 두 딸이 총에 맞았습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYkw5RTEtVk9QZnY1TVhmcTR6YTdpeXpsNDd4QlZhSUVuSWNleTcwTDRCZXdXWjJtNVpwNjF4YWFMSF9PV3JlR0l1d1pyVXoyQkx1eWNFSjVzbEM1NzNvM3JNNjlOR01wOWtxaG1fbkZibXNsVnpLVGFCVVpIUk13NTJPSVFDU0s4Y05fU0JnbkV1ZGI1eHc3Q0ZzXzlQOTk4YklKbG1DSDFqdUpZMDRXWWhONC1MejhFWTdNbXFibTNaUQ?oc=5",
-          "source": "CP24",
-          "published": "2026-10-29T15:43:10Z"
+          "title": "Bridle Path family hurt after masked intruders armed with guns, hammer stage ‘disturbing' home invasion",
+          "title_ko": "총으로 무장한 복면 침입자, 해머 무대 '불안한' 가정 침입으로 브라이들 패스 가족 부상",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbmE0cTlOb2V5Q0tsRE0zazlOUW9UclNZSHpHbk5EMy1vdkUtbVAwVDhGb3Z2Unk3aTV6cW9GTS1KbnZ5VUtsQlJjVUVtYi1VWmV2cktrcmxvWGtRMndiUDBXeVdKUWdlaGM0THV0VTdvZU9Md1E0ZktVYktJam5YVVNWRDRDRnFYdjB3MWRkTm1POVlJMEduVF9aMkhjR1hUQ2lPNFY1R29BdWZwUjc5RDQ5UzFJdnNIMGV4SXVzaVlVdFhRTHNrdjczSUNsbzhFY2ZuNTZYRUV4NWR0c0d6TGJYal93dFlkS2owUEI1bWMxNEwxTVBV?oc=5",
+          "source": "Toronto Star",
+          "published": "2026-10-29T17:28:34Z"
         },
         {
-          "title": "Synagogue shooting costs strain police budget",
-          "title_ko": "회당 총격 사건으로 경찰 예산 부담",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JaXRUdGQzV1V3UFRtd2M4MGtjaVFQTGdNWldxdG1UeFNleHZBQmRIMVBwNzVQTjJldmxTd2VQUUxHX1JuR1ZIUWY4NnVOREVWOWhGeE9rRm9qbFZrSzRfSlVBOG5QVW5taERHY2huLXB5aHh4VDJMYUtvRHZJRm8?oc=5",
-          "source": "Quinte News",
-          "published": "2026-10-29T12:22:50Z"
+          "title": "Tumbler Ridge shooting survivor Maya Gebala being released from hospital, father says",
+          "title_ko": "텀블러 리지 총격 사건 생존자 마야 게발라(Maya Gebala)가 병원에서 퇴원했다고 아버지가 밝혔습니다.",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmJlU2lBajNGVmJBZ0Q4MUgtTWwtcmtsZENwaUF1WWM1R1hxZ0oxZXN3clllVnZqdlFZajREVDZ4a3BHZ0N3Z2RnQ3ZpcTlHSWdaR3RPZjNBRGlfSk0yQWN1blpNY3h4VkotOFI4cE1aNzRIV0kzbmFsVXhlUTJ0MGJfMlpzWm54bjdoM09zSjg?oc=5",
+          "source": "CBC",
+          "published": "2026-10-29T18:00:33Z"
         }
       ]
     }
