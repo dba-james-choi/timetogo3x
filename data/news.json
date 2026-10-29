@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-10-28T19:11:18Z",
+  "updated_at": "2026-10-29T18:47:40Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
+        {
+          "title": "Victoria backs amalgamation, but Saanich voters reject becoming a single larger city with B.C.'s capital",
+          "title_ko": "빅토리아는 합병을 지지하지만 Saanich 유권자들은 브리티시 컬럼비아의 수도와 하나의 더 큰 도시가 되는 것을 거부합니다.",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZndNSlVaODU3T0wzM2pLQ1hTazMwY0pVdWNxbnQxZWp2T0RxNlhnYU9tVC1va1hVYjczN3I4ZTBGTEs3dlpVeThtSFJkdER5Sl9HTFVjcjctNkxZOHN2QUlTdjlUX1pMXzU5bnZibFoteTRwd3dEbzdyX0lfZk9YQmZONkQ5VTlPUi1OMmFJZHZfQ0twZHNQTnVxa3BCdFNvaDhaVA?oc=5",
+          "source": "Daily Hive",
+          "published": "2026-10-27T02:56:00Z"
+        },
         {
           "title": "Emily Lowan wins Saanich North and the Islands to lead B.C. Greens in legislature",
           "title_ko": "Emily Lowan이 Saanich North 및 Islands에서 승리하여 입법부에서 브리티시 컬럼비아 녹색당을 이끌게 되었습니다.",
@@ -17,13 +24,6 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSEw2QTdZSElXU0pHUm91RGxoRWljOVFyZnBQYnBkZ2RqNHdxTVBYZlFtYlh3b2hoQ3o3S3psLU9FaTNWYlN6dkY1dDdxblpmLWRiOGZxaXZfSXFkcngzZXY0VlliZldyemhTYThxN2dVWlVWUkZhMkVNSWozTU9mMzFTTmVwUThVMjBYd2lHVlNsdFhN?oc=5",
           "source": "CHEK News",
           "published": "2026-10-25T05:34:10Z"
-        },
-        {
-          "title": "B.C. Green Leader Emily Lowan elected, but party fails to make gains",
-          "title_ko": "브리티시 컬럼비아 녹색 지도자 Emily Lowan이 당선되었지만 정당은 이익을 얻지 못했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2w5WnJvTkNGMnVXY0VEQXRDclpMUThsY1FoamZVeUtmU1dGak9TNk1Dekl3ZGQyZDhhSTFWMUxPYm5rLWZnUmJxVm1SajRLRnpMUXY1NXdfT3RtNXJGcENJZ0JyV2w0b2hGbnhkams4MlpiTHdWdTY5ZXBvSVppLWFRaERCQzRu?oc=5",
-          "source": "CBC",
-          "published": "2026-10-25T13:00:00Z"
         }
       ]
     },
@@ -31,25 +31,25 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "John Vu | McCall Gardens Funeral and Cremation Service | Victoria, BC",
-          "title_ko": "존 부 | McCall Gardens 장례식 및 화장 서비스 | 빅토리아, BC",
+          "title": "John Vu",
+          "title_ko": "존 우",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5haGxBWllWaWdOeUdLcjREYTl4amhCb1Rod1VqbXF2MUJMYmtUR1c0cVRxYmE5ZTBJZmVQeGxCUFBvelVTSUNGNGlqNlFkdDRpelZrVXdJcERBb1Q1Qnc?oc=5",
           "source": "McCall Gardens Funeral and Cremation Service",
           "published": "2026-10-24T16:25:45Z"
         },
         {
-          "title": "Vancouver Island man killed by drone while rescuing animals in Ukraine",
-          "title_ko": "밴쿠버 섬 남성, 우크라이나서 동물 구출 중 드론에 맞아 사망",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0R4TFlsd0IyaTJLVWFnNWV2SWJVR2puRi1zU280RDVPWlplb29QVXJma09SdXJDSVVoellIRVE4a3M0QU5LMkhMOVZaLTA1NmdIdUJyLS1iV3E5dTFNWTFDeHR3S3hISU9jekptM29sOHNPYjd4Zy1uYi1PTGN2S0s1Y3hpY0JaZTEycHRXcnJ0QnUwWE12Z1ZFYWlySDdsZnRUalRGYzB1dENoZF9IX0lhYno2SERTRmRERg?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-10-28T11:45:00Z"
+          "title": "Police drones are taking on a bigger role in Canada. Here’s how Victoria is using them",
+          "title_ko": "경찰 드론은 캐나다에서 더 큰 역할을 맡고 있습니다. Victoria가 이를 사용하는 방법은 다음과 같습니다.",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzhiUTBOd0g0b2lhWDRkZXkzUk00R01XMWltd3hqYVBwMXQtbk50Uk1yMGxSOXFDYTAwUklhd0gtTUtJS25hNzRvdm52cTF5Qzg0Q0ZBWDVKRFhrdGRBQWVaaEM2Rl9VV2I2dDNzSDhBX2J0dVFVb1k5OHF2Z09vT0JVbmltOTV1eUotaHVOZHRQMlNNZkdZYzI4OGpmME9INzhIQzlBUzFDYkRfaXFkd1E0Smp1Wnk5YzBuc0JqdFU2SlNEdXdPNXlnT2MtNGY1bnd5cXZuZjJncUE?oc=5",
+          "source": "CTV News",
+          "published": "2026-10-29T18:01:35Z"
         },
         {
-          "title": "1 person unaccounted for after fire destroys Victoria apartment building",
-          "title_ko": "빅토리아 아파트 화재로 1명 실종",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQODVXY0JIbGdsbG9xOEpEdjk5ZmVYRVBEYTd1MkU3dmt4RkY4NnhOVEYzWXY2VGZxcXNISmxLd2UzeWN2R0hjUEU5Tk40dlFNX3ZyRVRtVVZpQ0lWenpHVkpmSGF6enNvZmRkSnlxZVZWaTIwS01XQlFzeEljNnVFczhQZGlkZzVjbnFXeHlESllJSkVMTjFhNzRqV3Q2c2hlUFJ0WVItMWVmQQ?oc=5",
-          "source": "CBC",
-          "published": "2026-10-26T20:32:15Z"
+          "title": "Letters Oct. 29: Give Doerkson time; run-off elections",
+          "title_ko": "10월 29일자 편지: Doerkson에게 시간을 주십시오. 결선투표",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMlExTS16OTc2LVFXYVowUWtYMGNMRVpZZUtxMXA1bGNGQnQtZ0lvZVFVY3ZSeU5IN3lCdDFHVWdKdHVNQ2RiLUNhZVNpMEg4MWljdlZINEhSdUptWDhNck83Mjh2YmxCQ1hFbVh5c0hLR3NHT3hscERaNHFDbjZ1WXQtYlFpS2kwSEtYSERkRjEzclhudmFuclpEeGxrY2s?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-10-29T12:15:00Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "B.C. teacher who asked if Grade 7 student ‘had a crush on him’ suspended",
-          "title_ko": "7학년 학생에게 '좋아했냐'고 물은 브리티시컬럼비아 교사 정학",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYy1aSDBfRkx1NkxCa1ZoWEVtLUZ3d0VfVWlaSHhwOUxZRUJ6OHN3VFkwRHNaUEhGZTZKWjNHUGZuOTRQUVhHeGJsbWs0d09iS1lIdklZc0szZEw1eWFzU3NWX0ZzUVYzQmZYaFI5WjV6VFlET0haZWNQMHFmR28yendYZ3ZsSTdzalczcTBsNHRqVUpDak9JTUZtYUlGYm8wZWpsOXFoczFqNkRZWnN3?oc=5",
+          "title": "Premier-designate says he’ll scrap B.C.’s housing targets",
+          "title_ko": "총리 지명자는 브리티시 컬럼비아의 주택 목표를 폐기할 것이라고 밝혔습니다.",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbWxrYkJORWlicTRNRzA5YThPVnpuYVJmVFRkMkY4NXFmVlBuVUtweVRLWmdwMENKY0NQdm9VbjFuMkV4RE9udXhWQVU3dWxZa1J6czhUQUFSc3FhSnhmMjdiQ0lESkFRd1UydTlSUXp6OGNVUFhqVXhBMVhyOFRPNVlQdENjeTRyREtMblRkNV9mRGxveDBwbGJnX192b3IwSWpqV2d6cw?oc=5",
           "source": "CTV News",
-          "published": "2026-10-27T21:14:03Z"
+          "published": "2026-10-29T01:14:00Z"
         },
         {
-          "title": "B.C. Human Rights Tribunal awards fired Vancouver Island math teacher $115K",
-          "title_ko": "브리티시 컬럼비아 인권 재판소, 밴쿠버 섬 수학 교사 해고 결정 115,000달러",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0p1OENwdEdMQ0dYcWxqZ2lyVXRZZ2hRV0xFMWJyWVVKVUNOUVUwaUpsbkFyekJ2QVY4QmR6QjA4ZjV3SElFdWhzSzZfQVhWRWxoazRzUEY1eVd2TVY5NWlrZ2owUG5VTk44MHBjaWJJXzhyZE1kbjdKR0QxNFRwOUozdm51UFN1elJILWFxS0hRSDNDNnQyOENZVHZoWWVHOTA3ZktlbEhaeU0?oc=5",
+          "title": "B.C. man transforms his apartment back to how it was built more than a century ago",
+          "title_ko": "브리티시 컬럼비아의 한 남성이 자신의 아파트를 100여년 전의 모습으로 되돌렸습니다.",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdU5wRTE4elUtcXVfTnV4bFdrSHA4ZmM1R2FnQVBaUnRfYmVtXy1LVUJVUE81ODN6VjhNUWxjYXo3bEdYakJfa3VFMXNuWVdaWjBKTHBUZ1BrZzVlN2hJZExmQ3hkUmlwTS1pU2lXTzd3TEoxaFoyR0JMVmFGSUI3MzN1akhKWFZtc01sVVhjY0llcnJxaV96ckhodnVlT2Z6b1ZCU3BDaWdYODR0TGQza0E4Nzhsb3FVTzU0QWRWd1lROUZKSlUxT2tMWGowUVV1MkdPd1R5MA?oc=5",
+          "source": "CTV News",
+          "published": "2026-10-29T18:01:52Z"
+        },
+        {
+          "title": "New mayors elected in B.C.'s largest cities, including Vancouver and Surrey, as voters opt for change",
+          "title_ko": "유권자들이 변화를 선택함에 따라 밴쿠버와 서리를 포함한 브리티시 컬럼비아의 가장 큰 도시에서 새로운 시장이 선출되었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMUV4ejczQWwzY1RqSzE0cUtYNk5YSXdxVmIxczBsRGVNYlJaaEU2WERYY1dKQVVnZ3owZzZrcUh4WTlwUEVpYnpGMGo5Y1puNFZ2QWNrZF9JSFlOVldsNVA1VDN0VXo4REJnQm15MkZIeFEtVXVjd1VKOHBlcXlmTzJNd2ZxcXlaLWE1dlJpaklEZi1jN3A5eXBMb2hDUmVqMHlybzE1UWl5THJPY0dSeXNTZnFUczdrckN3TndmNVI1QU5H?oc=5",
           "source": "CBC",
-          "published": "2026-10-28T01:23:00Z"
-        },
-        {
-          "title": "“Events create economy”: PavCo CEO Rehana Din on the Whitecaps, BC Place and Vancouver’s next big events",
-          "title_ko": "\"이벤트가 경제를 창출합니다\": Whitecaps, BC Place 및 Vancouver의 다음 대규모 이벤트에 관한 PavCo CEO Rehana Din",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeG1GMGlQWXN0ZmRoengxQ0VLa0hnU2p2YUd2ZzZUajExOFo4bTNpUElCTEU3UklvX2IybzMtalVDdGVrSUh2bl9YcTNUX29EQTNQNTF0cS1Mc040UUtJTllnVFlJdlpGdHM5RHNHdHBHdEM2VUhjaldSRE9hOWkwRkN5UlQ0ZHVVd1lfZHQwdDN3aDFNa3V1d1hwQnV6eFJJTmRyY2NqdF9PSkdvNnRQbi1oV0RtOEJQX3Q5OFRqWDlLemoydXBTQjBEYkRZdzgzaUZ4Vg?oc=5",
-          "source": "BCBusiness",
-          "published": "2026-10-27T14:00:09Z"
+          "published": "2026-10-18T07:00:00Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "EU dropping associate membership title for its closer alliance with Canada: sources",
-          "title_ko": "캐나다와의 긴밀한 동맹을 위해 EU 준회원 자격 박탈: 출처",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0dtbG95c2h3TXdodUZtNDBJSWdhWnh0ZnNfLXZFSHpmUVlaNjFPcXJYWUZaa1NpaWlabktqZFJWQmpuOFZHeHR1bFlUcDFzRTNGV1UwbFhKMzRaclVNQkRYaEdlODVvaFlQSEJpMTFyYzdpd1k5THhwamxQT0ZZUjlNT0JoN1Nk?oc=5",
+          "title": "'Crypto King' Aiden Pleterski found guilty of fraud at his jury trial in Toronto",
+          "title_ko": "'암호화폐 왕' 에이든 플레터스키(Aiden Pleterski)는 토론토 배심원 재판에서 사기 혐의로 유죄 판결을 받았습니다.",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45WjBKQWNUT2JtS3RjckJDRnIwaWxPWUlUbFZYWXFjdGhvSnpSUmI5QWd6REpLTV9IbWRmbWJYU1FlT3p2STA4MzVaeGQzaFI5aGI5RDFab0MwaU83M0QxNUZwNDhMY21objYzc00xVi1NMFRBTGI4?oc=5",
           "source": "CBC",
-          "published": "2026-10-28T16:53:46Z"
+          "published": "2026-10-29T17:05:25Z"
         },
         {
-          "title": "What the data reveals about support among voters for Olivia Chow across Toronto",
-          "title_ko": "토론토 전역의 Olivia Chow 유권자들의 지지에 대해 데이터가 보여주는 것",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOWpBa0FqajRCRHlldVEzRjNYQUk2OEFhYWJUXzhHNnhmT3U1MXFpV1NuOS1xUGZIVER0aVl5bWEyM1ZsTnZqUDJwVkxVc2R6VjN5UXhxSVJZZG5VR0ZFR0hlUTEyLVV0QUx4NVNYb0lFOEcyQTNwcjZmeEZOT0xUS0gyVW9oNG5KQXg5MkgyQWMtRl9oMmpxeW1wWkhuMnFveVdMMUdQYS1OdC01cVZmOUZXaTgtTXVGdUhhN2o3VnBuQ2t4QkMzUndPd3ZSeXM1d19GcEc0VE5tMVVsckVYMjdmXzRiSE9Kd0R3LWtSNHBDcXhISnFrLXN5aVpFa0lUaVE?oc=5",
-          "source": "Toronto Star",
-          "published": "2026-10-28T09:00:00Z"
+          "title": "Father, 2 daughters shot in violent home invasion in Toronto’s Bridle Path neighbourhood",
+          "title_ko": "토론토 브라이들 패스(Bridle Path) 인근에서 폭력적인 가정 침입으로 아버지와 두 딸이 총에 맞았습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYkw5RTEtVk9QZnY1TVhmcTR6YTdpeXpsNDd4QlZhSUVuSWNleTcwTDRCZXdXWjJtNVpwNjF4YWFMSF9PV3JlR0l1d1pyVXoyQkx1eWNFSjVzbEM1NzNvM3JNNjlOR01wOWtxaG1fbkZibXNsVnpLVGFCVVpIUk13NTJPSVFDU0s4Y05fU0JnbkV1ZGI1eHc3Q0ZzXzlQOTk4YklKbG1DSDFqdUpZMDRXWWhONC1MejhFWTdNbXFibTNaUQ?oc=5",
+          "source": "CP24",
+          "published": "2026-10-29T15:43:10Z"
         },
         {
-          "title": "‘Not an easy path’: Burn survivor reflects on long recovery facing soldiers injured in Wainwright fire",
-          "title_ko": "'쉬운 길은 아니다': 화상 생존자, 웨인라이트 화재로 부상당한 병사들과 마주한 오랜 회복에 대해 반성",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQlBMQy0tSmhBajgwQjkxaHNUdi1tUXBYaWFhX1FoRXZXdVZhTC1pb3dQQ0piaTluY2lMMjRORm5sSUpjUUR3M29SWXlDMFlMVXpnXzdRbmpVbFI5TUV3SFg0S2lXcnZCSV8tZWdDLWc5LVVzRFZfZHNPQVZMVE05RU5LemkycWJ2aThzeG1TWEUwQQ?oc=5",
-          "source": "CBC",
-          "published": "2026-10-28T13:23:26Z"
+          "title": "Synagogue shooting costs strain police budget",
+          "title_ko": "회당 총격 사건으로 경찰 예산 부담",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JaXRUdGQzV1V3UFRtd2M4MGtjaVFQTGdNWldxdG1UeFNleHZBQmRIMVBwNzVQTjJldmxTd2VQUUxHX1JuR1ZIUWY4NnVOREVWOWhGeE9rRm9qbFZrSzRfSlVBOG5QVW5taERHY2huLXB5aHh4VDJMYUtvRHZJRm8?oc=5",
+          "source": "Quinte News",
+          "published": "2026-10-29T12:22:50Z"
         }
       ]
     }
