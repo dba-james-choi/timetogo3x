@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-11-02T22:08:13Z",
+  "updated_at": "2026-11-02T22:31:11Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
+        {
+          "title": "Beloved Saanich Peninsula Christmas tree farm closes as owners retire",
+          "title_ko": "사랑하는 Saanich 반도의 크리스마스 트리 농장은 소유주가 은퇴함에 따라 폐쇄됩니다",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjJzREF1NGhmbTFDRlFadTNxY1BuYndXd21xT2RYMGkwUl9sVXZQdHpfOVFzOFhpZjVzVThJN0F5TEVMaFJ1djlFb2ZkeVRvVWJ1OUt3T2lTWkhQNnhWSHQ5d2VLY1IwbS1pVXNkS0JqcnVjcDJWNm9TWWJOMTg1YW9SdW9XcTBVblBqeW1Ra3kxNXNYelJxVHNSaURITHlyZG9ZQXpR?oc=5",
+          "source": "Victoria Buzz",
+          "published": "2026-11-02T22:26:22Z"
+        },
         {
           "title": "Woman may never walk again after West Saanich Road crash: brother",
           "title_ko": "웨스트 사니치 로드(West Saanich Road) 충돌 사고로 여성은 다시는 걷지 못할 수도 있다: 형제",
@@ -17,13 +24,6 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjhEUllBOFBvYWI5Njhlb01mWFQzWUJZaUNlZGcwUzc1VW8zazEyQmF5TTlYbGNrNFRnSDNLc0hhUU9fLWlUTFMxdjZvUnl1Z3A0NU5SeVNuM2o4Z3M0MUEzODh5bGUzeTYyWVZuc2hyczAxUDBVRFZMVlc4ckw0M1hjUjhvLWc1TVRWai0wOGZKbGtES1BJSUw3N2I1ZmRyaU52SzlhSW5rTnlZQTFHcm5nRGZzTXYt?oc=5",
           "source": "CHEK News",
           "published": "2026-10-29T22:16:08Z"
-        },
-        {
-          "title": "Northern B.C. man fined $7.5K for possession of endangered species",
-          "title_ko": "브리티시컬럼비아주 북부 남성, 멸종위기종 소지 혐의로 7500달러 벌금 부과",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejFDdjRHVF9TVzVObzc5SzdacFZJQ3dOWDV5MzRRd1RmX2F5YkxUZWRnY29NSUNyQ29YR2wyRW96REtBYlNwX3Y4MW9pbFlLZnljby14b2tSRmJJY0pqUWhjWmNQREZ6dUdoWnc3UGFnbXBYUGJOMkxuVmxwZ1B5YWZ5ekcyQm11NWxLVnU1akVXX01NNWNGQ2l0RnlvaFVpa3c?oc=5",
-          "source": "Saanich News",
-          "published": "2026-11-01T21:59:55Z"
         }
       ]
     },
@@ -31,11 +31,11 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "We didn't fall back an hour: A sprinkling of confusion, including wrong times printed on some ferry tickets",
-          "title_ko": "우리는 한 시간 뒤로 물러나지 않았습니다: 일부 페리 티켓에 인쇄된 잘못된 시간을 포함하여 혼란이 흩뿌려졌습니다.",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN1V4d0xHYTVFSWY0WXY5WTVpZV9GdEFpUjJCSE94MFc0Q0oydzZqYWFqT25zeGQ3WjhRYjV4bTItN1V5UTktYWZmYXFXQm5sZ0hLYTJHcWxZMUZyM3JqVmNIY2dueWNQbi14VEJJb2UwY0I1TzlqQTVNTjg3aXdnQm16aG83TmZmZk1BSnFYc05fV1JLZWFTYWtIa1RBSndWLWZhNm94c3pPdjU5cTJrak5MMGJ4cUozdlRpS1hkNktHUXhzNEVadTZaa2xrczZNemIxTlJ3TzM?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-11-02T13:00:00Z"
+          "title": "Victoria, BC Current Weather",
+          "title_ko": "빅토리아, BC 현재 날씨",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQenZSQmlkZk9fdTVvWlRJOGh3eHEwcHlYUGZOWG1YejBXMEtwUWFLb01xUVBXdm9sVzRZSlJBdXJZd3lmU2xqY2hBY3hWYzBseEI2RDZsMGROMld6VXktb0VRZEoyNGtWT0diNXp0Z24ydnM5QnlzWVlqX0Q5bS03RGZkemdjVTQ?oc=5",
+          "source": "The Weather Network",
+          "published": "2026-10-31T07:00:00Z"
         },
         {
           "title": "John Vu | McCall Gardens Funeral and Cremation Service | Victoria, BC",
@@ -45,11 +45,11 @@
           "published": "2026-10-24T07:00:00Z"
         },
         {
-          "title": "BC RCMP officers across are getting a new look with navy-blue uniforms",
-          "title_ko": "BC RCMP 경찰관들은 남색 유니폼으로 새로운 모습을 보이고 있습니다.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcVNDTm1tSVE4MWpxSElCWTR2X3F2bmRPOHJKVS1iT0dKbkFiVWVWQWsyTzliNjRXbzhjWjBZUktRNnJzUGlMT0ZfRjV0VmxBa1l3TEhVbnlQMlBsQl9yZm9MeDBHc0UweElELVZfV055Z3UwczdxLW4tNk9seERicllKZzgxN0V3MkdHWm9xT2p3OXMxMGpzQllERQ?oc=5",
-          "source": "Victoria Buzz",
-          "published": "2026-11-02T21:42:49Z"
+          "title": "We didn't fall back an hour: A sprinkling of confusion, including wrong times printed on some ferry tickets",
+          "title_ko": "우리는 한 시간 뒤로 물러나지 않았습니다: 일부 페리 티켓에 인쇄된 잘못된 시간을 포함하여 혼란이 흩뿌려졌습니다.",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN1V4d0xHYTVFSWY0WXY5WTVpZV9GdEFpUjJCSE94MFc0Q0oydzZqYWFqT25zeGQ3WjhRYjV4bTItN1V5UTktYWZmYXFXQm5sZ0hLYTJHcWxZMUZyM3JqVmNIY2dueWNQbi14VEJJb2UwY0I1TzlqQTVNTjg3aXdnQm16aG83TmZmZk1BSnFYc05fV1JLZWFTYWtIa1RBSndWLWZhNm94c3pPdjU5cTJrak5MMGJ4cUozdlRpS1hkNktHUXhzNEVadTZaa2xrczZNemIxTlJ3TzM?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-11-02T13:00:00Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         },
         {
           "title": "Vancouver to see very late winter sunrises under B.C.'s new time zone",
-          "title_ko": "밴쿠버, 브리티시컬럼비아의 새로운 시간대에 따라 매우 늦은 겨울 일출 보기",
+          "title_ko": "밴쿠버, 브리티시 컬럼비아의 새로운 시간대에 따라 매우 늦은 겨울 일출을 볼 수 있습니다.",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT0tUTjRaS3ZuSGxJVWN4VzRLSlVNVzZCQ3NxTUZuQkJXSUZwRmZyWDJGWnFXXzd2SVE2bWk0WkFsMEFTSE1aZTVxZjdWa2tTa0JvSmMzamNLY0FQdnlESGhWdTkzUG8yQ1Q1LUhZcG55M3VHdUJoaW0taUVXNkozS053Sl84VUxMTVU0cGJvSGE?oc=5",
           "source": "Daily Hive",
           "published": "2026-11-02T20:20:00Z"
@@ -91,7 +91,7 @@
         },
         {
           "title": "Former AJHL, BCHL broadcaster, front office exec charged with sex crimes against minors",
-          "title_ko": "전 AJHL, BCHL 방송인, 프론트 오피스 임원, 미성년자 성범죄 혐의로 기소",
+          "title_ko": "전 AJHL, BCHL 방송인, 프런트 오피스 임원, 미성년자 성범죄 혐의로 기소",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbFE2UDRQOGptRkIzdlZxTjF1MFluUGRJTWlPTmM3LWZVazRXemloUkhNT1dITVVsRTVLclhkbmlxUVpjX19YaGxnbzdRbWFXTkpJTlBtRGZ2NDBrNlctMjdjRjZGcVlESnQ3eHdvbU1lX2lSSVUtTzJkd1NtQTkyMWxnZ0hxbGhyV1A4YVdUdTl5dnFVcjl5QzNlZkdETEd4LThVUVBKYlFZR0dkY3p2RWwzQUtwWnBmUDh1aWlvbnJLbG1SUUhDZHhn?oc=5",
           "source": "CP24",
           "published": "2026-11-02T20:53:12Z"
