@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T19:57:07Z",
+  "updated_at": "2026-11-03T20:20:39Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -31,13 +31,6 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Human remains found at scene of Queens Avenue fire: Victoria police",
-          "title_ko": "퀸즈 애비뉴 화재 현장에서 시신 발견: 빅토리아 경찰",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ3VMRDlPdE51eEU0UGFuWVhHQ2lNYTItWWEybFNXYmxqR0l3Y1hsc0pTSl9HUlBOMk5GOWQtTkhrdzd6SktDS1NVb1F1RVhOZkpmSXU1Y2V5Z2YzM1JLbXdtRjNPQmJLSGdDZjBMN3R6WXhrLXZ4ZmtOQUlYZlNLX0FSbjROa2lQZE83Zzg3b2RvZUtxczdNaDlJckVkbi1RTDg0RGtleVczLVdC?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-11-03T11:45:00Z"
-        },
-        {
           "title": "Human remains found at scene of Victoria apartment building fire: VicPD",
           "title_ko": "빅토리아 아파트 화재 현장에서 사람 유해 발견: VicPD",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ0pNM2RlVXBTWlM5X1hraTk3eERvUXRMNkxPNWJuVWMxZll3WlBrM3RMQUZXSDZ1alZrSEtHeG5NakJFTWJ5VFFPYkxLWFZvZ3ZfR01MT3Z5NUNTZ1NYMWlRaU9kQkJKbmxPc25uUlhPakRmcXNJWm14SVVvbExIeFlxSzZkRnM1LUMxenVCSWgzb0gwRmE0S1NOckIwX1M2SUJQWVktSQ?oc=5",
@@ -50,6 +43,13 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZV9LOWFxQlJ3WmZlODZhWFRDVk5TOU1uMzdUX3E0eTNuc3lQeGdyZXQ2ZHFHckdxZ2FyVmF0ZWJ6YmwzTXJ3ay16cTJrSWxRaHktS0JSdUtnbGZxZTFSUEJWOEZwVm9DaWxiNWd4WDRuanlGWHNHR1RtUVNPR2lnam5jdHVDbmFBOUlfaVc4NFg?oc=5",
           "source": "Victoria News",
           "published": "2026-11-03T16:30:52Z"
+        },
+        {
+          "title": "Human remains found after fire at former Victoria hotel",
+          "title_ko": "옛 빅토리아 호텔에서 화재 발생 후 시신 발견",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnhUaWtaWGMzUC1nRHRqb19Ucm4ydmRTMzg1Qjgza2M2c1RpcDVoWDN3NHgtXzJSc1RDWWRxUWt0cXEyVXZuZHU2UkFRWlVXNVJuZVd3aVNzUE1ZN1pJWmdsM3ZxUHliUDRwUmMzWGFpbFlIcWFpckptSHVvdFdGTTU0cHQzaHhQQXIyYng2TVhSd1htakREbDZkNlVscGZCWFlJci1xdnVxeU9lZjNQUXJTeXg?oc=5",
+          "source": "CTV News",
+          "published": "2026-11-02T22:57:44Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "OSAP pause hits paramedic students bound to work in underserved areas",
-          "title_ko": "OSAP 중단으로 의료 서비스가 부족한 지역에서 일해야 하는 구급대원 학생들에게 타격",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmhVd2p1UHBJbnh5bGNheVdldFNNTWZqYVZ5Mm5EeTlkbG9SYjNNLW0zdWxOWXpPWkl0VmNHTWlOWEtGTFBYN3g3aW91NkE2Sllxdk9Kd3dZbVMwRTFuRFV5TlJXcTdJeWVOVDZubkM0aHI5UDcxTnVUZGNadEw3NjNwNDhLTkYxRWhMZXA3TkFvZmhyMlBmMS1acUZxNDR3TEVwbVVzUDMxNTBBYVVHbGNRWDc?oc=5",
-          "source": "CP24",
-          "published": "2026-11-03T10:58:45Z"
+          "title": "Ontario’s OSAP pause hits paramedic students",
+          "title_ko": "온타리오주의 OSAP 중단으로 구급대원 학생들이 타격을 입었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTE95QnlpbUNad1EwTzBVbmlYazdqajQyWVVWUlB1Y0RwRHNqUHRMMFRDSkRHaVhha0F1eEdvdENfeGRWV2pkNmRkbEVfRTQwRnpLYnhCcnl3Yy1aNnJsZzY4OFdvS09YSmIwbm5pcFhSa0d5eDc0akhRbzJXdy1oZGdXLU15TVVDVV9ZOEUwOTdGbUZDOUhjSTRwQmtITU5CM3c?oc=5",
+          "source": "The Globe and Mail",
+          "published": "2026-11-03T12:25:05Z"
         },
         {
           "title": "Home in Amherstburg, Ont., unlivable after family spent $155K on renovations, police looking for contractor",
           "title_ko": "온타리오 주 애머스트버그에 있는 집, 가족이 개조 비용으로 155,000달러를 지출한 후 살 수 없음, 경찰이 계약자를 찾고 있음",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXZFVGxfT3o1OTVPQW9PeThMOU9VemZVTHo4SUZBbmhPdFN5R2VTOVVVM3FzMjNfUmZuaEFCNHJDZWtLRUFKN3NXRV9FbEZFWC1oV1VIOUZfVU5ESGFmNlpoLUREX2NSME9EV2prNUlYV1d4djNBS2g1Vzlqdm5hcjFEc2phMDczMUJPNmdxLTBmcm8tYWJCVDFyY3lDOWs?oc=5",
           "source": "CBC",
-          "published": "2026-11-03T18:18:59Z"
+          "published": "2026-11-03T19:24:56Z"
         },
         {
-          "title": "Ottawa wants us all to have emergency supplies for 3 days. The good news is, that number hasn't changed",
-          "title_ko": "오타와는 우리 모두가 3일 동안 비상 물품을 갖기를 원합니다. 좋은 소식은 그 숫자가 변하지 않았다는 것입니다",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZmRZdTdnbDI2Y1Q2T3UyOXYyYjdIZzhuRUJyaWF4ZHVTQkd1b2FDdEM3Wmo5ZDhhcnRjSWZ2TW9UZC1pNW4yTEhPQjNvVjFWYVpCdVhTZ0N5YTZqRC0tdVpCdmJpWHJKMmQ3RVVUMFgxNS1QVXpaa1ZwR2FndUhMVVY1ak1ZVElXQUE?oc=5",
-          "source": "CBC",
-          "published": "2026-11-03T19:12:30Z"
+          "title": "Toronto police investigating second report of pins found in Halloween candy",
+          "title_ko": "토론토 경찰, 할로윈 사탕에서 발견된 핀 두 번째 신고 조사 중",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU1BGOWF4bGlCRFRKa1F3c3F2aTlJVHNaS3NXRDlfN3ZjTFQ0S2ptdUFnVGxUY0RESWRYQkkxQ051aTQxaWQ0V09XREJfU3p1cU05ZkRtay1tM3p5Q25OMGZwN2Q5OGRRYUROc3lXU29MYjhXQkNueFQ1em5pTi1IV0RaaDBXZWFLTTd3?oc=5",
+          "source": "CityNews Toronto",
+          "published": "2026-11-03T17:46:00Z"
         }
       ]
     }
