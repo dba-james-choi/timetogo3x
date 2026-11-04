@@ -1,16 +1,9 @@
 {
-  "updated_at": "2026-11-03T20:20:39Z",
+  "updated_at": "2026-11-04T20:16:33Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
-        {
-          "title": "New District of Saanich council sets to work",
-          "title_ko": "Saanich 의회의 새로운 지구가 작동하기 시작했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbG1HN216Ty1FVU9ndlpqNTdxUzRDSXJTVXVDa2NfUkxaX1FlVUx2d3R5S0VZSURTZmNuQ0ZWWWNFRzJORktRQVJPRkxjNVh6SHA1ZjlfS3JVenBxVGVDRmFxQTd3c2FfV3M2cGtnN3hrSXkzamhjQ1RBYXRXZ0VLbg?oc=5",
-          "source": "islandsocialtrends.ca",
-          "published": "2026-11-03T18:23:21Z"
-        },
         {
           "title": "Woman may never walk again after West Saanich Road crash: brother",
           "title_ko": "웨스트 사니치 로드(West Saanich Road) 충돌 사고로 여성은 다시는 걷지 못할 수도 있다: 형제",
@@ -19,11 +12,18 @@
           "published": "2026-10-30T11:30:00Z"
         },
         {
-          "title": "Beloved Saanich Peninsula Christmas tree farm closes as owners retire",
-          "title_ko": "사랑하는 Saanich 반도의 크리스마스 트리 농장은 소유주가 은퇴함에 따라 폐쇄됩니다",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjJzREF1NGhmbTFDRlFadTNxY1BuYndXd21xT2RYMGkwUl9sVXZQdHpfOVFzOFhpZjVzVThJN0F5TEVMaFJ1djlFb2ZkeVRvVWJ1OUt3T2lTWkhQNnhWSHQ5d2VLY1IwbS1pVXNkS0JqcnVjcDJWNm9TWWJOMTg1YW9SdW9XcTBVblBqeW1Ra3kxNXNYelJxVHNSaURITHlyZG9ZQXpR?oc=5",
-          "source": "Victoria Buzz",
-          "published": "2026-11-02T23:24:34Z"
+          "title": "Six new EV fast chargers coming to Central Saanich",
+          "title_ko": "Central Saanich에 6개의 새로운 EV 고속 충전기가 출시됩니다",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOUlaWEZqZmVuLVJTUXhGcEFub1lTRVpYdUVPRFRqaC1waUd4Q2trcHRtajlOY1BROXVadmxkNHlYWUJPMzUxS0FwZDJTd1FBSTg3ZXRGNFV0dERaZDFmVG0xbUxEbVBjcU5HaWladHViVHVaSXNmcGF6UV9PSll6RjV3ZXdrWXRiTDBobVRWU0RLNVYxaXN4cVdB?oc=5",
+          "source": "Peninsula News Review",
+          "published": "2026-11-03T21:33:56Z"
+        },
+        {
+          "title": "Saanich Police seek information on truck involved in crash that critically injured woman",
+          "title_ko": "Saanich 경찰은 여성이 중상을 입은 충돌 사고와 관련된 트럭에 대한 정보를 찾고 있습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjhEUllBOFBvYWI5Njhlb01mWFQzWUJZaUNlZGcwUzc1VW8zazEyQmF5TTlYbGNrNFRnSDNLc0hhUU9fLWlUTFMxdjZvUnl1Z3A0NU5SeVNuM2o4Z3M0MUEzODh5bGUzeTYyWVZuc2hyczAxUDBVRFZMVlc4ckw0M1hjUjhvLWc1TVRWai0wOGZKbGtES1BJSUw3N2I1ZmRyaU52SzlhSW5rTnlZQTFHcm5nRGZzTXYt?oc=5",
+          "source": "CHEK News",
+          "published": "2026-10-29T22:16:08Z"
         }
       ]
     },
@@ -38,11 +38,11 @@
           "published": "2026-11-03T17:45:05Z"
         },
         {
-          "title": "Victoria youth ride the bus free with BC Transit U-PASS",
-          "title_ko": "BC Transit U-PASS로 빅토리아 청소년은 무료로 버스를 탈 수 있습니다.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZV9LOWFxQlJ3WmZlODZhWFRDVk5TOU1uMzdUX3E0eTNuc3lQeGdyZXQ2ZHFHckdxZ2FyVmF0ZWJ6YmwzTXJ3ay16cTJrSWxRaHktS0JSdUtnbGZxZTFSUEJWOEZwVm9DaWxiNWd4WDRuanlGWHNHR1RtUVNPR2lnam5jdHVDbmFBOUlfaVc4NFg?oc=5",
-          "source": "Victoria News",
-          "published": "2026-11-03T16:30:52Z"
+          "title": "John Vu",
+          "title_ko": "존 우",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5haGxBWllWaWdOeUdLcjREYTl4amhCb1Rod1VqbXF2MUJMYmtUR1c0cVRxYmE5ZTBJZmVQeGxCUFBvelVTSUNGNGlqNlFkdDRpelZrVXdJcERBb1Q1Qnc?oc=5",
+          "source": "McCall Gardens Funeral and Cremation Service",
+          "published": "2026-10-24T07:00:00Z"
         },
         {
           "title": "Human remains found after fire at former Victoria hotel",
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "Pete Fry sworn in as Vancouver's 42nd mayor promising 'collaboration over division'",
-          "title_ko": "피트 프라이, '분단을 넘어 협력' 약속하며 제42대 밴쿠버 시장 취임",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEtVT0hoLXJXb0hJMnpIcGc0ZTFURGt3ZEM1ZjhvOTFoT0VNVU0teG4wbVhPOTZ1NEhvdmpVbE1DLVlDWXI5bXNILXVIT200VG9RVmtRMTBFN29jSGZEVHJ2WmpTSGE5cGMzV2Rhd21HUnNQTTFKUWJXbHNZcGxycVYwdk1qY2c0MlFCSUN3?oc=5",
+          "title": "Why lettuce was the defining image of Pete Fry's inauguration as mayor of Vancouver",
+          "title_ko": "왜 양상추는 피트 프라이(Pete Fry)의 밴쿠버 시장 취임식을 정의하는 이미지였습니까?",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZjJTSGRSel9DMzVWWURsMTN5ODh6cjFwM2FFR0hIY0dFNHRONVFJeVowamcwdHZHQThlQlpONlI2cXRfcWoycmMzUDhKVk9Fd25zdVpMd1M5WjBhRVF5NTVYbm9JN1h2c3FzR2FUMHQxRWJUdy1wZkNDYy15WFBjYnhrU2hWaTJ4ZG9PZVhMLXc?oc=5",
           "source": "CBC",
-          "published": "2026-11-03T00:21:00Z"
+          "published": "2026-11-04T03:27:00Z"
         },
         {
-          "title": "Earthquake shakes off Vancouver Island’s northwest coast",
-          "title_ko": "지진이 밴쿠버 섬 북서쪽 해안을 흔들었습니다.",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWlNTzRfNlhGRzVkMnhMYTgzYmd4bUdTaENnQk9yUjdNUEdfUnZaWFVLTHY2R3Z5RkNzMmZFQnBNYTJVbVJ0V0Y1OWtrcGtZdnpSRTFJdW1MODFzcEZPc2NJanJIb1ZNSGR6ZnJwRldBeWI3V2JyS3BqeW1SdTdrWGk0SGZkcmVMM0pSWF9JWTJ4TGtCUFc5YnFKTXR1dw?oc=5",
+          "title": "SkyTrain service resumes after fire closes stations in Burnaby, B.C.",
+          "title_ko": "브리티시컬럼비아주 버나비에서 화재로 인해 역이 폐쇄된 후 스카이트레인(SkyTrain) 서비스 재개",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTRsSEpWTzVoNV9LbDNhX2p1ekNiQ0J2U2VQdnM2UDk4VTdQRm9ha2xtMmpDN0QxbE11Ny03NG5iMG1PTTBDT0RiN3BOaDdWRDZDMmpWbngwZGp2empxWmI2dTUwdDUyYmYwQkNuRmZYbzRaQk9oOGl1M2FwTmtoVExqYnB6Z1kxRUNLNDFMWWcwSkxrVlhJSnk4S1NxRUZSdUJF?oc=5",
           "source": "CTV News",
-          "published": "2026-11-02T23:33:33Z"
+          "published": "2026-11-04T14:44:29Z"
         },
         {
-          "title": "B.C. seizes Vancouver Island couple's bank accounts, alleges insider trading",
-          "title_ko": "브리티시 컬럼비아, 밴쿠버 섬 부부의 은행 계좌를 압수하고 내부자 거래 혐의",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbk9DakFDOENOdjZkMldhNUNMbGdiYjRQTE9SY3haRHpaV3lQT1V5eVhXcVVXZEROazlhSkNZcEZtVFJiQ2FoWU5hcV8zVWRxWWlCQmZITlJIWWJnbGYxeVNLdUdNVEt0WS1nSHZZR2tzNkZ0NzVfdFM3MXNKWmJiRkx1RVZzNUdnaGNxcmJMUHQtd05HQ09uRlRn?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-11-03T13:05:52Z"
+          "title": "Veteran stockbroker, chairman of B.C. company faces illegal insider trading allegation",
+          "title_ko": "베테랑 주식 중개인이자 브리티시 컬럼비아 회사의 회장, 불법 내부자 거래 혐의에 직면",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWVrMDY1aHdrSndKUERqUGhIWkxpZVV3WGp5Y0lSVEVNMlVMX0tERUt4Wmd4NWNvVGhRelhtcGR2WGJxdEVKZFlCSHNuVUw0LTJ1MU01MDNhMkFIQ3lLbTBlYkJ1M3R5WHlXOUs0TDViNmk5UFNHcDN3MW5YYllXYmJoa1lVN2dfX3h0RDhFbEpqeTF0UmJCUjcwQXhHaURNVUo1YXRFN0FiM1hXY0JwVm83M0hiMnRK?oc=5",
+          "source": "Business in Vancouver",
+          "published": "2026-11-03T23:45:00Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Ontario’s OSAP pause hits paramedic students",
-          "title_ko": "온타리오주의 OSAP 중단으로 구급대원 학생들이 타격을 입었습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTE95QnlpbUNad1EwTzBVbmlYazdqajQyWVVWUlB1Y0RwRHNqUHRMMFRDSkRHaVhha0F1eEdvdENfeGRWV2pkNmRkbEVfRTQwRnpLYnhCcnl3Yy1aNnJsZzY4OFdvS09YSmIwbm5pcFhSa0d5eDc0akhRbzJXdy1oZGdXLU15TVVDVV9ZOEUwOTdGbUZDOUhjSTRwQmtITU5CM3c?oc=5",
-          "source": "The Globe and Mail",
-          "published": "2026-11-03T12:25:05Z"
+          "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+          "title_ko": "미국 중간고사 결과, 관세 완화를 희망하는 캐나다인의 '승리'",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xbVZEZnp6WGZLRnNHMUdHNTQxNzB3dUUweTBqcEZJV2tIaUYxNTBseHRnZjU0QmdmZFl6M0lwQVhUSVAxUHY3WkpxQUhGZ25LUjFOeWVzb05RLW8?oc=5",
+          "source": "BBC",
+          "published": "2026-11-04T18:01:31Z"
         },
         {
-          "title": "Home in Amherstburg, Ont., unlivable after family spent $155K on renovations, police looking for contractor",
-          "title_ko": "온타리오 주 애머스트버그에 있는 집, 가족이 개조 비용으로 155,000달러를 지출한 후 살 수 없음, 경찰이 계약자를 찾고 있음",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXZFVGxfT3o1OTVPQW9PeThMOU9VemZVTHo4SUZBbmhPdFN5R2VTOVVVM3FzMjNfUmZuaEFCNHJDZWtLRUFKN3NXRV9FbEZFWC1oV1VIOUZfVU5ESGFmNlpoLUREX2NSME9EV2prNUlYV1d4djNBS2g1Vzlqdm5hcjFEc2phMDczMUJPNmdxLTBmcm8tYWJCVDFyY3lDOWs?oc=5",
-          "source": "CBC",
-          "published": "2026-11-03T19:24:56Z"
+          "title": "Serious injuries reported after bus crash north of Prince George",
+          "title_ko": "프린스 조지 북쪽에서 버스 충돌로 심각한 부상 보고",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTktBVWVXQXd2M0lxcjV2Z0xmM09SdXBheE00OHZEYXRRQmVwSllVU0Y1eVB0OFY4UGJIcWJoejZyRlFja1FFb1BsR2h6RmxCdDlndlV0WTlKVWw5MGxqbFpjcWU3b2I4amo4XzVUWGtwWWhPVlhBQW9la0RrZjBWbE5ZRjZHYTN2RHpxOGcxMEpQcVM3YVhsLQ?oc=5",
+          "source": "Global News",
+          "published": "2026-11-04T17:52:13Z"
         },
         {
-          "title": "Toronto police investigating second report of pins found in Halloween candy",
-          "title_ko": "토론토 경찰, 할로윈 사탕에서 발견된 핀 두 번째 신고 조사 중",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU1BGOWF4bGlCRFRKa1F3c3F2aTlJVHNaS3NXRDlfN3ZjTFQ0S2ptdUFnVGxUY0RESWRYQkkxQ051aTQxaWQ0V09XREJfU3p1cU05ZkRtay1tM3p5Q25OMGZwN2Q5OGRRYUROc3lXU29MYjhXQkNueFQ1em5pTi1IV0RaaDBXZWFLTTd3?oc=5",
-          "source": "CityNews Toronto",
-          "published": "2026-11-03T17:46:00Z"
+          "title": "Fact File: No evidence for Trump claim Canada will 'pay for all' of Keystone pipeline",
+          "title_ko": "팩트 파일: 캐나다가 키스톤 파이프라인의 '모든 비용을 지불'할 것이라는 트럼프 주장에 대한 증거 없음",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVmkyWlVnbzlTc21kRVlRTm5TenktZ1FnUGJsemJyejlpNGxoN29tMFoxZXN6cm5pTTVQcl9mSDU3bWgtRi0tQWs0R1dvVmtkdHBWMDFEanNTN3BIY0wtdEpqQUJDbDJpb0d1R3M4SlpleGd1ZVdCSUtVZWpzTURPR05QdER4MndDMnRSUVRWRG8zZTRrMjJ2Vi04VDNVSTBwODlFRDFSQzRNSHJPcDA2NFN3blpSbnh0OHlLd29R?oc=5",
+          "source": "CTV News",
+          "published": "2026-11-04T17:28:36Z"
         }
       ]
     }
