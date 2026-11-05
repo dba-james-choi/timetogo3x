@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T20:28:02Z",
+  "updated_at": "2026-11-05T20:52:37Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -61,7 +61,7 @@
           "title_ko": "'심각한 비 사건': 브리티시 컬럼비아 남부 해안은 일주일 동안 폭풍에 대비합니다.",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMy1KN2ZrSElnb05fajRadHUtSXdyM3hMTjBzOVZMaFJsQ0Roa1RTekE3QWlidTNJLVVtZDhyZXVmM3NycXBmakhxUjVnSnhkcnU3ZHNqMzcxRTl5MUVQRy1kclRVdFBWeG9BUlJFMEVQcWx1S0xQRnBVa3d4TG5GMTdFNURMeGY1eVFYQ2RuS3h0WXNmTGZ6R2FjNHczMXBORXhlNXRmejE?oc=5",
           "source": "Vancouver Sun",
-          "published": "2026-11-05T19:41:15Z"
+          "published": "2026-11-05T19:43:27Z"
         },
         {
           "title": "B.C. hospitals declare Code Orange after 20 injured in charter bus crash",
@@ -71,11 +71,11 @@
           "published": "2026-11-04T21:33:26Z"
         },
         {
-          "title": "Rainfall warning issued for western, inland Vancouver Island",
-          "title_ko": "밴쿠버 섬 서부 및 내륙에 강우 경보 발령",
+          "title": "Rainfall warning issued for parts of Metro Vancouver, Vancouver Island",
+          "title_ko": "메트로 밴쿠버, 밴쿠버 아일랜드 일부 지역에 강우 경보 발령",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdE9YUkhpdlVMUDRtR3ZyWG0tU2t5YzdITUpzaURpV2c0OE5OdHZFVTlRUFRJRm5ZNEFlRUJtSDBBQzBqZVZhZi0yd2ZSNE5SYTFJTzZ0bGVuQTcyZnlsUHZFT05nbER5X19McEszckV0dzNTLVB1ZXBrTWNJc0t6NDJQamVCdDFKb0tOMVpvQy0?oc=5",
           "source": "CBC",
-          "published": "2026-11-05T17:39:13Z"
+          "published": "2026-11-05T20:39:00Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
+          "title": "What to watch for as Carney introduces his 2nd federal budget",
+          "title_ko": "Carney가 두 번째 연방 예산을 도입할 때 주목해야 할 사항",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkdmWjE2enQtM3Yyamh1MDZkRFZKNXB3TTlkMERxaUJueHhVM3l0MFVBdHdwVmdQeWNZcWwtUDBGV0hCM1VMUDNhWHhWSGZyTUFnUVpZSjZKOHhrelpJd2w2QVd0R3U1R0dyRUhicEJCbUVVUTFKeWtiUXF1cXpraW9LektqSmN1?oc=5",
+          "source": "CBC",
+          "published": "2026-11-05T16:54:16Z"
+        },
+        {
+          "title": "Post-secondary students across Ontario walk out of classrooms to protest OSAP changes, tuition hike",
+          "title_ko": "온타리오 전역의 고등학생들이 OSAP 변경, 등록금 인상에 항의하기 위해 교실을 나갑니다.",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc0JIOGU4VS1FX1c5Z29UdG4tXzFnV0pmYVl2b0QzYm11WThNRFBlbHRUaTN6ckhfeUFHNkNtTm5td1hCMHNpR3J4QlhSdXFlYnY3SWRfOFNoU1hELVBQQm1SWlFPQ0k0QmRmSHBra0U5TXhPdzZoR2F5TGp3Y3hOLUtBR0tQV05WbVBodFFaZGd5SHZhRjI3ZA?oc=5",
+          "source": "CBC",
+          "published": "2026-11-05T19:50:00Z"
+        },
+        {
           "title": "U.S. midterms are a 'vindication' of Alberta's approach to tariffs, says Premier Smith",
           "title_ko": "미국 중간고사는 관세에 대한 앨버타의 접근 방식을 '입증'한다고 Smith 총리는 말했습니다.",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xXzVFWm5qRUNCdWdidzJHUkcydnpUT1hhRnhmWHhyb2plOGoxS3IwZVVVdEN1Ymc5OEs3X3ZsZFZ6aGpSWTFYcFlkcm9PYUZwemZCTUN3U1dnb2Q2ZDNVVGxjU09LbjJiNjZPSHdMM05HMy1Lckw1WVZ3?oc=5",
           "source": "CBC",
           "published": "2026-11-05T16:01:15Z"
-        },
-        {
-          "title": "Federal budget live: Finance minister to table government’s spending plan, updated immigration numbers",
-          "title_ko": "연방 예산 라이브: 정부 지출 계획에 대한 재무 장관, 업데이트된 이민 수",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQlJkVjdXb1FzTGpZbFoxczFFaktqc3Z1aXB0blA3ejFaQnBNdWJGS1NiOUtiU0RfYUZocXpjMTlVaEVNbmFDdU9EVHZ5M0s2Ri1oV01YeUM4RU53U1BYUVVGZlVVcm1PWVBrNWNhNW5OeTBIMW0zQlpaLUNST3I0RTdyZXJ4VU50S2YyclFxQzdGV2ZIVEZTNXgyOWpXUW5NYTFFV0kyblVRanFvTkxwaklLVkI3TnBkR3VLQVdqU3M?oc=5",
-          "source": "Toronto Star",
-          "published": "2026-11-05T19:44:00Z"
-        },
-        {
-          "title": "Six roommates, empty fridges: the real cost of Ontario’s student aid cuts at Nipissing",
-          "title_ko": "6명의 룸메이트, 빈 냉장고: Nipissing의 온타리오 학생 지원 삭감의 실제 비용",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUlyb2h0Y3dXTGtobzJ4c2FwdF8yWkRtUW0zXzdiLUxuaVJFVHJOTnk3WkhUTk05SlpsTThJeUh4R0d1N1Q2d2NkZzYyQXRrR1RlTllYUkRSd3NXQkY5UnJYdXZwTXFkUWswOU4zbGIyS0tlc1phdno4dUdvakMta003RG1XV3Bjc29GcmpfdmM0Sm9lS1VPajk5bUlGQmJwZG9ZLXowWWhqRVB4bVVHeA?oc=5",
-          "source": "North Bay Nugget",
-          "published": "2026-11-05T10:59:19Z"
         }
       ]
     }
