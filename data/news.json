@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-11-04T20:36:04Z",
+  "updated_at": "2026-11-05T20:28:02Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
+        {
+          "title": "Saanich Peninsula Men’s Shed keeps retirees focused on finding meaning in Sidney",
+          "title_ko": "Saanich Peninsula Men's Shed는 퇴직자들이 시드니에서 의미를 찾는 데 집중하도록 합니다.",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORWZnNnNWYzZiTjViaGFNdGdIRkFmUVp4N0J1bmVMTWtoQzBjX25FVi1FUTFVOHhxd1JWT2x6ZmU0ZWpid0I3WGt4aDhVZEJROEpteVRuS2ZrR2NpUjItMEdEYWFfMWpUcXBhdXJaVWxyaXM4Tnkzd1daaUNXb0VTOW9vNTNiZTVWQVVDUXZjSXpjOC10YVZFRFZQLUszbDNZblk5blA4ZWRLdHVaTWVjRDhKREQzUQ?oc=5",
+          "source": "Saanich News",
+          "published": "2026-11-05T13:30:52Z"
+        },
         {
           "title": "Woman may never walk again after West Saanich Road crash: brother",
           "title_ko": "웨스트 사니치 로드(West Saanich Road) 충돌 사고로 여성은 다시는 걷지 못할 수도 있다: 형제",
@@ -12,24 +19,24 @@
           "published": "2026-10-30T11:30:00Z"
         },
         {
-          "title": "Six new EV fast chargers coming to Central Saanich",
-          "title_ko": "Central Saanich에 6개의 새로운 EV 고속 충전기가 출시됩니다",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOUlaWEZqZmVuLVJTUXhGcEFub1lTRVpYdUVPRFRqaC1waUd4Q2trcHRtajlOY1BROXVadmxkNHlYWUJPMzUxS0FwZDJTd1FBSTg3ZXRGNFV0dERaZDFmVG0xbUxEbVBjcU5HaWladHViVHVaSXNmcGF6UV9PSll6RjV3ZXdrWXRiTDBobVRWU0RLNVYxaXN4cVdB?oc=5",
-          "source": "Peninsula News Review",
-          "published": "2026-11-03T21:33:56Z"
-        },
-        {
-          "title": "Saanich Police seek information on truck involved in crash that critically injured woman",
-          "title_ko": "Saanich 경찰은 여성이 중상을 입은 충돌 사고와 관련된 트럭에 대한 정보를 찾고 있습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjhEUllBOFBvYWI5Njhlb01mWFQzWUJZaUNlZGcwUzc1VW8zazEyQmF5TTlYbGNrNFRnSDNLc0hhUU9fLWlUTFMxdjZvUnl1Z3A0NU5SeVNuM2o4Z3M0MUEzODh5bGUzeTYyWVZuc2hyczAxUDBVRFZMVlc4ckw0M1hjUjhvLWc1TVRWai0wOGZKbGtES1BJSUw3N2I1ZmRyaU52SzlhSW5rTnlZQTFHcm5nRGZzTXYt?oc=5",
-          "source": "CHEK News",
-          "published": "2026-10-29T22:16:08Z"
+          "title": "Beloved Saanich Peninsula Christmas tree farm closes as owners retire",
+          "title_ko": "사랑하는 Saanich 반도의 크리스마스 트리 농장은 소유주가 은퇴함에 따라 폐쇄됩니다",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjJzREF1NGhmbTFDRlFadTNxY1BuYndXd21xT2RYMGkwUl9sVXZQdHpfOVFzOFhpZjVzVThJN0F5TEVMaFJ1djlFb2ZkeVRvVWJ1OUt3T2lTWkhQNnhWSHQ5d2VLY1IwbS1pVXNkS0JqcnVjcDJWNm9TWWJOMTg1YW9SdW9XcTBVblBqeW1Ra3kxNXNYelJxVHNSaURITHlyZG9ZQXpR?oc=5",
+          "source": "Victoria Buzz",
+          "published": "2026-11-02T23:24:34Z"
         }
       ]
     },
     "victoria": {
       "label": "Victoria",
       "articles": [
+        {
+          "title": "Victoria's Market Square is on the market for $25 million",
+          "title_ko": "빅토리아 마켓 스퀘어(Market Square)가 2,500만 달러에 매물로 나왔습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkJ1RUFURk0wVW9yQ25SSEtmeDRFaDQ5a1NTY1RsM21OaTQyMHJBeDJhdG9wVVltRFhLVklGZi1wNnRVRzVJLTBqQlhFRkUyLVllNWM0NlVYd2hpWVUyTlpWX1ZPS3VXMWlZWWxlOUVhazZTMjh1d2NGdk5hNmgwTC00STByYVNDV05xN3BMSFlOMUV0bE5hRm5BVHNtV2hFWG91bGlTdzE?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-11-05T12:00:00Z"
+        },
         {
           "title": "Human remains found at scene of Victoria apartment building fire: VicPD",
           "title_ko": "빅토리아 아파트 화재 현장에서 사람 유해 발견: VicPD",
@@ -43,13 +50,6 @@
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5haGxBWllWaWdOeUdLcjREYTl4amhCb1Rod1VqbXF2MUJMYmtUR1c0cVRxYmE5ZTBJZmVQeGxCUFBvelVTSUNGNGlqNlFkdDRpelZrVXdJcERBb1Q1Qnc?oc=5",
           "source": "McCall Gardens Funeral and Cremation Service",
           "published": "2026-10-24T07:00:00Z"
-        },
-        {
-          "title": "Human remains found after fire at former Victoria hotel",
-          "title_ko": "옛 빅토리아 호텔에서 화재 발생 후 시신 발견",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnhUaWtaWGMzUC1nRHRqb19Ucm4ydmRTMzg1Qjgza2M2c1RpcDVoWDN3NHgtXzJSc1RDWWRxUWt0cXEyVXZuZHU2UkFRWlVXNVJuZVd3aVNzUE1ZN1pJWmdsM3ZxUHliUDRwUmMzWGFpbFlIcWFpckptSHVvdFdGTTU0cHQzaHhQQXIyYng2TVhSd1htakREbDZkNlVscGZCWFlJci1xdnVxeU9lZjNQUXJTeXg?oc=5",
-          "source": "CTV News",
-          "published": "2026-11-02T22:57:44Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "Why lettuce was the defining image of Pete Fry's inauguration as mayor of Vancouver",
-          "title_ko": "왜 양상추는 피트 프라이(Pete Fry)의 밴쿠버 시장 취임식을 정의하는 이미지였습니까?",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZjJTSGRSel9DMzVWWURsMTN5ODh6cjFwM2FFR0hIY0dFNHRONVFJeVowamcwdHZHQThlQlpONlI2cXRfcWoycmMzUDhKVk9Fd25zdVpMd1M5WjBhRVF5NTVYbm9JN1h2c3FzR2FUMHQxRWJUdy1wZkNDYy15WFBjYnhrU2hWaTJ4ZG9PZVhMLXc?oc=5",
-          "source": "CBC",
-          "published": "2026-11-04T03:27:00Z"
+          "title": "'A serious rain event': B.C. South Coast braces for a week of storms",
+          "title_ko": "'심각한 비 사건': 브리티시 컬럼비아 남부 해안은 일주일 동안 폭풍에 대비합니다.",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMy1KN2ZrSElnb05fajRadHUtSXdyM3hMTjBzOVZMaFJsQ0Roa1RTekE3QWlidTNJLVVtZDhyZXVmM3NycXBmakhxUjVnSnhkcnU3ZHNqMzcxRTl5MUVQRy1kclRVdFBWeG9BUlJFMEVQcWx1S0xQRnBVa3d4TG5GMTdFNURMeGY1eVFYQ2RuS3h0WXNmTGZ6R2FjNHczMXBORXhlNXRmejE?oc=5",
+          "source": "Vancouver Sun",
+          "published": "2026-11-05T19:41:15Z"
         },
         {
-          "title": "SkyTrain service resumes after fire closes stations in Burnaby, B.C.",
-          "title_ko": "브리티시컬럼비아주 버나비에서 화재로 인해 역이 폐쇄된 후 스카이트레인(SkyTrain) 서비스 재개",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTRsSEpWTzVoNV9LbDNhX2p1ekNiQ0J2U2VQdnM2UDk4VTdQRm9ha2xtMmpDN0QxbE11Ny03NG5iMG1PTTBDT0RiN3BOaDdWRDZDMmpWbngwZGp2empxWmI2dTUwdDUyYmYwQkNuRmZYbzRaQk9oOGl1M2FwTmtoVExqYnB6Z1kxRUNLNDFMWWcwSkxrVlhJSnk4S1NxRUZSdUJF?oc=5",
+          "title": "B.C. hospitals declare Code Orange after 20 injured in charter bus crash",
+          "title_ko": "브리티시 컬럼비아 병원, 전세 버스 충돌로 20명 부상 후 코드 오렌지 선언",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmh5dldKWjBRUDA5emtDYk4xeXc2OGRjLW41amZiSkRGdFFucjEtZlRCZC1XRGl1Mk1FR1lDMzBLSUV3WWl6RHVPTkN4SFdIdmVkel9fN2pYV2ZxSVluc3A3aTZzSy02dzN6SzBPclU0bWQ5LUFrcWJKSW1HMk42NDdLeFlGNjRzSEswcGU5OFFaSGVXUmFaMzg2OHlVaXFkaWIwd1NfdURhVmUxdlE?oc=5",
           "source": "CTV News",
-          "published": "2026-11-04T14:44:29Z"
+          "published": "2026-11-04T21:33:26Z"
         },
         {
-          "title": "Veteran stockbroker, chairman of B.C. company faces illegal insider trading allegation",
-          "title_ko": "베테랑 주식 중개인이자 브리티시 컬럼비아 회사의 회장, 불법 내부자 거래 혐의에 직면",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWVrMDY1aHdrSndKUERqUGhIWkxpZVV3WGp5Y0lSVEVNMlVMX0tERUt4Wmd4NWNvVGhRelhtcGR2WGJxdEVKZFlCSHNuVUw0LTJ1MU01MDNhMkFIQ3lLbTBlYkJ1M3R5WHlXOUs0TDViNmk5UFNHcDN3MW5YYllXYmJoa1lVN2dfX3h0RDhFbEpqeTF0UmJCUjcwQXhHaURNVUo1YXRFN0FiM1hXY0JwVm83M0hiMnRK?oc=5",
-          "source": "Business in Vancouver",
-          "published": "2026-11-03T23:45:00Z"
+          "title": "Rainfall warning issued for western, inland Vancouver Island",
+          "title_ko": "밴쿠버 섬 서부 및 내륙에 강우 경보 발령",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdE9YUkhpdlVMUDRtR3ZyWG0tU2t5YzdITUpzaURpV2c0OE5OdHZFVTlRUFRJRm5ZNEFlRUJtSDBBQzBqZVZhZi0yd2ZSNE5SYTFJTzZ0bGVuQTcyZnlsUHZFT05nbER5X19McEszckV0dzNTLVB1ZXBrTWNJc0t6NDJQamVCdDFKb0tOMVpvQy0?oc=5",
+          "source": "CBC",
+          "published": "2026-11-05T17:39:13Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Mother and daughter both killed in grizzly bear attack, Canadian authorities confirm",
-          "title_ko": "캐나다 당국은 회색곰의 공격으로 어머니와 딸 모두 사망했다고 확인했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTXJVb3lFbG9abXNsM2xJVnRjM1N2MlZObHpwU0x3SjhIaWpsMlFiVXdIRjN1enRLd25QdUE4R1Zjd2szRXpTR2RfSUdJTjdlSlhRaFlZYkNsWTZUQk5HQk5sUzlLa3RvdG9STHYzRHdVc19WZmlSTGFmZ1g4WEVEZEJlTzdCUGRXOEZKWnFrWTQ?oc=5",
-          "source": "The Guardian",
-          "published": "2026-11-04T19:43:00Z"
-        },
-        {
-          "title": "Trump strategy unchanged after Democrats' midterm landslide, says Canada-U.S. trade minister",
-          "title_ko": "캐나다-미국 무역장관은 민주당의 중기 압승 후에도 트럼프 전략은 변함이 없다고 밝혔습니다.",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2pTTndHcUU0OU81NkZYWWhOTW4zN3UxMlBsd2RtTHVfUGU2Q3c3Wk9oakUyVlE0NHlvSDl1V2JwWnlCRXVKZjZ6OWJmZHBjRUJBUXJmZVoxQUZwSVFIX3hsOGpEb09hRTlObTkxTVllUDJHVVdSRU5XVjl1dzV2aS0xa3BGRjV6aDhZckhFaTJfZw?oc=5",
+          "title": "U.S. midterms are a 'vindication' of Alberta's approach to tariffs, says Premier Smith",
+          "title_ko": "미국 중간고사는 관세에 대한 앨버타의 접근 방식을 '입증'한다고 Smith 총리는 말했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xXzVFWm5qRUNCdWdidzJHUkcydnpUT1hhRnhmWHhyb2plOGoxS3IwZVVVdEN1Ymc5OEs3X3ZsZFZ6aGpSWTFYcFlkcm9PYUZwemZCTUN3U1dnb2Q2ZDNVVGxjU09LbjJiNjZPSHdMM05HMy1Lckw1WVZ3?oc=5",
           "source": "CBC",
-          "published": "2026-11-04T18:24:53Z"
+          "published": "2026-11-05T16:01:15Z"
         },
         {
-          "title": "Smith defends Alberta electoral map against gerrymandering allegations",
-          "title_ko": "스미스, 게리맨더링 혐의에 맞서 앨버타 선거 지도를 옹호하다",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVmhEUTNvWXhBLWNhZzJXWklpWFRqbGZFRUVUWFJTRXQxLXhnZko1STJyMDBic3FIdGtCd2JWUmZhV2VVMm5kMU41N1ZSVW1ZbFU1Vk41ZXVfUHIwUTZHWWtWOG54S2dFVFJjVWtNblJnUzVsemVsWW0zMHl2SFhiX0tPMmZla1FmUmlkZ0tIZjRUSk9RZTZaSFZIZVRCR1ZycGRxVTViQnhqdjJheUNUcXhDNHhOUVdIVi1v?oc=5",
-          "source": "The Globe and Mail",
-          "published": "2026-11-04T01:56:50Z"
+          "title": "Federal budget live: Finance minister to table government’s spending plan, updated immigration numbers",
+          "title_ko": "연방 예산 라이브: 정부 지출 계획에 대한 재무 장관, 업데이트된 이민 수",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQlJkVjdXb1FzTGpZbFoxczFFaktqc3Z1aXB0blA3ejFaQnBNdWJGS1NiOUtiU0RfYUZocXpjMTlVaEVNbmFDdU9EVHZ5M0s2Ri1oV01YeUM4RU53U1BYUVVGZlVVcm1PWVBrNWNhNW5OeTBIMW0zQlpaLUNST3I0RTdyZXJ4VU50S2YyclFxQzdGV2ZIVEZTNXgyOWpXUW5NYTFFV0kyblVRanFvTkxwaklLVkI3TnBkR3VLQVdqU3M?oc=5",
+          "source": "Toronto Star",
+          "published": "2026-11-05T19:44:00Z"
+        },
+        {
+          "title": "Six roommates, empty fridges: the real cost of Ontario’s student aid cuts at Nipissing",
+          "title_ko": "6명의 룸메이트, 빈 냉장고: Nipissing의 온타리오 학생 지원 삭감의 실제 비용",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUlyb2h0Y3dXTGtobzJ4c2FwdF8yWkRtUW0zXzdiLUxuaVJFVHJOTnk3WkhUTk05SlpsTThJeUh4R0d1N1Q2d2NkZzYyQXRrR1RlTllYUkRSd3NXQkY5UnJYdXZwTXFkUWswOU4zbGIyS0tlc1phdno4dUdvakMta003RG1XV3Bjc29GcmpfdmM0Sm9lS1VPajk5bUlGQmJwZG9ZLXowWWhqRVB4bVVHeA?oc=5",
+          "source": "North Bay Nugget",
+          "published": "2026-11-05T10:59:19Z"
         }
       ]
     }
