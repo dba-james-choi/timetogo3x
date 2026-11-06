@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-05T20:52:37Z",
+  "updated_at": "2026-11-06T19:50:46Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
+          "title": "Saanich’s bike lanes hit a political roadblock",
+          "title_ko": "Saanich의 자전거 도로가 정치적 장애물에 부딪혔습니다.",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUU1mTkJHNGpaMm9XWE53NmFJUlI2VUh5dGZpMGJmRFBJRUVfNTEwN0ltWXdWcFNPaC13aXRITGtaSUpEejM3djI5OWszTkJIeUYyeWlqcnc5RldjQnN3b0g0SjlVUHQzeFdzOEUxV3B4QVkzeXBmbFJBRjVIQVB2a0NQRXhNaEtRdlJrU3FjNFM?oc=5",
+          "source": "Canadian Cycling Magazine",
+          "published": "2026-11-06T18:59:09Z"
+        },
+        {
+          "title": "Vernon, B.C., coach leads Canada’s U15 women’s softball team",
+          "title_ko": "브리티시 컬럼비아주 버넌(Vernon), 캐나다 U15 여자소프트볼팀 감독",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWViWURoRHdhVFdmeUZBcDZsRXdNemZ0UG5BcVNReWM1azZDd1doalJ5ZXZEektiMVI3RDBhWjM4cWgtQkcxT2NEX1Y5bkJXelQ4ZzZTMFlUaXRaUTRGamgyRm9CSGN2YW9zcVJoMTR0dGlWUmxJMUpIRjJNZmJtREFlQUM0dGpYZTdHb3FvWFVSRUNmalE?oc=5",
+          "source": "Saanich News",
+          "published": "2026-11-06T00:22:25Z"
+        },
+        {
           "title": "Saanich Peninsula Men’s Shed keeps retirees focused on finding meaning in Sidney",
           "title_ko": "Saanich Peninsula Men's Shed는 퇴직자들이 시드니에서 의미를 찾는 데 집중하도록 합니다.",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORWZnNnNWYzZiTjViaGFNdGdIRkFmUVp4N0J1bmVMTWtoQzBjX25FVi1FUTFVOHhxd1JWT2x6ZmU0ZWpid0I3WGt4aDhVZEJROEpteVRuS2ZrR2NpUjItMEdEYWFfMWpUcXBhdXJaVWxyaXM4Tnkzd1daaUNXb0VTOW9vNTNiZTVWQVVDUXZjSXpjOC10YVZFRFZQLUszbDNZblk5blA4ZWRLdHVaTWVjRDhKREQzUQ?oc=5",
-          "source": "Saanich News",
-          "published": "2026-11-05T13:30:52Z"
-        },
-        {
-          "title": "Woman may never walk again after West Saanich Road crash: brother",
-          "title_ko": "웨스트 사니치 로드(West Saanich Road) 충돌 사고로 여성은 다시는 걷지 못할 수도 있다: 형제",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1MtNWFXOWxjZHBRR3pxRUNDQkJhUTVFbnhmU05vM0NOU3NzUTRuU2VOaXNGRzdhaE0tTUZ5UVhhTXZQTmlMUmczR1dJUjk2SlVBODhacWlkekF0Um9JWFpLQzMwVXFkdkthLWM0QnZEcXRmejd0VE1zRy1EQnJ3MW5kcmdCVWVQUm1wQzRnVG1OdFJUMEJ5LTNIMVhHX0cxbnFXR0VubzItQXJKaDVyRG5YUUg?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-10-30T11:30:00Z"
-        },
-        {
-          "title": "Beloved Saanich Peninsula Christmas tree farm closes as owners retire",
-          "title_ko": "사랑하는 Saanich 반도의 크리스마스 트리 농장은 소유주가 은퇴함에 따라 폐쇄됩니다",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjJzREF1NGhmbTFDRlFadTNxY1BuYndXd21xT2RYMGkwUl9sVXZQdHpfOVFzOFhpZjVzVThJN0F5TEVMaFJ1djlFb2ZkeVRvVWJ1OUt3T2lTWkhQNnhWSHQ5d2VLY1IwbS1pVXNkS0JqcnVjcDJWNm9TWWJOMTg1YW9SdW9XcTBVblBqeW1Ra3kxNXNYelJxVHNSaURITHlyZG9ZQXpR?oc=5",
-          "source": "Victoria Buzz",
-          "published": "2026-11-02T23:24:34Z"
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmt5ZkV2ZXBkb1VqWnhfZUJ6SjRiNy1waDNPSWRINDJrRHJiR0p3bzg0UHRyY081eDUtb3JTR2g1cC1zMFQ0VEFLMnd0Nl92ZmplRGMzSFJTNnk2bURoUUxUNFNkclZxZm5MUmdsOHFpU0hZbXNOdTF5NDhsaHJxOFpxLWFjaTNROUp1aUNfNl9uT01fOFd6NTlKTzhRTU1pZ2p1TG1DV3VSa2tWWUNlNw?oc=5",
+          "source": "Victoria News",
+          "published": "2026-11-05T13:31:19Z"
         }
       ]
     },
@@ -31,11 +31,18 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Victoria's Market Square is on the market for $25 million",
-          "title_ko": "빅토리아 마켓 스퀘어(Market Square)가 2,500만 달러에 매물로 나왔습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkJ1RUFURk0wVW9yQ25SSEtmeDRFaDQ5a1NTY1RsM21OaTQyMHJBeDJhdG9wVVltRFhLVklGZi1wNnRVRzVJLTBqQlhFRkUyLVllNWM0NlVYd2hpWVUyTlpWX1ZPS3VXMWlZWWxlOUVhazZTMjh1d2NGdk5hNmgwTC00STByYVNDV05xN3BMSFlOMUV0bE5hRm5BVHNtV2hFWG91bGlTdzE?oc=5",
+          "title": "B.C. Ferries warns of cancellations as storm approaches",
+          "title_ko": "브리티시 컬럼비아 페리(British Columbia Ferries)는 폭풍이 다가오면 운항이 취소될 것이라고 경고합니다.",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0J4akdpRGp4TFk2VHpQVkstQllDR0NwSDNJcGFzQmJ6YTRFeUNMSVN2OV9yVktLcDZDQkd6cTRtUFdpSzRzeUx4Ujg5eGxEX1JrRG5IZ1F3WXQtMkIteDBzR0dYanlYQ0IxUHl1NVJlRmtaYVNBc2xvdmRGa09wZ3dhcVZNTXVuOEFLVU1CSzZMMmEzOGZUa0RvZm43ZHh1RlpCRll3?oc=5",
           "source": "Times Colonist",
-          "published": "2026-11-05T12:00:00Z"
+          "published": "2026-11-05T20:26:00Z"
+        },
+        {
+          "title": "Wind warning issued for Greater Victoria as BC Ferries cancels sailings",
+          "title_ko": "BC 페리(BC Ferries) 운항 취소로 광역 빅토리아(Greater Victoria)에 강풍 경보 발령",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaUFZWmRZbnl2QV9Nc2p0U2tzVm1aQ2xnSF96eVZRQVQxLWJPNXJCckk4ZVVmVzg3dXpKWmc4bTBwOG1qSUs5OXJnZy0xR2h5N19rcGNFS2tHYklMWW9nMi1mSTRsLXVnS3RJdmZLendtS1duNjdLWW8yc0dWR0dTQ05WMnZkdEg0ZGo0SFpHSGZRUThVTTBhTFdrZmRBUUROR3pNak55aWg?oc=5",
+          "source": "Victoria Buzz",
+          "published": "2026-11-06T06:06:51Z"
         },
         {
           "title": "Human remains found at scene of Victoria apartment building fire: VicPD",
@@ -43,13 +50,6 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ0pNM2RlVXBTWlM5X1hraTk3eERvUXRMNkxPNWJuVWMxZll3WlBrM3RMQUZXSDZ1alZrSEtHeG5NakJFTWJ5VFFPYkxLWFZvZ3ZfR01MT3Z5NUNTZ1NYMWlRaU9kQkJKbmxPc25uUlhPakRmcXNJWm14SVVvbExIeFlxSzZkRnM1LUMxenVCSWgzb0gwRmE0S1NOckIwX1M2SUJQWVktSQ?oc=5",
           "source": "CBC",
           "published": "2026-11-03T17:45:05Z"
-        },
-        {
-          "title": "John Vu",
-          "title_ko": "존 우",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5haGxBWllWaWdOeUdLcjREYTl4amhCb1Rod1VqbXF2MUJMYmtUR1c0cVRxYmE5ZTBJZmVQeGxCUFBvelVTSUNGNGlqNlFkdDRpelZrVXdJcERBb1Q1Qnc?oc=5",
-          "source": "McCall Gardens Funeral and Cremation Service",
-          "published": "2026-10-24T07:00:00Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "'A serious rain event': B.C. South Coast braces for a week of storms",
-          "title_ko": "'심각한 비 사건': 브리티시 컬럼비아 남부 해안은 일주일 동안 폭풍에 대비합니다.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMy1KN2ZrSElnb05fajRadHUtSXdyM3hMTjBzOVZMaFJsQ0Roa1RTekE3QWlidTNJLVVtZDhyZXVmM3NycXBmakhxUjVnSnhkcnU3ZHNqMzcxRTl5MUVQRy1kclRVdFBWeG9BUlJFMEVQcWx1S0xQRnBVa3d4TG5GMTdFNURMeGY1eVFYQ2RuS3h0WXNmTGZ6R2FjNHczMXBORXhlNXRmejE?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-11-05T19:43:27Z"
+          "title": "Canucks schedule is about to feel the effects of B.C.'s time-zone change",
+          "title_ko": "Canucks 일정은 브리티시 컬럼비아의 시간대 변경의 영향을 느낄 예정입니다.",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZbVBLN3B0Y3RtRGYwMUtiTEp4Ql9DRU9YVy1kSEhOR1JxZ2h5WEFhMW5fTnQ1WVpQN2hsQlpPdjFhVGpRNmJxTldxNjJMdzdIV2FmQ2hoVDVSdFBXc1g4UEpQLVdlZFhPVFV3NXNJRlZES29xVXU0?oc=5",
+          "source": "Daily Hive",
+          "published": "2026-11-06T15:00:00Z"
         },
         {
-          "title": "B.C. hospitals declare Code Orange after 20 injured in charter bus crash",
-          "title_ko": "브리티시 컬럼비아 병원, 전세 버스 충돌로 20명 부상 후 코드 오렌지 선언",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmh5dldKWjBRUDA5emtDYk4xeXc2OGRjLW41amZiSkRGdFFucjEtZlRCZC1XRGl1Mk1FR1lDMzBLSUV3WWl6RHVPTkN4SFdIdmVkel9fN2pYV2ZxSVluc3A3aTZzSy02dzN6SzBPclU0bWQ5LUFrcWJKSW1HMk42NDdLeFlGNjRzSEswcGU5OFFaSGVXUmFaMzg2OHlVaXFkaWIwd1NfdURhVmUxdlE?oc=5",
+          "title": "New ranking reveals B.C.'s most in-demand city for renters and it isn't Vancouver",
+          "title_ko": "새로운 순위에 따르면 브리티시 컬럼비아에서 임차인이 가장 많이 찾는 도시는 밴쿠버가 아닙니다.",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sVlQ5UURzTUJPT0hBZjlMclpiaThkRmVjaUVFRUd0OXlVb2JScFJ6Zk0wOE04bGJHS1NVMEhwalRjZ1ZEVnRvd0l2OWlMc3hKSTZjSUtZTDNQQ3dGVGNIZ0NDMFZyMW9GcUlTRkVpXzdfU3ZtRURrbFJ2VQ?oc=5",
+          "source": "Daily Hive",
+          "published": "2026-11-06T18:58:00Z"
+        },
+        {
+          "title": "Storm forces cancellation of several BC Ferries sailings",
+          "title_ko": "폭풍으로 인해 여러 BC 페리 항해가 취소되었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdXJuZ2Q2WUJYSC1tVXphbkh2aElqcWhhRHRUOEJ6U0NacU5jYl9FVHlHS0lfSU5JaVdGZjh2RE8wNzQ3ZHVWQU9DSjBzRFctMFR5alhYODVXUS0tV0RvckVSOHc4ZlZLOVlVWmRuOHZPampMc05aM25VeVJvTVpIcXdXYjdhNzFpQVIxd0VVZDF0WVFXZUJPRk5OeTY4eUE?oc=5",
           "source": "CTV News",
-          "published": "2026-11-04T21:33:26Z"
-        },
-        {
-          "title": "Rainfall warning issued for parts of Metro Vancouver, Vancouver Island",
-          "title_ko": "메트로 밴쿠버, 밴쿠버 아일랜드 일부 지역에 강우 경보 발령",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdE9YUkhpdlVMUDRtR3ZyWG0tU2t5YzdITUpzaURpV2c0OE5OdHZFVTlRUFRJRm5ZNEFlRUJtSDBBQzBqZVZhZi0yd2ZSNE5SYTFJTzZ0bGVuQTcyZnlsUHZFT05nbER5X19McEszckV0dzNTLVB1ZXBrTWNJc0t6NDJQamVCdDFKb0tOMVpvQy0?oc=5",
-          "source": "CBC",
-          "published": "2026-11-05T20:39:00Z"
+          "published": "2026-11-06T14:21:00Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "What to watch for as Carney introduces his 2nd federal budget",
-          "title_ko": "Carney가 두 번째 연방 예산을 도입할 때 주목해야 할 사항",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkdmWjE2enQtM3Yyamh1MDZkRFZKNXB3TTlkMERxaUJueHhVM3l0MFVBdHdwVmdQeWNZcWwtUDBGV0hCM1VMUDNhWHhWSGZyTUFnUVpZSjZKOHhrelpJd2w2QVd0R3U1R0dyRUhicEJCbUVVUTFKeWtiUXF1cXpraW9LektqSmN1?oc=5",
-          "source": "CBC",
-          "published": "2026-11-05T16:54:16Z"
+          "title": "Evacuations and state of local emergency over drenching B.C. rain",
+          "title_ko": "흠뻑 젖은 브리티시 컬럼비아 비로 인한 대피 및 지역 비상 사태",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnJzeEgybFhqYUVraXRsTmZPVzZVTXBXRldrejBGa0dTak1Wb1d4R0hzbDJMQ0N6LU9nUnE0VDl1Q0dBMEFlVnoxQkpQbmVFR25RRTgweWo5aTgxaW9mcjB4M0NBRzBXNExXcnRaTHhnT0xzUENsenhpMnU0THRmMjdvOERTQURrZTQ3bjZMTzNvblBLdWJTbE01bHNtaTZVYy1pUFdHQTY?oc=5",
+          "source": "CTV News",
+          "published": "2026-11-06T17:24:00Z"
         },
         {
-          "title": "Post-secondary students across Ontario walk out of classrooms to protest OSAP changes, tuition hike",
-          "title_ko": "온타리오 전역의 고등학생들이 OSAP 변경, 등록금 인상에 항의하기 위해 교실을 나갑니다.",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc0JIOGU4VS1FX1c5Z29UdG4tXzFnV0pmYVl2b0QzYm11WThNRFBlbHRUaTN6ckhfeUFHNkNtTm5td1hCMHNpR3J4QlhSdXFlYnY3SWRfOFNoU1hELVBQQm1SWlFPQ0k0QmRmSHBra0U5TXhPdzZoR2F5TGp3Y3hOLUtBR0tQV05WbVBodFFaZGd5SHZhRjI3ZA?oc=5",
-          "source": "CBC",
-          "published": "2026-11-05T19:50:00Z"
+          "title": "Budget 2026 is proposing an ‘RRSP-for-life.’ Here’s what it means for you",
+          "title_ko": "2026년 예산안에서는 '평생 RRSP'를 제안합니다. 이것이 귀하에게 의미하는 바는 다음과 같습니다.",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qWGJZeFQ1WUQxS01FVzNFb1h6RUU0UUhBd2NsV0ZDZjNaWFpWbkpDQk1CZHRLUzJnaTB6dm1aRGFDZG1reGc3cWx2NmlmWDctUmx1a1dEVnR0NndiZ2ZDbFpvSTdvOEVHN1FMRVlDYw?oc=5",
+          "source": "Global News",
+          "published": "2026-11-06T19:05:52Z"
         },
         {
-          "title": "U.S. midterms are a 'vindication' of Alberta's approach to tariffs, says Premier Smith",
-          "title_ko": "미국 중간고사는 관세에 대한 앨버타의 접근 방식을 '입증'한다고 Smith 총리는 말했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xXzVFWm5qRUNCdWdidzJHUkcydnpUT1hhRnhmWHhyb2plOGoxS3IwZVVVdEN1Ymc5OEs3X3ZsZFZ6aGpSWTFYcFlkcm9PYUZwemZCTUN3U1dnb2Q2ZDNVVGxjU09LbjJiNjZPSHdMM05HMy1Lckw1WVZ3?oc=5",
-          "source": "CBC",
-          "published": "2026-11-05T16:01:15Z"
+          "title": "Cost to rename Science Centre Station adds up to more than $600K: documents",
+          "title_ko": "Science Center Station의 이름을 바꾸는 데 드는 비용은 최대 $600,000 이상입니다. 문서",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1VXamllVl8tbU1sR2RMNWRXQ2ZZMUYxRlYwRXA0UVdhRlE3V0xJLTdlbGRDT3lDdTFQRDNqcU96TmxudGZfUkRSQWl2WFYxT0pLVEhENWoxdThZLXROV2Ftck43dkdZdUxoRzB3ZFNWWTFFSlJzSEx3bkpoTGJYd2N0Q0tzYTE1Zl9FdHBfcDlMYlRQUzExaGx4MXZJeWdMbFNJU2dnZUdXNVk2VDJYbEQ0NmR0UGlIckFRcw?oc=5",
+          "source": "CP24",
+          "published": "2026-11-06T16:58:33Z"
         }
       ]
     }
