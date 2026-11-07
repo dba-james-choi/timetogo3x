@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T17:56:21Z",
+  "updated_at": "2026-11-07T18:23:26Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -38,18 +38,18 @@
           "published": "2026-11-07T11:45:00Z"
         },
         {
-          "title": "John Vu",
-          "title_ko": "존 우",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5haGxBWllWaWdOeUdLcjREYTl4amhCb1Rod1VqbXF2MUJMYmtUR1c0cVRxYmE5ZTBJZmVQeGxCUFBvelVTSUNGNGlqNlFkdDRpelZrVXdJcERBb1Q1Qnc?oc=5",
-          "source": "McCall Gardens Funeral and Cremation Service",
-          "published": "2026-10-24T07:00:00Z"
-        },
-        {
           "title": "Events happening in Greater Victoria this November",
           "title_ko": "올 11월 광역 빅토리아에서 열리는 이벤트",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTdGcVlpNnh4OVRqSWYwU0RQMl9WY2Q1blR0emp3Mm16dWczdU81QmI2Q01DTFVuN2xQSGxUZUZxbGY5NXpSMlVwdWdDQzNUOEZtZ094Z1dSMXdaaUFVUzhVRVV4Vmc3YzBLSjFDRGQ0UFdpRkNqUEplYWdKcGtndHdrZlFfZHlzbWNhNVZCRQ?oc=5",
           "source": "Capital Daily",
           "published": "2026-11-04T23:57:37Z"
+        },
+        {
+          "title": "John Vu",
+          "title_ko": "존 우",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5haGxBWllWaWdOeUdLcjREYTl4amhCb1Rod1VqbXF2MUJMYmtUR1c0cVRxYmE5ZTBJZmVQeGxCUFBvelVTSUNGNGlqNlFkdDRpelZrVXdJcERBb1Q1Qnc?oc=5",
+          "source": "McCall Gardens Funeral and Cremation Service",
+          "published": "2026-10-24T07:00:00Z"
         }
       ]
     },
@@ -83,18 +83,18 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Heavy wind downs trees, closing roads and knocking out power in Prince George, B.C., and region",
-          "title_ko": "브리티시컬럼비아주 프린스조지 및 지역에서 강풍으로 인해 나무가 쓰러지고 도로가 폐쇄되고 전력이 중단되었습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV19yTDM2NGZjMEZ2elRQXzlqZHUwdVZfRnhQaXFwcy1MOWZqZkVmUTl1M2l2OWpQR3lpVGZsYkVJQ1k4VVZkaWFpTUpzQms4bTVwajFQOWNQTkFzdWJrZlR1NkthdVBEcTd4ZlNfelpHN3ZEdHB6UVZZVFRZUW9IblV0UDJ0Z1VVdWc?oc=5",
+          "title": "More wind warnings for B.C.'s South Coast after storm plays havoc with power, ferries",
+          "title_ko": "폭풍으로 인해 전력과 페리가 큰 피해를 입은 후 브리티시컬럼비아 남부 해안에 추가 바람 경고가 발령됨",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSzg4U3hoM0ZOUDkwanVEOG80aENFSnk1N003S0NwMzZaMzAzTUY3dXRDaldqNXV1ZjRpOGtuVzhFbkxfVUVIQ0d1Z05kblN0Zk9hcmpIVTVkXzNVWnhIN2I4NzJJLWp1ajdpSEZydGVnVVJuVFB0ZDZVRU5KYkowSHZOSHY3ZE52R1gtb1d5MA?oc=5",
           "source": "CBC",
-          "published": "2026-11-07T13:20:50Z"
+          "published": "2026-11-07T17:05:07Z"
         },
         {
-          "title": "Two dead, including an infant, after Hwy. 69 crash north of Key River",
-          "title_ko": "고속도로 진입로 유아 포함 2명 사망. 키강 북쪽에서 69대 추락",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0haUnVQWWtFNWxWdmZJc29nWTdNVkFKSDlnX1oyWDlSNW5uY1V3YmtweXZyVXA5bXFMXzcwWVY0WEd6WC04aVlic0dJOWdVVk84eXpWWXZYTlBlU2Q4WmY3Wlc2dXgxOXB5ejVrYlgyX3JJbE1IQkhoXzVWdklPbHFCWV9NcG56Xzg1V1JTWjdjeEpiSnRqUG5NWU0ybkpCcy04YlJIeUc3VkUxSEpv?oc=5",
-          "source": "Sudbury News",
-          "published": "2026-11-07T14:31:00Z"
+          "title": "Two dead, including infant, in Ontario tractor-trailer crash",
+          "title_ko": "온타리오 트랙터 트레일러 충돌로 유아 포함 2명 사망",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjZvYXBmcVhfR1pTRUxaNkx5b0R1X05EYjdhOFJ3cmhmZ1BBeXRZVGJzN1oxWlhhREh6U3hkcFRVOVprUk9tc0FpUFVxUFNVUS1SYmo2eW1hRTMzbEFldWtCZ1FnblJ1Znd6ZkM4amRFcnp1cDQ3akgtMEoxd21fLVozTzgyand4X2ZHdDlBdWZkckFSb2syT2ExTzdHQQ?oc=5",
+          "source": "CTV News",
+          "published": "2026-11-07T16:45:26Z"
         },
         {
           "title": "Premier Scott Moe calls federal budget ‘best in a decade’",
