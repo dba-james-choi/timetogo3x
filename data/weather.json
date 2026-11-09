@@ -3,302 +3,302 @@
   "latitude": 48.4284,
   "longitude": -123.3656,
   "timezone": "America/Vancouver",
-  "updated_at": "2026-11-08T10:45",
+  "updated_at": "2026-11-08T22:30",
   "current": {
-    "time": "2026-11-08T10:45",
-    "temperature": 11.9,
-    "wind_speed": 15.5,
-    "weather_code": 1,
-    "precipitation_probability": 19,
-    "pm10": 13.9,
-    "pm2_5": 8.4
+    "time": "2026-11-08T22:30",
+    "temperature": 6.5,
+    "wind_speed": 10.1,
+    "weather_code": 3,
+    "precipitation_probability": 0,
+    "pm10": 16.4,
+    "pm2_5": 11.7
   },
   "hourly": [
     {
-      "time": "2026-11-08T11:00",
-      "temperature": 12.0,
-      "precipitation_probability": 19,
-      "wind_speed": 20.4,
-      "weather_code": 1,
-      "pm10": 17.2,
-      "pm2_5": 10.2
-    },
-    {
-      "time": "2026-11-08T12:00",
-      "temperature": 11.9,
-      "precipitation_probability": 15,
-      "wind_speed": 13.7,
-      "weather_code": 0,
-      "pm10": 16.9,
-      "pm2_5": 10.1
-    },
-    {
-      "time": "2026-11-08T13:00",
-      "temperature": 12.6,
-      "precipitation_probability": 12,
-      "wind_speed": 15.7,
-      "weather_code": 0,
-      "pm10": 17.4,
-      "pm2_5": 10.5
-    },
-    {
-      "time": "2026-11-08T14:00",
-      "temperature": 12.8,
-      "precipitation_probability": 12,
-      "wind_speed": 17.3,
-      "weather_code": 0,
-      "pm10": 17.8,
-      "pm2_5": 10.8
-    },
-    {
-      "time": "2026-11-08T15:00",
-      "temperature": 12.6,
-      "precipitation_probability": 11,
-      "wind_speed": 15.1,
-      "weather_code": 0,
-      "pm10": 18.5,
-      "pm2_5": 11.2
-    },
-    {
-      "time": "2026-11-08T16:00",
-      "temperature": 12.1,
-      "precipitation_probability": 7,
-      "wind_speed": 15.0,
-      "weather_code": 0,
-      "pm10": 19.3,
-      "pm2_5": 11.9
-    },
-    {
-      "time": "2026-11-08T17:00",
-      "temperature": 10.7,
-      "precipitation_probability": 5,
-      "wind_speed": 13.5,
-      "weather_code": 3,
-      "pm10": 20.2,
-      "pm2_5": 12.7
-    },
-    {
-      "time": "2026-11-08T18:00",
-      "temperature": 9.3,
-      "precipitation_probability": 0,
-      "wind_speed": 11.9,
-      "weather_code": 3,
-      "pm10": 19.8,
-      "pm2_5": 12.7
-    },
-    {
-      "time": "2026-11-08T19:00",
-      "temperature": 8.4,
-      "precipitation_probability": 0,
-      "wind_speed": 7.2,
-      "weather_code": 3,
-      "pm10": 19.0,
-      "pm2_5": 12.5
-    },
-    {
-      "time": "2026-11-08T20:00",
-      "temperature": 7.6,
-      "precipitation_probability": 0,
-      "wind_speed": 5.8,
-      "weather_code": 3,
-      "pm10": 18.9,
-      "pm2_5": 12.8
-    },
-    {
-      "time": "2026-11-08T21:00",
-      "temperature": 7.2,
-      "precipitation_probability": 0,
-      "wind_speed": 8.3,
-      "weather_code": 3,
-      "pm10": 18.1,
-      "pm2_5": 12.7
-    },
-    {
-      "time": "2026-11-08T22:00",
-      "temperature": 7.0,
-      "precipitation_probability": 0,
-      "wind_speed": 8.2,
-      "weather_code": 3,
-      "pm10": 16.6,
-      "pm2_5": 11.8
-    },
-    {
       "time": "2026-11-08T23:00",
-      "temperature": 7.5,
+      "temperature": 6.5,
       "precipitation_probability": 0,
-      "wind_speed": 9.7,
+      "wind_speed": 9.6,
       "weather_code": 3,
-      "pm10": 15.6,
+      "pm10": 15.4,
       "pm2_5": 11.1
     },
     {
       "time": "2026-11-09T00:00",
-      "temperature": 7.3,
+      "temperature": 6.5,
       "precipitation_probability": 0,
-      "wind_speed": 8.7,
+      "wind_speed": 3.1,
       "weather_code": 3,
-      "pm10": 14.9,
-      "pm2_5": 10.8
+      "pm10": 14.7,
+      "pm2_5": 10.7
     },
     {
       "time": "2026-11-09T01:00",
-      "temperature": 6.7,
+      "temperature": 5.3,
       "precipitation_probability": 0,
-      "wind_speed": 8.9,
+      "wind_speed": 8.3,
       "weather_code": 3,
-      "pm10": 14.1,
+      "pm10": 14.2,
       "pm2_5": 10.4
     },
     {
       "time": "2026-11-09T02:00",
-      "temperature": 6.4,
+      "temperature": 5.6,
       "precipitation_probability": 1,
-      "wind_speed": 8.4,
+      "wind_speed": 7.8,
       "weather_code": 3,
-      "pm10": 13.1,
+      "pm10": 13.2,
       "pm2_5": 9.8
     },
     {
       "time": "2026-11-09T03:00",
-      "temperature": 6.5,
-      "precipitation_probability": 1,
-      "wind_speed": 9.2,
+      "temperature": 5.7,
+      "precipitation_probability": 2,
+      "wind_speed": 8.4,
       "weather_code": 3,
       "pm10": 12.0,
       "pm2_5": 9.1
     },
     {
       "time": "2026-11-09T04:00",
-      "temperature": 6.5,
-      "precipitation_probability": 2,
-      "wind_speed": 8.7,
+      "temperature": 6.0,
+      "precipitation_probability": 3,
+      "wind_speed": 10.0,
       "weather_code": 3,
-      "pm10": 11.2,
-      "pm2_5": 8.6
+      "pm10": 10.8,
+      "pm2_5": 8.3
     },
     {
       "time": "2026-11-09T05:00",
-      "temperature": 6.4,
-      "precipitation_probability": 3,
-      "wind_speed": 8.4,
+      "temperature": 6.3,
+      "precipitation_probability": 5,
+      "wind_speed": 11.4,
       "weather_code": 3,
-      "pm10": 9.7,
-      "pm2_5": 7.5
+      "pm10": 9.8,
+      "pm2_5": 7.6
     },
     {
       "time": "2026-11-09T06:00",
-      "temperature": 6.2,
-      "precipitation_probability": 3,
-      "wind_speed": 8.4,
+      "temperature": 6.7,
+      "precipitation_probability": 4,
+      "wind_speed": 10.7,
       "weather_code": 3,
-      "pm10": 8.6,
-      "pm2_5": 6.8
+      "pm10": 9.3,
+      "pm2_5": 7.2
     },
     {
       "time": "2026-11-09T07:00",
-      "temperature": 6.3,
-      "precipitation_probability": 4,
-      "wind_speed": 9.8,
+      "temperature": 6.8,
+      "precipitation_probability": 3,
+      "wind_speed": 9.6,
       "weather_code": 3,
-      "pm10": 7.8,
-      "pm2_5": 6.3
+      "pm10": 8.8,
+      "pm2_5": 7.0
     },
     {
       "time": "2026-11-09T08:00",
-      "temperature": 6.4,
-      "precipitation_probability": 5,
-      "wind_speed": 9.4,
+      "temperature": 7.0,
+      "precipitation_probability": 6,
+      "wind_speed": 9.9,
       "weather_code": 3,
-      "pm10": 7.5,
-      "pm2_5": 6.3
+      "pm10": 8.7,
+      "pm2_5": 7.1
     },
     {
       "time": "2026-11-09T09:00",
-      "temperature": 6.8,
-      "precipitation_probability": 8,
-      "wind_speed": 9.9,
+      "temperature": 7.3,
+      "precipitation_probability": 4,
+      "wind_speed": 9.7,
       "weather_code": 3,
-      "pm10": 7.5,
-      "pm2_5": 6.4
+      "pm10": 8.8,
+      "pm2_5": 7.2
     },
     {
       "time": "2026-11-09T10:00",
-      "temperature": 8.2,
+      "temperature": 8.3,
       "precipitation_probability": 6,
-      "wind_speed": 10.2,
+      "wind_speed": 9.2,
       "weather_code": 3,
-      "pm10": 8.0,
-      "pm2_5": 6.8
+      "pm10": 8.8,
+      "pm2_5": 7.2
+    },
+    {
+      "time": "2026-11-09T11:00",
+      "temperature": 9.6,
+      "precipitation_probability": 13,
+      "wind_speed": 6.9,
+      "weather_code": 3,
+      "pm10": 9.0,
+      "pm2_5": 7.4
+    },
+    {
+      "time": "2026-11-09T12:00",
+      "temperature": 10.3,
+      "precipitation_probability": 14,
+      "wind_speed": 6.7,
+      "weather_code": 3,
+      "pm10": 10.0,
+      "pm2_5": 8.2
+    },
+    {
+      "time": "2026-11-09T13:00",
+      "temperature": 11.5,
+      "precipitation_probability": 16,
+      "wind_speed": 9.2,
+      "weather_code": 3,
+      "pm10": 11.4,
+      "pm2_5": 9.3
+    },
+    {
+      "time": "2026-11-09T14:00",
+      "temperature": 11.2,
+      "precipitation_probability": 19,
+      "wind_speed": 18.4,
+      "weather_code": 3,
+      "pm10": 13.0,
+      "pm2_5": 10.4
+    },
+    {
+      "time": "2026-11-09T15:00",
+      "temperature": 11.2,
+      "precipitation_probability": 46,
+      "wind_speed": 25.9,
+      "weather_code": 3,
+      "pm10": 12.3,
+      "pm2_5": 9.8
+    },
+    {
+      "time": "2026-11-09T16:00",
+      "temperature": 10.4,
+      "precipitation_probability": 70,
+      "wind_speed": 19.4,
+      "weather_code": 63,
+      "pm10": 10.9,
+      "pm2_5": 8.9
+    },
+    {
+      "time": "2026-11-09T17:00",
+      "temperature": 10.7,
+      "precipitation_probability": 88,
+      "wind_speed": 32.3,
+      "weather_code": 55,
+      "pm10": 10.0,
+      "pm2_5": 8.6
+    },
+    {
+      "time": "2026-11-09T18:00",
+      "temperature": 10.7,
+      "precipitation_probability": 74,
+      "wind_speed": 35.6,
+      "weather_code": 63,
+      "pm10": 10.6,
+      "pm2_5": 9.3
+    },
+    {
+      "time": "2026-11-09T19:00",
+      "temperature": 10.5,
+      "precipitation_probability": 72,
+      "wind_speed": 19.1,
+      "weather_code": 3,
+      "pm10": 10.7,
+      "pm2_5": 9.3
+    },
+    {
+      "time": "2026-11-09T20:00",
+      "temperature": 9.5,
+      "precipitation_probability": 48,
+      "wind_speed": 14.1,
+      "weather_code": 1,
+      "pm10": 12.2,
+      "pm2_5": 9.4
+    },
+    {
+      "time": "2026-11-09T21:00",
+      "temperature": 8.7,
+      "precipitation_probability": 13,
+      "wind_speed": 9.8,
+      "weather_code": 0,
+      "pm10": 14.2,
+      "pm2_5": 9.7
+    },
+    {
+      "time": "2026-11-09T22:00",
+      "temperature": 8.1,
+      "precipitation_probability": 12,
+      "wind_speed": 3.1,
+      "weather_code": 0,
+      "pm10": 16.1,
+      "pm2_5": 10.2
     }
   ],
   "daily": [
     {
       "date": "2026-11-08",
-      "temp_max": 12.8,
-      "temp_min": 7.0,
+      "temp_max": 13.1,
+      "temp_min": 6.3,
       "precipitation_probability_max": 50,
       "wind_speed_max": 32.1,
       "weather_code": 51,
-      "pm10_avg": 14.9,
-      "pm2_5_avg": 9.4
+      "pm10_avg": 12.2,
+      "pm2_5_avg": 7.9
     },
     {
       "date": "2026-11-09",
-      "temp_max": 12.1,
-      "temp_min": 6.2,
-      "precipitation_probability_max": 81,
-      "wind_speed_max": 15.2,
-      "weather_code": 61,
-      "pm10_avg": 11.2,
-      "pm2_5_avg": 8.8
+      "temp_max": 11.5,
+      "temp_min": 5.3,
+      "precipitation_probability_max": 88,
+      "wind_speed_max": 35.6,
+      "weather_code": 63,
+      "pm10_avg": 11.6,
+      "pm2_5_avg": 8.9
     },
     {
       "date": "2026-11-10",
-      "temp_max": 11.6,
-      "temp_min": 7.6,
-      "precipitation_probability_max": 90,
-      "wind_speed_max": 14.0,
+      "temp_max": 12.4,
+      "temp_min": 8.0,
+      "precipitation_probability_max": 96,
+      "wind_speed_max": 25.5,
       "weather_code": 63,
-      "pm10_avg": 6.2,
-      "pm2_5_avg": 5.0
+      "pm10_avg": 7.2,
+      "pm2_5_avg": 5.5
     },
     {
       "date": "2026-11-11",
-      "temp_max": 14.3,
-      "temp_min": 11.0,
-      "precipitation_probability_max": 48,
-      "wind_speed_max": 11.3,
-      "weather_code": 55,
-      "pm10_avg": 6.9,
-      "pm2_5_avg": 6.2
+      "temp_max": 14.8,
+      "temp_min": 10.8,
+      "precipitation_probability_max": 51,
+      "wind_speed_max": 7.1,
+      "weather_code": 53,
+      "pm10_avg": 7.6,
+      "pm2_5_avg": 6.8
     },
     {
       "date": "2026-11-12",
-      "temp_max": 14.8,
-      "temp_min": 9.5,
-      "precipitation_probability_max": 50,
-      "wind_speed_max": 10.9,
-      "weather_code": 53,
-      "pm10_avg": 14.3,
-      "pm2_5_avg": 12.9
+      "temp_max": 14.2,
+      "temp_min": 9.9,
+      "precipitation_probability_max": 44,
+      "wind_speed_max": 7.6,
+      "weather_code": 3,
+      "pm10_avg": 9.5,
+      "pm2_5_avg": 8.4
     },
     {
       "date": "2026-11-13",
-      "temp_max": 11.2,
-      "temp_min": 8.7,
-      "precipitation_probability_max": 80,
-      "wind_speed_max": 12.9,
-      "weather_code": 63,
-      "pm10_avg": null,
-      "pm2_5_avg": null
+      "temp_max": 12.4,
+      "temp_min": 8.3,
+      "precipitation_probability_max": 85,
+      "wind_speed_max": 20.4,
+      "weather_code": 51,
+      "pm10_avg": 6.4,
+      "pm2_5_avg": 5.3
     },
     {
       "date": "2026-11-14",
-      "temp_max": 10.5,
-      "temp_min": 8.2,
+      "temp_max": 9.8,
+      "temp_min": 8.1,
       "precipitation_probability_max": 77,
-      "wind_speed_max": 32.6,
-      "weather_code": 55,
+      "wind_speed_max": 41.1,
+      "weather_code": 53,
       "pm10_avg": null,
       "pm2_5_avg": null
     }
