@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T22:51:54Z",
+  "updated_at": "2026-11-09T23:13:04Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -71,11 +71,11 @@
           "published": "2026-11-09T02:24:00Z"
         },
         {
-          "title": "Senior struck by driver during B.C. storm dies in hospital: police",
-          "title_ko": "브리티시 컬럼비아 폭풍 중 운전자에 치인 노인, 병원에서 사망 : 경찰",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONjZnRUxDcHV1T1pla2N4ZlljNEFJVUh5TGJuclVvMll4bXlvVmQtYmYzWktvMXRvYnBycW9xOTBOZldqT2lXSFY5aGgzbnFFMlJKV3pVZDAwUFVKMVZYNkJ6NkZfXy14QmRnQTUwZjZNNUJGQUdSbVhPYk1laUE4bWxLaHJGWnJXeVl4anhmdkFGLURqMXJsSEhObHE4SU5iWFNWaHhZNWI?oc=5",
-          "source": "CTV News",
-          "published": "2026-11-09T21:55:19Z"
+          "title": "Massive K-pop band books date at Vancouver's BC Place",
+          "title_ko": "대규모 K-팝 밴드가 밴쿠버 BC 플레이스에서 데이트를 펼칩니다.",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNlVDYU80TnFvMFNpd2pON0NOczRzeXRPTzh1RUU5bnRCeW9yNUFSN2tLUnlUSnZDMVl3UlEtb2FFRXV5WHl3cGNWRmludVBIYld4d1pSVVlENGU3em9vckNzSG1HRHN1d3V3cDZZRG9Kd2Z4UXEtYXpvRGJ0UEN0YlFRcnpreGpqRURPS013c2pZeGdLa3FHbkwySjdOMl9UUHdGaFNxdDhoYnZrU0pRMDF6MjJoeDNzWi1EQmR3?oc=5",
+          "source": "Vancouver Is Awesome",
+          "published": "2026-11-09T22:35:42Z"
         }
       ]
     },
@@ -83,11 +83,18 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Third storm heads for already drenched B.C. coast",
-          "title_ko": "이미 흠뻑 젖은 브리티시 컬럼비아 해안의 세 번째 폭풍우",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUN4RmdxQVdXc2ZncWEtTDd1M053X1FrZnBCNXZHV3ptZ0wzNEhDRzlmMFhZRkVwNVZOdTVJSmxEMEIyODhldXRKYUpaa1M3eHIzZkxQeU9LNGViZ194eUJPS29HaVE0WHFCdUF5MWNXZVJEemZ3dnlzZVpSUjFrdUE4eVhhN2plaVBOM3VR?oc=5",
+          "title": "Third storm heads for already drenched B.C. coast as thousands lost power",
+          "title_ko": "수천 명이 정전되면서 이미 흠뻑 젖은 브리티시컬럼비아 해안에 세 번째 폭풍우가 닥쳤습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUjhuNWxQeHpqeXZOU2p0NVIydF9RVmVFZ2FiOHVkWHlWWjVqU1hkcmUteDFZaUpGU3plUlRuOVBYMVFQRUduczE3RlE1ejJyMEJsZGRyeU1CWFZzeXRpOW5Db1hiX1ZMUTRRN0JXblBWZkUyQllFcm9NcHhLemRKTVROSGp1anJhdWY1U3U4YS14SXg1ZWR3WHVZdkZxN2kzNk4w?oc=5",
+          "source": "CHEK News",
+          "published": "2026-11-09T16:20:09Z"
+        },
+        {
+          "title": "15 soldiers on ventilators, 9 critical after deadly CFB Wainwright fire",
+          "title_ko": "군인 15명 인공호흡기 착용, CFB Wainwright 화재로 치명적인 9명 사망",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DWWJzQWUtdFp5c1Vod0pJNTJRRVliZ0ZwazlZVkpxQm1ZM2ppUG9UT2I2XzVNNHBweTV5Q3JfdkVBQmRLX1Y4dmVmU29JeERqckZDYnZfa2MxaHJtYXJiVkpaeno5MDJHQ2l4b1NSYw?oc=5",
           "source": "Global News",
-          "published": "2026-11-09T19:32:22Z"
+          "published": "2026-11-09T21:02:42Z"
         },
         {
           "title": "Man who used fraudulent passport to get in and out of Canada 16 times handed 2-year sentence",
@@ -95,13 +102,6 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb05uTy1uX2ZrY1lfR2tRcks3MjZTektzY1dfUlRoNGJQUkJkWGwydGxUTDA2MFVIQloxdTMtLUFXU1hRSmpCMUlqVTNLMkJBS3Fkc29OMTN0eE4yY0hENXJ2Yk9qc3ZwTUFvMWhiYVZmRmJVcm9nNEpfaWQzRDY3clFWSUxVOTJXTWZsS2Fpazl5MkVCRlRBajBuVXJlZmxGUW5KbXZLWlJ1a0IyVXNocA?oc=5",
           "source": "CBC",
           "published": "2026-11-09T21:26:43Z"
-        },
-        {
-          "title": "Military sending 15 nurses to Alberta to help treat injured Wainwright soldiers",
-          "title_ko": "부상당한 Wainwright 군인 치료를 돕기 위해 군대에서 15명의 간호사를 앨버타에 파견",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcE9FblM1b3NtME1yNExVOTBYUUlPRnhZNWhWaWNDV1ZkYWxLOU04ZGZWdUpkSnBjRHQtYVJQLUcxeHdCRVNSUHZmc280Yzd5WGlPdHVQM3JWUVE0LVdsSi1ld0REZkRuNXNqZl91U0Z5MHltX3lHTWQ4M2ZqSC1oS1BKLVFwYkN6anFSemNBb2pPQlRJNy1iZHN0ZVZLSER3ZW8yZlJWUnFiaW42T2F3V0dUWjdhdFllbnhlWV9mbTBSdw?oc=5",
-          "source": "Castanet",
-          "published": "2026-11-09T20:17:35Z"
         }
       ]
     }
