@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-11-13T20:41:45Z",
+  "updated_at": "2026-11-14T18:38:35Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
-        {
-          "title": "B.C. police help in crackdown of international cybercrime network",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTjdDZk9wa1JWUmRQZW1LTkdxOTMxU3gxMHd2cmMyYU83by04YTRqbkFzQjlEaW94eDEyV1RXcnd2YmtCSjJDZTVDX1pocE1vODZ2Q0tIOHJoZk8tUHRwLWEwRXFLR1BpTS1tMk85dGs1WHRNWThwYmRCMmRrYi01NjZRTVpJZFRaRk1pSEdVMUpQSGJ6eU5jQWNqbFZGUlhCUFE?oc=5",
-          "source": "Saanich News",
-          "published": "2026-11-13T19:57:34Z"
-        },
         {
           "title": "Youth taken to hospital after being hit by vehicle in Saanich",
           "title_ko": null,
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOel9iU2ZrSWVVNU9lcW13VTJwWWFtRG42ZnpzcS0xaUx3dE9QcDdzS0pJOTNyUEpPb3RqUEU2UnRWRXVXY0JQeW40Rl9WcmVxM2hfSXEyRHFOTl9PT2Y5WjZMNHVzUVVOTGtQYkd4V2d6VFlrZngzNXB6eFQxdXJ0eXJKN0hFeEg4QzBjZmpyU0stWjd5?oc=5",
           "source": "CHEK News",
           "published": "2026-11-10T18:40:15Z"
+        },
+        {
+          "title": "Ottawa supplying $200M for B.C.’s Woodfibre LNG project",
+          "title_ko": null,
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdVZiVW5STUtBbUNKSGlDeS1veU9XR3FRMkhxSUw0aXBUdm9rNlhrVVBoenYwNHhkQXVOeVVGbWhkdnVOLWtaVEVIX2ZkTHJOcTB6RmNFckR5aWlpQ3ZkU3d5NUFIc1kxSHBmSTRFQk9UeGxfRzIzRnFqMVBzN0hqeXZaVW5SdnB3WU5RcUpmOWVia1U?oc=5",
+          "source": "Saanich News",
+          "published": "2026-11-13T22:13:54Z"
         },
         {
           "title": "Suspect uses paddleboard to escape Saanich police",
@@ -31,25 +31,25 @@
       "label": "Victoria",
       "articles": [
         {
+          "title": "T-Birds fall to Vikes in extra-time of U SPORTS semi final",
+          "title_ko": null,
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLU95VUJwSGlIclBnM08tazhNSGVHX0I5SndxXy1vN05pdWdFeVVfRm44LVlaZWNIVEc4M3A3cnJvNkFTYUsyUEU0cUtqVUZITHQ5NmV1R3ZjMVFXVmp0aWhrVmNyaXZQMXA1RWgzZjZMSjVEQ1JJeUREOWNRdXduSGN0dGJ4MTJGVWNxc3pfVDFsZlA0d3AxblZBYjVGaUVmQmtBNzNza19VQno1RHJtRnZCVW9WSU9C?oc=5",
+          "source": "University of British Columbia Athletics",
+          "published": "2026-11-14T06:34:08Z"
+        },
+        {
           "title": "Possible coastal flooding in Metro Vancouver, Greater Victoria area: Environment Canada",
           "title_ko": null,
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQUFxd21rd3dWbDUtWGZQWGo1MmtTWi1ORXI2Qk1Mczd1eUFjOHRabDBDcHZfeU82Wm13bENIY243S2hlMWs2RWhoWTVBNngxQzJjWDhmekVFQm51V3UtYWhrOUVGWDRmb0w2b1JBQUNLbHlnLXdnd2hLTnEyaDJ3OFNza0Q3N21rdVVja1FKcm9meXZscFJZdThnLVBWSVRmLTRZQkhoaEJFR28?oc=5",
           "source": "CBC",
-          "published": "2026-11-13T05:05:35Z"
+          "published": "2026-11-13T05:05:00Z"
         },
         {
-          "title": "Heavy rain triggers washouts, evacuation alerts",
+          "title": "UVic’s Climate Disaster Project partners with Royal BC Museum",
           "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXJwRnRmb0JLcnk3QkZfTktFSmpLWWJqZmtjWVQ4cElLN0JodXRXVHZtek5TMmxKc3MzU1ByMXYyWDFGUFVuRmIxcVhCZGVhbmlYMC1ZV181ZTdSNENXUXpDcThKMEI1WVFqeU11Nk9Ga2ctaWRZZkgzRnhZZGRZemxMYi1KR00xUmJLdldoVXJlZVFnRjNBV2FUTVA?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-11-13T11:45:00Z"
-        },
-        {
-          "title": "One-third of BC Transit Victoria buses awaiting repairs as overtime ban continues",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQekpPV3pVdXMyeW5KOUVQdWNWTFJReGhjV2FZa1RxS2ZjVnIzUG0wU2NQZklCUWQ2VkRXQTl2NngwcmNxeDgwejJfdW1vUTZOZjE1LWpVZ2ctOVVNTUNKRGVVS3dmNm1EdUZidWZYbVJEYUVudDIwUk5FWkZFQUMtRHhqdzk2TXB4Ym16TDR2dWtkM29sYkI1cW1xNzhRYy1KeHdOdFF6ZlZkT0dnbG5V?oc=5",
-          "source": "CHEK News",
-          "published": "2026-11-12T23:14:57Z"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV096ZWd4NXNvcEZCMjh1QU9odXZENU5QdzlUT0JDMTB2VXNfM2s0dmN0R2xNUk5ub1dxaFZYVWo5RVN5MDg1cEU3WFhPemZ3M2FRTlEtQVRzUGtxRk1Ta3lKMUN0UWhjSW1DU25sdWtBQ3hjZHE5enRaNU1aN2RRQWRvYWJYb2R5SjUxSGE4cw?oc=5",
+          "source": "UVic News",
+          "published": "2026-11-13T23:16:31Z"
         }
       ]
     },
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
+          "title": "Third body pulled from ‘unforgiving’ waters in Squamish, B.C., boat tragedy: RCMP",
+          "title_ko": null,
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNejBSOUdta21obUVLSEljdmQycExvWExud2JhdnZ0SHBLaGM4SFlVWnEyM21jRVJhSy1DZUJNR3l4UHhMU1dWckl1YlpWSXBKQk5tUzZVN3c3TzJMU3Z5Z0RxUC1hWFJCakdYRVQwajlOOXdjc0NnZ1dCU252TUt2MmkzM0dDMEJGZk9SWlh4OUtoLWt2RHpycUNSOTZ3UTY1NjRRSWw4ZS1scnp4dFNlNkRJbTZiSGM?oc=5",
+          "source": "CTV News",
+          "published": "2026-11-13T16:26:21Z"
+        },
+        {
+          "title": "Vancouver flights cancelled: Air Canada offers free flight changes for U.S. ground stoppage",
+          "title_ko": null,
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUll5ZjdQeUhwcl9QRVZ0eF90cjlJeGxBQzMxMmUyTXZPYi13OVAwVlhzN3pYRGtNSmdjSnVWeUY2SHhUWmlXWklyWnpFaWZnSmtIVkFUcmw1QmlEWFc3VG5tNXQ0ejNxYW82UjN2cmZ3RUhfTm14MU1FY0QzcVJKc2p2MWxpNUc5cE5wU2hJQTJVWVJDM0RFVkx2VHpfMjZR?oc=5",
+          "source": "Vancouver Is Awesome",
+          "published": "2026-11-14T07:50:00Z"
+        },
+        {
           "title": "Possible coastal flooding in Metro Vancouver, Greater Victoria area: Environment Canada",
           "title_ko": null,
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQUFxd21rd3dWbDUtWGZQWGo1MmtTWi1ORXI2Qk1Mczd1eUFjOHRabDBDcHZfeU82Wm13bENIY243S2hlMWs2RWhoWTVBNngxQzJjWDhmekVFQm51V3UtYWhrOUVGWDRmb0w2b1JBQUNLbHlnLXdnd2hLTnEyaDJ3OFNza0Q3N21rdVVja1FKcm9meXZscFJZdThnLVBWSVRmLTRZQkhoaEJFR28?oc=5",
           "source": "CBC",
-          "published": "2026-11-13T05:05:35Z"
-        },
-        {
-          "title": "Another wet weather system increases flood risk on Vancouver Island and BC’s south coast",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaGFlRzFUcXNNMEhhSmhpbkt6UUcxbTJ4SUJ2SjR5WnVwY0F6dXFLVUk4M2pHZUFaaUdLVUFDSGdEa0gwcWlIOHg3WFdBNnVuNFZmWUdZTEQzb0hFUzYyZ1ZtNGQ1X1BqTFdvR0pncGVoeXFTQ0lkUUNTaGMyRHZKdUZxMU5YSnFuQUUyejRBSmNpcThjaWVESGhfRHNQVFVWTkF2LUdKZU9ZRVNKeHhaMFo3WWszVmE0UlBTQ21mYVo5bEU?oc=5",
-          "source": "Global News",
-          "published": "2026-11-13T17:26:37Z"
-        },
-        {
-          "title": "Coastal flooding possible in Metro Vancouver: Environment Canada",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3l6d2VLT3BXOGo4eXF5R2I5Y01UR19feFRJWGtYZ19oZlRPT3B3LVplWndTRmVNbTNiNEptWDJoRXJGRGhCUmhubFpvVmVUdXF1ZmtSSEc2MUpNdGxTSE5oWVpoVktBUVlqQTNHZmtfYUVpSnJlZHRsNzJld05MVE1RSG03NTdGWVJjV0p5TFhJUFlIQUJSZEdSejBYLXlNZFNIUmtfMjM?oc=5",
-          "source": "CTV News",
-          "published": "2026-11-12T23:46:18Z"
+          "published": "2026-11-13T05:05:00Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "2 people dead, one missing after boating incident in Squamish Valley",
+          "title": "CFB Wainwright incident highlights reserve pay disparities: former bureaucrat",
           "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM0VqWDdHdTNEQnRlQzRYNC1TeHlxV0VoSXk1ZkxqZ3c3UzFYeXhFcmhSeEI1cjA2NDZ2X1dTdHY5cXp1alNydDB4UEZZMEk4WlNOQ1VrYU9PYzEtVEFZQmFYbFJqLWVNVDFlTEFtaEVLcmJ5NEtRUVhOMU4xLU1ya3ZxclRCOVgwNmVSUjVoaGdVSG5NVXZ3MUJPTQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYm1sNW5kdWNOcWpsYjBSQXg3QmlrVTM2NjdrTkFRZGltTnB6V2M2TlBpcm5YNFEwWThuaERPRmpuR1JYVGpXZDZuOExCcFIzenB0Y21mbTlwSTNFYS1fcHBya3F4TnNFc2xfM1ZhQzNvU2pRaWozVEhHcUJza2JhcjBqOVY0TG5jRUFDYlBDSDJJMXB5dm52SDBVbVlIUXVtLWxwcGpxU2wtUWJ0T0F1WnRtNGRBQQ?oc=5",
+          "source": "CTV News",
+          "published": "2026-11-14T14:04:08Z"
+        },
+        {
+          "title": "Five people, including three children, seriously injured in Burlington house fire",
+          "title_ko": null,
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3NoQ0xVcnBvYV92U2lTUzNwQlhuYVYtRTJzVlZmQnZVbTYxMHM3TkhJT0pJeWZLRUkwWmRhTENIbjZ5VDR4RF9KTHVsYjB2SDRLcXJqR0tOUzVPZW5iUGNSZnZjLUVaX2k2VDEtVWoyaDRlRkhJNlZfV2RRUENKdUhUd3MyanVXUWtQT1pWT1huUmp4eDdVek9jaUFlQzJ3aWoyTDFNOXpMM3BURzlBNWlLbkVoSmpwVXNXaWgyaFZIaFc0?oc=5",
+          "source": "CP24",
+          "published": "2026-11-14T15:16:22Z"
+        },
+        {
+          "title": "Former environment minister says Canada’s commitment to climate targets ‘factually untrue’",
+          "title_ko": null,
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GRDdYQ0JZQ3FLbVpXZDUwRENWcUV1Vk51bnhwLTY2M29meFhuMDU5Y0MtVE80SmNSdUtWN3JEZG1KOHI1NkliVkhtclhvODEzLVBtTTZJMkZZN1BiajRRUXlJSHpuazEz?oc=5",
           "source": "Global News",
-          "published": "2026-11-13T17:57:11Z"
-        },
-        {
-          "title": "Guns, swords and pepper spray: Bishnoi-linked extortionists attacked in apparent retaliation",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnllbDJ5dEZZcGI3Y3pJYVRIZEtVWHBhQ1VCd0lpLS1ranhvUzNLV1JxbzZLUWprai1neHFMd19WUFYtTDBHOFRPWlpKa3VqTko0VWx1ZXh4ZnVOV3I3OHB0ZnNNT18zbkxqdHZWOTRWc2pZWl9ndlhxelN1TDY2OUlrMFVKTFc0SDM0aFhvRTE?oc=5",
-          "source": "CBC",
-          "published": "2026-11-13T12:24:37Z"
-        },
-        {
-          "title": "Flooding worsens along B.C.’s South Coast as heavy rains continue",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORHk2YXpNWlN6QWgzbGF5S0VZUFowUVptMDVWQkpYc3BVUzUzR0FVd0NZT3NYNk1PcWFydEVhWnJ3MFJMMVUwMXlPT0sydzZ2MEE2aFBPUWoza2IzVXR4b1QwM2ZweUpvem4tMm45N2dOOXEyaTRmbjF0TVN4Ul9jeEJFcnVXa09lbUVHeF82UVAyb2tRemRCX3pJaER0eGNuZzVtWmhMSGFFUzJKVWRr?oc=5",
-          "source": "The Globe and Mail",
-          "published": "2026-11-13T02:57:30Z"
+          "published": "2026-11-14T14:40:16Z"
         }
       ]
     }
