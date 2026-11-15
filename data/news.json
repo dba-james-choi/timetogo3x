@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T19:14:08Z",
+  "updated_at": "2026-11-15T19:29:42Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -38,31 +38,24 @@
           "published": "2026-11-15T16:32:27Z"
         },
         {
+          "title": "Possible coastal flooding in Metro Vancouver, Greater Victoria area: Environment Canada",
+          "title_ko": "메트로 밴쿠버, 광역 빅토리아 지역의 해안 홍수 가능성: 캐나다 환경부",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQUFxd21rd3dWbDUtWGZQWGo1MmtTWi1ORXI2Qk1Mczd1eUFjOHRabDBDcHZfeU82Wm13bENIY243S2hlMWs2RWhoWTVBNngxQzJjWDhmekVFQm51V3UtYWhrOUVGWDRmb0w2b1JBQUNLbHlnLXdnd2hLTnEyaDJ3OFNza0Q3N21rdVVja1FKcm9meXZscFJZdThnLVBWSVRmLTRZQkhoaEJFR28?oc=5",
+          "source": "CBC",
+          "published": "2026-11-13T05:05:00Z"
+        },
+        {
           "title": "Wind, rain and coastal flooding warnings issued across Island",
           "title_ko": "섬 전역에 바람, 비, 해안 홍수 경고 발령",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTDFFdG0td0R2T3lPcDdkMEdJOVFBbHM5c2dRTkdIbGVBMmJoWE5FZFV4Wk9fdlhyNHh2RHQxYXFpc1kzNjhSLV9sMk9NeG9Tc2thUXNnanRwWXc3TU42YTRfZ3J5bmNfUE1UUFVQWUNNcVFEMUpoa2lDNnZsZnA4Y0pDWDlVMWFONGV1SGd6bzc5ZkxuU195elQ3LUpfQjBaVW1RdnlMVGZJMWRZWUJn?oc=5",
           "source": "Times Colonist",
           "published": "2026-11-14T23:44:00Z"
-        },
-        {
-          "title": "John Vu",
-          "title_ko": "존 우",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5haGxBWllWaWdOeUdLcjREYTl4amhCb1Rod1VqbXF2MUJMYmtUR1c0cVRxYmE5ZTBJZmVQeGxCUFBvelVTSUNGNGlqNlFkdDRpelZrVXdJcERBb1Q1Qnc?oc=5",
-          "source": "McCall Gardens Funeral and Cremation Service",
-          "published": "2026-10-24T07:00:00Z"
         }
       ]
     },
     "vancouver": {
       "label": "Vancouver",
       "articles": [
-        {
-          "title": "148-year-old high temperature record broken in B.C. Saturday",
-          "title_ko": "토요일 브리티시컬럼비아에서 148년 만의 최고 기온 기록이 깨졌습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR2hBbU9uaGVwVnhHbTdOcHEtd3hvYzEtR0M3TU1MSlpSYzBIMENmYmpnNGFyVFVESUY2ZWNLdGJmdVpfRTZodllZckxHMUhiS203TjlaaEI3b0NGSWR1YmYtcVQ0akVVMnVoMk5lVEZrdUVWbzNQbEVWUDZ6R0QtbEtzNGNJdlNQM3pvX0V1cVpER0l2WTFJbUNuV0tseV9FbFE?oc=5",
-          "source": "CTV News",
-          "published": "2026-11-15T17:42:09Z"
-        },
         {
           "title": "Wet, windy weather not yet finished with B.C.'s South Coast",
           "title_ko": "브리티시컬럼비아 남부 해안의 습하고 바람이 많이 부는 날씨는 아직 끝나지 않았습니다.",
@@ -76,6 +69,13 @@
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzNuN3R0VDNPY2xYUTV3VGRwRS0zYjI3MlZNNVBlMWxjRWpqdnNYa1ExX1VERzRFVWZFclpKSkxfZW9vMGRIcGlUamxTaGtKZkk4N2ZwbjV2MkhOM0RoX2hOV3JxMnNUOE1EQUxYVmdXeGRfdm9JdGI4bDREMWhvYmVKemFaU0k?oc=5",
           "source": "Vancouver Sun",
           "published": "2026-11-15T13:07:40Z"
+        },
+        {
+          "title": "148-year-old high temperature record broken in B.C. Saturday",
+          "title_ko": "토요일 브리티시컬럼비아에서 148년 만의 최고 기온 기록이 깨졌습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR2hBbU9uaGVwVnhHbTdOcHEtd3hvYzEtR0M3TU1MSlpSYzBIMENmYmpnNGFyVFVESUY2ZWNLdGJmdVpfRTZodllZckxHMUhiS203TjlaaEI3b0NGSWR1YmYtcVQ0akVVMnVoMk5lVEZrdUVWbzNQbEVWUDZ6R0QtbEtzNGNJdlNQM3pvX0V1cVpER0l2WTFJbUNuV0tseV9FbFE?oc=5",
+          "source": "CTV News",
+          "published": "2026-11-15T17:42:09Z"
         }
       ]
     },
