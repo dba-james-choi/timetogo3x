@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T21:05:17Z",
+  "updated_at": "2026-11-18T21:39:47Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
@@ -38,11 +38,11 @@
           "published": "2026-11-16T08:00:00Z"
         },
         {
-          "title": "BC Transit rolling strikes in Victoria to start Nov. 17",
+          "title": "Dozens of BC Transit trips cancelled in Greater Victoria, but rolling strikes have not begun",
           "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRVNXdE0zSzFWdHBrZkFMSWhvV3RpZGtTSkxrNmR5Y0lQQnpIUTBCWVAyWldYNk90V0F3dU1vdndJaGZzS2NLcWVQSlhpb2EtVkh3a3RVS19LbXc2dkZDdkpCRDUyRWFSZUxKU3pTSUxsNGNwekwxV3Fvai1rZGp4Y3I2SFdaS0tLbVFV?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUF9qcElXRHNpdE91cVR0TmVlSzFvdnRFWmZsVHc4cUFPSXkyR1FELWRwU1dBSUtLaC0wOVZHVlZsUWZmU181YXpQSEdfNDVaaS1xQ2lxUXl5SFpBUjNld3N6VW5iMzJCYjVmZi1Nd0IwM3FCUHc4QW5GQ2RKTXBVSFZnX0g5NWRDZUlramFMYUJpZ3c0X2t6bkJsdkJacmRURlJaYmlIUWEtdXZaRW5v?oc=5",
           "source": "CHEK News",
-          "published": "2026-11-16T20:10:59Z"
+          "published": "2026-11-17T14:57:44Z"
         },
         {
           "title": "B.C. Transit warns Greater Victoria transit labour dispute could escalate",
@@ -57,11 +57,11 @@
       "label": "Vancouver",
       "articles": [
         {
-          "title": "B.C. owner of Shark Club sues after millions in electronic tips go missing",
+          "title": "Vancouver’s New Council Faces an Uphill Battle to Reform Policing",
           "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pVG5OSzRyOXZRRkM4U2YzekYxd0FHalY3cU51WEtUMHhVeGFpYUR3RWtwa3RrTm1yR3BWTlhqVDRuQ2dUV05PeUlmSHVBbzRhQU5ra01XU3ZGa19EdnlQNHJrejVvYkJVS1hhcjF3RVFFc0R6UE5RUmRhTQ?oc=5",
-          "source": "Vancouver Sun",
-          "published": "2026-11-17T22:13:13Z"
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ0l5Q2RadUF6QjJNUFBLSnNrQkp3QVRzMDJGWXgyQi1VcmdnV2lUU3lqeWdpRkhKTV9IQkUtNERxS1A5QVdtNUJWbW9RSmVzam1JRjJEUGJxaUIwdlhCc2tHNG5kSlFYR19WZV9GQTlJVkZTXzR2MnRXM1RJWWpBLVMtbUpjaDZlN1NIdVFoc3cxUElT?oc=5",
+          "source": "The Tyee",
+          "published": "2026-11-18T04:31:34Z"
         },
         {
           "title": "Response in helping victims of Lapu-Lapu attack ‘insufficient’: Filipino BC group",
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Cadet leader says he's paralyzed from waist down after attack in Hamilton restaurant",
+          "title": "Cadets being told to stand down as Canada spends billions on defence",
           "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONl9MaVZOSDI5d2Z5WXRuTHpFSkQ3N3N5U3E1Q2NteFU0czJIamU3aDRfSHo2aUhIZWJHYTlnNTQ5SkV4TzI2eTlDbm9YOHE3cWVBUmFVb184UWgzQnJsbnRScWtVU19KNVJpOEY3MHRGd3ItR2xPTzJfalpYd1RKYmNxOXhkb1g3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTdxNnZ6amd3NWZ3MW03ellDdHRMeUFsT0ZvX25kWVlBbnI4NUF5OHVsRFVVSXdKang3aTNIVWM2ODRIY01CZ0NyTkw0UmZrWXZKNER4dFZ0NllXRzg0dFppaHg1WHI1d1BoS2E5OWw2VTVySmp6RUtnSW04QlRtRi0xbWc?oc=5",
           "source": "CBC",
-          "published": "2026-11-18T20:03:34Z"
-        },
-        {
-          "title": "Financial pressures could lead to cuts in cadet activities across Canada, whistleblower says",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc3V6ZnlpdV9namxtSkRBSUlGNXpEWGxlNkE0SXlwMGVTSVZscWpsSmV5TmdTWUF0MHJuWDVpcTJBUTAzYmZ0czRZWmFJa1k1WnY5c0RyQnMzVWZSZUJ2dGsxMHlYT3ZQcExYMWlRSm0wcVkyNEZ0MFpTaXh2VFN6SGUzaGtqR1RUdUhieHZzMno3ckdEZ2Ryc2xha0VXdTlmcUV6QTNEYS10TTV4dllRc2VXRkZLV1ZkaHlOaU9uelFtSEY4aFUtNjdURF9lUQ?oc=5",
-          "source": "CTV News",
-          "published": "2026-11-18T03:15:00Z"
+          "published": "2026-11-18T21:02:12Z"
         },
         {
           "title": "Why Carney is looking to China as Canada's car industry comes under US pressure",
           "title_ko": null,
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tMXZoVmRZSWNNZFVXSS1GRzRjWVV3bDY5cENvMEstZ0tQQXZtWmZvWG1OS0kxdFpZUnAzS0pMMEN5eGxnU2hucmpxYWl5UFREUnA3U2lnT1o0UEk?oc=5",
           "source": "BBC",
-          "published": "2026-11-18T14:35:18Z"
+          "published": "2026-11-18T20:02:02Z"
+        },
+        {
+          "title": "Canada’s Alert Ready system to be tested across the country Wednesday",
+          "title_ko": null,
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0dTaGtXTFQxdnd2b1pMcnNTY2hyQm1NNTZzRnZrTGlxWkluMXhTRnlhekF2Si1HcVNsbTBZMk94V1RFRktQUDR5ZEFodDJXVjBuZFhkMlFTcy1DS3ZpazFpeXZaR2NNTkQ4ZDhNOXdENzBqcW1zZkpKeTZrQ2Q5dTVLbnJrQlZyOW1Pdldkdzlxd0JYaHNNTklCTkJxeFNSanNweGk4ZTdoaFhC?oc=5",
+          "source": "CityNews Toronto",
+          "published": "2026-11-18T09:00:00Z"
         }
       ]
     }
