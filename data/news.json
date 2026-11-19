@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-11-19T21:10:12Z",
+  "updated_at": "2026-11-19T21:55:06Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
           "title": "BC Archives sets temporary closure as collection moves to Colwood",
-          "title_ko": "BC Archives는 컬렉션이 Colwood로 이동함에 따라 임시 폐쇄를 결정했습니다.",
+          "title_ko": "BC Archives는 컬렉션이 Colwood로 이동함에 따라 임시 폐쇄를 설정했습니다.",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZnNEejIybldiOS1ycGsxNjRaU09xMkswMGlMaFNyVkxCZk5CTXhVbTBxOVp4b3dwSmx4RE9penJRVFlfR09ZNUVzQ3dteE9CM3dZS2hSdXZIZEZ0UE9CelVoMnhXdDBaM2duQmE1OWVmUUdmNXhrUUMxbm1QLWpDbVhOT1ZMVlV5RV9EcUFmUVVxX09BcVFJVG0xa1lRbTdtRjlv?oc=5",
           "source": "Saanich News",
           "published": "2026-11-19T19:56:48Z"
         },
         {
           "title": "Two Island MLAs cabinet prospects for B.C. Conservatives, say political watchers",
-          "title_ko": "브리티시 컬럼비아 보수당의 두 섬 MLA 내각 전망이 정치 관측자들에 따르면",
+          "title_ko": "브리티시 컬럼비아 보수당의 두 섬 MLA 내각 전망, 정치 관측통",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRWZiUHpzeFJmV1NwS0k5ZmRjMks1ZVplTnhhUV8xRTF0TE5kTWhzUmxGQWxyZlNPU2tmbF9OaFJBOU04anl4OG1zemxRMVYzanZFaEllQzVZN0I1U3NqMmVxMzZOd05zc0NrZ1BQSEZkdVBzQWVpOXhwak5VS2ItdElYU0EtaHFGdmFuam52N0lMa2NLMS1VWEZRalZzTWx2Uk16em4xNFZ3R1pVYV9xRGEyLWoxMUdpVDVNN2llcVVVdWdMZUE?oc=5",
           "source": "Times Colonist",
           "published": "2026-11-19T11:45:00Z"
@@ -31,13 +31,6 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Unifor calls out BC Transit for misleading Victoria riders about strike timing",
-          "title_ko": "Unifor는 파업 시기에 대해 Victoria 라이더를 오도한 BC Transit을 호출합니다.",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWlGRWdtQUVvNV9SMXpRaE9DcEVxbE1EaXBnVjQ2UURTMUdPcUYyY3dZSnlzU1BfWG5PcDRRWTlZczc0X3UxTWVxNmNKTlJ0QTZmZHhKSTF2T2ZVa3VaSzhCQlJtTER5Yk1KeDZDRzBBdmhmcGlzOXFwcHZQLWs4S2NneUF4WHBWbkVFaGlTczhnd1RHNWRmX2czTGx0b0dlTnp6UWNwU3dZamktcVR3Tg?oc=5",
-          "source": "Unifor National",
-          "published": "2026-11-17T15:11:16Z"
-        },
-        {
           "title": "Visit to Victoria, B.C.",
           "title_ko": "브리티시컬럼비아주 빅토리아 방문",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80RzJ5N2hNaEZQMHpHVFBVdHlSZ0ZNUVBiWFdFZnQ1OWFnVEx2dzdtZThzTmVpSGRrWXJxWFN2aXFwMjNwTlpDaFA3SXkzaTZKajBJaUFrd3hoMHBLaEE?oc=5",
@@ -45,8 +38,15 @@
           "published": "2026-11-16T08:00:00Z"
         },
         {
+          "title": "Unifor calls out BC Transit for misleading Victoria riders about strike timing",
+          "title_ko": "Unifor는 파업 시기에 대해 Victoria 라이더를 오도한 BC Transit을 호출합니다.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWlGRWdtQUVvNV9SMXpRaE9DcEVxbE1EaXBnVjQ2UURTMUdPcUYyY3dZSnlzU1BfWG5PcDRRWTlZczc0X3UxTWVxNmNKTlJ0QTZmZHhKSTF2T2ZVa3VaSzhCQlJtTER5Yk1KeDZDRzBBdmhmcGlzOXFwcHZQLWs4S2NneUF4WHBWbkVFaGlTczhnd1RHNWRmX2czTGx0b0dlTnp6UWNwU3dZamktcVR3Tg?oc=5",
+          "source": "Unifor National",
+          "published": "2026-11-17T15:11:16Z"
+        },
+        {
           "title": "Blazers take two straight in Victoria to expand B.C. Division lead",
-          "title_ko": "블레이저스는 브리티시 컬럼비아 부문 선두를 확장하기 위해 빅토리아에서 2연속 우승을 차지했습니다.",
+          "title_ko": "블레이저스는 빅토리아에서 2연속 승리를 거두며 브리티시 컬럼비아 부문 선두를 확장했습니다.",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU0RpMjNfT3luRkFNS1l0NFF4cndmZ2RnaDFPdlJ3Vk94ZlJnQzBNY3hJckNVbmJkV1VRWDBZWWFBcEFsUGJKNm9vbnc5SERYR3JtYVdZZElBMmRqSDVWc2xKOTJBZE9XNW1RZVBMSmw1SGtSQi02ZlY4cjBSS19OQzl5bWtBXzQwNGQxbGJ1U01oZVctX29vd1VyM3lWWGo5YmdYbkxrVXhXWEJvMFh3ZE4xSGNZajhIc1E?oc=5",
           "source": "CFJC Today Kamloops",
           "published": "2026-11-19T18:53:43Z"
@@ -64,18 +64,18 @@
           "published": "2026-11-19T13:00:00Z"
         },
         {
-          "title": "Court quashes B.C. mine’s substantial start determination, orders consultation",
-          "title_ko": "법원, 브리티시 컬럼비아 광산의 실질적인 착공 결정을 기각하고 협의 명령",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFAxYUZwUWJmanZucl9vckUyamI3Nk0zUGZKY3dJbGxWbGJfUjl0X0hLYjE4Rm54dkxEeVItdFVVcnJteFlTdkFIYW9iNU1ValY5eG9MR05uQ0hjQV9vRzhXNVpvRWJ5MG9EdE0wenFfX1ZBQ2ltWkZ0Q2paRmplSUlqbXpySEpBaTVKaXFhN2NpRHlnaWZIMmltelVyX1I3dkZTYmVZYUk2RzFjaDNFby1jendZNlhZ?oc=5",
-          "source": "CityNews Vancouver",
-          "published": "2026-11-19T19:08:25Z"
+          "title": "Man, woman killed in Surrey, B.C., mall parking lot identified",
+          "title_ko": "브리티시컬럼비아 주 서리에서 남성, 여성 사망, 쇼핑몰 주차장 확인",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMW41eng4SV9pZDVjcV9PWk1SaDJlRFdRZzVWRnBNa2tZSHVjdkNjS2RCQjc0MV9tUXhzZHUyQnVtMU5ESkNYR282bExxX25ZWXpDRUFUa2k0bVdrYk5ESmo5NHhFc0pRQmJFZnRKYTIwU0h4S0kzTmd5TExuSHBDUEdoSDdkek5vLVd1cjJfcE5SaUhOX1dBc0dTQzIxZEZkWU5VbXBUa0J0aU9aYWc?oc=5",
+          "source": "CTV News",
+          "published": "2026-11-18T22:36:39Z"
         },
         {
-          "title": "Man charged with 30 counts of theft from Lower Mainland liquor stores",
-          "title_ko": "Lower Mainland 주류 판매점에서 30건의 절도 혐의로 기소된 남성",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzRwVWNQTnBCb3VVaVdlUmRLX2hOYXZ3aHBFRjdRalRQX1JBcUtvZklEZjlMbk9nNTZhZjlHZnlfNEZlT01uYUZrY1RUS0xZdWZmX2lWb1oyTHJJNjliTElCN0xWR0ZpczJ3SjF4cTc1aFZ1N1c3dmxteFBBdHpjVTQtWDlocVFHV0d1RGNtR25tVHdRc1VVTzNuVmNoNUJfZmMtOTI4a0habnZVWHNMaw?oc=5",
-          "source": "CTV News",
-          "published": "2026-11-19T20:11:47Z"
+          "title": "'Watch what a community went through': Vancouver filmmaker screening award-winning wildfire doc",
+          "title_ko": "'커뮤니티가 어떤 일을 겪었는지 살펴보세요': 밴쿠버 영화제작자 상영작 수상 경력이 있는 산불 문서",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeHowTndZcFZtTkN4d3QxN0dfWUlBbkZDLWh3QU1UWHhDSlU0LWtMcHhUV25SWlJrc2x3SUVvWERYRnM2ZERwSDZXWEVWOFFjQVdlS0RWbTBYbk9jMjVCamRMVXA2WVpFV2MtN2FaTzhxRXFoVTFLeUxLalNNY2loSHNSUEZaMFBxYUhNbFRveERsTFpHeER3Y3NublZEUEk5eWl2Y19aVUhhZUIwMmlwU2x1c3BuaDFxajZrNTZwZU4xdlZJaU91OGJHbzloaHVaajRSWkJnZGN3ZE5ESVB5VHV6Rlk0STRRY2pZb2NBc2hVcmc?oc=5",
+          "source": "Vancouver Is Awesome",
+          "published": "2026-11-19T05:45:00Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Help coming to 24 people displaced by Glace Bay fire",
-          "title_ko": "Glace Bay 화재로 이재민 24명에게 도움을 요청하세요",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFdRQ0s3UTdnbERRNkVBNGxzQUVOelZTcEpKaVJwZ1pqRmVTX1E5a2NYbUl2S090b3IyZzlDaHhhRDZYcnJKZndpd1NNeDRsdXVfSGlzSnRrZ1d3NkVUMHdfLXhXMWlfdWRfcEt3bnM2TjVIcWcybTgxcU1zZ2s2YkdYR2VEb2NKbGo3R2JnbXpPUzF6eFZRVE1hc19NZi1pbTBvTUtqNEM?oc=5",
+          "title": "Alberta bill would ban some bike lanes, let transportation minister remove others",
+          "title_ko": "앨버타 법안은 일부 자전거 도로를 금지하고 교통부 장관이 다른 도로를 제거하도록 허용합니다.",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQmNqbzhkc0dGRDd5clVXdmp4RGN4TWQzNkZvMHhPOG9zUTNyUmNmY1BkeXdibWxQUDJta3paMVJLRnVzVW9nWjVmZTBMM2E5VUVmSHpZcng4clA3WmtXUU9QM1FwdmR3LUlZU0dycUo5S2hrdFl3WC1vOUd5aXgya0lR?oc=5",
           "source": "CBC",
-          "published": "2026-11-19T10:00:00Z"
+          "published": "2026-11-19T18:45:14Z"
         },
         {
-          "title": "Families of Quebec couple killed in Dominica can finally bury loved ones, start grieving",
-          "title_ko": "도미니카에서 살해된 퀘벡 부부의 가족들이 마침내 사랑하는 사람을 묻고 애도할 수 있게 되었습니다.",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdGcxaHlIcTFkc0xzWldaSWVRXzhKNmdQUzNxX1VQdlZTcVVGNjhBOEZWWENRMEJCYUYwY2JKSHhyVkpZWFJVbVJWalN4S01hZGozNnlPUjZVenFGNXdWT1pZcTVtNUNxd3JOT0tnejhLSWpHNEVmTmp5SXNzX3FqWEtkMXNZZkxhWDNQUmpCMUtmX0tIT0NNUFp0NVBSeW9KUkdobmdJT19qVklZRWxjdkEtQXhkRHBid2owRm9vUnVhMXpjRm1hLWdpT3VJbkU2RjFWSw?oc=5",
+          "title": "'We could have been dead,' says tenant who escaped Cape Breton building collapse",
+          "title_ko": "케이프브레턴 건물 붕괴 탈출한 세입자 \"우리는 죽었을 수도 있다\"",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYl9qLTJNLThWbXR4RzRZLUNzTVVvVE5IcHplTk5RLUE0Zjdsb0NrNDhZMmxmS245RDVzY0hELTZ1OG1VQnI1ZldxcVpmOXliSkVVcXlNRWpQS3EzWEZCRXR0NTBJX2JJaThOcG9WV1JnSFVDaTFVZ28zV01VTFpuaEpHYllFcnBhQnFVc3Z4QzRub0xjX2JsZUtTTQ?oc=5",
+          "source": "CBC",
+          "published": "2026-11-19T20:30:12Z"
+        },
+        {
+          "title": "Winnipeg homicide suspect tops list of Canada’s top 25 most wanted fugitives",
+          "title_ko": "위니펙 살인 용의자는 캐나다에서 가장 수배된 도망자 25명 중 1위를 차지했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVEZvOWYzdmZ0a3BMR1dIeEluQlpKSzdnZnRPSVZZSEFnZ2xQUnR0V0lzR05vTFNKUktEbmRsUmV0enp4WF9DbUdiWlE1Y1o0RkZuZVJXSFBJOW40aXpmU0FZcXpMR2ZHdlRmeTF0U2NRWFhyMWxNX0RaS0pta21uSU1aaXpBX1ZHb0I2RXFwU0V0R1c3SDNrMk80V0xFSFNTbm5YRGFsSVphQkFLM3VwYnpvUjI2Mk0?oc=5",
           "source": "CTV News",
-          "published": "2026-11-19T15:32:56Z"
-        },
-        {
-          "title": "Canada’s most wanted fugitives: Man accused of shooting Toronto mall guard, Bishnoi gang leader top new list",
-          "title_ko": "캐나다에서 가장 수배된 도망자: 토론토 쇼핑몰 경비원을 총으로 쏜 혐의로 기소된 남자, 비슈노이 갱단의 지도자가 새로운 목록에 올랐습니다.",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOM3FNd0pvVU9vcW14U19kRDNURlBsazdxTm9KUlU2VzYwQ2huZHg2NnJLc2hZX3ZvRWxSa2pOc0steXh3MVNTcE1pSlRVNE04bUJ0S3o2VjNxaVF4WVNvakp5OEpsdFhSODZReUo4dFRhVmJkVFpxZWxxa1o5ZXZzZy1IMllnbmlyazVYM3otZWE3R2ltQzNaRmJzSjBxUkkxSWJyWUhSc1NMdE9LSGllZ3JTdHlMNjZvYmozN3RpbWFNbHFFY3AxQmxBZjA4S2FHUmNSaVltRHNZZFRQOFhTMEtrMjdFYkV5T1c1a3FyUC1fRW5NcUM4?oc=5",
-          "source": "Toronto Star",
-          "published": "2026-11-19T20:15:03Z"
+          "published": "2026-11-19T16:27:48Z"
         }
       ]
     }
