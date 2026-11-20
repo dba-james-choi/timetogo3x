@@ -1,42 +1,35 @@
 {
-  "updated_at": "2026-11-19T21:55:06Z",
+  "updated_at": "2026-11-20T20:55:00Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
-          "title": "BC Archives sets temporary closure as collection moves to Colwood",
-          "title_ko": "BC Archives는 컬렉션이 Colwood로 이동함에 따라 임시 폐쇄를 설정했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZnNEejIybldiOS1ycGsxNjRaU09xMkswMGlMaFNyVkxCZk5CTXhVbTBxOVp4b3dwSmx4RE9penJRVFlfR09ZNUVzQ3dteE9CM3dZS2hSdXZIZEZ0UE9CelVoMnhXdDBaM2duQmE1OWVmUUdmNXhrUUMxbm1QLWpDbVhOT1ZMVlV5RV9EcUFmUVVxX09BcVFJVG0xa1lRbTdtRjlv?oc=5",
+          "title": "B.C. Conservatives form government as new cabinet ministers are sworn in",
+          "title_ko": "브리티시 컬럼비아 보수당, 새 내각 장관 취임과 함께 정부 구성",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaGt6VjNzUlRMN1VZa3J1YjhUQlo4WkFWbUdLS2hTa0dXdVlzbDFUNUFBM2lxNm9zQk5ZVGRrQnFscUJGQlV5TEZfQ0pLQlBScmpGYkpCd3pjTjdqRHhPbzRfUHZtTkplTnhsWTQ3MDdDRklybnFzTXA3ZFp0SjBBZlF4RThiNU9scjZNN3VaVVkzV3UyVzB5SlVwdUxfZ0ZzZUpkYVREa1dvcTA?oc=5",
           "source": "Saanich News",
-          "published": "2026-11-19T19:56:48Z"
+          "published": "2026-11-20T18:52:29Z"
         },
         {
-          "title": "Two Island MLAs cabinet prospects for B.C. Conservatives, say political watchers",
-          "title_ko": "브리티시 컬럼비아 보수당의 두 섬 MLA 내각 전망, 정치 관측통",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRWZiUHpzeFJmV1NwS0k5ZmRjMks1ZVplTnhhUV8xRTF0TE5kTWhzUmxGQWxyZlNPU2tmbF9OaFJBOU04anl4OG1zemxRMVYzanZFaEllQzVZN0I1U3NqMmVxMzZOd05zc0NrZ1BQSEZkdVBzQWVpOXhwak5VS2ItdElYU0EtaHFGdmFuam52N0lMa2NLMS1VWEZRalZzTWx2Uk16em4xNFZ3R1pVYV9xRGEyLWoxMUdpVDVNN2llcVVVdWdMZUE?oc=5",
+          "title": "Moulting elephant seal shows up behind movie theatre in Saanich",
+          "title_ko": "사니치 영화관 뒤에 털갈이하는 코끼리물범 등장",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWlFzRi0tdzY0V3VhQWktQ2FDUjhNUFRvUDVJZ2d4VmVZRDU0TkxzXzhsNXM0c29aVlk3MldKVWtOajluTW1wRE5iTVlGUkZQS0JETGgzVWRrOGxDQVFQTlNpd2Jxd3J4R1NGMWJpbHR3Vk9mRWhuYVB4LU1lcmc0NGlFajY0SHcxcUpQajZJdUNNbWpscGFReTM1ZExoMzVpTFEzNjlFY2d0SnZRN0hDSllKSQ?oc=5",
           "source": "Times Colonist",
-          "published": "2026-11-19T11:45:00Z"
+          "published": "2026-11-18T22:35:00Z"
         },
         {
-          "title": "‘Not Emerson’: Moulting elephant seal hauls ashore in Saanich park",
-          "title_ko": "'에머슨 아님': 털갈이하는 코끼리바다표범이 사니치 공원 해변으로 끌려갑니다",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWl9rWWVtMGp4c3dwcFppX1pvMlFzRUQ0b2FNZWpoVWxfQl9TdkUzalA0ZG0zNkhyejFEdnFxNWxHb29lYzBSOHVWRW9JMUpuaU9zLXByUUp2MDFaaEVvZmlvUHlkMmxpYU1mOGJxc3ZOUGNMbzVvd3YtRGkyUFg4TE1YNlowR1lmVGhFTG4taXlaV3lQbVlTQ3RBYWhHQQ?oc=5",
-          "source": "Today in BC",
-          "published": "2026-11-19T13:35:55Z"
+          "title": "Conservative MLAs sworn in as Tories take control in B.C.",
+          "title_ko": "보수당이 브리티시 컬럼비아를 장악하자 보수당 MLA가 취임했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR2o5S25CajFxSUdXZUZ4aVBncmJmekltYkhvMVlSWUpzQ0VzdDVQSE9mRU9tdFphb1dYMnZ1dlcwc2RySzdEZ3c0ZklJUW05OGZLQ2xEbGNtUF9oeEhMaWJ2RUlTb01tdUlvVU9YZGJZa2NYaUEtN2tiTldXMEtZOHRWZDRQTWdRTVJsdF9CNk9wQl96bWJV?oc=5",
+          "source": "Saanich News",
+          "published": "2026-11-20T00:23:46Z"
         }
       ]
     },
     "victoria": {
       "label": "Victoria",
       "articles": [
-        {
-          "title": "Visit to Victoria, B.C.",
-          "title_ko": "브리티시컬럼비아주 빅토리아 방문",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80RzJ5N2hNaEZQMHpHVFBVdHlSZ0ZNUVBiWFdFZnQ1OWFnVEx2dzdtZThzTmVpSGRrWXJxWFN2aXFwMjNwTlpDaFA3SXkzaTZKajBJaUFrd3hoMHBLaEE?oc=5",
-          "source": "Governor General of Canada",
-          "published": "2026-11-16T08:00:00Z"
-        },
         {
           "title": "Unifor calls out BC Transit for misleading Victoria riders about strike timing",
           "title_ko": "Unifor는 파업 시기에 대해 Victoria 라이더를 오도한 BC Transit을 호출합니다.",
@@ -45,8 +38,15 @@
           "published": "2026-11-17T15:11:16Z"
         },
         {
+          "title": "Where to Eat in Victoria, B.C.: A Food Lover’s Guide",
+          "title_ko": "브리티시컬럼비아주 빅토리아의 맛집: 음식 애호가를 위한 가이드",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Vbml5dzRQSHY0MW8zcWJ3QzJYTGNtVFdXRUFNZ1FWQm9Ud2NyUnFUMWU3LWRFSmN1TE1NNk1Nb1V0dThxUlh1ZGpXR0x1SFhXWVhKX3RTQm84dnY2M21Xa2IxRWFfM1JwMk10MUlwMnNNby1YaUUwNmVUMWhvYmM?oc=5",
+          "source": "Vancouver Magazine",
+          "published": "2026-11-17T20:06:48Z"
+        },
+        {
           "title": "Blazers take two straight in Victoria to expand B.C. Division lead",
-          "title_ko": "블레이저스는 빅토리아에서 2연속 승리를 거두며 브리티시 컬럼비아 부문 선두를 확장했습니다.",
+          "title_ko": "블레이저스는 브리티시 컬럼비아 부문 선두를 확장하기 위해 빅토리아에서 2연속 우승을 차지했습니다.",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU0RpMjNfT3luRkFNS1l0NFF4cndmZ2RnaDFPdlJ3Vk94ZlJnQzBNY3hJckNVbmJkV1VRWDBZWWFBcEFsUGJKNm9vbnc5SERYR3JtYVdZZElBMmRqSDVWc2xKOTJBZE9XNW1RZVBMSmw1SGtSQi02ZlY4cjBSS19OQzl5bWtBXzQwNGQxbGJ1U01oZVctX29vd1VyM3lWWGo5YmdYbkxrVXhXWEJvMFh3ZE4xSGNZajhIc1E?oc=5",
           "source": "CFJC Today Kamloops",
           "published": "2026-11-19T18:53:43Z"
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
+          "title": "Vancouver landlords fined $90K now facing prosecution over West Side property - BC",
+          "title_ko": "밴쿠버 집주인, 웨스트사이드 부동산에 대해 9만 달러의 벌금 부과 - BC",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkl0VnIzMFpSLWFyVXBtelRsU2dVbk1qbUNMeFVpeVBzZkQxUElyWXpTZHl4WHQzc3RTVnJyQVpuVWtXM3JGT21CelVCVjZoZ1J0OXB6YjJWYVI0aW1YRFNjSVYzWngxSEc5ZEFhUUwyVXdPRG1wZ0NvNzVCc2NPS2ZPWHdDaUc4QnRudFVWMDFPSkN0M3I2OG5QLTFoZw?oc=5",
+          "source": "Global News",
+          "published": "2026-11-20T00:23:52Z"
+        },
+        {
+          "title": "2 Vancouver Island MLAs part of Doerkson’s B.C. Conservatives cabinet",
+          "title_ko": "2명의 밴쿠버 아일랜드 MLA는 Doerkson의 브리티시 컬럼비아 보수당 내각의 일부입니다.",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdmQ2aHN1Q2Ryb3gxeDc1Tkw3Q3hEZDJubkhORW1IUnNuX245T2Q1Mnlwc1dRdUFKV2lhRG14OHY0REM1blRNZ1VFWms4SVcteXg5c0xQV1FkRHFHLV9uRThHSEgwMTQycWVFOVp5RXctTXFGYnBUUUJHbXJGMjM1YU9vcW5aTGFkOTlKNU9IeHRKc2dtZ3ZzTUZONl8?oc=5",
+          "source": "CHEK News",
+          "published": "2026-11-20T18:45:17Z"
+        },
+        {
           "title": "Metro Vancouver workers need $28.55/hour to get by: report",
           "title_ko": "메트로 밴쿠버 근로자가 생활하려면 시간당 $28.55가 필요합니다: 보고서",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVXdxRGVseU9ta0x6eUxvaEE4VEVhWlN3R1NGYVdMMEFmT09rbWxzcmpaRFV2ZU9xOU1ITlF5dEdXaVlPMnp0Z0J5cmpWanhIOVhXRzJnclpXUGdmb1BCZUduLVE3ZUZrc0VjYWZveFpCMlQyM0tSN2M0SVZWQTMxRUF1TExlR0xubThpdFRfaDhjOFJQZGxsZEtNWFFTcVNkTnhUbVFTT0RsWER6bnc?oc=5",
           "source": "Business in Vancouver",
           "published": "2026-11-19T13:00:00Z"
-        },
-        {
-          "title": "Man, woman killed in Surrey, B.C., mall parking lot identified",
-          "title_ko": "브리티시컬럼비아 주 서리에서 남성, 여성 사망, 쇼핑몰 주차장 확인",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMW41eng4SV9pZDVjcV9PWk1SaDJlRFdRZzVWRnBNa2tZSHVjdkNjS2RCQjc0MV9tUXhzZHUyQnVtMU5ESkNYR282bExxX25ZWXpDRUFUa2k0bVdrYk5ESmo5NHhFc0pRQmJFZnRKYTIwU0h4S0kzTmd5TExuSHBDUEdoSDdkek5vLVd1cjJfcE5SaUhOX1dBc0dTQzIxZEZkWU5VbXBUa0J0aU9aYWc?oc=5",
-          "source": "CTV News",
-          "published": "2026-11-18T22:36:39Z"
-        },
-        {
-          "title": "'Watch what a community went through': Vancouver filmmaker screening award-winning wildfire doc",
-          "title_ko": "'커뮤니티가 어떤 일을 겪었는지 살펴보세요': 밴쿠버 영화제작자 상영작 수상 경력이 있는 산불 문서",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeHowTndZcFZtTkN4d3QxN0dfWUlBbkZDLWh3QU1UWHhDSlU0LWtMcHhUV25SWlJrc2x3SUVvWERYRnM2ZERwSDZXWEVWOFFjQVdlS0RWbTBYbk9jMjVCamRMVXA2WVpFV2MtN2FaTzhxRXFoVTFLeUxLalNNY2loSHNSUEZaMFBxYUhNbFRveERsTFpHeER3Y3NublZEUEk5eWl2Y19aVUhhZUIwMmlwU2x1c3BuaDFxajZrNTZwZU4xdlZJaU91OGJHbzloaHVaajRSWkJnZGN3ZE5ESVB5VHV6Rlk0STRRY2pZb2NBc2hVcmc?oc=5",
-          "source": "Vancouver Is Awesome",
-          "published": "2026-11-19T05:45:00Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Alberta bill would ban some bike lanes, let transportation minister remove others",
-          "title_ko": "앨버타 법안은 일부 자전거 도로를 금지하고 교통부 장관이 다른 도로를 제거하도록 허용합니다.",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQmNqbzhkc0dGRDd5clVXdmp4RGN4TWQzNkZvMHhPOG9zUTNyUmNmY1BkeXdibWxQUDJta3paMVJLRnVzVW9nWjVmZTBMM2E5VUVmSHpZcng4clA3WmtXUU9QM1FwdmR3LUlZU0dycUo5S2hrdFl3WC1vOUd5aXgya0lR?oc=5",
+          "title": "They finally had their dream food truck. Then it was repossessed",
+          "title_ko": "드디어 꿈에 그리던 푸드트럭이 생겼습니다. 그러다가 회수됐어요",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRG55QjhfSHY3S3ZZRjZ6ZlVKdEdzekNGN3A0WFVTRDJiR3VReUdsN0ZzaHJrX3BQbXFvLVplU0lQLVJ6R1dhTHRNU1pGaWxIRzI0UW9sNGU0a1BlZnZ5SnJlRnNVMFdTYUdfU3lBOFI2ZlpNb1pheERKV0E1bEtVVUNVY1lUYllPY09JQkJxWk1ieXlZQWYtWUMtckpuQkl0?oc=5",
           "source": "CBC",
-          "published": "2026-11-19T18:45:14Z"
+          "published": "2026-11-20T15:27:17Z"
         },
         {
-          "title": "'We could have been dead,' says tenant who escaped Cape Breton building collapse",
-          "title_ko": "케이프브레턴 건물 붕괴 탈출한 세입자 \"우리는 죽었을 수도 있다\"",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYl9qLTJNLThWbXR4RzRZLUNzTVVvVE5IcHplTk5RLUE0Zjdsb0NrNDhZMmxmS245RDVzY0hELTZ1OG1VQnI1ZldxcVpmOXliSkVVcXlNRWpQS3EzWEZCRXR0NTBJX2JJaThOcG9WV1JnSFVDaTFVZ28zV01VTFpuaEpHYllFcnBhQnFVc3Z4QzRub0xjX2JsZUtTTQ?oc=5",
-          "source": "CBC",
-          "published": "2026-11-19T20:30:12Z"
+          "title": "Lorne Doerkson sworn in as B.C. Premier, unveils pared-down cabinet",
+          "title_ko": "Lorne Doerkson 브리티시 컬럼비아 총리로 취임, 축소된 내각 공개",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDF1a21acXZCTF9FS3M3REVaVU1VWENxMzdvLWxQTXY1VXZmbUVXSWdrbWlzc1VVUHk3cmRNTVZ0SHdaNEZOdG5jQmc4bEJYcG1HQ1phV0ZqUUdtOUN6UGFnWXNWUjM1T3hkQlJWUHFzS0xtc2FPZjZkSzU5NTZoTTBxclFBck96MHhSakhGeGhWOHdVNmN3?oc=5",
+          "source": "The Globe and Mail",
+          "published": "2026-11-20T19:05:21Z"
         },
         {
-          "title": "Winnipeg homicide suspect tops list of Canada’s top 25 most wanted fugitives",
-          "title_ko": "위니펙 살인 용의자는 캐나다에서 가장 수배된 도망자 25명 중 1위를 차지했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVEZvOWYzdmZ0a3BMR1dIeEluQlpKSzdnZnRPSVZZSEFnZ2xQUnR0V0lzR05vTFNKUktEbmRsUmV0enp4WF9DbUdiWlE1Y1o0RkZuZVJXSFBJOW40aXpmU0FZcXpMR2ZHdlRmeTF0U2NRWFhyMWxNX0RaS0pta21uSU1aaXpBX1ZHb0I2RXFwU0V0R1c3SDNrMk80V0xFSFNTbm5YRGFsSVphQkFLM3VwYnpvUjI2Mk0?oc=5",
+          "title": "Trump trade adviser hurls insults at federal government as Canada-U.S. trade talks heat up",
+          "title_ko": "트럼프 무역 고문, 캐나다-미국 무역 협상이 뜨거워지면서 연방 정부에 모욕",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWVVaW5MbVlub25ONzJYOUVrQUdhZ3hVeHlZOFhUZjlGaXc5amdubndCNVJqb2FsbDc1Y3FSRXJxUVVtVC1EZF9RUHByMVBVVVpETng2Z0RvclZfRFVTZk0tMkZDYmR1cDVTcmFmSWVYYzFaOWtybzdESGhTX0F1R2dTSHpBMi1LSW9NT2N6Um5wNFFZdkZRUW53d2Y5Y2RULUw1b2RFUk9Pd2dDbnhmTkJaNHJWb2g4aF9KbFUxSVhhRnUwRXFvZw?oc=5",
           "source": "CTV News",
-          "published": "2026-11-19T16:27:48Z"
+          "published": "2026-11-20T14:49:54Z"
         }
       ]
     }
