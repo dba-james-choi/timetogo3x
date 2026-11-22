@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-21T20:17:59Z",
+  "updated_at": "2026-11-22T20:08:06Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
-          "title": "Victoria BC Transit workers plan 1-day strike as negotiations stall",
-          "title_ko": "BC주 빅토리아 교통국 직원, 협상 중단에 하루 파업 계획",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXJ3MHk0aTdkUWl4MngwU0hLM0hoZ2ZnV2M3OXhlSGpQaVpqRThIUWpBamh2TnB4dkFQcHJsejd5cldJb3Z4X2ZmdExrLVYxcUFkYnlVenVCa18yMk1LeVFTcE56NTVETXFrN3ZpTkl6LUdNaXdyUDd0R2RHcGtsUDdKY3hDSTNkODRxVEoyTVlORTVSZThVd0h1Skd6bWx1bFFCV0Z3?oc=5",
+          "title": "BC Hydro bringing 3 electric-vehicle chargers to Brentwood Bay",
+          "title_ko": "BC Hydro, 브렌트우드 베이에 전기자동차 충전기 3대 설치",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZV9EVUE4T21TSUhDVDhIN0lWTEV4N3RDSGJqT1ZzNGRvdlVaY0tMR0Z4a2pEcl83cXJtcmdsRUlfazJOSjhhODY1QjVMenl6X3FzS2JOd2tCUGdTTVJZSHEtU3IwSjBlYTdRbTNxREdPZmFlT0dTZXJncE1ZWnI0dE5jU05GMWFSRUh6VGtCMm5rYWdWMmpnWjVaUm80Szg?oc=5",
           "source": "Saanich News",
-          "published": "2026-11-20T23:12:03Z"
+          "published": "2026-11-22T17:01:18Z"
         },
         {
           "title": "Moulting elephant seal shows up behind movie theatre in Saanich",
@@ -31,31 +31,38 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Greater Victoria bus drivers plan one-day full-scale strike for next Friday",
-          "title_ko": "광역 빅토리아 버스 운전사, 다음주 금요일 하루 전면 파업 계획",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSVJtS21seGM1OWZXb29fQ2hDcEhFRnJTZHlwRUhGeDE2aHQtcGxYMGF2bF95T0V4QXVVZS12TmlEVzRXc29BMVhrTjByVnlXbGVCNHp3RnBhQmNoS0d5c0Fsa1JnNXhoZ2Y5VUN6RmhHa2t6YUdkMTNFanFtSW9xY1BsdS1HSFkyQnJmdlNLRFRYOEF6b2NWVGJqM3A3ZE9Odldmd1FpOXBlZ0tKSGI2SkdpZkxEc2VwT3NLbDY3d3ViLU0?oc=5",
-          "source": "Times Colonist",
-          "published": "2026-11-21T11:59:00Z"
-        },
-        {
-          "title": "BC Transit union announces system-wide strike in Greater Victoria on Nov. 27",
-          "title_ko": "BC 교통 노조, 11월 27일 광역 빅토리아에서 시스템 전반에 걸친 파업 발표",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHJIeE1hSVlPNmlZSE5rV1FIZEtKRW1HMXpXNlZ4anJHWk9uUk1KSlRaWTEzaUhpbnBqNFZkMUw0clRJV3BnaERYWjFGMlpkaGQyNEpIVHdPcXlzWFNkWWxrZDZTQWIwazFoMnZHRjBGb0E5REQ0WFFySTBsREhDUU1wS1N2Ny1DQkNXSnB2R193OTExZ2E5LUEwaldndUpadkJ4WWtDNA?oc=5",
-          "source": "CHEK News",
-          "published": "2026-11-20T23:39:13Z"
-        },
-        {
           "title": "Victoria transit workers to walk off the job November 27 as BC Transit refuses arbitration",
           "title_ko": "BC 트랜짓이 중재를 거부함에 따라 빅토리아 트랜짓 직원들은 11월 27일 직장을 그만둔다",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkw1VnlsM0hDNUhZMEZ3Z1E1bVhnNlQ2UmxXb19rakxVay1USFMyMS1abHIweTRpTG1MOVktLUJwV09GeTcxNTdqV09BYXFRSmQyeUxBbTV1Y0FpV296UEtaN2JUZzhhdlNRU0RLWThCOUc4UnZOdkZuRE1SVmpmLTZyVlV3eVh0SENFTXdWNFpselg1VHIwdnFIM25UTGRlV2s2VFd6a0JscWJOLTh6TFRyZw?oc=5",
           "source": "Unifor National",
           "published": "2026-11-20T21:56:48Z"
+        },
+        {
+          "title": "Greater Victoria bus drivers plan one-day full-scale strike for next Friday",
+          "title_ko": "광역 빅토리아 버스 운전사, 다음주 금요일 하루 전면 파업 계획",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSVJtS21seGM1OWZXb29fQ2hDcEhFRnJTZHlwRUhGeDE2aHQtcGxYMGF2bF95T0V4QXVVZS12TmlEVzRXc29BMVhrTjByVnlXbGVCNHp3RnBhQmNoS0d5c0Fsa1JnNXhoZ2Y5VUN6RmhHa2t6YUdkMTNFanFtSW9xY1BsdS1HSFkyQnJmdlNLRFRYOEF6b2NWVGJqM3A3ZE9Odldmd1FpOXBlZ0tKSGI2SkdpZkxEc2VwT3NLbDY3d3ViLU0?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-11-22T00:50:56Z"
+        },
+        {
+          "title": "Victoria BC Transit workers plan 1-day strike as negotiations stall",
+          "title_ko": "BC주 빅토리아 교통국 직원, 협상 중단에 하루 파업 계획",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM3JmMGpieFVDYW4xN3BfeENBZGswcHNrRHNiOEpxREFqaTFLSlkxOXFBcFdoRVlwRmVOQ2xYNU1zY1d4Ymx4TVE4Zy1HdWRtRzYxX0MyaDFXWEl0Zi1CWTRvUDhiVV9tY1JDeXdDa3l1TFFsVXJVNVRCMEJGV2U5Mm9SUTRKZ1NZWXlGOEtwNWoxd2JOMkNGOHdaMXZlZ2N6?oc=5",
+          "source": "Victoria News",
+          "published": "2026-11-20T23:11:49Z"
         }
       ]
     },
     "vancouver": {
       "label": "Vancouver",
       "articles": [
+        {
+          "title": "Vancouver's Little Mountain Neighbourhood House opens at new location 3 years after destructive fire",
+          "title_ko": "밴쿠버의 Little Mountain Neighborhood House는 파괴적인 화재 이후 3년 만에 새로운 장소에 문을 열었습니다.",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUWloc1MtbmhVQktGdVdWc05NcDZzV3NWd2I5OHc2OE01dGxKbS1XZUk2N2pINUstYnY2cmE2cE5uTmt6cnE4dU1Ic2JlVGRfS1l4ZWRROF9ZQXo0TlRCbjBobVY0RVRJSFFtcEFzMjZvNXVzb2tqdjVjMFZpaTVoa2c1SU9fbmVOOTYzZ0N2OHRlendvbGVTaWU3cVY3ZjVNc2l0alJR?oc=5",
+          "source": "CBC",
+          "published": "2026-11-21T21:50:45Z"
+        },
         {
           "title": "Downtown Eastside housing workers resist B.C. non-profit’s facial recognition plans",
           "title_ko": "다운타운 이스트사이드 주택 근로자들은 브리티시 컬럼비아 비영리 단체의 안면 인식 계획에 반대합니다.",
@@ -64,18 +71,11 @@
           "published": "2026-11-21T14:17:24Z"
         },
         {
-          "title": "Vancouver Indigenous Fashion Week tightens security after 2025 incident",
-          "title_ko": "밴쿠버 원주민 패션 위크, 2025년 사건 이후 보안 강화",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSDFkX1ZFQ3puTHFyZ0lnRmtUdFpPZ0ZBRzJIUzYydHdyNjFoRGk3WTNkamtieGVCa2F4Qm16ZmRWcGJKV2dUejJPY2xGWk5aNjk4Y3ZISjVRRnBla0Y0U0h0NkYzYk9BeU00SEFTTUNkUnhHejN6R2hidTR3eW93dURZRndLaWFUZWZFTUxPYWVCay1IRmZaQ0RqMEwtY0pHZGUydUpVYkYxV21t?oc=5",
-          "source": "CBC",
-          "published": "2026-11-21T01:00:00Z"
-        },
-        {
-          "title": "Discover a magical Santa Claus parade, epic waterfront displays in this B.C. city",
-          "title_ko": "브리티시컬럼비아주 이 도시에서 마법 같은 산타클로스 퍼레이드와 멋진 해안가 전시를 만나보세요.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTklsZDJyZzhWZEZwd2RVelhablJIbVlPZ01WV2tzd3hFUk1xZEFySlJlS2pyWGt6ZG1BeGpOX1dtZEJiU1RxdWtKSzFaYy1hZGhfQkJJdHlmWWsyZzEyNzlFLXBBdWRSNmtKMDVDWWZ5eDlOcDdTNDV0dFJoX3hUdFVkY1BpQkdyaEwwbmxqZHJYQzBEREc1X1VGbVhHVTVuRzRn?oc=5",
-          "source": "North Shore News",
-          "published": "2026-11-20T22:15:00Z"
+          "title": "B.C. tribunal orders WestJet to pay $2,000 over flight delay",
+          "title_ko": "브리티시 컬럼비아 재판소, WestJet에 항공편 지연에 대해 2,000달러 지불 명령",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0JGQU5BY0N1VkVFUzlodmdMc01MaXNkNHc3RzBfNEhjM21iV3N3Uk1ueVFvSGdmNi15a2VzMDladncxX2JxM2NwODVzbkJ5VzI2aWZUdFZvZmJHTlMyT1RINmZ4NU9xcUE4V0NtZ2Y3Yml0OGIzX2Z6YnpJNk9XQ2NLdjhrUXAwSUttcDlQblk1RGhITS11UUZaUklBWkE?oc=5",
+          "source": "CTV News",
+          "published": "2026-11-21T21:57:54Z"
         }
       ]
     },
@@ -83,25 +83,25 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Hegseth reportedly moves to restrict defence ties with Canada, but Ottawa sees no change",
-          "title_ko": "Hegseth는 캐나다와의 국방 관계를 제한하려는 움직임을 보였지만 오타와는 아무런 변화도 보지 못했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3VaVTRJN0JLcl9ZRHhiZkRQSUc3TmJwaGVpTHpBX2dNM1cyQnVZNl9UWVFQTEY4WVZNbW4wa1ctMmV3SVZSMWR2MWVtNDVWX2drblNETEZGZXZoZ0N6M1dkQ0ZjSWJ3ZEs4SEJ3ckJlTmhueUxFVkk2LTdPMkh6MmpHMnFocS1WMkE?oc=5",
-          "source": "CBC",
-          "published": "2026-11-21T17:39:29Z"
+          "title": "Suspended Vancouver police officer accused of theft and fraud has pay discontinued",
+          "title_ko": "절도 및 사기 혐의로 정직된 밴쿠버 경찰관의 급여가 중단되었습니다",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdUdHZkE2b1h4NVBaelI0MGpGZkNSeXpOdms0WUhjU2lMM1daYkwyNkEzMlV1SFpxUnFqbFNkeU5RbU9YTVhaQk1PY3Y5Z0c4Uk5GSnpuMGhFTFRBTF8ySzhwNVJ0WnhKNUhhbU40MGZKOXZad1VZeTRTMnJDUmRXRnUwYS0wRDRqT0U2SDdpaUZtMUNlMFpra0poMVdqVlJ4SDBueVpkVlp3YlFMZWFmUmZBUlVqLU9RbUhxdjBxTDhRQQ?oc=5",
+          "source": "CTV News",
+          "published": "2026-11-21T19:45:15Z"
         },
         {
-          "title": "Ontario Liberals to name new leader after weeks of voting",
-          "title_ko": "온타리오 자유당, 몇 주 간의 투표 후 새 지도자 지명",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxNUN4OUJPWUN4THFjSjVnUWJlVGczQ001bTlKaXBqLU95UVc2ZG5iZTlza0xfbktHWmxNNDVvSC1XMll6QTRzUmJfcFBKdFJLcGpNVmJJb2FiLWlKNy1paFBwc0lZalpYOG1Ybl9mTlA0UQ?oc=5",
-          "source": "Global News",
-          "published": "2026-11-21T15:13:02Z"
+          "title": "Ontario Liberals choose Navdeep Bains as new leader",
+          "title_ko": "온타리오 자유당은 Navdeep Bains를 새로운 지도자로 선택했습니다.",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUtla3haYUdDOHJpSDFMbjM1ZnA3R1k2TTRoXzBEZWNFME93Zjlka2d3aTFvaWdEcmU5dEUwOXVwTFNwNnZITlhpVzBjTXBiUm5YNjdEcjZ3ZHdJSURySlQ4dDVTM1JaMG9ZblE3eXlPa3FoZWZJWkpzd2o0aUpwbFNXdHA3RnpRYmQ1Q0w3SFhROTR4SWgzbVd3?oc=5",
+          "source": "The Globe and Mail",
+          "published": "2026-11-21T21:42:51Z"
         },
         {
-          "title": "Montreal police arrest 2 ex-officers for alleged assault, criminal harassment, breach of trust",
-          "title_ko": "몬트리올 경찰, 폭행, 범죄적 괴롭힘, 배임 혐의로 전직 경찰관 2명 체포",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ19PZ05JQ2Y0ZTYtYkZNYjYtcHdLdHU5eUtYX2toeDBrY2MydTExa20wTVFjTTNKRnNUWk1tUTJOQ09VMVhfS0VqXzRaVmUzakRZcENNZlNhQUNEeEx6UE1ndUlDQXRnQklHc2xtQnhEVGttYnltUTQtdEd6YXREN1ZuVmlmZVJ4d0ZuaWtMWWJuT0k?oc=5",
-          "source": "CBC",
-          "published": "2026-11-21T17:34:01Z"
+          "title": "All signs show Canada can’t meet its Paris target — here’s why Ottawa won’t admit it",
+          "title_ko": "모든 징후는 캐나다가 파리 목표를 달성할 수 없음을 보여줍니다. 오타와가 이를 인정하지 않는 이유는 다음과 같습니다.",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVjJuTDVIT1ozTFdXY1M1TUR4blFGZUxOQi1IWS1qRVpadVdqWnZIOU03SlB0dzMxVC1ReUxLbjN4VWxfak4xaXJFTnZjWHFmeUZ4TTVoYWFHdEc4YkpWVlJzYmVqYUIyOTlmOVZuZEhvREFTV1NXSzVSY3ROTUZNRUdGdGR1YzlZSVl0ZlMzeE1tSk9zdTFNUUlvUEdHTzBLdVdvR1BCMnBuUXQ0TW9fU0hQTVQ1aWtjaEQ4?oc=5",
+          "source": "CityNews Toronto",
+          "published": "2026-11-22T11:00:00Z"
         }
       ]
     }
