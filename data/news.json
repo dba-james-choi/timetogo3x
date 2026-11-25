@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-25T22:07:55Z",
+  "updated_at": "2026-11-25T22:51:54Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
           "title": "New colouring book explores the Saanich Peninsula and beyond",
-          "title_ko": null,
+          "title_ko": "새로운 색칠 공부 책은 Saanich 반도와 그 너머를 탐험합니다.",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGlNVjgxUW85Ynd2UmFOVjlRRk85cEtObXRXNW5QSEozUl81T2JkaU9WWXFtYUZqQ3h3dXpSU3dUc3VLa0xGUTRFQUt4X0JIOU4yNnNmUm91MFBXSjlmMDJhVEhienQzcjJxVzM4d1FDLVNMV0NkQS0tS1pQS3U5MHZWQXl1N28zcUU0dVh1QjdkNVotb05sY2hJbVJ2UEdCTjFYOE5ZYw?oc=5",
           "source": "Peninsula News Review",
           "published": "2026-11-25T12:47:40Z"
         },
         {
           "title": "BC Ferries worker in hospital after incident at Tsawwassen terminal",
-          "title_ko": null,
+          "title_ko": "Tsawwassen 터미널에서 사고 후 병원에 있는 BC Ferries 직원",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcW5mWndiNXdmOWRrSkN6XzUwVUdYakJ0ZTJaYkc4SFBPRzAxeHNMOENTdnc0V3djWGVnUE5iQ2tNLWVqWFZ5NGtNMWFoX0toaGZnNktCWGRhVy1abXVVdlFLbFRCa0RmaERQM1drUGQ1WjRkMFJ3dEhwLXJPc1J0dTBXTFE0UUxtajlWblhteXhaSGNncG5hTV9KODl5SUh4YVpmTDVB?oc=5",
           "source": "Saanich News",
           "published": "2026-11-25T21:15:26Z"
         },
         {
           "title": "Letters Nov. 25: Invest in Saanich; use rail corridor for bus",
-          "title_ko": null,
+          "title_ko": "11월 25일자 편지: Saanich에 투자하십시오. 버스는 철도 복도를 이용하세요",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekdUNjVDZlVKeGNkWG9fUHo1dks2d3ktNnVzakxyb1RVYkZUb0RMWnNlVDdFcnBnbGtOS2wydjNRWHpVSHZlSDJuQzZqTmtNVEpvQk1UaWNkOUk5MFB3c2JJQThjbWJ1S3Iyam0xNE1Kb2JTbjJKenpsZDdXUElUZ3hrT0VjMkhFY2FPRDEwU1hGMG1VNW95OTVhc2diV3ZONWtNYU53WVc?oc=5",
           "source": "Times Colonist",
           "published": "2026-11-25T12:15:00Z"
@@ -31,22 +31,22 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "BC Transit strike in Victoria still planned for Friday, but groups to meet Thursday",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWo3bjRNUUFMXzNVS1UxXzRjbkFDb1paYmwzYTdjRUVJY0llYzhfWnZNTFpndWFLSkY0LVA4SmJ2eEpKNGZtdEo1Zk5OUkVyVWZKeENqSmUxVm91NV91UnJwekxwcEQxdjhpYTFDVmRtQ3NGN0gxOWp1cnpjNW1INnlfTU8tMzctc1VLaEUwTG9zSFJKT3Z3Z3lWLVB3bVJ2SXlDdENrUm9QRlRVdmNTZA?oc=5",
-          "source": "CHEK News",
-          "published": "2026-11-25T16:39:40Z"
-        },
-        {
           "title": "The Essential Itinerary: Victoria , B.C.",
-          "title_ko": null,
+          "title_ko": "필수 여행 일정: 브리티시컬럼비아주 빅토리아",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTXllOXBRU3JFME5rSWJfNE4zVFRKdkg0VUhnb09aaFd6eDlmYVFTdHlWYXVJZG9PY3pPSEdKa21WWE1peGJDbXNMVXJ6WWhoVnlZUTVWN3FSMWlSMFRMNzV5VTVKYXR1aFlHdEJCR0x1cktyRkVoamx0NEd2cTBxaVB3?oc=5",
           "source": "Canadian Geographic",
           "published": "2026-11-25T21:32:06Z"
         },
         {
+          "title": "BC Transit strike in Victoria still planned for Friday, but groups to meet Thursday",
+          "title_ko": "빅토리아주 BC 교통 파업은 여전히 ​​금요일로 계획되어 있지만 단체들은 목요일에 모임을 가질 예정입니다.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWo3bjRNUUFMXzNVS1UxXzRjbkFDb1paYmwzYTdjRUVJY0llYzhfWnZNTFpndWFLSkY0LVA4SmJ2eEpKNGZtdEo1Zk5OUkVyVWZKeENqSmUxVm91NV91UnJwekxwcEQxdjhpYTFDVmRtQ3NGN0gxOWp1cnpjNW1INnlfTU8tMzctc1VLaEUwTG9zSFJKT3Z3Z3lWLVB3bVJ2SXlDdENrUm9QRlRVdmNTZA?oc=5",
+          "source": "CHEK News",
+          "published": "2026-11-25T16:39:40Z"
+        },
+        {
           "title": "Santa Claus Parade: What You Need to Know",
-          "title_ko": null,
+          "title_ko": "산타클로스 퍼레이드: 알아야 할 사항",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOHNJaktCcHotUDBLLVlnRDdhRlZUczNPMC1wOU0xcFQ1LUpvRUZyZHZoM05WMmhLQnUyV3R6ZTJLeUhGYkF5YVZTSkZwMFc3MHVxMFVDR3BYSE1qUGw5dXZVNXBOTWRHY3BnZ3VyQkFFODJKblZua3ZNTmMyVldTaE8tZEFGOVQwWVIyQg?oc=5",
           "source": "City of Victoria",
           "published": "2026-11-25T12:00:00Z"
@@ -57,25 +57,25 @@
       "label": "Vancouver",
       "articles": [
         {
+          "title": "King tides coincide with storms across coastal B.C. as evacuation alerts issued",
+          "title_ko": "대피 경보가 발령되면서 왕조는 브리티시컬럼비아 해안 전역의 폭풍과 일치합니다.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFIwRkllSFM3UFVyR2oxMGx5T3Iza3NzUW5vU2ROQXdub2lvRlowbldnQWpnOENMMU4xcG83c09mUW1xSUxjZ0NQalJ0WktIeWpycHVLVUUzY0RiNlRXTDlMYzROQUIwX3FiWC0xanZtLXdxajEzdWpjUFU3M1dKRmU3YTdsaG95eU9VVkg1Ykt3RUNJOWhVeVZYWXQ2TzFLaUNLWTVWeWtWMy12ZU8wNw?oc=5",
+          "source": "CBC",
+          "published": "2026-11-25T16:37:49Z"
+        },
+        {
           "title": "Closure of longtime Vancouver burger chain highlights growing pressures on B.C. restaurants",
-          "title_ko": null,
+          "title_ko": "오랜 밴쿠버 버거 체인의 폐쇄는 브리티시 컬럼비아 레스토랑에 대한 압박이 커지고 있음을 강조합니다.",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY1EtMUFDdE5DS0pBQ25CUzlRRC1OamVZTzROZkJaeGoyWHRVQ0hQYTE4OF8wckpWU2xGUGVoaEpNQWJVV1NkVWlPLXJvQWlkQnRxbDNBOXFRczZYNnpMclVDUDhJa2dJMUVkbmJXSkNoQXdXbEV2YV9ZYW5la1dHczlIaWw4Znh2RWMxM21yOA?oc=5",
           "source": "CBC",
           "published": "2026-11-23T03:55:00Z"
         },
         {
-          "title": "B.C. Ferries sailings at risk of cancellation Wednesday due to storm",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR2VDQWVYRkVmVmNWZ0VLUERpNW5hckZzMm5nX2JHRkVWNDhhTXRJS0ktLXA2M3picW0wSzRaT2tiZU52NEdLbElqaTBSTHB2cUJ4c0FhRXVkY2p1UGZibGFsdk9zaGNHQWsxOV82eVhHWGM0bEZsdFFvM1U1UkZiTExjOTczZUVQbzVIaTNjd2YyZEpDaDI4eGxBM09qRENCQUFvZ0ZhRFQ3YWJf?oc=5",
-          "source": "CTV News",
-          "published": "2026-11-25T20:12:19Z"
-        },
-        {
-          "title": "King tides coincide with storms across coastal B.C. as evacuation alerts issued",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFIwRkllSFM3UFVyR2oxMGx5T3Iza3NzUW5vU2ROQXdub2lvRlowbldnQWpnOENMMU4xcG83c09mUW1xSUxjZ0NQalJ0WktIeWpycHVLVUUzY0RiNlRXTDlMYzROQUIwX3FiWC0xanZtLXdxajEzdWpjUFU3M1dKRmU3YTdsaG95eU9VVkg1Ykt3RUNJOWhVeVZYWXQ2TzFLaUNLWTVWeWtWMy12ZU8wNw?oc=5",
-          "source": "CBC",
-          "published": "2026-11-25T16:37:49Z"
+          "title": "Be prepared for coastal flooding risks this week",
+          "title_ko": "이번 주 해안 홍수 위험에 대비하세요",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTFtUHByMjI1Z180anpOLWhwcXlyZTlLLVAtQWhfay1uSE5MdmpidVNjTUViQjJiWllSREdLeGpWc05PRXJxSHZwRzIxc2QwNHFkbl9LdDJCYkVqaUpPZUlGbUpyNGZYMS05cUY3NzhJR1VEaGpjWERjaW1ka21wcm1HWV9Mekh5?oc=5",
+          "source": "City of Vancouver",
+          "published": "2026-11-25T20:35:42Z"
         }
       ]
     },
@@ -83,22 +83,22 @@
       "label": "Canada",
       "articles": [
         {
-          "title": "Montreal mayor walks back 'clumsy' Kraft Dinner comment after major tax hike",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRHBWdG5IOV90QjlnR1dyWTFqcy11bEZ0cWRSVHBSTEpVb1lhaGtvcnRMUk9CQXNaUnRYaEtDSTBOYXl5cVBxOEd2cFBCckZFd3FTdlpvNzZZUjdyNGg2Wm9fRU5RdldWRFlISkw3RlE5Q3dqanc2X0s0emRmeHZ1RmdOYUVJNXZ6cUgxekZkUQ?oc=5",
+          "title": "King tides coincide with storms across coastal B.C. as evacuation alerts issued",
+          "title_ko": "대피 경보가 발령되면서 왕조는 브리티시컬럼비아 해안 전역의 폭풍과 일치합니다.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFIwRkllSFM3UFVyR2oxMGx5T3Iza3NzUW5vU2ROQXdub2lvRlowbldnQWpnOENMMU4xcG83c09mUW1xSUxjZ0NQalJ0WktIeWpycHVLVUUzY0RiNlRXTDlMYzROQUIwX3FiWC0xanZtLXdxajEzdWpjUFU3M1dKRmU3YTdsaG95eU9VVkg1Ykt3RUNJOWhVeVZYWXQ2TzFLaUNLWTVWeWtWMy12ZU8wNw?oc=5",
           "source": "CBC",
-          "published": "2026-11-25T18:57:08Z"
+          "published": "2026-11-25T16:37:49Z"
         },
         {
-          "title": "Evacuation alerts issued on Vancouver Island as weather warnings continue",
-          "title_ko": null,
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZldwT1ktOHpLNnVOdkdNTjkzcGU4VFFOcWp4SlNRSFVsdmhFcTVFbnI2OHVEWXBaSWNLM05xWTJnTDhyVHJlVUIwRmRZeXQ2TW5DX2hYblRNLTE3T3VQNmJLNmJkQVgzWXlPMGljckxoc2ZuSUt4ckkxUllQUDlUcVdqd0MtdFdmUl93UVJwSklxMVc0V0ZJQ210QUlEQjYzXzNqRA?oc=5",
-          "source": "CHEK News",
-          "published": "2026-11-25T14:36:42Z"
+          "title": "Montreal mayor walks back 'clumsy' Kraft Dinner comment after major tax hike",
+          "title_ko": "몬트리올 시장, 대규모 세금 인상 후 '서투른' 크래프트 만찬 발언 철회",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRHBWdG5IOV90QjlnR1dyWTFqcy11bEZ0cWRSVHBSTEpVb1lhaGtvcnRMUk9CQXNaUnRYaEtDSTBOYXl5cVBxOEd2cFBCckZFd3FTdlpvNzZZUjdyNGg2Wm9fRU5RdldWRFlISkw3RlE5Q3dqanc2X0s0emRmeHZ1RmdOYUVJNXZ6cUgxekZkUQ?oc=5",
+          "source": "CBC",
+          "published": "2026-11-25T22:28:57Z"
         },
         {
           "title": "Police must probe Michael Joseph Moore's life, potential links to unsolved killings: Criminologist",
-          "title_ko": null,
+          "title_ko": "경찰은 마이클 조셉 무어의 삶과 미해결 살인 사건과의 잠재적 연관성을 조사해야 합니다: 범죄학자",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMWpvR2RlYWpZbEFwZThZZGJyUW1kYmJYTGdFVHJMSEpPVzF3SHUtdXdCWlZ1UkJlaG1qT2xTRzdvZjNBMUZoYzNEUWxtczhIYkhPVFFNQ2RpWjdyY2I1VVYzTjdiU3Vuc3ItbUhMc1JsMlZqWXZUTC1XNkdkZ2U0WTBPNnlnaVgzV0t0OFo4X2EyQjE1T3FZVWdOaXQ4UndlbWtfaF9GenFEemYyZzVXaHlRWjBEZ0hMLWc5UEV3?oc=5",
           "source": "London Free Press",
           "published": "2026-11-25T13:40:59Z"
