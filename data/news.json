@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-28T20:44:24Z",
+  "updated_at": "2026-11-28T21:27:28Z",
   "sections": {
     "saanich": {
       "label": "Saanich",
       "articles": [
         {
           "title": "New colouring book explores the Saanich Peninsula and beyond",
-          "title_ko": "새로운 컬러링북은 사니치 ​​반도와 그 너머를 탐험합니다.",
+          "title_ko": null,
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGlNVjgxUW85Ynd2UmFOVjlRRk85cEtObXRXNW5QSEozUl81T2JkaU9WWXFtYUZqQ3h3dXpSU3dUc3VLa0xGUTRFQUt4X0JIOU4yNnNmUm91MFBXSjlmMDJhVEhienQzcjJxVzM4d1FDLVNMV0NkQS0tS1pQS3U5MHZWQXl1N28zcUU0dVh1QjdkNVotb05sY2hJbVJ2UEdCTjFYOE5ZYw?oc=5",
           "source": "Peninsula News Review",
           "published": "2026-11-25T12:47:40Z"
         },
         {
-          "title": "Former B.C. NDP MLA George Heyman is dead",
-          "title_ko": "전 브리티시 컬럼비아 NDP MLA 조지 헤이먼(George Heyman)이 사망했습니다.",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZjQtd2xhdU9KVFo1Ul80M1JzVkpSSGw3b2ZFZ2ZTWml0bkhxOEl4dkEyN2lRLVRJZFlPdk9maHhQTUNFY3V1WW5OWlZ2Wm5TYl8tVUdycExnYVdRZXlVRGs4TTE1MjdXbl9XZWVmeXZSTm4td3BLMVo0cG1WQkMzM253?oc=5",
-          "source": "Saanich News",
-          "published": "2026-11-28T00:14:24Z"
-        },
-        {
           "title": "New Saanich council to discuss slashing affordable housing project height and bike lane moratorium",
-          "title_ko": "저렴한 주택 프로젝트 높이 인하와 자전거 도로 유예를 논의하는 새로운 Saanich 의회",
+          "title_ko": null,
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnJDXzlSU3VVb2Nucm5obThobzZ6WnNkMTNxdnRRZmRBampXT1d3ZTZqMDlKa0owVkpUbkdsMnR6cVY2X2hsaXkzNnhYR1FMX2VyRkNBdEc1ZXNVWlNuZ1V6R2JvZmJCNmFKcC1QdnZiLU9ZUDExSVVmRG9YSXhvc1lsdkpEekRraHR3dVppNFdDYWVuMkdUblRjSHE1dXR1U3ZSYnlIWndYXzNGbU1xOXFWVEFRdmplYmRnajF5TzUtOHZWRmc?oc=5",
           "source": "CHEK News",
           "published": "2026-11-24T22:33:30Z"
+        },
+        {
+          "title": "Former B.C. NDP MLA George Heyman is dead",
+          "title_ko": null,
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZjQtd2xhdU9KVFo1Ul80M1JzVkpSSGw3b2ZFZ2ZTWml0bkhxOEl4dkEyN2lRLVRJZFlPdk9maHhQTUNFY3V1WW5OWlZ2Wm5TYl8tVUdycExnYVdRZXlVRGs4TTE1MjdXbl9XZWVmeXZSTm4td3BLMVo0cG1WQkMzM253?oc=5",
+          "source": "Saanich News",
+          "published": "2026-11-28T00:14:24Z"
         }
       ]
     },
@@ -31,25 +31,25 @@
       "label": "Victoria",
       "articles": [
         {
-          "title": "Victoria transit walkout called off as Unifor reaches tentative agreement with BC Transit",
-          "title_ko": "Unifor가 BC Transit과 잠정 합의에 도달함에 따라 빅토리아 대중교통 파업이 취소되었습니다.",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdmRDZF9pdjhJcnFkZnVVak96cDZ0dm8yMW9la001a0lUYklXUHVYeThNeFFuOHl5LXZ6VDJVbl9na3l0YVZtNTFHclVaRVQ1X2xQcVVrYnU1YkpkUzJmWG9GWGV6ZFNzWXI3VmxkdVl1ckpuQlJYem53WDJYWU9vd2duNERTSnUzTjZNNQ?oc=5",
-          "source": "Yahoo! Finance Canada",
-          "published": "2026-11-27T01:43:00Z"
-        },
-        {
-          "title": "Victoria bus strike called off, B.C. Transit announces deal",
-          "title_ko": "빅토리아주 버스 파업 취소, 브리티시컬럼비아 교통공사, 합의 발표",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEZWWnhhNzJxYU9FWjRxckl3VFZGazY2REZkRDVOZmViZmpQblB2MHRyZlV0cnVKWGtJZXNLaThWc3hucFBsSHJjbnpSVE05MmlQdXdYdTRReGthZ0gtZGFSWlZvbkVac2wzaThuT3lnXzRtMmJqbGdTVU1OODNHY1BFUjUwNDJUZVllRG9UN1pMSmd6M2FJbHJTRmV6YUppSkFidVFhYkZhWDQ?oc=5",
-          "source": "CTV News",
-          "published": "2026-11-28T01:08:00Z"
-        },
-        {
           "title": "Greater Victoria transit strike averted as tentative deal reached",
-          "title_ko": "잠정적 합의가 타결됨에 따라 광역 빅토리아 대중교통 파업은 기각되었습니다",
+          "title_ko": null,
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTdMc3BldGF6ekFrWlE1YjJuVWR5c0JLaUkzeGJXaHMzczg5dkZpX25KcklTZE5MRll6d0NrakFRYWFvdUY2TjFRWG5jVi1WTXJSNURFeno5MGJNX1lmaWdiUUFsaHVYWHNtdnlTUTlGOENlLTNOQ2I4emtkSTMtdFVzV0hTbVA1VUl3U24tN01wWE0?oc=5",
           "source": "CBC",
           "published": "2026-11-26T11:00:00Z"
+        },
+        {
+          "title": "Letters Nov. 27: Bridge or tunnel? How about housing?; Answers needed on LNG",
+          "title_ko": null,
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONWNVNEdLX3NVZjUteWtBdXN0RzFZdndNQ3ByNjFrQzdYbHZfU3BxRHViUXFOTEJPWVJyaUhnQzBjSzI4QjBMWW5xMmNKdFdmQ3RBeHBENXRmUG1INDdYSDN2T2IwdTlSVVJIVWI5LWlIWHY2RGNfd09aeDkwZlJ4UFZBS1NSdGZTRmlDWlVLVGdSbWc2WTdKU1ZKcEFOX0VqaWR2VHpiVHRxRklPXzFHU2d2U0pETkpOX0E?oc=5",
+          "source": "Times Colonist",
+          "published": "2026-11-27T12:15:00Z"
+        },
+        {
+          "title": "Santa Claus Parade: What You Need to Know",
+          "title_ko": null,
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOHNJaktCcHotUDBLLVlnRDdhRlZUczNPMC1wOU0xcFQ1LUpvRUZyZHZoM05WMmhLQnUyV3R6ZTJLeUhGYkF5YVZTSkZwMFc3MHVxMFVDR3BYSE1qUGw5dXZVNXBOTWRHY3BnZ3VyQkFFODJKblZua3ZNTmMyVldTaE8tZEFGOVQwWVIyQg?oc=5",
+          "source": "City of Victoria",
+          "published": "2026-11-25T12:00:00Z"
         }
       ]
     },
@@ -58,21 +58,21 @@
       "articles": [
         {
           "title": "Pedestrian killed in crash involving off-duty Vancouver police officer",
-          "title_ko": "비번인 밴쿠버 경찰과 충돌로 보행자 사망",
+          "title_ko": null,
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmhxUUdBQTlSZXUzc2p1bng2ck5xTzl0MFdTeTctU2JSSXRSbkJhQkdOdXRpYnBSVmZFQ3l0N0lobzhQY2dqN3ZWU28xaUxDM3hqR3pid3B3c1A5R3Fid1Z1UC04cmJwMV91RzEwMDNTajhKcVl3UkVvLW45SnhJYkw1d2poTHRUeDlBclRqR00zXzY3QVpqTE52Q1haakQxb0NsdjhldHA?oc=5",
           "source": "CBC",
           "published": "2026-11-27T23:58:50Z"
         },
         {
           "title": "Driver killed after hitting hydro pole in East Vancouver, police watchdog investigating",
-          "title_ko": "이스트밴쿠버에서 수중극 충돌 후 운전자 사망, 경찰 감시단 조사 중",
+          "title_ko": null,
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUENFWmNnV1NrV0U0S1VpLW9nLXYtRUZlYXhCa1Y3bkl4dUJxX3VCWE5pSGU4cHFnVktORmZXREVwR09fSElFNEg1ckdubVJucjFTdlRIMFp4cGlIdU5zNGhMeS1wbkJkUFhjWHgyWGNIakpXa2JFS0Vnd2VaWkpFdTRMbWdSTExYTmstMkhyN2k1a0c3LTlEaHk3b1g3S25FamQtRkhn?oc=5",
           "source": "CBC",
           "published": "2026-11-28T20:06:47Z"
         },
         {
           "title": "B.C.’s Independent Investigations Office notified after deadly East Vancouver crash",
-          "title_ko": "브리티시 컬럼비아 독립 조사국(Independent Investigations Office)은 치명적인 이스트 밴쿠버 충돌 사고 이후 통보를 받았습니다.",
+          "title_ko": null,
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZlZBdEtPU3JTTjhEcC0yM3VlZk45Y0dlTjVDZkt4QkVTV0hkaGtPal9KX2txSjJMUy1QRk02LWxvSWk4eGFyMV83Y2owQjY1LUJvcFNNVjBfejZqZnFRUUx3anNnOUZQUGZGdGN4dGFPWHl1R0E5UGxVV240YkZOUnhJUGtvcGM5QWN0R3lac2tPSWlPSFZQcTdNMXJBTmtJcVRrbl95TUhsSU5fMFgwcnBfaEhla3RIV01YckZR?oc=5",
           "source": "NanaimoNewsNOW",
           "published": "2026-11-28T19:26:34Z"
@@ -84,21 +84,21 @@
       "articles": [
         {
           "title": "Danielle Smith warns of party fracture in speech to UCP received by cheers and boos",
-          "title_ko": "다니엘 스미스(Danielle Smith)는 환호와 야유를 받은 UCP 연설에서 정당 분열을 경고했습니다.",
+          "title_ko": null,
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlFoekJHNEJCcUJZR1dyak9YU2UzSmpDWno2YjVaWmRrYXF3alE0Z0xucVROSVBLNjdqS1FJdjNSSEQzQm0yMDNBVGZGMTFsb2RJRDJKZEpnclRpNW92T3RRZ24wS0kzQzRJVV91M3ZMSDhLbnJFMFY4WFpPaDBpUUpQVE5hWDBOQ1RoNy1sRk1DS0ROT3Q1U1FpbDlCb1k?oc=5",
           "source": "CBC",
           "published": "2026-11-28T19:53:36Z"
         },
         {
-          "title": "Plamondon condemns Kinew for calling Bill 21 ‘legislative racism’",
-          "title_ko": "Plamondon은 Bill 21을 '입법적 인종차별'이라고 부르는 Kinew를 비난합니다.",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqbWpfalBkMW1rUDRKVVhaMWNjQmFYemRnaThjRlFRMGFwRng2MHFLcmkyNDgwM3NIR2NkT0RJNlZwVjdWcDRxTEw3b1JVMllHS2JRTEhfOWR1WjAxazNEUnVXUnF4RXRCRkNuVg?oc=5",
-          "source": "Global News",
-          "published": "2026-11-28T16:57:18Z"
+          "title": "Quebec premier calls on Manitoba’s Wab Kinew to retract Bill 21 remarks",
+          "title_ko": null,
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbFBiZy0tMTF4Y1NpZk8yZUJlM2tFbm5BTTN6Y0prcmxGSmpZSjB1WTc0TURqTFptLUtBb1FLTGE2N3U5WEZTZmQ4LV93S082alFrZ0RreTdwQkZFYUN5VzdwOC1mdEpGb3pvcVBaZ2d2elVzVU0wOHBxeXcyTTVfQklfU01rT0pFU1BBa2RIVWIwM1pnZWxORW5HWkViLWFEMGJr?oc=5",
+          "source": "CTV News",
+          "published": "2026-11-28T19:43:50Z"
         },
         {
           "title": "Barrie, Ont., motorcade honours 5th fallen soldier who died in CFB Wainwright fire",
-          "title_ko": "온타리오주 배리에서는 CFB 웨인라이트 화재로 사망한 5번째 전사자를 추모했습니다.",
+          "title_ko": null,
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlhFa0hLR1JDc24xY2ZQZ1FWemlYMVRwSXFBa252ZHVzLUhjTVBZenlCQnhZWkl3UVVEZVVRTjBHdWlwU3FrLU9XS2Y3RUZOZWE0UXJRNGluSnJNLUdZLURSTnlxQ1FQT09xSWR5dGJUdnF3MkY0ZV93QkdHMEx2MmR0MVhORXNnNW9mN2dBUzhBVl9QOUViMHZZRFZmb0ozWUh5MU5uRkM0NXFaclNXa0NyeW5aTjljREtsMjRnOEZfUQ?oc=5",
           "source": "CP24",
           "published": "2026-11-28T13:43:49Z"
